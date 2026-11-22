@@ -829,7 +829,7 @@ async function cargarMensajes() {
     mensajesActuales = lista;
     renderMensajes(lista);
     renderDocumentos(lista);
-    procesarUbicaciones(lista);
+    void procesarUbicaciones(lista);
     renderProtocolo();
     renderCronologico();
     $id("CHAT_STATUS").textContent = "Sincronizado " + horaCorta();
@@ -914,7 +914,7 @@ function renderMensaje(m) {
   if (m.tieneArchivo) renderAdjunto(m, bubble);
 
   // Chip de ubicación para mensajes "Mensaje General" con enlace de Google Maps.
-  if (!esSistema && esMensajeGeneral(m.categoria) && enlacesGoogle(textoMensaje).length) {
+  if (!esSistema && enlacesGoogle(textoMensaje).length) {
     const chip = el("div", "fm-ubicacion-chip");
     chip.appendChild(el("span", "", "Identificando ubicación…"));
     bubble.appendChild(chip);
@@ -1192,6 +1192,8 @@ let mapaFiltroArea = "";
 let mapaMostrarRecorrido = false;
 let mapaChips = new Map();
 let procesandoUbicaciones = false;
+let marcadoresCargadosServicio = null;
+const marcadoresEnGuardado = new Set();
 
 function esMensajeGeneral(categoria) {
   const c = String(categoria || "").trim().toLowerCase();
@@ -1207,20 +1209,27 @@ function enlacesGoogle(texto) {
 }
 
 function parsearCoordenadas(url) {
+  // Solo interpretar coordenadas explícitas de Google Maps; no seguir enlaces externos.
   try {
     const u = new URL(url);
-    const q = u.searchParams.get("q") || u.searchParams.get("query") || "";
-    if (q) {
-      const m = q.match(/^(-?\d{1,2}(?:\.\d+)?)\s*,\s*(-?\d{1,3}(?:\.\d+)?)$/);
-      if (m) {
-        const lat = parseFloat(m[1]), lon = parseFloat(m[2]);
-        if (Number.isFinite(lat) && Number.isFinite(lon) && lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180) {
-          return { lat, lon };
-        }
-      }
+    const host = u.hostname.toLowerCase();
+    if (u.protocol !== "https:" || !(host === "google.com" || host.endsWith(".google.com") || host === "google.com.mx" || host.endsWith(".google.com.mx"))) return null;
+    const validar = (a, b) => {
+      const lat = Number(a), lon = Number(b);
+      return Number.isFinite(lat) && Number.isFinite(lon) && Math.abs(lat) <= 90 && Math.abs(lon) <= 180 ? { lat, lon } : null;
+    };
+    for (const campo of ["q", "query", "ll", "center", "destination", "daddr", "saddr"]) {
+      const m = (u.searchParams.get(campo) || "").match(/^\s*(-?\d+(?:\.\d+)?)\s*,\s*(-?\d+(?:\.\d+)?)\s*$/);
+      if (m) return validar(m[1], m[2]);
     }
-  } catch (e) {}
-  return null;
+    const ruta = decodeURIComponent(u.pathname);
+    const at = ruta.match(/@(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)/);
+    if (at) return validar(at[1], at[2]);
+    const pb = ruta.match(/!3d(-?\d+(?:\.\d+)?)!4d(-?\d+(?:\.\d+)?)/);
+    if (pb) return validar(pb[1], pb[2]);
+    const place = ruta.match(/\/place\/(-?\d+(?:\.\d+)?),(-?\d+(?:\.\d+)?)(?:\/|$)/);
+    return place ? validar(place[1], place[2]) : null;
+  } catch (_) { return null; }
 }
 
 function tituloDeMensaje(texto) {
@@ -1400,56 +1409,100 @@ function alternarFullscreen() {
   setTimeout(() => { if (mapaLeaflet) mapaLeaflet.invalidateSize(); }, 150);
 }
 
+// Los marcadores persistidos son la fuente de verdad compartida entre perfiles.
+// La carga se ejecuta una vez por servicio y no duplica pines por enlace.
+async function cargarMarcadoresPersistidos(servicioId) {
+  if (marcadoresCargadosServicio === servicioId) return;
+  const respuesta = await WixApi.marcadores(servicioId);
+  if (servicioIdActual !== servicioId) return;
+  const registros = Array.isArray(respuesta?.data) ? respuesta.data : (respuesta?.data?.marcadores || []);
+  for (const m of registros) {
+    const lat = Number(m.latitud), lon = Number(m.longitud);
+    if (!Number.isFinite(lat) || !Number.isFinite(lon) || Math.abs(lat) > 90 || Math.abs(lon) > 180) continue;
+    const id = "cms:" + (m._id || m.marcadorId || `${lat}:${lon}:${m.urlOriginal || ""}`);
+    if (mapaMarcadorPorId.has(id)) continue;
+    const u = { id, lat, lon, area: m.departamento || m.autor || "SISTEMA",
+      usuario: textoDe(m.autor || m.departamento), folio: m.folio || folioActual,
+      mensaje: m.notas || m.titulo || "Ubicación compartida",
+      fecha: fechaHora(m.fechaRegistro), url: m.urlOriginal || `https://www.google.com/maps?q=${lat},${lon}` };
+    mapaMarcadores.push(u);
+    mapaMarcadorPorId.set(id, u);
+    crearMarcador(u);
+  }
+  marcadoresCargadosServicio = servicioId;
+}
+
 async function procesarUbicaciones(lista) {
   if (!servicioIdActual || !mapaLeaflet || procesandoUbicaciones) return;
   procesandoUbicaciones = true;
+  const sid = servicioIdActual;
   try {
+    try { await cargarMarcadoresPersistidos(sid); }
+    catch (e) { console.warn("SESPATE mapa: no se pudieron consultar marcadores", e.message); }
+    if (servicioIdActual !== sid) return;
     const mensajes = Array.isArray(lista) ? lista : [];
     for (const m of mensajes) {
-      if (!esMensajeGeneral(m.categoria)) continue;
-      const enlaces = enlacesGoogle(m.mensaje || m.contenido || m.texto || "");
+      if (servicioIdActual !== sid) return;
+      const contenido = m.mensaje || m.contenido || m.texto || "";
+      const enlaces = enlacesGoogle(contenido);
       if (!enlaces.length) continue;
       const mensajeId = m.mensajeId || m.id || m._id || "";
       for (let i = 0; i < enlaces.length; i++) {
         const clave = claveUbicacion(mensajeId, i);
         if (mapaMarcadorPorId.has(clave)) continue;
-        await resolverYAgregar(clave, enlaces[i], m, mensajeId);
+        await resolverYAgregar(clave, enlaces[i], m, mensajeId, sid);
       }
     }
     actualizarMapaInfo();
     centrarTodas();
-  } finally {
-    procesandoUbicaciones = false;
-  }
+  } finally { procesandoUbicaciones = false; }
 }
 
-async function resolverYAgregar(clave, url, m, mensajeId) {
+async function resolverYAgregar(clave, url, m, mensajeId, sid) {
   let coord = parsearCoordenadas(url);
   if (!coord) {
-    const cacheClave = servicioIdActual + "|" + mensajeId + "|" + url;
-    if (mapaCache.has(cacheClave)) {
-      coord = mapaCache.get(cacheClave) || null;
-    } else {
+    const cacheClave = sid + "|" + mensajeId + "|" + url;
+    if (mapaCache.has(cacheClave)) coord = mapaCache.get(cacheClave);
+    else {
       try {
-        const r = await WixApi.resolverUbicacion(servicioIdActual, mensajeId, url);
+        const r = await WixApi.resolverUbicacion(sid, mensajeId, url);
         const d = r?.data || {};
-        if (d && d.resuelto && Number.isFinite(d.latitud) && Number.isFinite(d.longitud)) {
-          coord = { lat: d.latitud, lon: d.longitud };
-          mapaCache.set(cacheClave, coord);
-        } else { mapaCache.set(cacheClave, null); }
-      } catch (e) { mapaCache.set(cacheClave, null); }
+        coord = d.resuelto && Number.isFinite(d.latitud) && Number.isFinite(d.longitud)
+          ? { lat: d.latitud, lon: d.longitud } : null;
+        mapaCache.set(cacheClave, coord);
+      } catch (_) { mapaCache.set(cacheClave, null); }
     }
   }
-  if (coord) {
-    const u = { id: clave, lat: coord.lat, lon: coord.lon, area: m.area || m.Area || "SISTEMA",
-      usuario: textoDe(m.usuario || m.user || ""), folio: folioActual, mensaje: m.mensaje || "",
-      fecha: fechaHora(m.fechaEnvio || m.fecha || m.fechaServidor), url: url, mensajeId };
+  if (servicioIdActual !== sid) return;
+  if (!coord) { marcarChip(mensajeId, "no_resuelto", url); return; }
+
+  // Evitar duplicados entre mensajes y marcadores CMS ya guardados.
+  const yaGuardado = mapaMarcadores.find(x => x.url === url && x.id.startsWith("cms:"));
+  if (yaGuardado) { mapaMarcadorPorId.set(clave, yaGuardado); marcarChip(mensajeId, "ubicacion", url); return; }
+
+  const u = { id: clave, lat: coord.lat, lon: coord.lon,
+    area: m.area || m.departamento || m.Area || "SISTEMA",
+    usuario: textoDe(m.usuario || m.remitente || m.user || m.departamento || ""),
+    folio: folioActual, mensaje: m.mensaje || m.contenido || m.texto || "",
+    fecha: fechaHora(m.fechaEnvio || m.fecha || m.fechaServidor), url, mensajeId };
+
+  // La persistencia se confirma antes de mostrar éxito; no repetir si falla.
+  const guardadoClave = sid + "|" + url;
+  if (marcadoresEnGuardado.has(guardadoClave)) return;
+  marcadoresEnGuardado.add(guardadoClave);
+  try {
+    await WixApi.crearMarcador({ servicio: sid, folio: folioActual,
+      latitud: coord.lat, longitud: coord.lon,
+      titulo: tituloDeMensaje(u.mensaje), notas: u.mensaje,
+      urlOriginal: url, tipoMarcador: "UBICACION" });
+    if (servicioIdActual !== sid) return;
     mapaMarcadores.push(u);
     mapaMarcadorPorId.set(clave, u);
     crearMarcador(u);
     marcarChip(mensajeId, "ubicacion", url);
-  } else {
-    marcarChip(mensajeId, "no_resuelto", url);
+  } catch (e) {
+    console.warn("SESPATE mapa: no se confirmó el guardado del marcador", e.message);
+    marcarChip(mensajeId, "no_guardado", url);
   }
 }
 
