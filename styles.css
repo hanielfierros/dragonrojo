@@ -1,0 +1,82 @@
+/* ============================================================
+   SECURITYTRANS — Design tokens y tema dual (claro/oscuro)
+   Grayscale principal (estilo Oracle APEX Universal Theme)
+   ============================================================ */
+
+:root {
+  --color-background: #F7F7F7;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #F2F2F2;
+  --color-text: #202020;
+  --color-text-secondary: #707070;
+  --color-border: #D9D9D9;
+  --color-primary: #24476A;
+  --color-primary-contrast: #FFFFFF;
+  --color-warning: #B45309;
+  --color-success: #176B65;
+  --color-danger: #B91C1C;
+  --color-info: #24476A;
+  --chart-grid: #D9D9D9;
+  --chart-text: #707070;
+  --color-simulado: #6B46A1;
+  --color-pendiente: #B45309;
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.06);
+  --radius: 8px;
+}
+
+[data-theme="dark"] {
+  --color-background: #1A1A1A;
+  --color-surface: #242424;
+  --color-surface-alt: #2C2C2C;
+  --color-text: #EEEEEE;
+  --color-text-secondary: #9E9E9E;
+  --color-border: #414141;
+  --color-primary: #7FA3C9;
+  --color-primary-contrast: #1A1A1A;
+  --color-warning: #E0A458;
+  --color-success: #6BB5A8;
+  --color-danger: #E08A8A;
+  --color-info: #7FA3C9;
+  --chart-grid: #414141;
+  --chart-text: #9E9E9E;
+  --color-simulado: #B79AD6;
+  --color-pendiente: #E0A458;
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+/* Evitar parpadeo de tema en carga */
+html { background: var(--color-background); }
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Aptos", "Segoe UI", Calibri, system-ui, -apple-system, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--color-primary); }
+button { font-family: inherit; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+}
+
+/* Selector de tema común */
+.theme-toggle {
+  display: inline-flex; align-items: center; gap: 6px;
+  background: transparent; color: var(--color-text);
+  border: 1px solid var(--color-border); border-radius: 999px;
+  padding: 6px 14px; cursor: pointer; font-size: 13px;
+}
+.theme-toggle:hover { background: var(--color-surface-alt); }
+.theme-toggle:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}

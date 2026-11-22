@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="description" content="FILE MANAGEMENT — Panel de trabajo por área SecurityTrans.">
+  <title>Panel de trabajo — FILE MANAGEMENT</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./file-management.css">
+  <link rel="stylesheet" href="./leaflet.css">
+  <script src="./theme.js"></script>
+  <script src="./leaflet.js"></script>
+</head>
+<body class="fm">
+  <header class="fm-nav" id="TOP_BAR">
+    <span class="fm-demo-banner" id="DEMO_BANNER" hidden>MODO DEMOSTRACIÓN</span>
+    <a class="brand" href="./index.html">iData<small>· PLATAFORMA DE CONTROL</small></a>
+    <span class="nav-pill" id="TOP_AREA">Área</span>
+    <span class="meta" id="TOP_USER">Usuario</span>
+    <span class="meta" id="TOP_FOLIO">Folio: —</span>
+    <span class="meta" id="TOP_STATUS">—</span>
+    <span class="spacer"></span>
+    <button class="fm-btn" type="button" id="BTN_LOGOUT">Cerrar sesión</button>
+  </header>
+
+  <main class="fm-workspace">
+    <!-- Panel izquierdo -->
+    <section class="fm-panel" id="PANEL">
+      <div class="fm-emergency" id="EMERGENCY_BOX" hidden>
+        <button class="fm-sos-btn" type="button" id="BTN_SOS" aria-label="SOS — Solicitar ayuda de emergencia">
+          <span class="fm-sos-icon" aria-hidden="true">🆘</span> SOS
+        </button>
+        <button class="fm-whatsapp-btn" type="button" id="BTN_WHATSAPP" aria-label="Contactar Policía de Proximidad por WhatsApp">
+          <span aria-hidden="true">💬</span> Policía de Proximidad
+        </button>
+        <p class="fm-emergency-status" id="SOS_STATUS" hidden></p>
+      </div>
+      <div id="PANEL_CONTENT"><p class="fm-empty">Cargando…</p></div>
+    </section>
+
+    <!-- Chat compartido -->
+    <section class="fm-chat" id="CHAT">
+      <header class="fm-chat-head">
+        <span class="avatar" id="CHAT_AVATAR">S</span>
+        <div>
+          <div class="titulo" id="CHAT_TITULO">Ventana de servicio</div>
+          <div class="sub" id="CHAT_SUB">Seleccione un servicio</div>
+        </div>
+        <span class="spacer"></span>
+        <span class="meta" id="CHAT_ESTADO"></span>
+      </header>
+
+      <div class="fm-timeline" id="TIMELINE" aria-label="Progreso del servicio"></div>
+
+      <div class="fm-messages" id="MESSAGES">
+        <p class="fm-empty" id="CHAT_EMPTY">Seleccione un servicio para consultar su conversación.</p>
+      </div>
+
+      <div class="fm-readonly" id="READONLY_BANNER" hidden>
+        Servicio cerrado. La información y los documentos están disponibles únicamente para consulta.
+      </div>
+
+      <div class="fm-composer" id="COMPOSER" hidden>
+        <div class="row">
+          <label for="CATEGORIA" class="sr-only">Categoría</label>
+          <select id="CATEGORIA"></select>
+        </div>
+        <div class="fm-attach-preview" id="ATTACH_PREVIEW" hidden></div>
+        <label for="MENSAJE" class="sr-only">Mensaje</label>
+        <textarea id="MENSAJE" placeholder="Escriba un mensaje…" rows="1"></textarea>
+        <div class="row">
+          <input type="file" id="FILE_INPUT" accept=".pdf,.jpg,.jpeg,.png,application/pdf,image/jpeg,image/png" hidden>
+          <button class="fm-icon-btn" type="button" id="BTN_ADJUNTAR" aria-label="Adjuntar archivo" title="Adjuntar archivo">📎</button>
+          <button class="fm-icon-btn" type="button" id="BTN_CAMARA" aria-label="Cámara" title="Tomar fotografía">📷</button>
+          <span class="spacer"></span>
+          <button class="fm-icon-btn send" type="button" id="BTN_ENVIAR" aria-label="Enviar">➤</button>
+        </div>
+      </div>
+
+      <p class="fm-chat-status" id="CHAT_STATUS"></p>
+    </section>
+  </main>
+
+  <!-- Mapa del servicio (ancho completo, bajo los paneles) -->
+  <section class="fm-map" id="MAP_SECTION">
+    <div class="fm-map-head">
+      <div class="fm-map-titulo">
+        <h2>MAPA DEL SERVICIO</h2>
+        <p class="sub" id="MAP_SUB">Ubicaciones reportadas · Servicio —</p>
+      </div>
+      <div class="fm-map-tools" id="MAP_TOOLS">
+        <button class="fm-btn" type="button" id="MAP_ULTIMA" aria-label="Última ubicación">Última ubicación</button>
+        <button class="fm-btn" type="button" id="MAP_TODAS" aria-label="Todas las ubicaciones">Todas las ubicaciones</button>
+        <button class="fm-btn" type="button" id="MAP_HISTORIAL" aria-label="Historial">Historial</button>
+        <label class="fm-map-filter">
+          <span class="sr-only">Filtrar por área</span>
+          <select id="MAP_FILTRO_AREA"><option value="">Todas las áreas</option></select>
+        </label>
+        <button class="fm-btn" type="button" id="MAP_RECORRIDO" aria-label="Mostrar recorrido">Mostrar recorrido</button>
+        <button class="fm-btn" type="button" id="MAP_FULLSCREEN" aria-label="Pantalla completa">Pantalla completa</button>
+      </div>
+    </div>
+    <div class="fm-map-legend" id="MAP_LEGEND"></div>
+    <div id="map"></div>
+    <div class="fm-map-historial" id="MAP_HISTORIAL_LISTA" hidden></div>
+    <p class="fm-map-nota" id="MAP_NOTA"></p>
+  </section>
+
+  <!-- Protocolo obligatorio de evidencias fotográficas -->
+  <section class="fm-card" id="PROTOCOLO_SECTION">
+    <div class="fm-map-titulo">
+      <h2>PROTOCOLO OBLIGATORIO DE EVIDENCIAS FOTOGRÁFICAS</h2>
+      <p class="sub">Evidencias con fotografía, ubicación, fecha y hora</p>
+    </div>
+    <div id="PROTOCOLO_LISTA"></div>
+    <p class="fm-map-nota">Las evidencias deben tomarse en el momento de cada actividad, con fotografía, ubicación, fecha y hora.</p>
+    <p class="fm-map-nota" style="color:var(--fm-warning)">Utiliza la cámara únicamente cuando el vehículo esté detenido en condiciones seguras. No utilices el teléfono mientras conduces.</p>
+  </section>
+
+  <!-- Perfil cronológico del servicio -->
+  <section class="fm-card" id="CRONOLOGICO_SECTION">
+    <div class="fm-map-titulo">
+      <h2>PERFIL CRONOLÓGICO DEL SERVICIO</h2>
+      <p class="sub">Eventos, evidencias y tiempos del servicio</p>
+    </div>
+    <div id="CRONOLOGICO"></div>
+  </section>
+
+  <!-- Modal SOS (simulado) -->
+  <div class="fm-modal" id="SOS_MODAL" hidden>
+    <div class="fm-modal-card" role="dialog" aria-modal="true" aria-labelledby="SOS_TITLE">
+      <h3 id="SOS_TITLE">Solicitud de emergencia (SOS)</h3>
+      <div class="fm-modal-body" id="SOS_BODY"></div>
+      <div class="fm-modal-actions">
+        <button class="fm-btn primary" type="button" id="SOS_SEND" hidden>Enviar (simulado)</button>
+        <button class="fm-btn" type="button" id="SOS_CANCEL">Cerrar</button>
+      </div>
+    </div>
+  </div>
+  <!-- Cámara del personal (getUserMedia + geolocalización) -->
+  <div class="fm-camera" id="CAMERA_MODAL" hidden>
+    <div class="fm-camera-top">
+      <span>Tomar fotografía</span>
+      <span class="spacer"></span>
+      <button class="fm-icon-btn" id="CAMERA_CLOSE" aria-label="Cerrar">✕</button>
+    </div>
+    <video id="CAMERA_VIDEO" autoplay playsinline></video>
+    <canvas id="CAMERA_CANVAS" hidden></canvas>
+    <div id="CAMERA_PREVIEW" hidden></div>
+    <div class="fm-camera-bottom">
+      <button class="fm-btn primary" id="CAMERA_SHOOT">Capturar</button>
+      <button class="fm-btn" id="CAMERA_RETAKE" hidden>Repetir fotografía</button>
+      <button class="fm-btn" id="CAMERA_ADD" hidden>Añadir otra foto</button>
+      <button class="fm-btn" id="CAMERA_RELOC" hidden>Reintentar ubicación</button>
+      <span class="fm-loading" id="CAMERA_GEO"></span>
+    </div>
+    <div class="fm-camera-annot">
+      <div class="fm-photo-queue" id="CAMERA_QUEUE" hidden></div>
+      <label for="CAMERA_NOTA" class="sr-only">Nota</label>
+      <textarea id="CAMERA_NOTA" placeholder="Nota de la evidencia…"></textarea>
+      <button class="fm-btn primary" id="CAMERA_SEND" hidden>Enviar evidencia</button>
+    </div>
+  </div>
+
+  <!-- Visor de adjuntos (imagen y PDF) -->
+  <div class="fm-viewer" id="VIEWER" hidden>
+    <div class="fm-viewer-top">
+      <span class="fm-viewer-title" id="VIEWER_TITLE"></span>
+      <span class="spacer"></span>
+      <button class="fm-icon-btn" id="VIEWER_ZOOM_IN" aria-label="Acercar" title="Acercar">＋</button>
+      <button class="fm-icon-btn" id="VIEWER_ZOOM_OUT" aria-label="Alejar" title="Alejar">−</button>
+      <button class="fm-icon-btn" id="VIEWER_OPEN" aria-label="Abrir en pestaña nueva" title="Abrir en pestaña nueva">↗</button>
+      <button class="fm-icon-btn" id="VIEWER_DOWNLOAD" aria-label="Descargar" title="Descargar">⬇</button>
+      <button class="fm-icon-btn" id="VIEWER_CLOSE" aria-label="Cerrar" title="Cerrar">✕</button>
+    </div>
+    <div class="fm-viewer-body" id="VIEWER_BODY"></div>
+  </div>
+
+  <script type="module" src="./file-management.js"></script>
+</body>
+</html>

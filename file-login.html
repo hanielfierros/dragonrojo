@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Iniciar sesión — SESPATE</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./file-management.css">
+  <script src="./theme.js"></script>
+</head>
+<body class="fm">
+  <header class="fm-nav">
+    <a class="brand" href="./index.html">iData<small style="color:var(--color-text-secondary);font-weight:400"> · PLATAFORMA DE CONTROL</small></a>
+    <a class="nav-link" href="./file-management.html">Volver a áreas</a>
+    <span class="spacer"></span>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema"></button>
+  </header>
+
+  <main class="fm-main">
+    <div class="fm-login" id="LOGIN_BOX">
+      <h1 id="AREA_TITLE">Iniciar sesión</h1>
+      <p class="sub" id="AREA_SUB"></p>
+      <div class="fm-field">
+        <label for="USERNAME">Nombre de usuario</label>
+        <input type="text" id="USERNAME" autocomplete="username" placeholder="Usuario">
+      </div>
+      <div class="fm-field">
+        <label for="PASSWORD">Contraseña</label>
+        <input type="password" id="PASSWORD" autocomplete="current-password" placeholder="Contraseña">
+      </div>
+      <p class="fm-error" id="LOGIN_ERROR" hidden></p>
+      <p class="fm-loading" id="LOGIN_LOADING" hidden>Ingresando…</p>
+      <div style="display:flex;gap:8px;margin-top:8px">
+        <button class="fm-btn primary" type="button" id="BTN_INGRESAR">Ingresar</button>
+        <button class="fm-btn" type="button" id="BTN_VOLVER">Volver</button>
+      </div>
+      <p style="font-size:0.72rem;color:var(--color-text-secondary);margin-top:16px">
+        Acceso de demostración. La contraseña se valida en el servidor Wix. Solo se admiten datos ficticios.
+      </p>
+    </div>
+  </main>
+
+  <script type="module" src="./file-management.js"></script>
+</body>
+</html>

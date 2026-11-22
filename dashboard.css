@@ -1,0 +1,156 @@
+/* ============================================================
+   SECURITYTRANS — Dashboard (estilo Oracle APEX Universal Theme)
+   ============================================================ */
+
+/* --- Navegación superior --- */
+.app-nav {
+  display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
+  padding: 10px 20px; background: var(--color-surface);
+  border-bottom: 1px solid var(--color-border); position: sticky; top: 0; z-index: 20;
+}
+.app-nav .brand { font-weight: 700; font-size: 1.05rem; color: var(--color-text); text-decoration: none; }
+.app-nav .brand small { color: var(--color-text-secondary); font-weight: 400; margin-left: 6px; }
+.app-nav .spacer { flex: 1; }
+.app-nav .nav-link {
+  color: var(--color-text-secondary); text-decoration: none; font-size: 13px;
+  padding: 6px 10px; border-radius: 6px;
+}
+.app-nav .nav-link:hover { color: var(--color-text); background: var(--color-surface-alt); }
+
+/* --- Contenedor --- */
+.app-main { max-width: 1360px; margin: 0 auto; padding: 16px 20px 64px; }
+
+/* --- Breadcrumb --- */
+.breadcrumb { font-size: 12px; color: var(--color-text-secondary); margin: 8px 0 16px; }
+.breadcrumb a { color: var(--color-primary); text-decoration: none; }
+
+/* --- Regiones --- */
+.region {
+  background: var(--color-surface); border: 1px solid var(--color-border);
+  border-radius: var(--radius); margin-bottom: 16px; box-shadow: var(--shadow-card);
+}
+.region-title {
+  padding: 12px 16px; font-size: 0.85rem; font-weight: 700;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--color-text-secondary);
+  border-bottom: 1px solid var(--color-border);
+}
+.region-body { padding: 16px; }
+
+/* --- Cards de KPI --- */
+.kpi-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px;
+}
+.kpi { padding: 14px 16px; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-surface); }
+.kpi .kpi-label { font-size: 0.72rem; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.04em; }
+.kpi .kpi-value { font-size: 1.6rem; font-weight: 700; margin: 4px 0 0; }
+.kpi .kpi-unit { font-size: 0.78rem; color: var(--color-text-secondary); }
+.kpi .kpi-note { font-size: 0.7rem; color: var(--color-text-secondary); margin-top: 4px; }
+
+/* --- Tarjeta de vehículo --- */
+.vehicle-profile {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); gap: 10px;
+}
+.vehicle-profile .vp-item { padding: 10px; border: 1px solid var(--color-border); border-radius: 6px; }
+.vp-label { font-size: 0.7rem; color: var(--color-text-secondary); text-transform: uppercase; }
+.vp-value { font-weight: 600; font-size: 0.95rem; }
+.vp-status { font-size: 0.68rem; margin-top: 2px; }
+
+/* Estados de datos (texto + color) */
+.status-chip {
+  display: inline-block; font-size: 0.68rem; font-weight: 600; letter-spacing: 0.03em;
+  padding: 2px 8px; border-radius: 4px; border: 1px solid var(--color-border);
+}
+.status-chip.simulado { color: var(--color-simulado); border-color: var(--color-simulado); }
+.status-chip.pendiente { color: var(--color-pendiente); border-color: var(--color-pendiente); }
+.status-chip.real { color: var(--color-success); border-color: var(--color-success); }
+.status-chip.calculado { color: var(--color-info); border-color: var(--color-info); }
+.status-chip.alerta { color: var(--color-danger); border-color: var(--color-danger); }
+
+/* --- Filtros --- */
+.filter-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end; }
+.filter-bar label { display: flex; flex-direction: column; font-size: 0.72rem; color: var(--color-text-secondary); gap: 4px; }
+.filter-bar select, .filter-bar input {
+  font: inherit; color: var(--color-text); background: var(--color-surface);
+  border: 1px solid var(--color-border); border-radius: 6px; padding: 6px 8px; min-width: 140px;
+}
+.filter-actions { display: flex; gap: 8px; }
+.btn {
+  font: inherit; font-size: 13px; padding: 7px 14px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--color-border); background: var(--color-surface); color: var(--color-text);
+}
+.btn:hover { background: var(--color-surface-alt); }
+.btn.primary { background: var(--color-primary); color: var(--color-primary-contrast); border-color: var(--color-primary); }
+.btn:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+
+.filter-summary { font-size: 0.78rem; color: var(--color-text-secondary); margin-top: 10px; }
+
+/* --- Grupos de botones --- */
+.button-group { display: flex; flex-wrap: wrap; gap: 8px; }
+.button-group .btn { font-size: 0.8rem; }
+
+/* --- Tabla tipo Interactive Report --- */
+.table-wrap { overflow-x: auto; }
+table.ir { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+table.ir th, table.ir td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--color-border); white-space: nowrap; }
+table.ir th { font-weight: 700; color: var(--color-text-secondary); background: var(--color-surface-alt); position: sticky; top: 0; cursor: pointer; }
+table.ir tbody tr:hover { background: var(--color-surface-alt); }
+table.ir .num { text-align: right; }
+.ir-search { width: 100%; max-width: 320px; padding: 7px 10px; border: 1px solid var(--color-border); border-radius: 6px; font: inherit; background: var(--color-surface); color: var(--color-text); }
+.ir-meta { font-size: 0.75rem; color: var(--color-text-secondary); margin: 8px 0; }
+
+/* --- Detalle expandible --- */
+.service-detail-row { background: var(--color-surface-alt); border: 1px solid var(--color-border); border-radius: 6px; }
+.detail-section { margin-bottom: 12px; }
+.detail-section h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-text-secondary); margin: 0 0 8px; }
+
+/* --- Alertas --- */
+.alert {
+  border-left: 4px solid var(--color-border); padding: 10px 14px; border-radius: 6px;
+  background: var(--color-surface); margin-bottom: 8px;
+}
+.alert.info { border-left-color: var(--color-info); }
+.alert.obs { border-left-color: var(--color-warning); }
+.alert.warn { border-left-color: var(--color-danger); }
+.alert.rev { border-left-color: var(--color-danger); }
+.alert .alert-head { display: flex; justify-content: space-between; font-weight: 600; font-size: 0.82rem; }
+.alert .alert-body { font-size: 0.78rem; color: var(--color-text-secondary); margin-top: 4px; }
+
+/* --- Tabs --- */
+.tabs { display: flex; flex-wrap: wrap; gap: 4px; border-bottom: 1px solid var(--color-border); margin-bottom: 12px; }
+.tab {
+  padding: 8px 14px; cursor: pointer; font-size: 0.8rem; border: none; background: transparent;
+  color: var(--color-text-secondary); border-bottom: 2px solid transparent;
+}
+.tab.active { color: var(--color-primary); border-bottom-color: var(--color-primary); font-weight: 600; }
+
+/* --- Contenedor de gráficas --- */
+.chart { width: 100%; height: 300px; }
+.chart-sm { width: 100%; height: 220px; }
+
+/* --- Mapa --- */
+#map { height: 360px; border-radius: 6px; }
+.map-legend { font-size: 0.75rem; color: var(--color-text-secondary); margin-top: 8px; }
+
+/* --- Colapsables --- */
+.collapsible summary {
+  cursor: pointer; font-weight: 600; font-size: 0.85rem;
+  padding: 8px 0; list-style-position: inside;
+}
+
+/* --- Mensajes de estado --- */
+.state-msg { padding: 12px; color: var(--color-text-secondary); font-size: 0.85rem; }
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .app-main { padding: 12px 12px 48px; }
+  .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+  .app-nav { gap: 8px; }
+  .chart { height: 240px; }
+  /* Tabla → tarjetas en móvil */
+  table.ir { display: block; }
+  table.ir thead { display: none; }
+  table.ir tbody { display: block; }
+  table.ir tr { display: block; border: 1px solid var(--color-border); border-radius: 6px; margin-bottom: 10px; padding: 8px; }
+  table.ir td { display: flex; justify-content: space-between; border: none; padding: 4px 6px; }
+  table.ir td::before { content: attr(data-label); font-weight: 700; color: var(--color-text-secondary); margin-right: 12px; }
+}

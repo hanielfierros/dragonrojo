@@ -1,0 +1,66 @@
+/* ============================================================
+   iData — Portada (estilo minimalista tipo Apple)
+   ============================================================ */
+
+.landing {
+  min-height: 100vh;
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; text-align: center;
+  padding: 48px 24px;
+  background: var(--color-background);
+  color: var(--color-text);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.landing-nav {
+  position: absolute; top: 24px; right: 24px;
+}
+
+.landing-logo {
+  max-width: 220px; max-height: 140px; width: auto; height: auto;
+  object-fit: contain; margin-bottom: 40px;
+}
+
+.landing-brand { font-size: clamp(2rem, 5vw, 3.4rem); font-weight: 700; letter-spacing: -0.02em; margin: 0; }
+.landing-dept { font-size: clamp(1rem, 2.5vw, 1.35rem); font-weight: 400; color: var(--color-text-secondary); margin: 12px 0 56px; }
+
+.landing-modules {
+  display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;
+  max-width: 720px; width: 100%;
+}
+
+.module-card {
+  flex: 1 1 260px; max-width: 320px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  padding: 40px 24px; border-radius: 18px; text-decoration: none;
+  background: var(--color-surface); border: 1px solid var(--color-border);
+  color: var(--color-text); box-shadow: var(--shadow-card);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.module-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+.module-card:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 3px; }
+
+.module-card .module-icon {
+  width: 56px; height: 56px; border-radius: 14px;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 26px; margin-bottom: 18px; color: var(--color-primary-contrast);
+  background: var(--color-primary);
+}
+.module-card h2 { margin: 0 0 6px; font-size: 1.05rem; letter-spacing: 0.06em; }
+.module-card p { margin: 0; font-size: 0.85rem; color: var(--color-text-secondary); }
+
+.module-card.disabled { opacity: 0.6; cursor: default; }
+.module-card.disabled:hover { transform: none; box-shadow: var(--shadow-card); }
+.module-badge {
+  display: inline-block; margin-top: 12px; font-size: 0.72rem; letter-spacing: 0.05em;
+  color: var(--color-warning); border: 1px solid var(--color-warning);
+  padding: 3px 10px; border-radius: 999px;
+}
+
+.landing-footer { margin-top: 64px; font-size: 0.78rem; color: var(--color-text-secondary); }
+
+@media (max-width: 640px) {
+  .landing-logo { max-width: 160px; }
+  .landing-dept { margin-bottom: 36px; }
+  .module-card { max-width: none; padding: 32px 20px; }
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Plataforma de Control — Gestión operativa de servicios de seguridad SESPATE.">
+  <title>PLATAFORMA DE CONTROL — SESPATE</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./file-management.css">
+  <script src="./theme.js"></script>
+</head>
+<body class="fm">
+  <header class="fm-nav">
+    <a class="brand" href="./index.html">iData<small style="color:var(--color-text-secondary);font-weight:400"> · PLATAFORMA DE CONTROL</small></a>
+    <a class="nav-link" href="./index.html">Volver a iData</a>
+    <span class="spacer"></span>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema"></button>
+  </header>
+
+  <main class="fm-main">
+    <div class="fm-hero">
+      <h1>PLATAFORMA DE CONTROL</h1>
+      <p>Seleccione su departamento para continuar.</p>
+    </div>
+
+    <section class="fm-areas" aria-label="Áreas de trabajo">
+      <a class="fm-area-card fm-area-ASIGNACIONES" href="./file-login.html?area=ASIGNACIONES">
+        <span class="fm-area-icon" aria-hidden="true">🗂️</span>
+        <h2>ASIGNACIONES</h2>
+        <p>Asignación y control de servicios de seguridad</p>
+      </a>
+      <a class="fm-area-card fm-area-MANTENIMIENTO" href="./file-login.html?area=MANTENIMIENTO">
+        <span class="fm-area-icon" aria-hidden="true">🔧</span>
+        <h2>MANTENIMIENTO</h2>
+        <p>Mantenimiento y verificación de unidades</p>
+      </a>
+      <a class="fm-area-card fm-area-PERSONAL_SEGURIDAD" href="./file-login.html?area=PERSONAL_SEGURIDAD">
+        <span class="fm-area-icon" aria-hidden="true">👮</span>
+        <h2>PERSONAL DE SEGURIDAD</h2>
+        <p>Checklist, evidencias e información del servicio</p>
+      </a>
+      <a class="fm-area-card fm-area-DIRECCION_SEGURIDAD" href="./file-login.html?area=DIRECCION_SEGURIDAD">
+        <span class="fm-area-icon" aria-hidden="true">🎖️</span>
+        <h2>DIRECCIÓN DE SEGURIDAD</h2>
+        <p>Supervisión de la operación de seguridad</p>
+      </a>
+    </section>
+  </main>
+</body>
+</html>

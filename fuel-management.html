@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Fuel Management — Dashboard de gestión energética vehicular SECURITYTRANS.">
+  <title>Fuel Management — SECURITYTRANS</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./dashboard.css">
+  <link rel="stylesheet" href="./leaflet.css">
+  <script src="./theme.js"></script>
+</head>
+<body>
+  <!-- R01 Navegación general -->
+  <header class="app-nav" id="R_NAV">
+    <a class="brand" href="./index.html">iData<small>Fuel Management</small></a>
+    <a class="nav-link" href="./index.html">Volver a iData</a>
+    <span class="spacer"></span>
+    <button class="theme-toggle" type="button" data-theme-toggle aria-label="Cambiar tema"></button>
+  </header>
+
+  <main class="app-main" id="R_MAIN">
+    <nav class="breadcrumb" aria-label="Ruta de navegación">
+      <a href="./index.html">iData</a> &rsaquo; <span id="BREADCRUMB">Fuel Management</span>
+    </nav>
+
+    <!-- R02 Identificación de la unidad -->
+    <section class="region" id="R_VEHICLE_PROFILE" aria-label="Identificación de la unidad">
+      <div class="region-title">Identificación de la unidad</div>
+      <div class="region-body">
+        <div class="vehicle-profile" id="VEHICLE_PROFILE"><span class="state-msg">Cargando…</span></div>
+      </div>
+    </section>
+
+    <!-- R03 Filtros generales -->
+    <section class="region" id="R_GLOBAL_FILTERS" aria-label="Filtros generales">
+      <div class="region-title">Filtros generales</div>
+      <div class="region-body">
+        <div class="filter-bar">
+          <label>Vehículo
+            <select id="F_VEHICULO"><option value="">Todos</option></select>
+          </label>
+          <label>Operador
+            <select id="F_OPERADOR"><option value="">Todos</option></select>
+          </label>
+          <label>Ruta
+            <select id="F_RUTA"><option value="">Todas</option></select>
+          </label>
+          <label>Fecha inicial
+            <input type="date" id="F_FECHA_INI">
+          </label>
+          <label>Fecha final
+            <input type="date" id="F_FECHA_FIN">
+          </label>
+          <label>Estado de datos
+            <select id="F_ESTADO">
+              <option value="">Todos</option>
+              <option value="SIMULADO">Simulado</option>
+              <option value="REAL">Real</option>
+            </select>
+          </label>
+          <label>Estado presupuestario
+            <select id="F_PRESUPUESTO">
+              <option value="">Todos</option>
+              <option value="ahorro">Ahorro</option>
+              <option value="sobrecosto">Sobrecosto</option>
+            </select>
+          </label>
+          <div class="filter-actions">
+            <button class="btn primary" id="B_APLICAR_FILTROS">Aplicar filtros</button>
+            <button class="btn" id="B_LIMPIAR_FILTROS">Limpiar filtros</button>
+          </div>
+        </div>
+        <p class="filter-summary" id="FILTER_SUMMARY"></p>
+      </div>
+    </section>
+
+    <!-- R04 Indicadores ejecutivos -->
+    <section class="region" id="R_EXECUTIVE_KPIS" aria-label="Indicadores ejecutivos">
+      <div class="region-title">Indicadores ejecutivos</div>
+      <div class="region-body">
+        <div class="kpi-grid" id="KPI_GRID"></div>
+      </div>
+    </section>
+
+    <!-- R05 Gráficas históricas -->
+    <section class="region" id="R_HISTORICAL_CHARTS" aria-label="Gráficas históricas">
+      <div class="region-title">Gráficas históricas</div>
+      <div class="region-body">
+        <div class="tabs" id="CHART_TABS" role="tablist"></div>
+        <div id="CHART_CONTAINER"><div class="chart" id="CHART_MAIN"></div></div>
+      </div>
+    </section>
+
+    <!-- R06 Botones de análisis comparativo -->
+    <section class="region" id="R_COMPARISON_BUTTONS" aria-label="Botones de análisis comparativo">
+      <div class="region-title">Análisis comparativo</div>
+      <div class="region-body">
+        <div class="button-group" id="COMPARISON_BUTTONS"></div>
+      </div>
+    </section>
+
+    <!-- R07 Resultados comparativos dinámicos -->
+    <section class="region" id="R_COMPARISON_RESULTS" aria-label="Resultados comparativos" hidden>
+      <div class="region-title" id="COMPARISON_TITLE">Comparación</div>
+      <div class="region-body" id="COMPARISON_BODY"></div>
+    </section>
+
+    <!-- R08 Histórico de servicios -->
+    <section class="region" id="R_SERVICE_HISTORY" aria-label="Histórico de servicios">
+      <div class="region-title">Histórico de servicios</div>
+      <div class="region-body">
+        <input type="search" class="ir-search" id="IR_SEARCH" placeholder="Buscar por folio, operador, origen…" aria-label="Buscar servicios">
+        <p class="ir-meta" id="IR_META"></p>
+        <div class="table-wrap">
+          <table class="ir" id="SERVICE_TABLE">
+            <thead><tr id="SERVICE_TABLE_HEAD"></tr></thead>
+            <tbody id="SERVICE_TABLE_BODY"></tbody>
+          </table>
+        </div>
+        <div class="filter-actions" style="margin-top:10px">
+          <button class="btn" id="B_EXPORT_CSV">Exportar CSV</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- R09 Detalle expandible de cada servicio -->
+    <section class="region" id="R_SERVICE_DETAIL" aria-label="Detalle del servicio" hidden>
+      <div class="region-title">Detalle del servicio</div>
+      <div class="region-body" id="SERVICE_DETAIL_BODY"></div>
+    </section>
+
+    <!-- R10 Información metodológica y fuentes -->
+    <section class="region" id="R_METHODOLOGY" aria-label="Información metodológica">
+      <div class="region-title">Información metodológica y fuentes</div>
+      <div class="region-body" id="METHODOLOGY_BODY"></div>
+    </section>
+  </main>
+
+  <script src="./echarts.min.js"></script>
+  <script src="./leaflet.js"></script>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
