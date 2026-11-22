@@ -406,25 +406,27 @@ function cardCrearServicio() {
   const folio = campo("Folio del servicio", "input", "text");
   const responsable = campo("Responsable", "select");
   const unidad = campo("Unidad", "select");
-  
+  const ruta = campo("Ruta", "select");
+
   llenarSelect(responsable.input, catalogo.personal, "_id");
   llenarSelect(unidad.input, catalogo.unidades, "_id");
+  llenarSelect(ruta.input, catalogo.recorridos, "_id");
   
   const msg = el("p", "fm-error", ""); msg.hidden = true;
   const btn = el("button", "fm-btn primary", "Crear servicio");
   btn.addEventListener("click", async () => {
     const f = folio.input.value.trim();
     if (!f) { msg.textContent = "Ingrese el folio del servicio."; msg.hidden = false; return; }
-    if (!responsable.input.value || !unidad.input.value) {
-      msg.textContent = "Seleccione responsable y unidad."; msg.hidden = false; return;
+    if (!responsable.input.value || !unidad.input.value || !ruta.input.value) {
+      msg.textContent = "Seleccione responsable, unidad y ruta."; msg.hidden = false; return;
     }
     btn.disabled = true; btn.textContent = "Creando…"; msg.hidden = true;
     try {
-      const resp = await WixApi.crearServicio(f, responsable.input.value, unidad.input.value);
+      const resp = await WixApi.crearServicio(f, responsable.input.value, unidad.input.value, ruta.input.value);
       const sid = resp?.data?.servicioId || resp?.data?.id || resp?.data?._id;
       if (!sid) throw new Error("No se recibió el identificador del servicio.");
       // limpiar y refrescar
-      folio.input.value = ""; responsable.input.value = ""; unidad.input.value = "";
+      folio.input.value = ""; responsable.input.value = ""; unidad.input.value = ""; ruta.input.value = "";
       msg.textContent = "Servicio creado correctamente."; msg.hidden = false; msg.style.color = "var(--fm-success)";
       await seleccionarServicio(sid);
       await refrescarServicios();
@@ -435,7 +437,7 @@ function cardCrearServicio() {
     } finally { btn.disabled = false; btn.textContent = "Crear servicio"; }
   });
 
-  card.append(folio.wrap, responsable.wrap, unidad.wrap, msg, btn);
+  card.append(folio.wrap, responsable.wrap, unidad.wrap, ruta.wrap, msg, btn);
   return card;
 }
 
@@ -873,25 +875,24 @@ function sepDia(dia) {
 
 function renderMensaje(m) {
   const tipo = (m.tipo || m.recordType || m.tipoRegistro || "MENSAJE").toUpperCase();
-  const area = areaCanon(m.area || m.Area || "SISTEMA");
+  const area = areaCanon(m.area || m.departamento || m.Area || "SISTEMA");
   const esSistema = TIPOS_SISTEMA[tipo] !== undefined;
-  const usuario = textoDe(m.usuario || m.user || m.nombre || "Sistema");
-  const propio = !esSistema && usuario === sesion.usuario;
+  const autor = esSistema ? "Sistema" : (m.autorVisible || areaInfo(area).nombre);
+  const propio = !esSistema && area === areaCanon(sesion?.area || sesion?.departamento || "");
 
   const msg = el("div", "fm-msg fm-area-" + area);
   if (esSistema) msg.classList.add("sistema");
   if (propio) msg.classList.add("own");
 
   if (!esSistema) {
-    const av = el("span", "avatar", iniciales(usuario));
+    const av = el("span", "avatar", iniciales(autor));
     msg.appendChild(av);
   }
 
   const bubble = el("div", "fm-bubble");
   const meta = el("div", "meta");
   if (!esSistema) {
-    meta.appendChild(el("span", "area", areaInfo(area).nombre));
-    meta.appendChild(el("span", "", usuario));
+    meta.appendChild(el("span", "area", autor));
     if (m.categoria) meta.appendChild(el("span", "", "· " + textoDe(m.categoria)));
   }
   meta.appendChild(el("span", "", fechaHora(m.fecha || m.fechaServidor || m.fechaEnvio)));
@@ -900,7 +901,7 @@ function renderMensaje(m) {
   const cuerpo = el("div", "cuerpo");
   const textoMensaje = textoDe(m.mensaje || m.contenido || m.texto || "");
   if (esSistema) {
-    cuerpo.textContent = TIPOS_SISTEMA[tipo] + " — " + textoMensaje + (m.usuario ? " (" + usuario + ")" : "");
+    cuerpo.textContent = TIPOS_SISTEMA[tipo] + " — " + textoMensaje;
   } else {
     renderCuerpoMensaje(cuerpo, textoMensaje);
   }
