@@ -1279,6 +1279,8 @@ function resetearMapa() {
     if (mapaRecorrido) { mapaLeaflet.removeLayer(mapaRecorrido); mapaRecorrido = null; }
   }
   mapaMarcadores = [];
+  marcadoresCargadosServicio = null;
+  marcadoresEnGuardado.clear();
   mapaMarcadorPorId.clear();
   mapaChips.clear();
   mapaMostrarRecorrido = false;
@@ -1412,7 +1414,9 @@ function alternarFullscreen() {
 // Los marcadores persistidos son la fuente de verdad compartida entre perfiles.
 // La carga se ejecuta una vez por servicio y no duplica pines por enlace.
 async function cargarMarcadoresPersistidos(servicioId) {
-  if (marcadoresCargadosServicio === servicioId) return;
+  // Reconsultar CMS para mostrar pines creados por otros departamentos.
+  // La deduplicación visual se realiza por ID del marcador.
+
   const respuesta = await WixApi.marcadores(servicioId);
   if (servicioIdActual !== servicioId) return;
   const registros = Array.isArray(respuesta?.data) ? respuesta.data : (respuesta?.data?.marcadores || []);
@@ -1502,11 +1506,14 @@ async function resolverYAgregar(clave, url, m, mensajeId, sid) {
     marcarChip(mensajeId, "ubicacion", url);
   } catch (e) {
     console.warn("SESPATE mapa: no se confirmó el guardado del marcador", e.message);
-    marcarChip(mensajeId, "no_guardado", url);
+    marcarChip(mensajeId, "no_guardado", url, e.message);
+  } finally {
+    // Permitir reintento tras un error, sin dejar el enlace bloqueado permanentemente.
+    marcadoresEnGuardado.delete(guardadoClave);
   }
 }
 
-function marcarChip(mensajeId, estado, url) {
+function marcarChip(mensajeId, estado, url, detalle = "") {
   const chip = mapaChips.get(mensajeId);
   if (!chip) return;
   chip.innerHTML = "";
@@ -1519,7 +1526,9 @@ function marcarChip(mensajeId, estado, url) {
     });
     chip.appendChild(b);
   } else {
-    chip.appendChild(el("span", "fm-ubicacion-no", "No se pudo identificar la ubicación."));
+    const aviso = estado === "no_guardado" ? "No se pudo guardar el pin en Wix." : "No se pudieron extraer coordenadas de este enlace.";
+    chip.appendChild(el("span", "fm-ubicacion-no", aviso));
+    if (detalle) chip.appendChild(el("span", "fm-ubicacion-no", " Detalle: " + String(detalle).slice(0, 180)));
   }
   const a = el("a", "", "Abrir en Google Maps");
   a.href = url; a.target = "_blank"; a.rel = "noopener noreferrer";
