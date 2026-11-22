@@ -138,3 +138,40 @@ function parsearCoordenadas(url) {
   } catch (e) {}
   return null;
 }
+
+
+/* ============================================================
+   MODO WIX_SHARED (real). Activar cambiando API_MODE tras instalar
+   el backend y validar la autenticación. No activo por defecto.
+   ============================================================ */
+const API_BASE_WIX = "https://www.ebenezeraviation.com/_functions-dev";
+
+async function fetchSesp(method, endpoint, body = null, auth = false) {
+  const headers = { "Content-Type": "application/json" };
+  if (auth) {
+    const t = getToken();
+    if (!t) throw new Error("Sesión no disponible.");
+    headers["Authorization"] = "Bearer " + t;
+  }
+  const resp = await fetch(API_BASE_WIX + "/" + endpoint, {
+    method, headers, body: body === null ? undefined : JSON.stringify(body),
+  });
+  const datos = await resp.json().catch(() => ({}));
+  if (datos && datos.status === "error") throw new Error(datos.message || "Error del servidor.");
+  return datos;
+}
+
+export const WixShared = {
+  login(usuario, password) { return fetchSesp("POST", "sesp_login", { identificadorAcceso: usuario, password }, false); },
+  session() { return fetchSesp("GET", "sesp_session", null, true); },
+  servicios() { return fetchSesp("GET", "sesp_servicios", null, true); },
+  servicio(id) { return fetchSesp("GET", "sesp_servicio?servicioId=" + encodeURIComponent(id), null, true); },
+  crearServicio(datos) { return fetchSesp("POST", "sesp_crear_servicio", datos, true); },
+  cerrarServicio(id) { return fetchSesp("POST", "sesp_cerrar_servicio", { servicioId: id }, true); },
+  mensajes(id) { return fetchSesp("GET", "sesp_mensajes?servicioId=" + encodeURIComponent(id), null, true); },
+  enviarMensaje(datos) { return fetchSesp("POST", "sesp_enviar_mensaje", datos, true); },
+  marcadores(id) { return fetchSesp("GET", "sesp_marcadores?servicioId=" + encodeURIComponent(id), null, true); },
+  crearMarcador(datos) { return fetchSesp("POST", "sesp_crear_marcador", datos, true); },
+  ubicaciones(id) { return fetchSesp("GET", "sesp_ubicaciones?servicioId=" + encodeURIComponent(id), null, true); },
+};
+
