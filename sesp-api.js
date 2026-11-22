@@ -1,18 +1,15 @@
 /* ============================================================
-   SESPATE — Cliente de API en modo DEMO (MOCK_DEMO)
-   No se conecta a Wix ni a SECURITYTRANS. No hay autenticación
-   real ni escritura en bases de datos. Todos los datos son
-   ficticios y locales (memoria + sessionStorage + localStorage).
+   SESPATE — Cliente de API WIX_SHARED (producción)
+   Se conecta al backend real Wix Velo (_functions).
+   MODO por defecto: WIX_SHARED. Las escrituras dependen del
+   backend (SESP_HABILITAR_ESCRITURAS); los errores se muestran
+   sin éxito falso.
    ============================================================ */
 
-import {
-  sesionDemo, normalizarCatalogo, listaServicios, servicioPorId,
-  mensajesDe, evidenciasDe, ubicacionesDe, marcadoresDe,
-  crearServicio, enviarMensaje, registrarEvidenciaDemo, registrarUbicacionDemo,
-  crearMarcadorDemo, cerrarServicioDemo,
-} from "./sesp-mock-data.js";
+import { choferes, patrullas, rutas } from "./sesp-master-data.js";
 
-export const API_MODE = "MOCK_DEMO"; // "WIX_SHARED" deshabilitado (backend no instalado).
+export const API_MODE = "WIX_SHARED";
+const API_BASE = "https://www.ebenezeraviation.com/_functions";
 
 const TOKEN_KEY = "sesp_session_token";
 const SESSION_KEY = "sesp_session_data";
@@ -25,153 +22,99 @@ function guardarSesion(d) { try { sessionStorage.setItem(SESSION_KEY, JSON.strin
 function leerSesion() { try { return JSON.parse(sessionStorage.getItem(SESSION_KEY)); } catch (e) { return null; } }
 
 function ok(data) { return Promise.resolve({ status: "success", data }); }
-function departamentoActual() {
-  const s = leerSesion() || {};
-  return s.departamento || s.area || "ASIGNACIONES";
+
+async function apiRequest(method, endpoint, body = null, auth = false) {
+  const headers = { "Content-Type": "application/json" };
+  if (auth) {
+    const t = getToken();
+    if (!t) throw new Error("Sesión no disponible. Inicie sesión nuevamente.");
+    headers["Authorization"] = "Bearer " + t;
+  }
+  let resp;
+  try {
+    resp = await fetch(API_BASE + "/" + endpoint, {
+      method, headers, body: body === null ? undefined : JSON.stringify(body),
+    });
+  } catch (e) {
+    throw new Error("No fue posible contactar el servidor.");
+  }
+  let datos;
+  try { datos = await resp.json(); } catch (e) { throw new Error("Respuesta del servidor no válida."); }
+  if (resp.status === 401) { clearToken(); throw new Error("Sesión expirada. Inicie sesión nuevamente."); }
+  if (datos && datos.status === "error") { throw new Error(datos.message || "Error del servidor."); }
+  return datos;
 }
 
-// Plantilla DEMO del check de salida.
-const CHECKLIST_DEMO = [
-  { grupoId: "PERSONAL", titulo: "Documentación personal", puntos: [
-    { puntoId: "P01", descripcion: "Permiso de portación de arma" },
-    { puntoId: "P02", descripcion: "Credencial vigente" },
-    { puntoId: "P03", descripcion: "Licencia de conducir vigente" },
-  ]},
-  { grupoId: "VEHICULAR", titulo: "Documentación vehicular", puntos: [
-    { puntoId: "V01", descripcion: "Tarjeta de circulación" },
-    { puntoId: "V02", descripcion: "Póliza de seguro vigente" },
-  ]},
-  { grupoId: "VEHICULO", titulo: "Inspección del vehículo", puntos: [
-    { puntoId: "I01", descripcion: "Luces en Tablero Principal" },
-    { puntoId: "I02", descripcion: "Niveles de fluidos" },
-    { puntoId: "I03", descripcion: "Llantas y presión" },
-    { puntoId: "I04", descripcion: "Frenos" },
-  ]},
-  { grupoId: "SEGURIDAD", titulo: "Material y equipo de seguridad", puntos: [
-    { puntoId: "S01", descripcion: "Chaleco reflejante" },
-    { puntoId: "S02", descripcion: "Triángulos de seguridad" },
-    { puntoId: "S03", descripcion: "Extintor vigente" },
-  ]},
-];
+// Catálogo local (datos maestros DEMO) mientras no exista endpoint sesp_catalogos.
+function catalogoLocal() {
+  return {
+    personal: choferes.map(ch => ({ _id: ch.id, nombreCompleto: ch.nombreCompleto, departamento: "PERSONAL_SEGURIDAD" })),
+    unidades: patrullas.map(p => ({ _id: p.id, numeroUnidad: p.placa, placas: p.placa, marca: p.marca, modelo: p.modelo })),
+    recorridos: rutas.map(r => ({ _id: r.id, nombre: r.nombre, distanciaKm: r.distanciaKm, paradasObligatorias: r.paradasObligatorias, esLibre: r.esLibre })),
+  };
+}
 
 export const WixApi = {
   mode: API_MODE,
 
-  login(usuario, password, area) {
-    const sesion = sesionDemo(usuario || "DEMO", area);
-    guardarSesion(sesion);
-    return ok({ token: "demo-token-" + Date.now(), sesion });
+  async login(usuario, password, area) {
+    // El backend determina el departamento desde SESP_Usuarios (ignora el cliente).
+    const r = await apiRequest("POST", "sesp_login", { identificadorAcceso: usuario, password }, false);
+    const sesion = (r && r.data && r.data.sesion) || {};
+    setToken((r && r.data && r.data.token) || "");
+    guardarSesion({ usuario: sesion.usuario || usuario, departamento: sesion.departamento, area: sesion.departamento, sesionId: sesion.sesionId });
+    return r;
   },
 
   session() {
-    return ok(leerSesion() || { usuario: "DEMO", area: "ASIGNACIONES" });
+    return ok(leerSesion() || {});
   },
 
-  catalogos() { return ok(normalizarCatalogo()); },
+  catalogos() { return ok(catalogoLocal()); },
 
-  servicios() { return ok(listaServicios()); },
+  async servicios() { return apiRequest("GET", "sesp_servicios", null, true); },
 
-  servicio(servicioId) {
-    const d = servicioPorId(servicioId);
-    if (!d) return Promise.resolve({ status: "error", message: "Servicio no encontrado." });
-    return ok(d);
+  async servicio(servicioId) {
+    return apiRequest("GET", "sesp_servicio?servicioId=" + encodeURIComponent(servicioId), null, true);
   },
 
-  mensajes(servicioId) { return ok(mensajesDe(servicioId)); },
-
-  checklistPlantilla() { return ok(CHECKLIST_DEMO); },
-  checklists(servicioId) { return ok([]); },
-
-  crearServicio(folio, responsable, unidad, ruta) {
-    const s = crearServicio({ folio, responsable, unidad, ruta }, {});
-    return ok({ servicioId: s._id, folio: s.folio });
-  },
-  modificarServicio(servicioId, version, cambios) { return ok({ servicioId }); },
-  cerrarServicio(servicioId, version) {
-    cerrarServicioDemo(servicioId);
-    return ok({ servicioId });
+  async mensajes(servicioId) {
+    return apiRequest("GET", "sesp_mensajes?servicioId=" + encodeURIComponent(servicioId), null, true);
   },
 
-  enviarMensaje(servicioId, categoria, mensaje, origenEnvio) {
-    const m = enviarMensaje(servicioId, mensaje, departamentoActual());
-    return ok({ mensajeId: m._id });
+  async crearServicio(folio, responsable, unidad, ruta) {
+    return apiRequest("POST", "sesp_crear_servicio", { folio, responsable, unidad, rutaId: ruta }, true);
+  },
+  async cerrarServicio(servicioId, version) {
+    return apiRequest("POST", "sesp_cerrar_servicio", { servicioId }, true);
   },
 
-  guardarChecklist(servicioId, version, items) { return ok({}); },
-
-  subirDocumento() { return ok({ mensajeId: "MSG-DEMO-" + Date.now() }); },
-  descarga() { return ok({ descarga: "" }); },
-
-  resolverUbicacion(servicioId, mensajeId, url) {
-    // Extrae coordenadas si el enlace las incluye de forma explícita.
-    const c = parsearCoordenadas(url);
-    if (c) return ok({ resuelto: true, latitud: c.lat, longitud: c.lon, mensajeId });
-    return ok({ resuelto: false, mensajeId, motivo: "No fue posible identificar una ubicación exacta en este enlace." });
+  async enviarMensaje(servicioId, categoria, mensaje, origenEnvio) {
+    return apiRequest("POST", "sesp_enviar_mensaje", { servicio: servicioId, contenido: mensaje, categoria }, true);
   },
 
-  registrarEvidencia(datos) {
-    const e = registrarEvidenciaDemo(datos.servicioId, datos);
-    return ok({ evidenciaId: e._id, mensajeId: "", ubicacionId: "" });
+  async resolverUbicacion(servicioId, mensajeId, url) {
+    return apiRequest("POST", "sesp_resolver_ubicacion", { servicioId, mensajeId, url }, true);
   },
 
-  ubicaciones(servicioId) { return ok(ubicacionesDe(servicioId)); },
-  evidencias(servicioId) { return ok(evidenciasDe(servicioId)); },
-
-  marcadores(servicioId) { return ok(marcadoresDe(servicioId)); },
-  crearMarcador(datos) {
-    const m = crearMarcadorDemo(datos.servicioId, datos, departamentoActual());
-    return ok({ marcadorId: m._id });
+  async ubicaciones(servicioId) {
+    return apiRequest("GET", "sesp_ubicaciones?servicioId=" + encodeURIComponent(servicioId), null, true);
   },
+
+  async marcadores(servicioId) {
+    return apiRequest("GET", "sesp_marcadores?servicioId=" + encodeURIComponent(servicioId), null, true);
+  },
+  async crearMarcador(datos) {
+    return apiRequest("POST", "sesp_crear_marcador", datos, true);
+  },
+
+  // Funciones sin endpoint backend instalado: devuelven error claro (sin éxito falso).
+  checklistPlantilla() { return Promise.reject(new Error("Plantilla no disponible en modo WIX_SHARED.")); },
+  checklists() { return ok([]); },
+  modificarServicio() { return Promise.reject(new Error("Operación no disponible en modo WIX_SHARED.")); },
+  guardarChecklist() { return Promise.reject(new Error("Guardado de checklist no disponible en modo WIX_SHARED.")); },
+  subirDocumento() { return Promise.reject(new Error("Subida de documentos no disponible en modo WIX_SHARED.")); },
+  descarga() { return Promise.reject(new Error("Descarga no disponible en modo WIX_SHARED.")); },
+  registrarEvidencia() { return Promise.reject(new Error("Registro de evidencia no disponible en modo WIX_SHARED.")); },
+  evidencias() { return ok([]); },
 };
-
-function parsearCoordenadas(url) {
-  try {
-    const u = new URL(url);
-    const q = u.searchParams.get("q") || u.searchParams.get("query") || "";
-    const m = q.match(/^(-?\d{1,2}(?:\.\d+)?)\s*,\s*(-?\d{1,3}(?:\.\d+)?)$/);
-    if (m) {
-      const lat = parseFloat(m[1]), lon = parseFloat(m[2]);
-      if (Number.isFinite(lat) && Number.isFinite(lon) && lat >= -90 && lat <= 90 && lon >= -180 && lon <= 180) {
-        return { lat, lon };
-      }
-    }
-  } catch (e) {}
-  return null;
-}
-
-
-/* ============================================================
-   MODO WIX_SHARED (real). Activar cambiando API_MODE tras instalar
-   el backend y validar la autenticación. No activo por defecto.
-   ============================================================ */
-const API_BASE_WIX = "https://www.ebenezeraviation.com/_functions-dev";
-
-async function fetchSesp(method, endpoint, body = null, auth = false) {
-  const headers = { "Content-Type": "application/json" };
-  if (auth) {
-    const t = getToken();
-    if (!t) throw new Error("Sesión no disponible.");
-    headers["Authorization"] = "Bearer " + t;
-  }
-  const resp = await fetch(API_BASE_WIX + "/" + endpoint, {
-    method, headers, body: body === null ? undefined : JSON.stringify(body),
-  });
-  const datos = await resp.json().catch(() => ({}));
-  if (datos && datos.status === "error") throw new Error(datos.message || "Error del servidor.");
-  return datos;
-}
-
-export const WixShared = {
-  login(usuario, password) { return fetchSesp("POST", "sesp_login", { identificadorAcceso: usuario, password }, false); },
-  session() { return fetchSesp("GET", "sesp_session", null, true); },
-  servicios() { return fetchSesp("GET", "sesp_servicios", null, true); },
-  servicio(id) { return fetchSesp("GET", "sesp_servicio?servicioId=" + encodeURIComponent(id), null, true); },
-  crearServicio(datos) { return fetchSesp("POST", "sesp_crear_servicio", datos, true); },
-  cerrarServicio(id) { return fetchSesp("POST", "sesp_cerrar_servicio", { servicioId: id }, true); },
-  mensajes(id) { return fetchSesp("GET", "sesp_mensajes?servicioId=" + encodeURIComponent(id), null, true); },
-  enviarMensaje(datos) { return fetchSesp("POST", "sesp_enviar_mensaje", datos, true); },
-  marcadores(id) { return fetchSesp("GET", "sesp_marcadores?servicioId=" + encodeURIComponent(id), null, true); },
-  crearMarcador(datos) { return fetchSesp("POST", "sesp_crear_marcador", datos, true); },
-  ubicaciones(id) { return fetchSesp("GET", "sesp_ubicaciones?servicioId=" + encodeURIComponent(id), null, true); },
-};
-

@@ -28,7 +28,12 @@ const AREAS = {
 
 
 // Compatibilidad histórica: los registros antiguos de ADMINISTRACION se muestran como AUDITORÍA.
-const AREA_COMPAT = { ADMINISTRACION: "MANTENIMIENTO" };
+const AREA_COMPAT = {
+  ADMINISTRACION: "MANTENIMIENTO",
+  "PERSONAL DE SEGURIDAD": "PERSONAL_SEGURIDAD",
+  "DIRECCIÓN DE SEGURIDAD": "DIRECCION_SEGURIDAD",
+  "DIRECCION DE SEGURIDAD": "DIRECCION_SEGURIDAD",
+};
 function areaCanon(area) { const a = (area || "").toUpperCase(); return AREA_COMPAT[a] || a; }
 function areaInfo(area) {
   const canon = areaCanon(area);
