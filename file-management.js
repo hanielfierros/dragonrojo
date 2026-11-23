@@ -914,7 +914,7 @@ function renderMensaje(m) {
   if (m.tieneArchivo) renderAdjunto(m, bubble);
 
   // Chip de ubicación para mensajes "Mensaje General" con enlace de Google Maps.
-  if (!esSistema && enlacesGoogle(textoMensaje).length) {
+  if (!esSistema && (enlacesGoogle(textoMensaje).length || coordenadasDeTexto(textoMensaje).length)) {
     const chip = el("div", "fm-ubicacion-chip");
     chip.appendChild(el("span", "", "Identificando ubicación…"));
     bubble.appendChild(chip);
@@ -1200,6 +1200,22 @@ function esMensajeGeneral(categoria) {
   return c === "mensaje general" || c === "general";
 }
 
+// Acepta un par de coordenadas como mensaje completo o línea independiente.
+// Evita interpretar números incidentales dentro de mensajes normales.
+function coordenadasDeTexto(texto) {
+  const patron = /^\s*(-?\d{1,2}(?:\.\d+)?)\s*,\s*(-?\d{1,3}(?:\.\d+)?)\s*$/;
+  const resultado = [];
+  for (const linea of String(texto || "").split(/\r?\n/)) {
+    const m = linea.match(patron);
+    if (!m) continue;
+    const lat = Number(m[1]), lon = Number(m[2]);
+    if (Math.abs(lat) <= 90 && Math.abs(lon) <= 180) {
+      resultado.push(`https://www.google.com/maps?q=${lat},${lon}`);
+    }
+  }
+  return [...new Set(resultado)];
+}
+
 function enlacesGoogle(texto) {
   const t = texto || "";
   const out = [];
@@ -1448,7 +1464,7 @@ async function procesarUbicaciones(lista) {
     for (const m of mensajes) {
       if (servicioIdActual !== sid) return;
       const contenido = m.mensaje || m.contenido || m.texto || "";
-      const enlaces = enlacesGoogle(contenido);
+      const enlaces = [...new Set([...enlacesGoogle(contenido), ...coordenadasDeTexto(contenido)])];
       if (!enlaces.length) continue;
       const mensajeId = m.mensajeId || m.id || m._id || "";
       for (let i = 0; i < enlaces.length; i++) {
@@ -1458,7 +1474,7 @@ async function procesarUbicaciones(lista) {
       }
     }
     actualizarMapaInfo();
-    centrarTodas();
+    // No recentrar automáticamente: conservar navegación y zoom del usuario.
   } finally { procesandoUbicaciones = false; }
 }
 
