@@ -1,0 +1,5882 @@
+[
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2024-12",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-01",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-02",
+    "asistencias": 18,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-03",
+    "asistencias": 25,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-04",
+    "asistencias": 28,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-05",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-07",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-08",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-11",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2025-12",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-01",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-02",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-04",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-05",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-08",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-09",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-10",
+    "asistencias": 21,
+    "tardanzas": 9,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-001",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2024-12",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-01",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-03",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-05",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-06",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-07",
+    "asistencias": 25,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-08",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-11",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2025-12",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-01",
+    "asistencias": 23,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-02",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-04",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 8,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-07",
+    "asistencias": 18,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-08",
+    "asistencias": 15,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-09",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-10",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-002",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2024-12",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-02",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-03",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-06",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-07",
+    "asistencias": 24,
+    "tardanzas": 7,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-09",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2025-12",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-01",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-02",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-04",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-07",
+    "asistencias": 24,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-08",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-09",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-10",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-003",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2024-12",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-01",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-03",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-05",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-06",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-07",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-08",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-09",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-10",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-11",
+    "asistencias": 25,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2025-12",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-02",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-03",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-04",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-05",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-07",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-09",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-10",
+    "asistencias": 26,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-004",
+    "mes": "2026-11",
+    "asistencias": 13,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2024-12",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-01",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-04",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-05",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-06",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-07",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-09",
+    "asistencias": 15,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-11",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2025-12",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-02",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-04",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-05",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-07",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-08",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-09",
+    "asistencias": 18,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-10",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-005",
+    "mes": "2026-11",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2024-12",
+    "asistencias": 26,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-02",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-03",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-05",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-06",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-07",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-08",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-09",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-10",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-11",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2025-12",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-02",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-05",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-07",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-08",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-10",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-006",
+    "mes": "2026-11",
+    "asistencias": 15,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-01",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-02",
+    "asistencias": 16,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-03",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-04",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-06",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-07",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-11",
+    "asistencias": 19,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2025-12",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-01",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-02",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-03",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-04",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-06",
+    "asistencias": 17,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-07",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-08",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-10",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-007",
+    "mes": "2026-11",
+    "asistencias": 12,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2024-12",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-02",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-03",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-04",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-05",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-07",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-09",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 3
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-11",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2025-12",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-01",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-04",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-05",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-06",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-07",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-09",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-10",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-008",
+    "mes": "2026-11",
+    "asistencias": 19,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2024-12",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-02",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-03",
+    "asistencias": 23,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-04",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-05",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-06",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-07",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-10",
+    "asistencias": 28,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2025-12",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-02",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-03",
+    "asistencias": 27,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-04",
+    "asistencias": 26,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-06",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-07",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 4
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-08",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-09",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-10",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-009",
+    "mes": "2026-11",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2024-12",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-01",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-03",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-04",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-05",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-07",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-09",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-10",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-11",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2025-12",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-03",
+    "asistencias": 25,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-04",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-05",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-07",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-08",
+    "asistencias": 23,
+    "tardanzas": 8,
+    "ausencias": 1
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-10",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "CHOFER-DEMO-010",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-01",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-02",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-03",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-04",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-06",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-07",
+    "asistencias": 15,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-09",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-10",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-11",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-12",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-03",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-06",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-07",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-09",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-10",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-11",
+    "asistencias": 13,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2024-12",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-01",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-06",
+    "asistencias": 20,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-07",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-08",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-12",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-01",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-02",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-04",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-06",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-07",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-09",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-10",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2024-12",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-01",
+    "asistencias": 18,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-02",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-05",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-06",
+    "asistencias": 26,
+    "tardanzas": 8,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-07",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-08",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-09",
+    "asistencias": 16,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-10",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-12",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-01",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-02",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-03",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-04",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-05",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-06",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-07",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-09",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-10",
+    "asistencias": 27,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-11",
+    "asistencias": 14,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2024-12",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-01",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-02",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-03",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-04",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-05",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-06",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-07",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-09",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-10",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-11",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-12",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-02",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-03",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-06",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-07",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-09",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-10",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-11",
+    "asistencias": 15,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2024-12",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-01",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-03",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-05",
+    "asistencias": 27,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-07",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-08",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-10",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-11",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-12",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-01",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-02",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-03",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-04",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-05",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-07",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-08",
+    "asistencias": 25,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-09",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-10",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-11",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-01",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-02",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-03",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-06",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-07",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-08",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-09",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-10",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-11",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-12",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-01",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-02",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-03",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-04",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-06",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-07",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-08",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-09",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-10",
+    "asistencias": 18,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2024-12",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-01",
+    "asistencias": 25,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-02",
+    "asistencias": 16,
+    "tardanzas": 1,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-05",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-06",
+    "asistencias": 24,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-07",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-08",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-11",
+    "asistencias": 17,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-12",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-01",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-02",
+    "asistencias": 20,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-04",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-05",
+    "asistencias": 25,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-07",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-08",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-09",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-10",
+    "asistencias": 25,
+    "tardanzas": 8,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-11",
+    "asistencias": 14,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2024-12",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-01",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-03",
+    "asistencias": 27,
+    "tardanzas": 10,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-05",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-06",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-07",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-09",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-02",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-03",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-05",
+    "asistencias": 15,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-07",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-09",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-10",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-11",
+    "asistencias": 14,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2024-12",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-02",
+    "asistencias": 21,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-03",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-06",
+    "asistencias": 17,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-07",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-08",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-09",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-10",
+    "asistencias": 27,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 8,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-12",
+    "asistencias": 22,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-01",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-04",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-05",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-06",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-09",
+    "asistencias": 18,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-10",
+    "asistencias": 27,
+    "tardanzas": 1,
+    "ausencias": 5
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-11",
+    "asistencias": 16,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2024-12",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-01",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-03",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-04",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-06",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-07",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-10",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-12",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-01",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-02",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-03",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-06",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-07",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-08",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-09",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-10",
+    "asistencias": 28,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-11",
+    "asistencias": 14,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2024-12",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-01",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-02",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-04",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-05",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-06",
+    "asistencias": 20,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-07",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-08",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-09",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-10",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-11",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-01",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-02",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-08",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-09",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-10",
+    "asistencias": 20,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-11",
+    "asistencias": 13,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2024-12",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-01",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-02",
+    "asistencias": 14,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-03",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-04",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-05",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-06",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-07",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-09",
+    "asistencias": 18,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-10",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-11",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-02",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-03",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-04",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-05",
+    "asistencias": 19,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-07",
+    "asistencias": 25,
+    "tardanzas": 6,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-08",
+    "asistencias": 25,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-09",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-10",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-11",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-01",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-02",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-07",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-09",
+    "asistencias": 25,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-10",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-11",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-12",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-02",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-03",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-04",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-07",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-08",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-09",
+    "asistencias": 14,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-10",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2024-12",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-01",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-02",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-03",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-04",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-05",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-07",
+    "asistencias": 26,
+    "tardanzas": 0,
+    "ausencias": 7
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-08",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-09",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-10",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-01",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-02",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-03",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-05",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-06",
+    "asistencias": 28,
+    "tardanzas": 6,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-08",
+    "asistencias": 21,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-09",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-10",
+    "asistencias": 25,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2024-12",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-01",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-04",
+    "asistencias": 20,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-05",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-07",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-10",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-04",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-06",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-07",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-08",
+    "asistencias": 25,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-09",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-10",
+    "asistencias": 23,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-01",
+    "asistencias": 27,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-02",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-06",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-07",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-08",
+    "asistencias": 16,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-09",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-11",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-12",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-01",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-02",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-03",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-05",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-06",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-09",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-10",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-11",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2024-12",
+    "asistencias": 19,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-01",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-03",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-05",
+    "asistencias": 20,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-06",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-07",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-08",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-09",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-10",
+    "asistencias": 25,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-11",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-12",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-01",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-02",
+    "asistencias": 16,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-04",
+    "asistencias": 26,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-05",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-07",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-09",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-10",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-11",
+    "asistencias": 12,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2024-12",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-01",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-02",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-03",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-04",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-06",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-07",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-09",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-10",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-12",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-01",
+    "asistencias": 25,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-02",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-03",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-04",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-06",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-07",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-10",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-11",
+    "asistencias": 18,
+    "tardanzas": 8,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-01",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-03",
+    "asistencias": 25,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-06",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-07",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-09",
+    "asistencias": 24,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-10",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-12",
+    "asistencias": 19,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-01",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-03",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-04",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-05",
+    "asistencias": 25,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-07",
+    "asistencias": 23,
+    "tardanzas": 6,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-08",
+    "asistencias": 27,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-09",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-10",
+    "asistencias": 28,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-11",
+    "asistencias": 16,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-01",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-03",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-04",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-05",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-06",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-07",
+    "asistencias": 26,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-08",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-09",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-10",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-11",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-12",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-01",
+    "asistencias": 25,
+    "tardanzas": 7,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-03",
+    "asistencias": 28,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-04",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-05",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-06",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-07",
+    "asistencias": 27,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-08",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-09",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-10",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 3
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-11",
+    "asistencias": 14,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2024-12",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-01",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-02",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-03",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-05",
+    "asistencias": 20,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-06",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 4
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-07",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-09",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-10",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-11",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2025-12",
+    "asistencias": 23,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-01",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-02",
+    "asistencias": 17,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-03",
+    "asistencias": 17,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-04",
+    "asistencias": 17,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-05",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 3
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-07",
+    "asistencias": 17,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-08",
+    "asistencias": 13,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-09",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-10",
+    "asistencias": 24,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-001",
+    "mes": "2026-11",
+    "asistencias": 15,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2024-12",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-01",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-02",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-03",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-04",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-06",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-07",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-08",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-09",
+    "asistencias": 24,
+    "tardanzas": 6,
+    "ausencias": 3
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-10",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-11",
+    "asistencias": 17,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2025-12",
+    "asistencias": 21,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-01",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-02",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-03",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-04",
+    "asistencias": 16,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-05",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-06",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-07",
+    "asistencias": 22,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-08",
+    "asistencias": 19,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-10",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-002",
+    "mes": "2026-11",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2024-12",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-01",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-02",
+    "asistencias": 20,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-03",
+    "asistencias": 19,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-04",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-05",
+    "asistencias": 24,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-06",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-07",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-08",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-10",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-11",
+    "asistencias": 18,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2025-12",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-01",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-02",
+    "asistencias": 18,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-03",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-04",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-05",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-06",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-07",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-08",
+    "asistencias": 24,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-09",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-10",
+    "asistencias": 17,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-003",
+    "mes": "2026-11",
+    "asistencias": 19,
+    "tardanzas": 6,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2024-12",
+    "asistencias": 24,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-01",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-02",
+    "asistencias": 23,
+    "tardanzas": 7,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-03",
+    "asistencias": 26,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-04",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-05",
+    "asistencias": 21,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-06",
+    "asistencias": 21,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-07",
+    "asistencias": 27,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-08",
+    "asistencias": 10,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-09",
+    "asistencias": 23,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-10",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-11",
+    "asistencias": 26,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2025-12",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-01",
+    "asistencias": 18,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-02",
+    "asistencias": 19,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-03",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-04",
+    "asistencias": 26,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-05",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-06",
+    "asistencias": 18,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-07",
+    "asistencias": 25,
+    "tardanzas": 9,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 3,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-09",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-10",
+    "asistencias": 28,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-004",
+    "mes": "2026-11",
+    "asistencias": 16,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2024-12",
+    "asistencias": 21,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-01",
+    "asistencias": 19,
+    "tardanzas": 0,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-02",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-03",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-04",
+    "asistencias": 18,
+    "tardanzas": 3,
+    "ausencias": 3
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-05",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-06",
+    "asistencias": 24,
+    "tardanzas": 3,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-07",
+    "asistencias": 16,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-08",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-09",
+    "asistencias": 19,
+    "tardanzas": 2,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-10",
+    "asistencias": 20,
+    "tardanzas": 4,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-11",
+    "asistencias": 22,
+    "tardanzas": 2,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2025-12",
+    "asistencias": 20,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-01",
+    "asistencias": 23,
+    "tardanzas": 2,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-02",
+    "asistencias": 21,
+    "tardanzas": 1,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-03",
+    "asistencias": 22,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-04",
+    "asistencias": 20,
+    "tardanzas": 3,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-05",
+    "asistencias": 22,
+    "tardanzas": 5,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-06",
+    "asistencias": 20,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-07",
+    "asistencias": 27,
+    "tardanzas": 4,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-08",
+    "asistencias": 22,
+    "tardanzas": 0,
+    "ausencias": 0
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-09",
+    "asistencias": 23,
+    "tardanzas": 5,
+    "ausencias": 2
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-10",
+    "asistencias": 22,
+    "tardanzas": 1,
+    "ausencias": 1
+  },
+  {
+    "personaId": "SUP-005",
+    "mes": "2026-11",
+    "asistencias": 11,
+    "tardanzas": 2,
+    "ausencias": 0
+  }
+]

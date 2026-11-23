@@ -1,0 +1,1878 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28818,
+          25.63167
+        ]
+      },
+      "properties": {
+        "id": "INS-001",
+        "nombre": "Instalación Ficticia 1",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-002",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.41112,
+          20.54774
+        ]
+      },
+      "properties": {
+        "id": "INS-002",
+        "nombre": "Instalación Ficticia 2",
+        "ciudad": "Querétaro",
+        "clienteId": "CLI-005",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.32846,
+          25.6589
+        ]
+      },
+      "properties": {
+        "id": "INS-003",
+        "nombre": "Instalación Ficticia 3",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-002",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.25594,
+          25.6662
+        ]
+      },
+      "properties": {
+        "id": "INS-004",
+        "nombre": "Instalación Ficticia 4",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-010",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34274,
+          20.60528
+        ]
+      },
+      "properties": {
+        "id": "INS-005",
+        "nombre": "Instalación Ficticia 5",
+        "ciudad": "Querétaro",
+        "clienteId": "CLI-006",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.37169,
+          20.60409
+        ]
+      },
+      "properties": {
+        "id": "INS-006",
+        "nombre": "Instalación Ficticia 6",
+        "ciudad": "Querétaro",
+        "clienteId": "CLI-003",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28544,
+          25.71287
+        ]
+      },
+      "properties": {
+        "id": "INS-007",
+        "nombre": "Instalación Ficticia 7",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-007",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.35865,
+          20.66828
+        ]
+      },
+      "properties": {
+        "id": "INS-008",
+        "nombre": "Instalación Ficticia 8",
+        "ciudad": "Guadalajara",
+        "clienteId": "CLI-004",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28819,
+          25.62689
+        ]
+      },
+      "properties": {
+        "id": "INS-009",
+        "nombre": "Instalación Ficticia 9",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-011",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.32243,
+          25.66269
+        ]
+      },
+      "properties": {
+        "id": "INS-010",
+        "nombre": "Instalación Ficticia 10",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-011",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60229,
+          19.26447
+        ]
+      },
+      "properties": {
+        "id": "INS-011",
+        "nombre": "Instalación Ficticia 11",
+        "ciudad": "Toluca",
+        "clienteId": "CLI-008",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.64636,
+          19.24183
+        ]
+      },
+      "properties": {
+        "id": "INS-012",
+        "nombre": "Instalación Ficticia 12",
+        "ciudad": "Toluca",
+        "clienteId": "CLI-008",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.26849,
+          25.64366
+        ]
+      },
+      "properties": {
+        "id": "INS-013",
+        "nombre": "Instalación Ficticia 13",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-007",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34623,
+          25.679
+        ]
+      },
+      "properties": {
+        "id": "INS-014",
+        "nombre": "Instalación Ficticia 14",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-010",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3361,
+          25.67225
+        ]
+      },
+      "properties": {
+        "id": "INS-015",
+        "nombre": "Instalación Ficticia 15",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-010",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28409,
+          25.70193
+        ]
+      },
+      "properties": {
+        "id": "INS-016",
+        "nombre": "Instalación Ficticia 16",
+        "ciudad": "Monterrey",
+        "clienteId": "CLI-010",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.69483,
+          19.3097
+        ]
+      },
+      "properties": {
+        "id": "INS-017",
+        "nombre": "Instalación Ficticia 17",
+        "ciudad": "Toluca",
+        "clienteId": "CLI-001",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.69048,
+          19.33494
+        ]
+      },
+      "properties": {
+        "id": "INS-018",
+        "nombre": "Instalación Ficticia 18",
+        "ciudad": "Toluca",
+        "clienteId": "CLI-001",
+        "tipo": "instalacion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.64956,
+          19.28582
+        ]
+      },
+      "properties": {
+        "id": "INC-000001",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-015",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60716,
+          19.30213
+        ]
+      },
+      "properties": {
+        "id": "INC-000002",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17818,
+          19.39585
+        ]
+      },
+      "properties": {
+        "id": "INC-000003",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-017",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.16061,
+          19.08679
+        ]
+      },
+      "properties": {
+        "id": "INC-000004",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-016",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.68948,
+          19.27447
+        ]
+      },
+      "properties": {
+        "id": "INC-000005",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-015",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.37317,
+          20.59309
+        ]
+      },
+      "properties": {
+        "id": "INC-000006",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.08057,
+          19.47664
+        ]
+      },
+      "properties": {
+        "id": "INC-000007",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38718,
+          20.56646
+        ]
+      },
+      "properties": {
+        "id": "INC-000008",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-004",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.61915,
+          19.32254
+        ]
+      },
+      "properties": {
+        "id": "INC-000009",
+        "tipo": "Alarma",
+        "gravedad": "Media",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38208,
+          20.54933
+        ]
+      },
+      "properties": {
+        "id": "INC-000010",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65413,
+          19.25311
+        ]
+      },
+      "properties": {
+        "id": "INC-000011",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-004",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60785,
+          19.30982
+        ]
+      },
+      "properties": {
+        "id": "INC-000012",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-007",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.15853,
+          19.08744
+        ]
+      },
+      "properties": {
+        "id": "INC-000013",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-013",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.09032,
+          19.40688
+        ]
+      },
+      "properties": {
+        "id": "INC-000014",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-001",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33314,
+          20.64651
+        ]
+      },
+      "properties": {
+        "id": "INC-000015",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-005",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33876,
+          20.63682
+        ]
+      },
+      "properties": {
+        "id": "INC-000016",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-004",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15159,
+          19.42704
+        ]
+      },
+      "properties": {
+        "id": "INC-000017",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-008",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38468,
+          20.60238
+        ]
+      },
+      "properties": {
+        "id": "INC-000018",
+        "tipo": "Alarma",
+        "gravedad": "Media",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.35013,
+          20.62899
+        ]
+      },
+      "properties": {
+        "id": "INC-000019",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-017",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.17296,
+          19.0176
+        ]
+      },
+      "properties": {
+        "id": "INC-000020",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31051,
+          25.65805
+        ]
+      },
+      "properties": {
+        "id": "INC-000021",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33885,
+          20.71603
+        ]
+      },
+      "properties": {
+        "id": "INC-000022",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.42184,
+          20.6103
+        ]
+      },
+      "properties": {
+        "id": "INC-000023",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.62211,
+          19.33903
+        ]
+      },
+      "properties": {
+        "id": "INC-000024",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-006",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.34286,
+          20.68933
+        ]
+      },
+      "properties": {
+        "id": "INC-000025",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.26094,
+          25.63135
+        ]
+      },
+      "properties": {
+        "id": "INC-000026",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-015",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.29402,
+          25.68571
+        ]
+      },
+      "properties": {
+        "id": "INC-000027",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33408,
+          20.71327
+        ]
+      },
+      "properties": {
+        "id": "INC-000028",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.21629,
+          19.0338
+        ]
+      },
+      "properties": {
+        "id": "INC-000029",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-008",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.21229,
+          18.9956
+        ]
+      },
+      "properties": {
+        "id": "INC-000030",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-013",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.35031,
+          20.61428
+        ]
+      },
+      "properties": {
+        "id": "INC-000031",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-018",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6122,
+          19.25353
+        ]
+      },
+      "properties": {
+        "id": "INC-000032",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.31431,
+          25.71261
+        ]
+      },
+      "properties": {
+        "id": "INC-000033",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.38968,
+          20.63306
+        ]
+      },
+      "properties": {
+        "id": "INC-000034",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.30647,
+          20.63391
+        ]
+      },
+      "properties": {
+        "id": "INC-000035",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-007",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.18954,
+          19.06456
+        ]
+      },
+      "properties": {
+        "id": "INC-000036",
+        "tipo": "Emergencia",
+        "gravedad": "Alta",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.23836,
+          19.07075
+        ]
+      },
+      "properties": {
+        "id": "INC-000037",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.27051,
+          25.68082
+        ]
+      },
+      "properties": {
+        "id": "INC-000038",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-013",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16516,
+          19.45522
+        ]
+      },
+      "properties": {
+        "id": "INC-000039",
+        "tipo": "Alarma",
+        "gravedad": "Media",
+        "instalacionId": "INS-018",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.42678,
+          20.57582
+        ]
+      },
+      "properties": {
+        "id": "INC-000040",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-016",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.11516,
+          19.43451
+        ]
+      },
+      "properties": {
+        "id": "INC-000041",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.15874,
+          19.02494
+        ]
+      },
+      "properties": {
+        "id": "INC-000042",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.64991,
+          19.32533
+        ]
+      },
+      "properties": {
+        "id": "INC-000043",
+        "tipo": "Emergencia",
+        "gravedad": "Alta",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.60985,
+          19.30466
+        ]
+      },
+      "properties": {
+        "id": "INC-000044",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.6726,
+          19.2531
+        ]
+      },
+      "properties": {
+        "id": "INC-000045",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15641,
+          19.41192
+        ]
+      },
+      "properties": {
+        "id": "INC-000046",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-018",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.16573,
+          19.41713
+        ]
+      },
+      "properties": {
+        "id": "INC-000047",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.20305,
+          19.04758
+        ]
+      },
+      "properties": {
+        "id": "INC-000048",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.27091,
+          25.62359
+        ]
+      },
+      "properties": {
+        "id": "INC-000049",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33837,
+          20.62105
+        ]
+      },
+      "properties": {
+        "id": "INC-000050",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38451,
+          20.60736
+        ]
+      },
+      "properties": {
+        "id": "INC-000051",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-006",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.33947,
+          25.70196
+        ]
+      },
+      "properties": {
+        "id": "INC-000052",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-001",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.65496,
+          19.30753
+        ]
+      },
+      "properties": {
+        "id": "INC-000053",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-007",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31983,
+          20.63254
+        ]
+      },
+      "properties": {
+        "id": "INC-000054",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-018",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.67609,
+          19.28267
+        ]
+      },
+      "properties": {
+        "id": "INC-000055",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.17093,
+          18.99049
+        ]
+      },
+      "properties": {
+        "id": "INC-000056",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.36153,
+          20.57475
+        ]
+      },
+      "properties": {
+        "id": "INC-000057",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-015",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.61171,
+          19.26667
+        ]
+      },
+      "properties": {
+        "id": "INC-000058",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15115,
+          19.44658
+        ]
+      },
+      "properties": {
+        "id": "INC-000059",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.29416,
+          25.64889
+        ]
+      },
+      "properties": {
+        "id": "INC-000060",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-001",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.15375,
+          19.46562
+        ]
+      },
+      "properties": {
+        "id": "INC-000061",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-010",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3079,
+          25.64769
+        ]
+      },
+      "properties": {
+        "id": "INC-000062",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-008",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.69439,
+          19.24589
+        ]
+      },
+      "properties": {
+        "id": "INC-000063",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-006",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.15833,
+          19.05912
+        ]
+      },
+      "properties": {
+        "id": "INC-000064",
+        "tipo": "Emergencia",
+        "gravedad": "Alta",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3242,
+          25.68289
+        ]
+      },
+      "properties": {
+        "id": "INC-000065",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.69719,
+          19.31873
+        ]
+      },
+      "properties": {
+        "id": "INC-000066",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-008",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38294,
+          20.59626
+        ]
+      },
+      "properties": {
+        "id": "INC-000067",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-001",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.64568,
+          19.26025
+        ]
+      },
+      "properties": {
+        "id": "INC-000068",
+        "tipo": "Alarma",
+        "gravedad": "Alta",
+        "instalacionId": "INS-017",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2319,
+          18.99586
+        ]
+      },
+      "properties": {
+        "id": "INC-000069",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-010",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.621,
+          19.28661
+        ]
+      },
+      "properties": {
+        "id": "INC-000070",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-004",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17565,
+          19.42176
+        ]
+      },
+      "properties": {
+        "id": "INC-000071",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.27881,
+          25.68515
+        ]
+      },
+      "properties": {
+        "id": "INC-000072",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-018",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.17305,
+          18.99821
+        ]
+      },
+      "properties": {
+        "id": "INC-000073",
+        "tipo": "Intento de robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-010",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.36037,
+          20.55432
+        ]
+      },
+      "properties": {
+        "id": "INC-000074",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-013",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.39588,
+          20.55639
+        ]
+      },
+      "properties": {
+        "id": "INC-000075",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-009",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.33903,
+          20.67717
+        ]
+      },
+      "properties": {
+        "id": "INC-000076",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-014",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.31201,
+          20.68546
+        ]
+      },
+      "properties": {
+        "id": "INC-000077",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34116,
+          20.62581
+        ]
+      },
+      "properties": {
+        "id": "INC-000078",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-005",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.34926,
+          25.69413
+        ]
+      },
+      "properties": {
+        "id": "INC-000079",
+        "tipo": "Alarma",
+        "gravedad": "Baja",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.32157,
+          20.62015
+        ]
+      },
+      "properties": {
+        "id": "INC-000080",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-005",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.38172,
+          20.54875
+        ]
+      },
+      "properties": {
+        "id": "INC-000081",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-015",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12259,
+          19.38909
+        ]
+      },
+      "properties": {
+        "id": "INC-000082",
+        "tipo": "Robo",
+        "gravedad": "Baja",
+        "instalacionId": "INS-011",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.24846,
+          19.0727
+        ]
+      },
+      "properties": {
+        "id": "INC-000083",
+        "tipo": "Robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-007",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.37405,
+          20.62663
+        ]
+      },
+      "properties": {
+        "id": "INC-000084",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-013",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.66069,
+          19.33995
+        ]
+      },
+      "properties": {
+        "id": "INC-000085",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-017",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.69037,
+          19.2504
+        ]
+      },
+      "properties": {
+        "id": "INC-000086",
+        "tipo": "Intento de robo",
+        "gravedad": "Alta",
+        "instalacionId": "INS-012",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.33725,
+          25.62929
+        ]
+      },
+      "properties": {
+        "id": "INC-000087",
+        "tipo": "Robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-002",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.20431,
+          19.01966
+        ]
+      },
+      "properties": {
+        "id": "INC-000088",
+        "tipo": "Emergencia",
+        "gravedad": "Baja",
+        "instalacionId": "INS-016",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.28735,
+          25.66712
+        ]
+      },
+      "properties": {
+        "id": "INC-000089",
+        "tipo": "Intento de robo",
+        "gravedad": "Media",
+        "instalacionId": "INS-016",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14966,
+          19.41041
+        ]
+      },
+      "properties": {
+        "id": "INC-000090",
+        "tipo": "Emergencia",
+        "gravedad": "Media",
+        "instalacionId": "INS-003",
+        "tipoEnt": "incidente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -99.69483,
+            19.3097
+          ],
+          [
+            -103.35865,
+            20.66828
+          ],
+          [
+            -100.26849,
+            25.64366
+          ],
+          [
+            -99.60229,
+            19.26447
+          ],
+          [
+            -100.32243,
+            25.66269
+          ]
+        ]
+      },
+      "properties": {
+        "id": "RUTA-DEMO-001",
+        "nombre": "Ruta 1",
+        "tipoEnt": "ruta",
+        "simulado": true,
+        "nota": "Trayecto de referencia simulado"
+      }
+    }
+  ],
+  "marca": "DATOS FICTICIOS — DEMOSTRACIÓN",
+  "nota_rutas": "Trayecto de referencia simulado"
+}

@@ -1,0 +1,6932 @@
+[
+  {
+    "cargaId": "CAR-000001",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-01",
+    "mes": "2024-12",
+    "litros": 28.96,
+    "precioLitro": 21.86,
+    "tipo": "Gasolina regular",
+    "costo": 633.07
+  },
+  {
+    "cargaId": "CAR-000002",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-05",
+    "mes": "2024-12",
+    "litros": 28.99,
+    "precioLitro": 22.13,
+    "tipo": "Gasolina regular",
+    "costo": 641.55
+  },
+  {
+    "cargaId": "CAR-000003",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "litros": 29.07,
+    "precioLitro": 22.36,
+    "tipo": "Gasolina regular",
+    "costo": 650.01
+  },
+  {
+    "cargaId": "CAR-000004",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "litros": 29.43,
+    "precioLitro": 22.25,
+    "tipo": "Gasolina regular",
+    "costo": 654.82
+  },
+  {
+    "cargaId": "CAR-000005",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-15",
+    "mes": "2024-12",
+    "litros": 28.97,
+    "precioLitro": 22.33,
+    "tipo": "Gasolina regular",
+    "costo": 646.9
+  },
+  {
+    "cargaId": "CAR-000006",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-17",
+    "mes": "2024-12",
+    "litros": 29.31,
+    "precioLitro": 22.62,
+    "tipo": "Gasolina regular",
+    "costo": 662.99
+  },
+  {
+    "cargaId": "CAR-000007",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "litros": 29.42,
+    "precioLitro": 22.79,
+    "tipo": "Gasolina regular",
+    "costo": 670.48
+  },
+  {
+    "cargaId": "CAR-000008",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-26",
+    "mes": "2024-12",
+    "litros": 29.95,
+    "precioLitro": 22.88,
+    "tipo": "Gasolina regular",
+    "costo": 685.26
+  },
+  {
+    "cargaId": "CAR-000009",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2024-12-31",
+    "mes": "2024-12",
+    "litros": 29.39,
+    "precioLitro": 22.77,
+    "tipo": "Gasolina regular",
+    "costo": 669.21
+  },
+  {
+    "cargaId": "CAR-000010",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-05",
+    "mes": "2025-01",
+    "litros": 29.62,
+    "precioLitro": 22.74,
+    "tipo": "Gasolina regular",
+    "costo": 673.56
+  },
+  {
+    "cargaId": "CAR-000011",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-08",
+    "mes": "2025-01",
+    "litros": 28.85,
+    "precioLitro": 22.95,
+    "tipo": "Gasolina regular",
+    "costo": 662.11
+  },
+  {
+    "cargaId": "CAR-000012",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-12",
+    "mes": "2025-01",
+    "litros": 29.5,
+    "precioLitro": 23.03,
+    "tipo": "Gasolina regular",
+    "costo": 679.38
+  },
+  {
+    "cargaId": "CAR-000013",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-14",
+    "mes": "2025-01",
+    "litros": 28.91,
+    "precioLitro": 23.2,
+    "tipo": "Gasolina regular",
+    "costo": 670.71
+  },
+  {
+    "cargaId": "CAR-000014",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "litros": 29.65,
+    "precioLitro": 23.43,
+    "tipo": "Gasolina regular",
+    "costo": 694.7
+  },
+  {
+    "cargaId": "CAR-000015",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-20",
+    "mes": "2025-01",
+    "litros": 29.93,
+    "precioLitro": 23.54,
+    "tipo": "Gasolina regular",
+    "costo": 704.55
+  },
+  {
+    "cargaId": "CAR-000016",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-25",
+    "mes": "2025-01",
+    "litros": 29.31,
+    "precioLitro": 23.65,
+    "tipo": "Gasolina regular",
+    "costo": 693.18
+  },
+  {
+    "cargaId": "CAR-000017",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-28",
+    "mes": "2025-01",
+    "litros": 29.19,
+    "precioLitro": 23.72,
+    "tipo": "Gasolina regular",
+    "costo": 692.39
+  },
+  {
+    "cargaId": "CAR-000018",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-01-31",
+    "mes": "2025-01",
+    "litros": 29.57,
+    "precioLitro": 23.69,
+    "tipo": "Gasolina regular",
+    "costo": 700.51
+  },
+  {
+    "cargaId": "CAR-000019",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "litros": 28.96,
+    "precioLitro": 23.66,
+    "tipo": "Gasolina regular",
+    "costo": 685.19
+  },
+  {
+    "cargaId": "CAR-000020",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-08",
+    "mes": "2025-02",
+    "litros": 29.18,
+    "precioLitro": 23.68,
+    "tipo": "Gasolina regular",
+    "costo": 690.98
+  },
+  {
+    "cargaId": "CAR-000021",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-11",
+    "mes": "2025-02",
+    "litros": 29.59,
+    "precioLitro": 23.9,
+    "tipo": "Gasolina regular",
+    "costo": 707.2
+  },
+  {
+    "cargaId": "CAR-000022",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-13",
+    "mes": "2025-02",
+    "litros": 29.25,
+    "precioLitro": 24.01,
+    "tipo": "Gasolina regular",
+    "costo": 702.29
+  },
+  {
+    "cargaId": "CAR-000023",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-16",
+    "mes": "2025-02",
+    "litros": 29.52,
+    "precioLitro": 24.28,
+    "tipo": "Gasolina regular",
+    "costo": 716.75
+  },
+  {
+    "cargaId": "CAR-000024",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-20",
+    "mes": "2025-02",
+    "litros": 28.77,
+    "precioLitro": 24.15,
+    "tipo": "Gasolina regular",
+    "costo": 694.8
+  },
+  {
+    "cargaId": "CAR-000025",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-22",
+    "mes": "2025-02",
+    "litros": 29.33,
+    "precioLitro": 24.32,
+    "tipo": "Gasolina regular",
+    "costo": 713.31
+  },
+  {
+    "cargaId": "CAR-000026",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-02-27",
+    "mes": "2025-02",
+    "litros": 29.05,
+    "precioLitro": 24.47,
+    "tipo": "Gasolina regular",
+    "costo": 710.85
+  },
+  {
+    "cargaId": "CAR-000027",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "litros": 29.16,
+    "precioLitro": 24.59,
+    "tipo": "Gasolina regular",
+    "costo": 717.04
+  },
+  {
+    "cargaId": "CAR-000028",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-05",
+    "mes": "2025-03",
+    "litros": 29.37,
+    "precioLitro": 24.83,
+    "tipo": "Gasolina regular",
+    "costo": 729.26
+  },
+  {
+    "cargaId": "CAR-000029",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "litros": 29.47,
+    "precioLitro": 24.98,
+    "tipo": "Gasolina regular",
+    "costo": 736.16
+  },
+  {
+    "cargaId": "CAR-000030",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "litros": 29.71,
+    "precioLitro": 25.16,
+    "tipo": "Gasolina regular",
+    "costo": 747.5
+  },
+  {
+    "cargaId": "CAR-000031",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-16",
+    "mes": "2025-03",
+    "litros": 29.51,
+    "precioLitro": 25.23,
+    "tipo": "Gasolina regular",
+    "costo": 744.54
+  },
+  {
+    "cargaId": "CAR-000032",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-21",
+    "mes": "2025-03",
+    "litros": 28.75,
+    "precioLitro": 25.22,
+    "tipo": "Gasolina regular",
+    "costo": 725.07
+  },
+  {
+    "cargaId": "CAR-000033",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-24",
+    "mes": "2025-03",
+    "litros": 29.36,
+    "precioLitro": 25.05,
+    "tipo": "Gasolina regular",
+    "costo": 735.47
+  },
+  {
+    "cargaId": "CAR-000034",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-27",
+    "mes": "2025-03",
+    "litros": 29.35,
+    "precioLitro": 24.88,
+    "tipo": "Gasolina regular",
+    "costo": 730.23
+  },
+  {
+    "cargaId": "CAR-000035",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-03-31",
+    "mes": "2025-03",
+    "litros": 29.06,
+    "precioLitro": 24.87,
+    "tipo": "Gasolina regular",
+    "costo": 722.72
+  },
+  {
+    "cargaId": "CAR-000036",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-05",
+    "mes": "2025-04",
+    "litros": 29.67,
+    "precioLitro": 24.81,
+    "tipo": "Gasolina regular",
+    "costo": 736.11
+  },
+  {
+    "cargaId": "CAR-000037",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-08",
+    "mes": "2025-04",
+    "litros": 29.85,
+    "precioLitro": 24.69,
+    "tipo": "Gasolina regular",
+    "costo": 737.0
+  },
+  {
+    "cargaId": "CAR-000038",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-10",
+    "mes": "2025-04",
+    "litros": 29.08,
+    "precioLitro": 24.52,
+    "tipo": "Gasolina regular",
+    "costo": 713.04
+  },
+  {
+    "cargaId": "CAR-000039",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "litros": 28.82,
+    "precioLitro": 24.48,
+    "tipo": "Gasolina regular",
+    "costo": 705.51
+  },
+  {
+    "cargaId": "CAR-000040",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "litros": 29.9,
+    "precioLitro": 24.5,
+    "tipo": "Gasolina regular",
+    "costo": 732.55
+  },
+  {
+    "cargaId": "CAR-000041",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-23",
+    "mes": "2025-04",
+    "litros": 29.34,
+    "precioLitro": 24.57,
+    "tipo": "Gasolina regular",
+    "costo": 720.88
+  },
+  {
+    "cargaId": "CAR-000042",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-28",
+    "mes": "2025-04",
+    "litros": 29.28,
+    "precioLitro": 24.38,
+    "tipo": "Gasolina regular",
+    "costo": 713.85
+  },
+  {
+    "cargaId": "CAR-000043",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "litros": 29.34,
+    "precioLitro": 24.63,
+    "tipo": "Gasolina regular",
+    "costo": 722.64
+  },
+  {
+    "cargaId": "CAR-000044",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-03",
+    "mes": "2025-05",
+    "litros": 29.95,
+    "precioLitro": 24.66,
+    "tipo": "Gasolina regular",
+    "costo": 738.57
+  },
+  {
+    "cargaId": "CAR-000045",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-07",
+    "mes": "2025-05",
+    "litros": 29.72,
+    "precioLitro": 24.65,
+    "tipo": "Gasolina regular",
+    "costo": 732.6
+  },
+  {
+    "cargaId": "CAR-000046",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-10",
+    "mes": "2025-05",
+    "litros": 28.94,
+    "precioLitro": 24.73,
+    "tipo": "Gasolina regular",
+    "costo": 715.69
+  },
+  {
+    "cargaId": "CAR-000047",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-15",
+    "mes": "2025-05",
+    "litros": 29.97,
+    "precioLitro": 24.57,
+    "tipo": "Gasolina regular",
+    "costo": 736.36
+  },
+  {
+    "cargaId": "CAR-000048",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-20",
+    "mes": "2025-05",
+    "litros": 29.98,
+    "precioLitro": 24.85,
+    "tipo": "Gasolina regular",
+    "costo": 745.0
+  },
+  {
+    "cargaId": "CAR-000049",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "litros": 29.61,
+    "precioLitro": 24.81,
+    "tipo": "Gasolina regular",
+    "costo": 734.62
+  },
+  {
+    "cargaId": "CAR-000050",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-27",
+    "mes": "2025-05",
+    "litros": 29.58,
+    "precioLitro": 24.62,
+    "tipo": "Gasolina regular",
+    "costo": 728.26
+  },
+  {
+    "cargaId": "CAR-000051",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "litros": 28.76,
+    "precioLitro": 24.51,
+    "tipo": "Gasolina regular",
+    "costo": 704.91
+  },
+  {
+    "cargaId": "CAR-000052",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-02",
+    "mes": "2025-06",
+    "litros": 28.91,
+    "precioLitro": 24.79,
+    "tipo": "Gasolina regular",
+    "costo": 716.68
+  },
+  {
+    "cargaId": "CAR-000053",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-05",
+    "mes": "2025-06",
+    "litros": 29.52,
+    "precioLitro": 24.71,
+    "tipo": "Gasolina regular",
+    "costo": 729.44
+  },
+  {
+    "cargaId": "CAR-000054",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "litros": 29.66,
+    "precioLitro": 24.62,
+    "tipo": "Gasolina regular",
+    "costo": 730.23
+  },
+  {
+    "cargaId": "CAR-000055",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "litros": 29.61,
+    "precioLitro": 24.5,
+    "tipo": "Gasolina regular",
+    "costo": 725.44
+  },
+  {
+    "cargaId": "CAR-000056",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-16",
+    "mes": "2025-06",
+    "litros": 29.76,
+    "precioLitro": 24.5,
+    "tipo": "Gasolina regular",
+    "costo": 729.12
+  },
+  {
+    "cargaId": "CAR-000057",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "litros": 28.92,
+    "precioLitro": 24.66,
+    "tipo": "Gasolina regular",
+    "costo": 713.17
+  },
+  {
+    "cargaId": "CAR-000058",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-20",
+    "mes": "2025-06",
+    "litros": 29.66,
+    "precioLitro": 24.59,
+    "tipo": "Gasolina regular",
+    "costo": 729.34
+  },
+  {
+    "cargaId": "CAR-000059",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-22",
+    "mes": "2025-06",
+    "litros": 29.11,
+    "precioLitro": 24.8,
+    "tipo": "Gasolina regular",
+    "costo": 721.93
+  },
+  {
+    "cargaId": "CAR-000060",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-24",
+    "mes": "2025-06",
+    "litros": 29.21,
+    "precioLitro": 24.78,
+    "tipo": "Gasolina regular",
+    "costo": 723.82
+  },
+  {
+    "cargaId": "CAR-000061",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "litros": 29.77,
+    "precioLitro": 25.0,
+    "tipo": "Gasolina regular",
+    "costo": 744.25
+  },
+  {
+    "cargaId": "CAR-000062",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-30",
+    "mes": "2025-06",
+    "litros": 29.19,
+    "precioLitro": 25.27,
+    "tipo": "Gasolina regular",
+    "costo": 737.63
+  },
+  {
+    "cargaId": "CAR-000063",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "litros": 29.67,
+    "precioLitro": 25.27,
+    "tipo": "Gasolina regular",
+    "costo": 749.76
+  },
+  {
+    "cargaId": "CAR-000064",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-07",
+    "mes": "2025-07",
+    "litros": 28.75,
+    "precioLitro": 25.18,
+    "tipo": "Gasolina regular",
+    "costo": 723.92
+  },
+  {
+    "cargaId": "CAR-000065",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "litros": 29.74,
+    "precioLitro": 25.18,
+    "tipo": "Gasolina regular",
+    "costo": 748.85
+  },
+  {
+    "cargaId": "CAR-000066",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "litros": 29.26,
+    "precioLitro": 25.17,
+    "tipo": "Gasolina regular",
+    "costo": 736.47
+  },
+  {
+    "cargaId": "CAR-000067",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "litros": 29.1,
+    "precioLitro": 24.99,
+    "tipo": "Gasolina regular",
+    "costo": 727.21
+  },
+  {
+    "cargaId": "CAR-000068",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "litros": 29.45,
+    "precioLitro": 24.84,
+    "tipo": "Gasolina regular",
+    "costo": 731.54
+  },
+  {
+    "cargaId": "CAR-000069",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-24",
+    "mes": "2025-07",
+    "litros": 29.54,
+    "precioLitro": 24.67,
+    "tipo": "Gasolina regular",
+    "costo": 728.75
+  },
+  {
+    "cargaId": "CAR-000070",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "litros": 29.26,
+    "precioLitro": 24.68,
+    "tipo": "Gasolina regular",
+    "costo": 722.14
+  },
+  {
+    "cargaId": "CAR-000071",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-30",
+    "mes": "2025-07",
+    "litros": 29.04,
+    "precioLitro": 24.64,
+    "tipo": "Gasolina regular",
+    "costo": 715.55
+  },
+  {
+    "cargaId": "CAR-000072",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "litros": 28.73,
+    "precioLitro": 24.69,
+    "tipo": "Gasolina regular",
+    "costo": 709.34
+  },
+  {
+    "cargaId": "CAR-000073",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-03",
+    "mes": "2025-08",
+    "litros": 28.99,
+    "precioLitro": 24.78,
+    "tipo": "Gasolina regular",
+    "costo": 718.37
+  },
+  {
+    "cargaId": "CAR-000074",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-08",
+    "mes": "2025-08",
+    "litros": 29.65,
+    "precioLitro": 24.68,
+    "tipo": "Gasolina regular",
+    "costo": 731.76
+  },
+  {
+    "cargaId": "CAR-000075",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "litros": 29.71,
+    "precioLitro": 24.88,
+    "tipo": "Gasolina regular",
+    "costo": 739.18
+  },
+  {
+    "cargaId": "CAR-000076",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-12",
+    "mes": "2025-08",
+    "litros": 29.18,
+    "precioLitro": 24.86,
+    "tipo": "Gasolina regular",
+    "costo": 725.41
+  },
+  {
+    "cargaId": "CAR-000077",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "litros": 29.98,
+    "precioLitro": 24.67,
+    "tipo": "Gasolina regular",
+    "costo": 739.61
+  },
+  {
+    "cargaId": "CAR-000078",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "litros": 29.21,
+    "precioLitro": 24.91,
+    "tipo": "Gasolina regular",
+    "costo": 727.62
+  },
+  {
+    "cargaId": "CAR-000079",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-20",
+    "mes": "2025-08",
+    "litros": 29.21,
+    "precioLitro": 24.83,
+    "tipo": "Gasolina regular",
+    "costo": 725.28
+  },
+  {
+    "cargaId": "CAR-000080",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-25",
+    "mes": "2025-08",
+    "litros": 29.87,
+    "precioLitro": 24.98,
+    "tipo": "Gasolina regular",
+    "costo": 746.15
+  },
+  {
+    "cargaId": "CAR-000081",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-30",
+    "mes": "2025-08",
+    "litros": 29.92,
+    "precioLitro": 25.13,
+    "tipo": "Gasolina regular",
+    "costo": 751.89
+  },
+  {
+    "cargaId": "CAR-000082",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "litros": 28.83,
+    "precioLitro": 25.22,
+    "tipo": "Gasolina regular",
+    "costo": 727.09
+  },
+  {
+    "cargaId": "CAR-000083",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-09",
+    "mes": "2025-09",
+    "litros": 28.95,
+    "precioLitro": 25.18,
+    "tipo": "Gasolina regular",
+    "costo": 728.96
+  },
+  {
+    "cargaId": "CAR-000084",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-11",
+    "mes": "2025-09",
+    "litros": 29.17,
+    "precioLitro": 25.15,
+    "tipo": "Gasolina regular",
+    "costo": 733.63
+  },
+  {
+    "cargaId": "CAR-000085",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "litros": 29.61,
+    "precioLitro": 25.36,
+    "tipo": "Gasolina regular",
+    "costo": 750.91
+  },
+  {
+    "cargaId": "CAR-000086",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-17",
+    "mes": "2025-09",
+    "litros": 29.95,
+    "precioLitro": 25.4,
+    "tipo": "Gasolina regular",
+    "costo": 760.73
+  },
+  {
+    "cargaId": "CAR-000087",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-19",
+    "mes": "2025-09",
+    "litros": 28.87,
+    "precioLitro": 25.21,
+    "tipo": "Gasolina regular",
+    "costo": 727.81
+  },
+  {
+    "cargaId": "CAR-000088",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "litros": 29.47,
+    "precioLitro": 25.39,
+    "tipo": "Gasolina regular",
+    "costo": 748.24
+  },
+  {
+    "cargaId": "CAR-000089",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-26",
+    "mes": "2025-09",
+    "litros": 29.72,
+    "precioLitro": 25.65,
+    "tipo": "Gasolina regular",
+    "costo": 762.32
+  },
+  {
+    "cargaId": "CAR-000090",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "litros": 28.84,
+    "precioLitro": 25.93,
+    "tipo": "Gasolina regular",
+    "costo": 747.82
+  },
+  {
+    "cargaId": "CAR-000091",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "litros": 29.87,
+    "precioLitro": 25.94,
+    "tipo": "Gasolina regular",
+    "costo": 774.83
+  },
+  {
+    "cargaId": "CAR-000092",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "litros": 29.7,
+    "precioLitro": 26.06,
+    "tipo": "Gasolina regular",
+    "costo": 773.98
+  },
+  {
+    "cargaId": "CAR-000093",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "litros": 29.07,
+    "precioLitro": 26.05,
+    "tipo": "Gasolina regular",
+    "costo": 757.27
+  },
+  {
+    "cargaId": "CAR-000094",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-14",
+    "mes": "2025-10",
+    "litros": 29.26,
+    "precioLitro": 26.07,
+    "tipo": "Gasolina regular",
+    "costo": 762.81
+  },
+  {
+    "cargaId": "CAR-000095",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "litros": 28.76,
+    "precioLitro": 25.93,
+    "tipo": "Gasolina regular",
+    "costo": 745.75
+  },
+  {
+    "cargaId": "CAR-000096",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "litros": 29.63,
+    "precioLitro": 26.07,
+    "tipo": "Gasolina regular",
+    "costo": 772.45
+  },
+  {
+    "cargaId": "CAR-000097",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-10-27",
+    "mes": "2025-10",
+    "litros": 28.76,
+    "precioLitro": 26.34,
+    "tipo": "Gasolina regular",
+    "costo": 757.54
+  },
+  {
+    "cargaId": "CAR-000098",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-01",
+    "mes": "2025-11",
+    "litros": 29.42,
+    "precioLitro": 26.33,
+    "tipo": "Gasolina regular",
+    "costo": 774.63
+  },
+  {
+    "cargaId": "CAR-000099",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "litros": 29.89,
+    "precioLitro": 26.57,
+    "tipo": "Gasolina regular",
+    "costo": 794.18
+  },
+  {
+    "cargaId": "CAR-000100",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-08",
+    "mes": "2025-11",
+    "litros": 29.99,
+    "precioLitro": 26.42,
+    "tipo": "Gasolina regular",
+    "costo": 792.34
+  },
+  {
+    "cargaId": "CAR-000101",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-12",
+    "mes": "2025-11",
+    "litros": 29.71,
+    "precioLitro": 26.27,
+    "tipo": "Gasolina regular",
+    "costo": 780.48
+  },
+  {
+    "cargaId": "CAR-000102",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "litros": 28.76,
+    "precioLitro": 26.31,
+    "tipo": "Gasolina regular",
+    "costo": 756.68
+  },
+  {
+    "cargaId": "CAR-000103",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "litros": 29.72,
+    "precioLitro": 26.52,
+    "tipo": "Gasolina regular",
+    "costo": 788.17
+  },
+  {
+    "cargaId": "CAR-000104",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "litros": 29.81,
+    "precioLitro": 26.75,
+    "tipo": "Gasolina regular",
+    "costo": 797.42
+  },
+  {
+    "cargaId": "CAR-000105",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-26",
+    "mes": "2025-11",
+    "litros": 29.15,
+    "precioLitro": 26.83,
+    "tipo": "Gasolina regular",
+    "costo": 782.09
+  },
+  {
+    "cargaId": "CAR-000106",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-11-29",
+    "mes": "2025-11",
+    "litros": 29.63,
+    "precioLitro": 26.76,
+    "tipo": "Gasolina regular",
+    "costo": 792.9
+  },
+  {
+    "cargaId": "CAR-000107",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-01",
+    "mes": "2025-12",
+    "litros": 29.7,
+    "precioLitro": 26.78,
+    "tipo": "Gasolina regular",
+    "costo": 795.37
+  },
+  {
+    "cargaId": "CAR-000108",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "litros": 29.37,
+    "precioLitro": 26.99,
+    "tipo": "Gasolina regular",
+    "costo": 792.7
+  },
+  {
+    "cargaId": "CAR-000109",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-07",
+    "mes": "2025-12",
+    "litros": 29.52,
+    "precioLitro": 26.94,
+    "tipo": "Gasolina regular",
+    "costo": 795.27
+  },
+  {
+    "cargaId": "CAR-000110",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-09",
+    "mes": "2025-12",
+    "litros": 29.14,
+    "precioLitro": 26.95,
+    "tipo": "Gasolina regular",
+    "costo": 785.32
+  },
+  {
+    "cargaId": "CAR-000111",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-13",
+    "mes": "2025-12",
+    "litros": 29.28,
+    "precioLitro": 26.85,
+    "tipo": "Gasolina regular",
+    "costo": 786.17
+  },
+  {
+    "cargaId": "CAR-000112",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-17",
+    "mes": "2025-12",
+    "litros": 29.71,
+    "precioLitro": 27.12,
+    "tipo": "Gasolina regular",
+    "costo": 805.74
+  },
+  {
+    "cargaId": "CAR-000113",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "litros": 29.74,
+    "precioLitro": 27.35,
+    "tipo": "Gasolina regular",
+    "costo": 813.39
+  },
+  {
+    "cargaId": "CAR-000114",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-24",
+    "mes": "2025-12",
+    "litros": 29.71,
+    "precioLitro": 27.22,
+    "tipo": "Gasolina regular",
+    "costo": 808.71
+  },
+  {
+    "cargaId": "CAR-000115",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "litros": 28.76,
+    "precioLitro": 27.44,
+    "tipo": "Gasolina regular",
+    "costo": 789.17
+  },
+  {
+    "cargaId": "CAR-000116",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-12-31",
+    "mes": "2025-12",
+    "litros": 29.39,
+    "precioLitro": 27.24,
+    "tipo": "Gasolina regular",
+    "costo": 800.58
+  },
+  {
+    "cargaId": "CAR-000117",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-03",
+    "mes": "2026-01",
+    "litros": 29.09,
+    "precioLitro": 27.04,
+    "tipo": "Gasolina regular",
+    "costo": 786.59
+  },
+  {
+    "cargaId": "CAR-000118",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "litros": 28.77,
+    "precioLitro": 27.07,
+    "tipo": "Gasolina regular",
+    "costo": 778.8
+  },
+  {
+    "cargaId": "CAR-000119",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-08",
+    "mes": "2026-01",
+    "litros": 29.18,
+    "precioLitro": 27.35,
+    "tipo": "Gasolina regular",
+    "costo": 798.07
+  },
+  {
+    "cargaId": "CAR-000120",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-12",
+    "mes": "2026-01",
+    "litros": 29.17,
+    "precioLitro": 27.6,
+    "tipo": "Gasolina regular",
+    "costo": 805.09
+  },
+  {
+    "cargaId": "CAR-000121",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-15",
+    "mes": "2026-01",
+    "litros": 29.92,
+    "precioLitro": 27.79,
+    "tipo": "Gasolina regular",
+    "costo": 831.48
+  },
+  {
+    "cargaId": "CAR-000122",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-18",
+    "mes": "2026-01",
+    "litros": 28.7,
+    "precioLitro": 27.97,
+    "tipo": "Gasolina regular",
+    "costo": 802.74
+  },
+  {
+    "cargaId": "CAR-000123",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-20",
+    "mes": "2026-01",
+    "litros": 29.44,
+    "precioLitro": 27.78,
+    "tipo": "Gasolina regular",
+    "costo": 817.84
+  },
+  {
+    "cargaId": "CAR-000124",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-25",
+    "mes": "2026-01",
+    "litros": 29.69,
+    "precioLitro": 27.77,
+    "tipo": "Gasolina regular",
+    "costo": 824.49
+  },
+  {
+    "cargaId": "CAR-000125",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "litros": 28.89,
+    "precioLitro": 28.06,
+    "tipo": "Gasolina regular",
+    "costo": 810.65
+  },
+  {
+    "cargaId": "CAR-000126",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-01-31",
+    "mes": "2026-01",
+    "litros": 29.07,
+    "precioLitro": 28.15,
+    "tipo": "Gasolina regular",
+    "costo": 818.32
+  },
+  {
+    "cargaId": "CAR-000127",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "litros": 28.93,
+    "precioLitro": 28.13,
+    "tipo": "Gasolina regular",
+    "costo": 813.8
+  },
+  {
+    "cargaId": "CAR-000128",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-07",
+    "mes": "2026-02",
+    "litros": 29.35,
+    "precioLitro": 28.36,
+    "tipo": "Gasolina regular",
+    "costo": 832.37
+  },
+  {
+    "cargaId": "CAR-000129",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "litros": 29.54,
+    "precioLitro": 28.5,
+    "tipo": "Gasolina regular",
+    "costo": 841.89
+  },
+  {
+    "cargaId": "CAR-000130",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-13",
+    "mes": "2026-02",
+    "litros": 28.79,
+    "precioLitro": 28.52,
+    "tipo": "Gasolina regular",
+    "costo": 821.09
+  },
+  {
+    "cargaId": "CAR-000131",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-16",
+    "mes": "2026-02",
+    "litros": 29.61,
+    "precioLitro": 28.6,
+    "tipo": "Gasolina regular",
+    "costo": 846.85
+  },
+  {
+    "cargaId": "CAR-000132",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-21",
+    "mes": "2026-02",
+    "litros": 28.85,
+    "precioLitro": 28.51,
+    "tipo": "Gasolina regular",
+    "costo": 822.51
+  },
+  {
+    "cargaId": "CAR-000133",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "litros": 29.86,
+    "precioLitro": 28.37,
+    "tipo": "Gasolina regular",
+    "costo": 847.13
+  },
+  {
+    "cargaId": "CAR-000134",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "litros": 29.59,
+    "precioLitro": 28.55,
+    "tipo": "Gasolina regular",
+    "costo": 844.79
+  },
+  {
+    "cargaId": "CAR-000135",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-04",
+    "mes": "2026-03",
+    "litros": 29.23,
+    "precioLitro": 28.78,
+    "tipo": "Gasolina regular",
+    "costo": 841.24
+  },
+  {
+    "cargaId": "CAR-000136",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-08",
+    "mes": "2026-03",
+    "litros": 28.81,
+    "precioLitro": 29.01,
+    "tipo": "Gasolina regular",
+    "costo": 835.78
+  },
+  {
+    "cargaId": "CAR-000137",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-11",
+    "mes": "2026-03",
+    "litros": 28.73,
+    "precioLitro": 29.28,
+    "tipo": "Gasolina regular",
+    "costo": 841.21
+  },
+  {
+    "cargaId": "CAR-000138",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "litros": 29.02,
+    "precioLitro": 29.46,
+    "tipo": "Gasolina regular",
+    "costo": 854.93
+  },
+  {
+    "cargaId": "CAR-000139",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "litros": 29.12,
+    "precioLitro": 29.75,
+    "tipo": "Gasolina regular",
+    "costo": 866.32
+  },
+  {
+    "cargaId": "CAR-000140",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-19",
+    "mes": "2026-03",
+    "litros": 29.6,
+    "precioLitro": 29.66,
+    "tipo": "Gasolina regular",
+    "costo": 877.94
+  },
+  {
+    "cargaId": "CAR-000141",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "litros": 29.38,
+    "precioLitro": 29.59,
+    "tipo": "Gasolina regular",
+    "costo": 869.35
+  },
+  {
+    "cargaId": "CAR-000142",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-26",
+    "mes": "2026-03",
+    "litros": 28.96,
+    "precioLitro": 29.85,
+    "tipo": "Gasolina regular",
+    "costo": 864.46
+  },
+  {
+    "cargaId": "CAR-000143",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-30",
+    "mes": "2026-03",
+    "litros": 29.5,
+    "precioLitro": 30.08,
+    "tipo": "Gasolina regular",
+    "costo": 887.36
+  },
+  {
+    "cargaId": "CAR-000144",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-01",
+    "mes": "2026-04",
+    "litros": 29.4,
+    "precioLitro": 30.21,
+    "tipo": "Gasolina regular",
+    "costo": 888.17
+  },
+  {
+    "cargaId": "CAR-000145",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "litros": 28.71,
+    "precioLitro": 30.13,
+    "tipo": "Gasolina regular",
+    "costo": 865.03
+  },
+  {
+    "cargaId": "CAR-000146",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "litros": 29.01,
+    "precioLitro": 30.24,
+    "tipo": "Gasolina regular",
+    "costo": 877.26
+  },
+  {
+    "cargaId": "CAR-000147",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-10",
+    "mes": "2026-04",
+    "litros": 28.85,
+    "precioLitro": 30.53,
+    "tipo": "Gasolina regular",
+    "costo": 880.79
+  },
+  {
+    "cargaId": "CAR-000148",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-14",
+    "mes": "2026-04",
+    "litros": 29.8,
+    "precioLitro": 30.66,
+    "tipo": "Gasolina regular",
+    "costo": 913.67
+  },
+  {
+    "cargaId": "CAR-000149",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-16",
+    "mes": "2026-04",
+    "litros": 29.12,
+    "precioLitro": 30.48,
+    "tipo": "Gasolina regular",
+    "costo": 887.58
+  },
+  {
+    "cargaId": "CAR-000150",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-21",
+    "mes": "2026-04",
+    "litros": 28.9,
+    "precioLitro": 30.4,
+    "tipo": "Gasolina regular",
+    "costo": 878.56
+  },
+  {
+    "cargaId": "CAR-000151",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-24",
+    "mes": "2026-04",
+    "litros": 28.72,
+    "precioLitro": 30.47,
+    "tipo": "Gasolina regular",
+    "costo": 875.1
+  },
+  {
+    "cargaId": "CAR-000152",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-28",
+    "mes": "2026-04",
+    "litros": 28.93,
+    "precioLitro": 30.43,
+    "tipo": "Gasolina regular",
+    "costo": 880.34
+  },
+  {
+    "cargaId": "CAR-000153",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "litros": 29.33,
+    "precioLitro": 30.7,
+    "tipo": "Gasolina regular",
+    "costo": 900.43
+  },
+  {
+    "cargaId": "CAR-000154",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-08",
+    "mes": "2026-05",
+    "litros": 29.5,
+    "precioLitro": 30.75,
+    "tipo": "Gasolina regular",
+    "costo": 907.12
+  },
+  {
+    "cargaId": "CAR-000155",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-12",
+    "mes": "2026-05",
+    "litros": 29.58,
+    "precioLitro": 30.95,
+    "tipo": "Gasolina regular",
+    "costo": 915.5
+  },
+  {
+    "cargaId": "CAR-000156",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-16",
+    "mes": "2026-05",
+    "litros": 29.35,
+    "precioLitro": 30.82,
+    "tipo": "Gasolina regular",
+    "costo": 904.57
+  },
+  {
+    "cargaId": "CAR-000157",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-18",
+    "mes": "2026-05",
+    "litros": 29.96,
+    "precioLitro": 31.1,
+    "tipo": "Gasolina regular",
+    "costo": 931.76
+  },
+  {
+    "cargaId": "CAR-000158",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-23",
+    "mes": "2026-05",
+    "litros": 29.17,
+    "precioLitro": 30.91,
+    "tipo": "Gasolina regular",
+    "costo": 901.64
+  },
+  {
+    "cargaId": "CAR-000159",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-25",
+    "mes": "2026-05",
+    "litros": 29.83,
+    "precioLitro": 30.73,
+    "tipo": "Gasolina regular",
+    "costo": 916.68
+  },
+  {
+    "cargaId": "CAR-000160",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "litros": 29.57,
+    "precioLitro": 30.79,
+    "tipo": "Gasolina regular",
+    "costo": 910.46
+  },
+  {
+    "cargaId": "CAR-000161",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-31",
+    "mes": "2026-05",
+    "litros": 29.33,
+    "precioLitro": 30.77,
+    "tipo": "Gasolina regular",
+    "costo": 902.48
+  },
+  {
+    "cargaId": "CAR-000162",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-03",
+    "mes": "2026-06",
+    "litros": 28.88,
+    "precioLitro": 30.79,
+    "tipo": "Gasolina regular",
+    "costo": 889.22
+  },
+  {
+    "cargaId": "CAR-000163",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-05",
+    "mes": "2026-06",
+    "litros": 29.43,
+    "precioLitro": 31.08,
+    "tipo": "Gasolina regular",
+    "costo": 914.68
+  },
+  {
+    "cargaId": "CAR-000164",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-07",
+    "mes": "2026-06",
+    "litros": 28.91,
+    "precioLitro": 31.13,
+    "tipo": "Gasolina regular",
+    "costo": 899.97
+  },
+  {
+    "cargaId": "CAR-000165",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "litros": 29.96,
+    "precioLitro": 31.01,
+    "tipo": "Gasolina regular",
+    "costo": 929.06
+  },
+  {
+    "cargaId": "CAR-000166",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-13",
+    "mes": "2026-06",
+    "litros": 29.15,
+    "precioLitro": 30.91,
+    "tipo": "Gasolina regular",
+    "costo": 901.03
+  },
+  {
+    "cargaId": "CAR-000167",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-17",
+    "mes": "2026-06",
+    "litros": 29.49,
+    "precioLitro": 30.94,
+    "tipo": "Gasolina regular",
+    "costo": 912.42
+  },
+  {
+    "cargaId": "CAR-000168",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-20",
+    "mes": "2026-06",
+    "litros": 29.51,
+    "precioLitro": 30.92,
+    "tipo": "Gasolina regular",
+    "costo": 912.45
+  },
+  {
+    "cargaId": "CAR-000169",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-23",
+    "mes": "2026-06",
+    "litros": 29.79,
+    "precioLitro": 31.13,
+    "tipo": "Gasolina regular",
+    "costo": 927.36
+  },
+  {
+    "cargaId": "CAR-000170",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-06-28",
+    "mes": "2026-06",
+    "litros": 29.41,
+    "precioLitro": 31.23,
+    "tipo": "Gasolina regular",
+    "costo": 918.47
+  },
+  {
+    "cargaId": "CAR-000171",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-02",
+    "mes": "2026-07",
+    "litros": 29.01,
+    "precioLitro": 31.19,
+    "tipo": "Gasolina regular",
+    "costo": 904.82
+  },
+  {
+    "cargaId": "CAR-000172",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-07",
+    "mes": "2026-07",
+    "litros": 29.18,
+    "precioLitro": 31.3,
+    "tipo": "Gasolina regular",
+    "costo": 913.33
+  },
+  {
+    "cargaId": "CAR-000173",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-10",
+    "mes": "2026-07",
+    "litros": 29.71,
+    "precioLitro": 31.36,
+    "tipo": "Gasolina regular",
+    "costo": 931.71
+  },
+  {
+    "cargaId": "CAR-000174",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-14",
+    "mes": "2026-07",
+    "litros": 29.97,
+    "precioLitro": 31.28,
+    "tipo": "Gasolina regular",
+    "costo": 937.46
+  },
+  {
+    "cargaId": "CAR-000175",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "litros": 29.8,
+    "precioLitro": 31.11,
+    "tipo": "Gasolina regular",
+    "costo": 927.08
+  },
+  {
+    "cargaId": "CAR-000176",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-21",
+    "mes": "2026-07",
+    "litros": 29.09,
+    "precioLitro": 30.93,
+    "tipo": "Gasolina regular",
+    "costo": 899.75
+  },
+  {
+    "cargaId": "CAR-000177",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-24",
+    "mes": "2026-07",
+    "litros": 29.75,
+    "precioLitro": 31.15,
+    "tipo": "Gasolina regular",
+    "costo": 926.71
+  },
+  {
+    "cargaId": "CAR-000178",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-29",
+    "mes": "2026-07",
+    "litros": 29.34,
+    "precioLitro": 30.96,
+    "tipo": "Gasolina regular",
+    "costo": 908.37
+  },
+  {
+    "cargaId": "CAR-000179",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-08-02",
+    "mes": "2026-08",
+    "litros": 29.51,
+    "precioLitro": 31.21,
+    "tipo": "Gasolina regular",
+    "costo": 921.01
+  },
+  {
+    "cargaId": "CAR-000180",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-08-04",
+    "mes": "2026-08",
+    "litros": 6.8,
+    "precioLitro": 31.15,
+    "tipo": "Gasolina regular",
+    "costo": 211.82
+  },
+  {
+    "cargaId": "CAR-000181",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-01",
+    "mes": "2024-12",
+    "litros": 30.03,
+    "precioLitro": 31.33,
+    "tipo": "Gasolina regular",
+    "costo": 940.84
+  },
+  {
+    "cargaId": "CAR-000182",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-05",
+    "mes": "2024-12",
+    "litros": 30.09,
+    "precioLitro": 31.4,
+    "tipo": "Gasolina regular",
+    "costo": 944.83
+  },
+  {
+    "cargaId": "CAR-000183",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-07",
+    "mes": "2024-12",
+    "litros": 30.23,
+    "precioLitro": 31.36,
+    "tipo": "Gasolina regular",
+    "costo": 948.01
+  },
+  {
+    "cargaId": "CAR-000184",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-11",
+    "mes": "2024-12",
+    "litros": 30.08,
+    "precioLitro": 31.4,
+    "tipo": "Gasolina regular",
+    "costo": 944.51
+  },
+  {
+    "cargaId": "CAR-000185",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-13",
+    "mes": "2024-12",
+    "litros": 30.97,
+    "precioLitro": 31.59,
+    "tipo": "Gasolina regular",
+    "costo": 978.34
+  },
+  {
+    "cargaId": "CAR-000186",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-15",
+    "mes": "2024-12",
+    "litros": 31.06,
+    "precioLitro": 31.73,
+    "tipo": "Gasolina regular",
+    "costo": 985.53
+  },
+  {
+    "cargaId": "CAR-000187",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-19",
+    "mes": "2024-12",
+    "litros": 31.41,
+    "precioLitro": 31.61,
+    "tipo": "Gasolina regular",
+    "costo": 992.87
+  },
+  {
+    "cargaId": "CAR-000188",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "litros": 30.23,
+    "precioLitro": 31.61,
+    "tipo": "Gasolina regular",
+    "costo": 955.57
+  },
+  {
+    "cargaId": "CAR-000189",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-23",
+    "mes": "2024-12",
+    "litros": 30.0,
+    "precioLitro": 31.44,
+    "tipo": "Gasolina regular",
+    "costo": 943.2
+  },
+  {
+    "cargaId": "CAR-000190",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-28",
+    "mes": "2024-12",
+    "litros": 30.93,
+    "precioLitro": 31.62,
+    "tipo": "Gasolina regular",
+    "costo": 978.01
+  },
+  {
+    "cargaId": "CAR-000191",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-31",
+    "mes": "2024-12",
+    "litros": 30.95,
+    "precioLitro": 31.72,
+    "tipo": "Gasolina regular",
+    "costo": 981.73
+  },
+  {
+    "cargaId": "CAR-000192",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-04",
+    "mes": "2025-01",
+    "litros": 31.36,
+    "precioLitro": 31.82,
+    "tipo": "Gasolina regular",
+    "costo": 997.88
+  },
+  {
+    "cargaId": "CAR-000193",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "litros": 30.6,
+    "precioLitro": 31.7,
+    "tipo": "Gasolina regular",
+    "costo": 970.02
+  },
+  {
+    "cargaId": "CAR-000194",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-10",
+    "mes": "2025-01",
+    "litros": 31.15,
+    "precioLitro": 31.94,
+    "tipo": "Gasolina regular",
+    "costo": 994.93
+  },
+  {
+    "cargaId": "CAR-000195",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-13",
+    "mes": "2025-01",
+    "litros": 30.4,
+    "precioLitro": 32.14,
+    "tipo": "Gasolina regular",
+    "costo": 977.06
+  },
+  {
+    "cargaId": "CAR-000196",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-15",
+    "mes": "2025-01",
+    "litros": 30.22,
+    "precioLitro": 32.23,
+    "tipo": "Gasolina regular",
+    "costo": 973.99
+  },
+  {
+    "cargaId": "CAR-000197",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "litros": 30.18,
+    "precioLitro": 32.33,
+    "tipo": "Gasolina regular",
+    "costo": 975.72
+  },
+  {
+    "cargaId": "CAR-000198",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-22",
+    "mes": "2025-01",
+    "litros": 30.86,
+    "precioLitro": 32.16,
+    "tipo": "Gasolina regular",
+    "costo": 992.46
+  },
+  {
+    "cargaId": "CAR-000199",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "litros": 31.13,
+    "precioLitro": 32.06,
+    "tipo": "Gasolina regular",
+    "costo": 998.03
+  },
+  {
+    "cargaId": "CAR-000200",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-01-31",
+    "mes": "2025-01",
+    "litros": 30.04,
+    "precioLitro": 31.92,
+    "tipo": "Gasolina regular",
+    "costo": 958.88
+  },
+  {
+    "cargaId": "CAR-000201",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "litros": 30.07,
+    "precioLitro": 31.81,
+    "tipo": "Gasolina regular",
+    "costo": 956.53
+  },
+  {
+    "cargaId": "CAR-000202",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "litros": 30.87,
+    "precioLitro": 31.65,
+    "tipo": "Gasolina regular",
+    "costo": 977.04
+  },
+  {
+    "cargaId": "CAR-000203",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-10",
+    "mes": "2025-02",
+    "litros": 30.21,
+    "precioLitro": 31.85,
+    "tipo": "Gasolina regular",
+    "costo": 962.19
+  },
+  {
+    "cargaId": "CAR-000204",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-12",
+    "mes": "2025-02",
+    "litros": 30.54,
+    "precioLitro": 32.04,
+    "tipo": "Gasolina regular",
+    "costo": 978.5
+  },
+  {
+    "cargaId": "CAR-000205",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-14",
+    "mes": "2025-02",
+    "litros": 31.36,
+    "precioLitro": 32.22,
+    "tipo": "Gasolina regular",
+    "costo": 1010.42
+  },
+  {
+    "cargaId": "CAR-000206",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-16",
+    "mes": "2025-02",
+    "litros": 30.74,
+    "precioLitro": 32.13,
+    "tipo": "Gasolina regular",
+    "costo": 987.68
+  },
+  {
+    "cargaId": "CAR-000207",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-18",
+    "mes": "2025-02",
+    "litros": 30.67,
+    "precioLitro": 32.03,
+    "tipo": "Gasolina regular",
+    "costo": 982.36
+  },
+  {
+    "cargaId": "CAR-000208",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-23",
+    "mes": "2025-02",
+    "litros": 30.86,
+    "precioLitro": 32.22,
+    "tipo": "Gasolina regular",
+    "costo": 994.31
+  },
+  {
+    "cargaId": "CAR-000209",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-25",
+    "mes": "2025-02",
+    "litros": 31.11,
+    "precioLitro": 32.15,
+    "tipo": "Gasolina regular",
+    "costo": 1000.19
+  },
+  {
+    "cargaId": "CAR-000210",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "litros": 30.56,
+    "precioLitro": 32.43,
+    "tipo": "Gasolina regular",
+    "costo": 991.06
+  },
+  {
+    "cargaId": "CAR-000211",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-04",
+    "mes": "2025-03",
+    "litros": 31.38,
+    "precioLitro": 32.46,
+    "tipo": "Gasolina regular",
+    "costo": 1018.59
+  },
+  {
+    "cargaId": "CAR-000212",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-09",
+    "mes": "2025-03",
+    "litros": 30.86,
+    "precioLitro": 32.26,
+    "tipo": "Gasolina regular",
+    "costo": 995.54
+  },
+  {
+    "cargaId": "CAR-000213",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "litros": 30.33,
+    "precioLitro": 32.19,
+    "tipo": "Gasolina regular",
+    "costo": 976.32
+  },
+  {
+    "cargaId": "CAR-000214",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-15",
+    "mes": "2025-03",
+    "litros": 30.6,
+    "precioLitro": 32.05,
+    "tipo": "Gasolina regular",
+    "costo": 980.73
+  },
+  {
+    "cargaId": "CAR-000215",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-18",
+    "mes": "2025-03",
+    "litros": 30.79,
+    "precioLitro": 32.33,
+    "tipo": "Gasolina regular",
+    "costo": 995.44
+  },
+  {
+    "cargaId": "CAR-000216",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-20",
+    "mes": "2025-03",
+    "litros": 30.9,
+    "precioLitro": 32.23,
+    "tipo": "Gasolina regular",
+    "costo": 995.91
+  },
+  {
+    "cargaId": "CAR-000217",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-23",
+    "mes": "2025-03",
+    "litros": 30.33,
+    "precioLitro": 32.3,
+    "tipo": "Gasolina regular",
+    "costo": 979.66
+  },
+  {
+    "cargaId": "CAR-000218",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "litros": 31.03,
+    "precioLitro": 32.31,
+    "tipo": "Gasolina regular",
+    "costo": 1002.58
+  },
+  {
+    "cargaId": "CAR-000219",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-03-29",
+    "mes": "2025-03",
+    "litros": 30.14,
+    "precioLitro": 32.24,
+    "tipo": "Gasolina regular",
+    "costo": 971.71
+  },
+  {
+    "cargaId": "CAR-000220",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "litros": 31.24,
+    "precioLitro": 32.17,
+    "tipo": "Gasolina regular",
+    "costo": 1004.99
+  },
+  {
+    "cargaId": "CAR-000221",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-05",
+    "mes": "2025-04",
+    "litros": 30.63,
+    "precioLitro": 32.3,
+    "tipo": "Gasolina regular",
+    "costo": 989.35
+  },
+  {
+    "cargaId": "CAR-000222",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-09",
+    "mes": "2025-04",
+    "litros": 30.78,
+    "precioLitro": 32.25,
+    "tipo": "Gasolina regular",
+    "costo": 992.66
+  },
+  {
+    "cargaId": "CAR-000223",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-11",
+    "mes": "2025-04",
+    "litros": 30.78,
+    "precioLitro": 32.38,
+    "tipo": "Gasolina regular",
+    "costo": 996.66
+  },
+  {
+    "cargaId": "CAR-000224",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-15",
+    "mes": "2025-04",
+    "litros": 30.13,
+    "precioLitro": 32.43,
+    "tipo": "Gasolina regular",
+    "costo": 977.12
+  },
+  {
+    "cargaId": "CAR-000225",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-20",
+    "mes": "2025-04",
+    "litros": 30.23,
+    "precioLitro": 32.52,
+    "tipo": "Gasolina regular",
+    "costo": 983.08
+  },
+  {
+    "cargaId": "CAR-000226",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-24",
+    "mes": "2025-04",
+    "litros": 30.07,
+    "precioLitro": 32.43,
+    "tipo": "Gasolina regular",
+    "costo": 975.17
+  },
+  {
+    "cargaId": "CAR-000227",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-04-28",
+    "mes": "2025-04",
+    "litros": 30.53,
+    "precioLitro": 32.28,
+    "tipo": "Gasolina regular",
+    "costo": 985.51
+  },
+  {
+    "cargaId": "CAR-000228",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "litros": 30.31,
+    "precioLitro": 32.33,
+    "tipo": "Gasolina regular",
+    "costo": 979.92
+  },
+  {
+    "cargaId": "CAR-000229",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-04",
+    "mes": "2025-05",
+    "litros": 31.46,
+    "precioLitro": 32.51,
+    "tipo": "Gasolina regular",
+    "costo": 1022.76
+  },
+  {
+    "cargaId": "CAR-000230",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-08",
+    "mes": "2025-05",
+    "litros": 31.27,
+    "precioLitro": 32.67,
+    "tipo": "Gasolina regular",
+    "costo": 1021.59
+  },
+  {
+    "cargaId": "CAR-000231",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-13",
+    "mes": "2025-05",
+    "litros": 30.32,
+    "precioLitro": 32.8,
+    "tipo": "Gasolina regular",
+    "costo": 994.5
+  },
+  {
+    "cargaId": "CAR-000232",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-16",
+    "mes": "2025-05",
+    "litros": 30.05,
+    "precioLitro": 32.93,
+    "tipo": "Gasolina regular",
+    "costo": 989.55
+  },
+  {
+    "cargaId": "CAR-000233",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-18",
+    "mes": "2025-05",
+    "litros": 31.11,
+    "precioLitro": 33.14,
+    "tipo": "Gasolina regular",
+    "costo": 1030.99
+  },
+  {
+    "cargaId": "CAR-000234",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-23",
+    "mes": "2025-05",
+    "litros": 30.94,
+    "precioLitro": 33.17,
+    "tipo": "Gasolina regular",
+    "costo": 1026.28
+  },
+  {
+    "cargaId": "CAR-000235",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-25",
+    "mes": "2025-05",
+    "litros": 30.36,
+    "precioLitro": 33.29,
+    "tipo": "Gasolina regular",
+    "costo": 1010.68
+  },
+  {
+    "cargaId": "CAR-000236",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "litros": 30.1,
+    "precioLitro": 33.21,
+    "tipo": "Gasolina regular",
+    "costo": 999.62
+  },
+  {
+    "cargaId": "CAR-000237",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-04",
+    "mes": "2025-06",
+    "litros": 30.71,
+    "precioLitro": 33.11,
+    "tipo": "Gasolina regular",
+    "costo": 1016.81
+  },
+  {
+    "cargaId": "CAR-000238",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-07",
+    "mes": "2025-06",
+    "litros": 31.46,
+    "precioLitro": 33.36,
+    "tipo": "Gasolina regular",
+    "costo": 1049.51
+  },
+  {
+    "cargaId": "CAR-000239",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-11",
+    "mes": "2025-06",
+    "litros": 30.5,
+    "precioLitro": 33.4,
+    "tipo": "Gasolina regular",
+    "costo": 1018.7
+  },
+  {
+    "cargaId": "CAR-000240",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-13",
+    "mes": "2025-06",
+    "litros": 30.21,
+    "precioLitro": 33.59,
+    "tipo": "Gasolina regular",
+    "costo": 1014.75
+  },
+  {
+    "cargaId": "CAR-000241",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "litros": 30.15,
+    "precioLitro": 33.53,
+    "tipo": "Gasolina regular",
+    "costo": 1010.93
+  },
+  {
+    "cargaId": "CAR-000242",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-22",
+    "mes": "2025-06",
+    "litros": 30.91,
+    "precioLitro": 33.68,
+    "tipo": "Gasolina regular",
+    "costo": 1041.05
+  },
+  {
+    "cargaId": "CAR-000243",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-25",
+    "mes": "2025-06",
+    "litros": 31.26,
+    "precioLitro": 33.8,
+    "tipo": "Gasolina regular",
+    "costo": 1056.59
+  },
+  {
+    "cargaId": "CAR-000244",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-06-28",
+    "mes": "2025-06",
+    "litros": 30.44,
+    "precioLitro": 33.78,
+    "tipo": "Gasolina regular",
+    "costo": 1028.26
+  },
+  {
+    "cargaId": "CAR-000245",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-03",
+    "mes": "2025-07",
+    "litros": 30.95,
+    "precioLitro": 33.77,
+    "tipo": "Gasolina regular",
+    "costo": 1045.18
+  },
+  {
+    "cargaId": "CAR-000246",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "litros": 31.06,
+    "precioLitro": 33.97,
+    "tipo": "Gasolina regular",
+    "costo": 1055.11
+  },
+  {
+    "cargaId": "CAR-000247",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-08",
+    "mes": "2025-07",
+    "litros": 30.46,
+    "precioLitro": 33.89,
+    "tipo": "Gasolina regular",
+    "costo": 1032.29
+  },
+  {
+    "cargaId": "CAR-000248",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "litros": 31.25,
+    "precioLitro": 34.13,
+    "tipo": "Gasolina regular",
+    "costo": 1066.56
+  },
+  {
+    "cargaId": "CAR-000249",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-13",
+    "mes": "2025-07",
+    "litros": 30.23,
+    "precioLitro": 33.93,
+    "tipo": "Gasolina regular",
+    "costo": 1025.7
+  },
+  {
+    "cargaId": "CAR-000250",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-17",
+    "mes": "2025-07",
+    "litros": 30.37,
+    "precioLitro": 34.02,
+    "tipo": "Gasolina regular",
+    "costo": 1033.19
+  },
+  {
+    "cargaId": "CAR-000251",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "litros": 30.71,
+    "precioLitro": 34.27,
+    "tipo": "Gasolina regular",
+    "costo": 1052.43
+  },
+  {
+    "cargaId": "CAR-000252",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "litros": 31.16,
+    "precioLitro": 34.47,
+    "tipo": "Gasolina regular",
+    "costo": 1074.09
+  },
+  {
+    "cargaId": "CAR-000253",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-24",
+    "mes": "2025-07",
+    "litros": 30.5,
+    "precioLitro": 34.3,
+    "tipo": "Gasolina regular",
+    "costo": 1046.15
+  },
+  {
+    "cargaId": "CAR-000254",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-26",
+    "mes": "2025-07",
+    "litros": 30.82,
+    "precioLitro": 34.27,
+    "tipo": "Gasolina regular",
+    "costo": 1056.2
+  },
+  {
+    "cargaId": "CAR-000255",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-07-28",
+    "mes": "2025-07",
+    "litros": 30.39,
+    "precioLitro": 34.32,
+    "tipo": "Gasolina regular",
+    "costo": 1042.98
+  },
+  {
+    "cargaId": "CAR-000256",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "litros": 31.35,
+    "precioLitro": 34.53,
+    "tipo": "Gasolina regular",
+    "costo": 1082.52
+  },
+  {
+    "cargaId": "CAR-000257",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-03",
+    "mes": "2025-08",
+    "litros": 31.11,
+    "precioLitro": 34.52,
+    "tipo": "Gasolina regular",
+    "costo": 1073.92
+  },
+  {
+    "cargaId": "CAR-000258",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "litros": 30.82,
+    "precioLitro": 34.42,
+    "tipo": "Gasolina regular",
+    "costo": 1060.82
+  },
+  {
+    "cargaId": "CAR-000259",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "litros": 30.63,
+    "precioLitro": 34.23,
+    "tipo": "Gasolina regular",
+    "costo": 1048.46
+  },
+  {
+    "cargaId": "CAR-000260",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "litros": 30.27,
+    "precioLitro": 34.36,
+    "tipo": "Gasolina regular",
+    "costo": 1040.08
+  },
+  {
+    "cargaId": "CAR-000261",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "litros": 30.62,
+    "precioLitro": 34.4,
+    "tipo": "Gasolina regular",
+    "costo": 1053.33
+  },
+  {
+    "cargaId": "CAR-000262",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-22",
+    "mes": "2025-08",
+    "litros": 31.36,
+    "precioLitro": 34.23,
+    "tipo": "Gasolina regular",
+    "costo": 1073.45
+  },
+  {
+    "cargaId": "CAR-000263",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-24",
+    "mes": "2025-08",
+    "litros": 31.32,
+    "precioLitro": 34.51,
+    "tipo": "Gasolina regular",
+    "costo": 1080.85
+  },
+  {
+    "cargaId": "CAR-000264",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-29",
+    "mes": "2025-08",
+    "litros": 30.65,
+    "precioLitro": 34.65,
+    "tipo": "Gasolina regular",
+    "costo": 1062.02
+  },
+  {
+    "cargaId": "CAR-000265",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-08-31",
+    "mes": "2025-08",
+    "litros": 30.54,
+    "precioLitro": 34.52,
+    "tipo": "Gasolina regular",
+    "costo": 1054.24
+  },
+  {
+    "cargaId": "CAR-000266",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-02",
+    "mes": "2025-09",
+    "litros": 31.29,
+    "precioLitro": 34.56,
+    "tipo": "Gasolina regular",
+    "costo": 1081.38
+  },
+  {
+    "cargaId": "CAR-000267",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-06",
+    "mes": "2025-09",
+    "litros": 31.02,
+    "precioLitro": 34.41,
+    "tipo": "Gasolina regular",
+    "costo": 1067.4
+  },
+  {
+    "cargaId": "CAR-000268",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-09",
+    "mes": "2025-09",
+    "litros": 31.28,
+    "precioLitro": 34.68,
+    "tipo": "Gasolina regular",
+    "costo": 1084.79
+  },
+  {
+    "cargaId": "CAR-000269",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-12",
+    "mes": "2025-09",
+    "litros": 30.43,
+    "precioLitro": 34.85,
+    "tipo": "Gasolina regular",
+    "costo": 1060.49
+  },
+  {
+    "cargaId": "CAR-000270",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-17",
+    "mes": "2025-09",
+    "litros": 30.48,
+    "precioLitro": 34.87,
+    "tipo": "Gasolina regular",
+    "costo": 1062.84
+  },
+  {
+    "cargaId": "CAR-000271",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-19",
+    "mes": "2025-09",
+    "litros": 31.34,
+    "precioLitro": 35.04,
+    "tipo": "Gasolina regular",
+    "costo": 1098.15
+  },
+  {
+    "cargaId": "CAR-000272",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "litros": 30.31,
+    "precioLitro": 35.13,
+    "tipo": "Gasolina regular",
+    "costo": 1064.79
+  },
+  {
+    "cargaId": "CAR-000273",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-24",
+    "mes": "2025-09",
+    "litros": 31.22,
+    "precioLitro": 35.26,
+    "tipo": "Gasolina regular",
+    "costo": 1100.82
+  },
+  {
+    "cargaId": "CAR-000274",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "litros": 30.3,
+    "precioLitro": 35.55,
+    "tipo": "Gasolina regular",
+    "costo": 1077.16
+  },
+  {
+    "cargaId": "CAR-000275",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "litros": 30.46,
+    "precioLitro": 35.44,
+    "tipo": "Gasolina regular",
+    "costo": 1079.5
+  },
+  {
+    "cargaId": "CAR-000276",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "litros": 31.45,
+    "precioLitro": 35.57,
+    "tipo": "Gasolina regular",
+    "costo": 1118.68
+  },
+  {
+    "cargaId": "CAR-000277",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "litros": 30.27,
+    "precioLitro": 35.49,
+    "tipo": "Gasolina regular",
+    "costo": 1074.28
+  },
+  {
+    "cargaId": "CAR-000278",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-15",
+    "mes": "2025-10",
+    "litros": 31.3,
+    "precioLitro": 35.67,
+    "tipo": "Gasolina regular",
+    "costo": 1116.47
+  },
+  {
+    "cargaId": "CAR-000279",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-17",
+    "mes": "2025-10",
+    "litros": 30.84,
+    "precioLitro": 35.89,
+    "tipo": "Gasolina regular",
+    "costo": 1106.85
+  },
+  {
+    "cargaId": "CAR-000280",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-20",
+    "mes": "2025-10",
+    "litros": 30.49,
+    "precioLitro": 35.82,
+    "tipo": "Gasolina regular",
+    "costo": 1092.15
+  },
+  {
+    "cargaId": "CAR-000281",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-24",
+    "mes": "2025-10",
+    "litros": 30.33,
+    "precioLitro": 35.99,
+    "tipo": "Gasolina regular",
+    "costo": 1091.58
+  },
+  {
+    "cargaId": "CAR-000282",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-10-29",
+    "mes": "2025-10",
+    "litros": 30.41,
+    "precioLitro": 36.2,
+    "tipo": "Gasolina regular",
+    "costo": 1100.84
+  },
+  {
+    "cargaId": "CAR-000283",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-03",
+    "mes": "2025-11",
+    "litros": 30.29,
+    "precioLitro": 36.27,
+    "tipo": "Gasolina regular",
+    "costo": 1098.62
+  },
+  {
+    "cargaId": "CAR-000284",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-08",
+    "mes": "2025-11",
+    "litros": 30.18,
+    "precioLitro": 36.39,
+    "tipo": "Gasolina regular",
+    "costo": 1098.25
+  },
+  {
+    "cargaId": "CAR-000285",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-10",
+    "mes": "2025-11",
+    "litros": 30.99,
+    "precioLitro": 36.33,
+    "tipo": "Gasolina regular",
+    "costo": 1125.87
+  },
+  {
+    "cargaId": "CAR-000286",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-13",
+    "mes": "2025-11",
+    "litros": 30.64,
+    "precioLitro": 36.31,
+    "tipo": "Gasolina regular",
+    "costo": 1112.54
+  },
+  {
+    "cargaId": "CAR-000287",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "litros": 30.65,
+    "precioLitro": 36.26,
+    "tipo": "Gasolina regular",
+    "costo": 1111.37
+  },
+  {
+    "cargaId": "CAR-000288",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-19",
+    "mes": "2025-11",
+    "litros": 31.22,
+    "precioLitro": 36.08,
+    "tipo": "Gasolina regular",
+    "costo": 1126.42
+  },
+  {
+    "cargaId": "CAR-000289",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-21",
+    "mes": "2025-11",
+    "litros": 30.86,
+    "precioLitro": 35.96,
+    "tipo": "Gasolina regular",
+    "costo": 1109.73
+  },
+  {
+    "cargaId": "CAR-000290",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-26",
+    "mes": "2025-11",
+    "litros": 30.86,
+    "precioLitro": 36.17,
+    "tipo": "Gasolina regular",
+    "costo": 1116.21
+  },
+  {
+    "cargaId": "CAR-000291",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "litros": 30.21,
+    "precioLitro": 36.35,
+    "tipo": "Gasolina regular",
+    "costo": 1098.13
+  },
+  {
+    "cargaId": "CAR-000292",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "litros": 30.98,
+    "precioLitro": 36.23,
+    "tipo": "Gasolina regular",
+    "costo": 1122.41
+  },
+  {
+    "cargaId": "CAR-000293",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-02",
+    "mes": "2025-12",
+    "litros": 31.3,
+    "precioLitro": 36.13,
+    "tipo": "Gasolina regular",
+    "costo": 1130.87
+  },
+  {
+    "cargaId": "CAR-000294",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-04",
+    "mes": "2025-12",
+    "litros": 30.75,
+    "precioLitro": 36.29,
+    "tipo": "Gasolina regular",
+    "costo": 1115.92
+  },
+  {
+    "cargaId": "CAR-000295",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-09",
+    "mes": "2025-12",
+    "litros": 31.44,
+    "precioLitro": 36.17,
+    "tipo": "Gasolina regular",
+    "costo": 1137.18
+  },
+  {
+    "cargaId": "CAR-000296",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-13",
+    "mes": "2025-12",
+    "litros": 30.31,
+    "precioLitro": 36.37,
+    "tipo": "Gasolina regular",
+    "costo": 1102.37
+  },
+  {
+    "cargaId": "CAR-000297",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "litros": 30.13,
+    "precioLitro": 36.61,
+    "tipo": "Gasolina regular",
+    "costo": 1103.06
+  },
+  {
+    "cargaId": "CAR-000298",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "litros": 30.82,
+    "precioLitro": 36.77,
+    "tipo": "Gasolina regular",
+    "costo": 1133.25
+  },
+  {
+    "cargaId": "CAR-000299",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-24",
+    "mes": "2025-12",
+    "litros": 31.1,
+    "precioLitro": 36.78,
+    "tipo": "Gasolina regular",
+    "costo": 1143.86
+  },
+  {
+    "cargaId": "CAR-000300",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "litros": 31.19,
+    "precioLitro": 36.66,
+    "tipo": "Gasolina regular",
+    "costo": 1143.43
+  },
+  {
+    "cargaId": "CAR-000301",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-31",
+    "mes": "2025-12",
+    "litros": 30.32,
+    "precioLitro": 36.74,
+    "tipo": "Gasolina regular",
+    "costo": 1113.96
+  },
+  {
+    "cargaId": "CAR-000302",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "litros": 31.44,
+    "precioLitro": 36.74,
+    "tipo": "Gasolina regular",
+    "costo": 1155.11
+  },
+  {
+    "cargaId": "CAR-000303",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-08",
+    "mes": "2026-01",
+    "litros": 31.0,
+    "precioLitro": 36.82,
+    "tipo": "Gasolina regular",
+    "costo": 1141.42
+  },
+  {
+    "cargaId": "CAR-000304",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-12",
+    "mes": "2026-01",
+    "litros": 31.27,
+    "precioLitro": 37.06,
+    "tipo": "Gasolina regular",
+    "costo": 1158.87
+  },
+  {
+    "cargaId": "CAR-000305",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "litros": 31.0,
+    "precioLitro": 36.89,
+    "tipo": "Gasolina regular",
+    "costo": 1143.59
+  },
+  {
+    "cargaId": "CAR-000306",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "litros": 30.47,
+    "precioLitro": 36.87,
+    "tipo": "Gasolina regular",
+    "costo": 1123.43
+  },
+  {
+    "cargaId": "CAR-000307",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "litros": 30.87,
+    "precioLitro": 36.98,
+    "tipo": "Gasolina regular",
+    "costo": 1141.57
+  },
+  {
+    "cargaId": "CAR-000308",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-29",
+    "mes": "2026-01",
+    "litros": 30.09,
+    "precioLitro": 37.26,
+    "tipo": "Gasolina regular",
+    "costo": 1121.15
+  },
+  {
+    "cargaId": "CAR-000309",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-02",
+    "mes": "2026-02",
+    "litros": 30.47,
+    "precioLitro": 37.15,
+    "tipo": "Gasolina regular",
+    "costo": 1131.96
+  },
+  {
+    "cargaId": "CAR-000310",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-06",
+    "mes": "2026-02",
+    "litros": 31.18,
+    "precioLitro": 36.96,
+    "tipo": "Gasolina regular",
+    "costo": 1152.41
+  },
+  {
+    "cargaId": "CAR-000311",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "litros": 30.8,
+    "precioLitro": 37.19,
+    "tipo": "Gasolina regular",
+    "costo": 1145.45
+  },
+  {
+    "cargaId": "CAR-000312",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-13",
+    "mes": "2026-02",
+    "litros": 30.22,
+    "precioLitro": 37.25,
+    "tipo": "Gasolina regular",
+    "costo": 1125.69
+  },
+  {
+    "cargaId": "CAR-000313",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "litros": 30.35,
+    "precioLitro": 37.15,
+    "tipo": "Gasolina regular",
+    "costo": 1127.5
+  },
+  {
+    "cargaId": "CAR-000314",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-21",
+    "mes": "2026-02",
+    "litros": 30.84,
+    "precioLitro": 37.28,
+    "tipo": "Gasolina regular",
+    "costo": 1149.72
+  },
+  {
+    "cargaId": "CAR-000315",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-26",
+    "mes": "2026-02",
+    "litros": 30.95,
+    "precioLitro": 37.16,
+    "tipo": "Gasolina regular",
+    "costo": 1150.1
+  },
+  {
+    "cargaId": "CAR-000316",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-02-28",
+    "mes": "2026-02",
+    "litros": 31.22,
+    "precioLitro": 37.17,
+    "tipo": "Gasolina regular",
+    "costo": 1160.45
+  },
+  {
+    "cargaId": "CAR-000317",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "litros": 30.52,
+    "precioLitro": 37.36,
+    "tipo": "Gasolina regular",
+    "costo": 1140.23
+  },
+  {
+    "cargaId": "CAR-000318",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-10",
+    "mes": "2026-03",
+    "litros": 30.06,
+    "precioLitro": 37.31,
+    "tipo": "Gasolina regular",
+    "costo": 1121.54
+  },
+  {
+    "cargaId": "CAR-000319",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-12",
+    "mes": "2026-03",
+    "litros": 31.19,
+    "precioLitro": 37.51,
+    "tipo": "Gasolina regular",
+    "costo": 1169.94
+  },
+  {
+    "cargaId": "CAR-000320",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-14",
+    "mes": "2026-03",
+    "litros": 30.37,
+    "precioLitro": 37.4,
+    "tipo": "Gasolina regular",
+    "costo": 1135.84
+  },
+  {
+    "cargaId": "CAR-000321",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "litros": 31.24,
+    "precioLitro": 37.31,
+    "tipo": "Gasolina regular",
+    "costo": 1165.56
+  },
+  {
+    "cargaId": "CAR-000322",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-19",
+    "mes": "2026-03",
+    "litros": 31.47,
+    "precioLitro": 37.43,
+    "tipo": "Gasolina regular",
+    "costo": 1177.92
+  },
+  {
+    "cargaId": "CAR-000323",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "litros": 30.52,
+    "precioLitro": 37.43,
+    "tipo": "Gasolina regular",
+    "costo": 1142.36
+  },
+  {
+    "cargaId": "CAR-000324",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-27",
+    "mes": "2026-03",
+    "litros": 30.8,
+    "precioLitro": 37.37,
+    "tipo": "Gasolina regular",
+    "costo": 1151.0
+  },
+  {
+    "cargaId": "CAR-000325",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "litros": 30.52,
+    "precioLitro": 37.33,
+    "tipo": "Gasolina regular",
+    "costo": 1139.31
+  },
+  {
+    "cargaId": "CAR-000326",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-02",
+    "mes": "2026-04",
+    "litros": 30.13,
+    "precioLitro": 37.46,
+    "tipo": "Gasolina regular",
+    "costo": 1128.67
+  },
+  {
+    "cargaId": "CAR-000327",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-04",
+    "mes": "2026-04",
+    "litros": 30.95,
+    "precioLitro": 37.64,
+    "tipo": "Gasolina regular",
+    "costo": 1164.96
+  },
+  {
+    "cargaId": "CAR-000328",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-08",
+    "mes": "2026-04",
+    "litros": 31.2,
+    "precioLitro": 37.44,
+    "tipo": "Gasolina regular",
+    "costo": 1168.13
+  },
+  {
+    "cargaId": "CAR-000329",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-12",
+    "mes": "2026-04",
+    "litros": 30.16,
+    "precioLitro": 37.44,
+    "tipo": "Gasolina regular",
+    "costo": 1129.19
+  },
+  {
+    "cargaId": "CAR-000330",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-16",
+    "mes": "2026-04",
+    "litros": 30.65,
+    "precioLitro": 37.7,
+    "tipo": "Gasolina regular",
+    "costo": 1155.51
+  },
+  {
+    "cargaId": "CAR-000331",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-20",
+    "mes": "2026-04",
+    "litros": 30.55,
+    "precioLitro": 37.5,
+    "tipo": "Gasolina regular",
+    "costo": 1145.62
+  },
+  {
+    "cargaId": "CAR-000332",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-24",
+    "mes": "2026-04",
+    "litros": 30.41,
+    "precioLitro": 37.44,
+    "tipo": "Gasolina regular",
+    "costo": 1138.55
+  },
+  {
+    "cargaId": "CAR-000333",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "litros": 30.02,
+    "precioLitro": 37.67,
+    "tipo": "Gasolina regular",
+    "costo": 1130.85
+  },
+  {
+    "cargaId": "CAR-000334",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-30",
+    "mes": "2026-04",
+    "litros": 30.42,
+    "precioLitro": 37.86,
+    "tipo": "Gasolina regular",
+    "costo": 1151.7
+  },
+  {
+    "cargaId": "CAR-000335",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-04",
+    "mes": "2026-05",
+    "litros": 31.39,
+    "precioLitro": 37.99,
+    "tipo": "Gasolina regular",
+    "costo": 1192.51
+  },
+  {
+    "cargaId": "CAR-000336",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-07",
+    "mes": "2026-05",
+    "litros": 30.33,
+    "precioLitro": 38.25,
+    "tipo": "Gasolina regular",
+    "costo": 1160.12
+  },
+  {
+    "cargaId": "CAR-000337",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-11",
+    "mes": "2026-05",
+    "litros": 30.74,
+    "precioLitro": 38.43,
+    "tipo": "Gasolina regular",
+    "costo": 1181.34
+  },
+  {
+    "cargaId": "CAR-000338",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-13",
+    "mes": "2026-05",
+    "litros": 30.32,
+    "precioLitro": 38.33,
+    "tipo": "Gasolina regular",
+    "costo": 1162.17
+  },
+  {
+    "cargaId": "CAR-000339",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-15",
+    "mes": "2026-05",
+    "litros": 31.45,
+    "precioLitro": 38.26,
+    "tipo": "Gasolina regular",
+    "costo": 1203.28
+  },
+  {
+    "cargaId": "CAR-000340",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-20",
+    "mes": "2026-05",
+    "litros": 30.04,
+    "precioLitro": 38.28,
+    "tipo": "Gasolina regular",
+    "costo": 1149.93
+  },
+  {
+    "cargaId": "CAR-000341",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "litros": 30.49,
+    "precioLitro": 38.25,
+    "tipo": "Gasolina regular",
+    "costo": 1166.24
+  },
+  {
+    "cargaId": "CAR-000342",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-05-24",
+    "mes": "2026-05",
+    "litros": 4.35,
+    "precioLitro": 38.17,
+    "tipo": "Gasolina regular",
+    "costo": 166.04
+  },
+  {
+    "cargaId": "CAR-000343",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-01",
+    "mes": "2024-12",
+    "litros": 46.5,
+    "precioLitro": 38.12,
+    "tipo": "Gasolina regular",
+    "costo": 1772.58
+  },
+  {
+    "cargaId": "CAR-000344",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "litros": 36.0,
+    "precioLitro": 38.11,
+    "tipo": "Gasolina regular",
+    "costo": 1371.96
+  },
+  {
+    "cargaId": "CAR-000345",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "litros": 46.96,
+    "precioLitro": 38.24,
+    "tipo": "Gasolina regular",
+    "costo": 1795.75
+  },
+  {
+    "cargaId": "CAR-000346",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-11",
+    "mes": "2024-12",
+    "litros": 39.37,
+    "precioLitro": 38.27,
+    "tipo": "Gasolina regular",
+    "costo": 1506.69
+  },
+  {
+    "cargaId": "CAR-000347",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "litros": 48.49,
+    "precioLitro": 38.44,
+    "tipo": "Gasolina regular",
+    "costo": 1863.96
+  },
+  {
+    "cargaId": "CAR-000348",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "litros": 32.84,
+    "precioLitro": 38.74,
+    "tipo": "Gasolina regular",
+    "costo": 1272.22
+  },
+  {
+    "cargaId": "CAR-000349",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-26",
+    "mes": "2024-12",
+    "litros": 35.23,
+    "precioLitro": 38.89,
+    "tipo": "Gasolina regular",
+    "costo": 1370.09
+  },
+  {
+    "cargaId": "CAR-000350",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-30",
+    "mes": "2024-12",
+    "litros": 44.28,
+    "precioLitro": 39.1,
+    "tipo": "Gasolina regular",
+    "costo": 1731.35
+  },
+  {
+    "cargaId": "CAR-000351",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-01",
+    "mes": "2025-01",
+    "litros": 32.99,
+    "precioLitro": 39.09,
+    "tipo": "Gasolina regular",
+    "costo": 1289.58
+  },
+  {
+    "cargaId": "CAR-000352",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "litros": 30.66,
+    "precioLitro": 39.17,
+    "tipo": "Gasolina regular",
+    "costo": 1200.95
+  },
+  {
+    "cargaId": "CAR-000353",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-11",
+    "mes": "2025-01",
+    "litros": 52.41,
+    "precioLitro": 39.0,
+    "tipo": "Gasolina regular",
+    "costo": 2043.99
+  },
+  {
+    "cargaId": "CAR-000354",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-14",
+    "mes": "2025-01",
+    "litros": 49.43,
+    "precioLitro": 39.12,
+    "tipo": "Gasolina regular",
+    "costo": 1933.7
+  },
+  {
+    "cargaId": "CAR-000355",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-16",
+    "mes": "2025-01",
+    "litros": 43.63,
+    "precioLitro": 39.13,
+    "tipo": "Gasolina regular",
+    "costo": 1707.24
+  },
+  {
+    "cargaId": "CAR-000356",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "litros": 45.55,
+    "precioLitro": 39.23,
+    "tipo": "Gasolina regular",
+    "costo": 1786.93
+  },
+  {
+    "cargaId": "CAR-000357",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-20",
+    "mes": "2025-01",
+    "litros": 43.38,
+    "precioLitro": 39.47,
+    "tipo": "Gasolina regular",
+    "costo": 1712.21
+  },
+  {
+    "cargaId": "CAR-000358",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-23",
+    "mes": "2025-01",
+    "litros": 55.23,
+    "precioLitro": 39.76,
+    "tipo": "Gasolina regular",
+    "costo": 2195.94
+  },
+  {
+    "cargaId": "CAR-000359",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "litros": 42.97,
+    "precioLitro": 39.92,
+    "tipo": "Gasolina regular",
+    "costo": 1715.36
+  },
+  {
+    "cargaId": "CAR-000360",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-01-29",
+    "mes": "2025-01",
+    "litros": 55.04,
+    "precioLitro": 40.05,
+    "tipo": "Gasolina regular",
+    "costo": 2204.35
+  },
+  {
+    "cargaId": "CAR-000361",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "litros": 49.81,
+    "precioLitro": 39.91,
+    "tipo": "Gasolina regular",
+    "costo": 1987.92
+  },
+  {
+    "cargaId": "CAR-000362",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-06",
+    "mes": "2025-02",
+    "litros": 55.67,
+    "precioLitro": 40.1,
+    "tipo": "Gasolina regular",
+    "costo": 2232.37
+  },
+  {
+    "cargaId": "CAR-000363",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-09",
+    "mes": "2025-02",
+    "litros": 51.5,
+    "precioLitro": 40.03,
+    "tipo": "Gasolina regular",
+    "costo": 2061.55
+  },
+  {
+    "cargaId": "CAR-000364",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-11",
+    "mes": "2025-02",
+    "litros": 36.08,
+    "precioLitro": 40.23,
+    "tipo": "Gasolina regular",
+    "costo": 1451.5
+  },
+  {
+    "cargaId": "CAR-000365",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-15",
+    "mes": "2025-02",
+    "litros": 39.37,
+    "precioLitro": 40.48,
+    "tipo": "Gasolina regular",
+    "costo": 1593.7
+  },
+  {
+    "cargaId": "CAR-000366",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-19",
+    "mes": "2025-02",
+    "litros": 43.97,
+    "precioLitro": 40.43,
+    "tipo": "Gasolina regular",
+    "costo": 1777.71
+  },
+  {
+    "cargaId": "CAR-000367",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-22",
+    "mes": "2025-02",
+    "litros": 54.63,
+    "precioLitro": 40.39,
+    "tipo": "Gasolina regular",
+    "costo": 2206.51
+  },
+  {
+    "cargaId": "CAR-000368",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-25",
+    "mes": "2025-02",
+    "litros": 40.97,
+    "precioLitro": 40.42,
+    "tipo": "Gasolina regular",
+    "costo": 1656.01
+  },
+  {
+    "cargaId": "CAR-000369",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "litros": 38.78,
+    "precioLitro": 40.33,
+    "tipo": "Gasolina regular",
+    "costo": 1564.0
+  },
+  {
+    "cargaId": "CAR-000370",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-04",
+    "mes": "2025-03",
+    "litros": 41.89,
+    "precioLitro": 40.45,
+    "tipo": "Gasolina regular",
+    "costo": 1694.45
+  },
+  {
+    "cargaId": "CAR-000371",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-06",
+    "mes": "2025-03",
+    "litros": 41.48,
+    "precioLitro": 40.59,
+    "tipo": "Gasolina regular",
+    "costo": 1683.67
+  },
+  {
+    "cargaId": "CAR-000372",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "litros": 49.29,
+    "precioLitro": 40.5,
+    "tipo": "Gasolina regular",
+    "costo": 1996.24
+  },
+  {
+    "cargaId": "CAR-000373",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-13",
+    "mes": "2025-03",
+    "litros": 45.43,
+    "precioLitro": 40.7,
+    "tipo": "Gasolina regular",
+    "costo": 1849.0
+  },
+  {
+    "cargaId": "CAR-000374",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-17",
+    "mes": "2025-03",
+    "litros": 47.63,
+    "precioLitro": 40.66,
+    "tipo": "Gasolina regular",
+    "costo": 1936.64
+  },
+  {
+    "cargaId": "CAR-000375",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-20",
+    "mes": "2025-03",
+    "litros": 45.59,
+    "precioLitro": 40.63,
+    "tipo": "Gasolina regular",
+    "costo": 1852.32
+  },
+  {
+    "cargaId": "CAR-000376",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-24",
+    "mes": "2025-03",
+    "litros": 48.58,
+    "precioLitro": 40.45,
+    "tipo": "Gasolina regular",
+    "costo": 1965.06
+  },
+  {
+    "cargaId": "CAR-000377",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-27",
+    "mes": "2025-03",
+    "litros": 48.68,
+    "precioLitro": 40.55,
+    "tipo": "Gasolina regular",
+    "costo": 1973.97
+  },
+  {
+    "cargaId": "CAR-000378",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-31",
+    "mes": "2025-03",
+    "litros": 31.45,
+    "precioLitro": 40.74,
+    "tipo": "Gasolina regular",
+    "costo": 1281.27
+  },
+  {
+    "cargaId": "CAR-000379",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-03",
+    "mes": "2025-04",
+    "litros": 53.99,
+    "precioLitro": 40.88,
+    "tipo": "Gasolina regular",
+    "costo": 2207.11
+  },
+  {
+    "cargaId": "CAR-000380",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-08",
+    "mes": "2025-04",
+    "litros": 41.4,
+    "precioLitro": 40.71,
+    "tipo": "Gasolina regular",
+    "costo": 1685.39
+  },
+  {
+    "cargaId": "CAR-000381",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-11",
+    "mes": "2025-04",
+    "litros": 44.49,
+    "precioLitro": 40.56,
+    "tipo": "Gasolina regular",
+    "costo": 1804.51
+  },
+  {
+    "cargaId": "CAR-000382",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-15",
+    "mes": "2025-04",
+    "litros": 39.26,
+    "precioLitro": 40.6,
+    "tipo": "Gasolina regular",
+    "costo": 1593.96
+  },
+  {
+    "cargaId": "CAR-000383",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-20",
+    "mes": "2025-04",
+    "litros": 33.3,
+    "precioLitro": 40.61,
+    "tipo": "Gasolina regular",
+    "costo": 1352.31
+  },
+  {
+    "cargaId": "CAR-000384",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-23",
+    "mes": "2025-04",
+    "litros": 51.35,
+    "precioLitro": 40.76,
+    "tipo": "Gasolina regular",
+    "costo": 2093.03
+  },
+  {
+    "cargaId": "CAR-000385",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-28",
+    "mes": "2025-04",
+    "litros": 46.56,
+    "precioLitro": 41.0,
+    "tipo": "Gasolina regular",
+    "costo": 1908.96
+  },
+  {
+    "cargaId": "CAR-000386",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "litros": 41.82,
+    "precioLitro": 40.98,
+    "tipo": "Gasolina regular",
+    "costo": 1713.78
+  },
+  {
+    "cargaId": "CAR-000387",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-05",
+    "mes": "2025-05",
+    "litros": 52.43,
+    "precioLitro": 40.85,
+    "tipo": "Gasolina regular",
+    "costo": 2141.77
+  },
+  {
+    "cargaId": "CAR-000388",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-07",
+    "mes": "2025-05",
+    "litros": 49.55,
+    "precioLitro": 41.12,
+    "tipo": "Gasolina regular",
+    "costo": 2037.5
+  },
+  {
+    "cargaId": "CAR-000389",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-11",
+    "mes": "2025-05",
+    "litros": 46.69,
+    "precioLitro": 41.1,
+    "tipo": "Gasolina regular",
+    "costo": 1918.96
+  },
+  {
+    "cargaId": "CAR-000390",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-14",
+    "mes": "2025-05",
+    "litros": 33.1,
+    "precioLitro": 41.01,
+    "tipo": "Gasolina regular",
+    "costo": 1357.43
+  },
+  {
+    "cargaId": "CAR-000391",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-19",
+    "mes": "2025-05",
+    "litros": 30.55,
+    "precioLitro": 41.07,
+    "tipo": "Gasolina regular",
+    "costo": 1254.69
+  },
+  {
+    "cargaId": "CAR-000392",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "litros": 34.1,
+    "precioLitro": 41.25,
+    "tipo": "Gasolina regular",
+    "costo": 1406.62
+  },
+  {
+    "cargaId": "CAR-000393",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-24",
+    "mes": "2025-05",
+    "litros": 54.45,
+    "precioLitro": 41.34,
+    "tipo": "Gasolina regular",
+    "costo": 2250.96
+  },
+  {
+    "cargaId": "CAR-000394",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-27",
+    "mes": "2025-05",
+    "litros": 37.5,
+    "precioLitro": 41.64,
+    "tipo": "Gasolina regular",
+    "costo": 1561.5
+  },
+  {
+    "cargaId": "CAR-000395",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-05-31",
+    "mes": "2025-05",
+    "litros": 48.02,
+    "precioLitro": 41.93,
+    "tipo": "Gasolina regular",
+    "costo": 2013.48
+  },
+  {
+    "cargaId": "CAR-000396",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-04",
+    "mes": "2025-06",
+    "litros": 36.53,
+    "precioLitro": 42.21,
+    "tipo": "Gasolina regular",
+    "costo": 1541.93
+  },
+  {
+    "cargaId": "CAR-000397",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "litros": 31.78,
+    "precioLitro": 42.34,
+    "tipo": "Gasolina regular",
+    "costo": 1345.57
+  },
+  {
+    "cargaId": "CAR-000398",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-12",
+    "mes": "2025-06",
+    "litros": 46.7,
+    "precioLitro": 42.56,
+    "tipo": "Gasolina regular",
+    "costo": 1987.55
+  },
+  {
+    "cargaId": "CAR-000399",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-17",
+    "mes": "2025-06",
+    "litros": 30.26,
+    "precioLitro": 42.76,
+    "tipo": "Gasolina regular",
+    "costo": 1293.92
+  },
+  {
+    "cargaId": "CAR-000400",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-21",
+    "mes": "2025-06",
+    "litros": 34.18,
+    "precioLitro": 42.69,
+    "tipo": "Gasolina regular",
+    "costo": 1459.14
+  },
+  {
+    "cargaId": "CAR-000401",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-23",
+    "mes": "2025-06",
+    "litros": 41.99,
+    "precioLitro": 42.71,
+    "tipo": "Gasolina regular",
+    "costo": 1793.39
+  },
+  {
+    "cargaId": "CAR-000402",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "litros": 43.46,
+    "precioLitro": 42.72,
+    "tipo": "Gasolina regular",
+    "costo": 1856.61
+  },
+  {
+    "cargaId": "CAR-000403",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-06-30",
+    "mes": "2025-06",
+    "litros": 37.12,
+    "precioLitro": 42.6,
+    "tipo": "Gasolina regular",
+    "costo": 1581.31
+  },
+  {
+    "cargaId": "CAR-000404",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-02",
+    "mes": "2025-07",
+    "litros": 37.3,
+    "precioLitro": 42.73,
+    "tipo": "Gasolina regular",
+    "costo": 1593.83
+  },
+  {
+    "cargaId": "CAR-000405",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "litros": 35.13,
+    "precioLitro": 42.74,
+    "tipo": "Gasolina regular",
+    "costo": 1501.46
+  },
+  {
+    "cargaId": "CAR-000406",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-07",
+    "mes": "2025-07",
+    "litros": 34.73,
+    "precioLitro": 42.59,
+    "tipo": "Gasolina regular",
+    "costo": 1479.15
+  },
+  {
+    "cargaId": "CAR-000407",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "litros": 41.84,
+    "precioLitro": 42.46,
+    "tipo": "Gasolina regular",
+    "costo": 1776.53
+  },
+  {
+    "cargaId": "CAR-000408",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "litros": 43.17,
+    "precioLitro": 42.59,
+    "tipo": "Gasolina regular",
+    "costo": 1838.61
+  },
+  {
+    "cargaId": "CAR-000409",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "litros": 52.72,
+    "precioLitro": 42.8,
+    "tipo": "Gasolina regular",
+    "costo": 2256.42
+  },
+  {
+    "cargaId": "CAR-000410",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "litros": 30.12,
+    "precioLitro": 42.91,
+    "tipo": "Gasolina regular",
+    "costo": 1292.45
+  },
+  {
+    "cargaId": "CAR-000411",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "litros": 31.61,
+    "precioLitro": 43.04,
+    "tipo": "Gasolina regular",
+    "costo": 1360.49
+  },
+  {
+    "cargaId": "CAR-000412",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-26",
+    "mes": "2025-07",
+    "litros": 45.36,
+    "precioLitro": 43.05,
+    "tipo": "Gasolina regular",
+    "costo": 1952.75
+  },
+  {
+    "cargaId": "CAR-000413",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-07-30",
+    "mes": "2025-07",
+    "litros": 34.97,
+    "precioLitro": 43.35,
+    "tipo": "Gasolina regular",
+    "costo": 1515.95
+  },
+  {
+    "cargaId": "CAR-000414",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "litros": 51.22,
+    "precioLitro": 43.4,
+    "tipo": "Gasolina regular",
+    "costo": 2222.95
+  },
+  {
+    "cargaId": "CAR-000415",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-07",
+    "mes": "2025-08",
+    "litros": 39.22,
+    "precioLitro": 43.47,
+    "tipo": "Gasolina regular",
+    "costo": 1704.89
+  },
+  {
+    "cargaId": "CAR-000416",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-11",
+    "mes": "2025-08",
+    "litros": 41.57,
+    "precioLitro": 43.59,
+    "tipo": "Gasolina regular",
+    "costo": 1812.04
+  },
+  {
+    "cargaId": "CAR-000417",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "litros": 55.92,
+    "precioLitro": 43.53,
+    "tipo": "Gasolina regular",
+    "costo": 2434.2
+  },
+  {
+    "cargaId": "CAR-000418",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "litros": 32.87,
+    "precioLitro": 43.54,
+    "tipo": "Gasolina regular",
+    "costo": 1431.16
+  },
+  {
+    "cargaId": "CAR-000419",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-22",
+    "mes": "2025-08",
+    "litros": 38.45,
+    "precioLitro": 43.78,
+    "tipo": "Gasolina regular",
+    "costo": 1683.34
+  },
+  {
+    "cargaId": "CAR-000420",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-25",
+    "mes": "2025-08",
+    "litros": 52.3,
+    "precioLitro": 43.71,
+    "tipo": "Gasolina regular",
+    "costo": 2286.03
+  },
+  {
+    "cargaId": "CAR-000421",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-28",
+    "mes": "2025-08",
+    "litros": 31.49,
+    "precioLitro": 43.83,
+    "tipo": "Gasolina regular",
+    "costo": 1380.21
+  },
+  {
+    "cargaId": "CAR-000422",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-08-31",
+    "mes": "2025-08",
+    "litros": 53.67,
+    "precioLitro": 43.67,
+    "tipo": "Gasolina regular",
+    "costo": 2343.77
+  },
+  {
+    "cargaId": "CAR-000423",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "litros": 42.45,
+    "precioLitro": 43.58,
+    "tipo": "Gasolina regular",
+    "costo": 1849.97
+  },
+  {
+    "cargaId": "CAR-000424",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "litros": 43.99,
+    "precioLitro": 43.43,
+    "tipo": "Gasolina regular",
+    "costo": 1910.49
+  },
+  {
+    "cargaId": "CAR-000425",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-11",
+    "mes": "2025-09",
+    "litros": 32.25,
+    "precioLitro": 43.72,
+    "tipo": "Gasolina regular",
+    "costo": 1409.97
+  },
+  {
+    "cargaId": "CAR-000426",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-13",
+    "mes": "2025-09",
+    "litros": 42.71,
+    "precioLitro": 43.65,
+    "tipo": "Gasolina regular",
+    "costo": 1864.29
+  },
+  {
+    "cargaId": "CAR-000427",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-16",
+    "mes": "2025-09",
+    "litros": 48.03,
+    "precioLitro": 43.53,
+    "tipo": "Gasolina regular",
+    "costo": 2090.75
+  },
+  {
+    "cargaId": "CAR-000428",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-18",
+    "mes": "2025-09",
+    "litros": 53.71,
+    "precioLitro": 43.46,
+    "tipo": "Gasolina regular",
+    "costo": 2334.24
+  },
+  {
+    "cargaId": "CAR-000429",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "litros": 35.81,
+    "precioLitro": 43.52,
+    "tipo": "Gasolina regular",
+    "costo": 1558.45
+  },
+  {
+    "cargaId": "CAR-000430",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-26",
+    "mes": "2025-09",
+    "litros": 37.08,
+    "precioLitro": 43.47,
+    "tipo": "Gasolina regular",
+    "costo": 1611.87
+  },
+  {
+    "cargaId": "CAR-000431",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "litros": 40.56,
+    "precioLitro": 43.72,
+    "tipo": "Gasolina regular",
+    "costo": 1773.28
+  },
+  {
+    "cargaId": "CAR-000432",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "litros": 44.66,
+    "precioLitro": 43.59,
+    "tipo": "Gasolina regular",
+    "costo": 1946.73
+  },
+  {
+    "cargaId": "CAR-000433",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-09",
+    "mes": "2025-10",
+    "litros": 36.82,
+    "precioLitro": 43.46,
+    "tipo": "Gasolina regular",
+    "costo": 1600.2
+  },
+  {
+    "cargaId": "CAR-000434",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "litros": 49.97,
+    "precioLitro": 43.32,
+    "tipo": "Gasolina regular",
+    "costo": 2164.7
+  },
+  {
+    "cargaId": "CAR-000435",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-16",
+    "mes": "2025-10",
+    "litros": 37.41,
+    "precioLitro": 43.31,
+    "tipo": "Gasolina regular",
+    "costo": 1620.23
+  },
+  {
+    "cargaId": "CAR-000436",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-20",
+    "mes": "2025-10",
+    "litros": 53.48,
+    "precioLitro": 43.6,
+    "tipo": "Gasolina regular",
+    "costo": 2331.73
+  },
+  {
+    "cargaId": "CAR-000437",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "litros": 49.32,
+    "precioLitro": 43.8,
+    "tipo": "Gasolina regular",
+    "costo": 2160.22
+  },
+  {
+    "cargaId": "CAR-000438",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-26",
+    "mes": "2025-10",
+    "litros": 30.07,
+    "precioLitro": 43.9,
+    "tipo": "Gasolina regular",
+    "costo": 1320.07
+  },
+  {
+    "cargaId": "CAR-000439",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-30",
+    "mes": "2025-10",
+    "litros": 50.09,
+    "precioLitro": 43.9,
+    "tipo": "Gasolina regular",
+    "costo": 2198.95
+  },
+  {
+    "cargaId": "CAR-000440",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-03",
+    "mes": "2025-11",
+    "litros": 55.89,
+    "precioLitro": 44.06,
+    "tipo": "Gasolina regular",
+    "costo": 2462.51
+  },
+  {
+    "cargaId": "CAR-000441",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-08",
+    "mes": "2025-11",
+    "litros": 31.35,
+    "precioLitro": 44.07,
+    "tipo": "Gasolina regular",
+    "costo": 1381.59
+  },
+  {
+    "cargaId": "CAR-000442",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "litros": 44.38,
+    "precioLitro": 44.12,
+    "tipo": "Gasolina regular",
+    "costo": 1958.05
+  },
+  {
+    "cargaId": "CAR-000443",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-13",
+    "mes": "2025-11",
+    "litros": 35.75,
+    "precioLitro": 44.01,
+    "tipo": "Gasolina regular",
+    "costo": 1573.36
+  },
+  {
+    "cargaId": "CAR-000444",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-18",
+    "mes": "2025-11",
+    "litros": 30.96,
+    "precioLitro": 43.87,
+    "tipo": "Gasolina regular",
+    "costo": 1358.22
+  },
+  {
+    "cargaId": "CAR-000445",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "litros": 44.05,
+    "precioLitro": 43.86,
+    "tipo": "Gasolina regular",
+    "costo": 1932.03
+  },
+  {
+    "cargaId": "CAR-000446",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "litros": 39.58,
+    "precioLitro": 43.76,
+    "tipo": "Gasolina regular",
+    "costo": 1732.02
+  },
+  {
+    "cargaId": "CAR-000447",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-02",
+    "mes": "2025-12",
+    "litros": 44.43,
+    "precioLitro": 43.67,
+    "tipo": "Gasolina regular",
+    "costo": 1940.26
+  },
+  {
+    "cargaId": "CAR-000448",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-06",
+    "mes": "2025-12",
+    "litros": 31.86,
+    "precioLitro": 43.7,
+    "tipo": "Gasolina regular",
+    "costo": 1392.28
+  },
+  {
+    "cargaId": "CAR-000449",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-09",
+    "mes": "2025-12",
+    "litros": 49.83,
+    "precioLitro": 43.83,
+    "tipo": "Gasolina regular",
+    "costo": 2184.05
+  },
+  {
+    "cargaId": "CAR-000450",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-11",
+    "mes": "2025-12",
+    "litros": 49.51,
+    "precioLitro": 43.75,
+    "tipo": "Gasolina regular",
+    "costo": 2166.06
+  },
+  {
+    "cargaId": "CAR-000451",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "litros": 51.63,
+    "precioLitro": 43.88,
+    "tipo": "Gasolina regular",
+    "costo": 2265.52
+  },
+  {
+    "cargaId": "CAR-000452",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "litros": 38.5,
+    "precioLitro": 44.03,
+    "tipo": "Gasolina regular",
+    "costo": 1695.15
+  },
+  {
+    "cargaId": "CAR-000453",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-26",
+    "mes": "2025-12",
+    "litros": 35.7,
+    "precioLitro": 44.29,
+    "tipo": "Gasolina regular",
+    "costo": 1581.15
+  },
+  {
+    "cargaId": "CAR-000454",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-12-30",
+    "mes": "2025-12",
+    "litros": 45.56,
+    "precioLitro": 44.31,
+    "tipo": "Gasolina regular",
+    "costo": 2018.76
+  },
+  {
+    "cargaId": "CAR-000455",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-02",
+    "mes": "2026-01",
+    "litros": 33.51,
+    "precioLitro": 44.2,
+    "tipo": "Gasolina regular",
+    "costo": 1481.14
+  },
+  {
+    "cargaId": "CAR-000456",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "litros": 55.35,
+    "precioLitro": 44.36,
+    "tipo": "Gasolina regular",
+    "costo": 2455.33
+  },
+  {
+    "cargaId": "CAR-000457",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "litros": 43.87,
+    "precioLitro": 44.2,
+    "tipo": "Gasolina regular",
+    "costo": 1939.05
+  },
+  {
+    "cargaId": "CAR-000458",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-11",
+    "mes": "2026-01",
+    "litros": 50.78,
+    "precioLitro": 44.38,
+    "tipo": "Gasolina regular",
+    "costo": 2253.62
+  },
+  {
+    "cargaId": "CAR-000459",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-13",
+    "mes": "2026-01",
+    "litros": 49.48,
+    "precioLitro": 44.62,
+    "tipo": "Gasolina regular",
+    "costo": 2207.8
+  },
+  {
+    "cargaId": "CAR-000460",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-17",
+    "mes": "2026-01",
+    "litros": 41.72,
+    "precioLitro": 44.43,
+    "tipo": "Gasolina regular",
+    "costo": 1853.62
+  },
+  {
+    "cargaId": "CAR-000461",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-22",
+    "mes": "2026-01",
+    "litros": 51.79,
+    "precioLitro": 44.6,
+    "tipo": "Gasolina regular",
+    "costo": 2309.83
+  },
+  {
+    "cargaId": "CAR-000462",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "litros": 54.56,
+    "precioLitro": 44.58,
+    "tipo": "Gasolina regular",
+    "costo": 2432.28
+  },
+  {
+    "cargaId": "CAR-000463",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-01-30",
+    "mes": "2026-01",
+    "litros": 30.78,
+    "precioLitro": 44.84,
+    "tipo": "Gasolina regular",
+    "costo": 1380.18
+  },
+  {
+    "cargaId": "CAR-000464",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-02",
+    "mes": "2026-02",
+    "litros": 50.15,
+    "precioLitro": 44.7,
+    "tipo": "Gasolina regular",
+    "costo": 2241.7
+  },
+  {
+    "cargaId": "CAR-000465",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "litros": 47.95,
+    "precioLitro": 44.62,
+    "tipo": "Gasolina regular",
+    "costo": 2139.53
+  },
+  {
+    "cargaId": "CAR-000466",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-08",
+    "mes": "2026-02",
+    "litros": 30.52,
+    "precioLitro": 44.86,
+    "tipo": "Gasolina regular",
+    "costo": 1369.13
+  },
+  {
+    "cargaId": "CAR-000467",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-12",
+    "mes": "2026-02",
+    "litros": 30.31,
+    "precioLitro": 44.98,
+    "tipo": "Gasolina regular",
+    "costo": 1363.34
+  },
+  {
+    "cargaId": "CAR-000468",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "litros": 38.21,
+    "precioLitro": 44.92,
+    "tipo": "Gasolina regular",
+    "costo": 1716.39
+  },
+  {
+    "cargaId": "CAR-000469",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-21",
+    "mes": "2026-02",
+    "litros": 42.5,
+    "precioLitro": 45.12,
+    "tipo": "Gasolina regular",
+    "costo": 1917.6
+  },
+  {
+    "cargaId": "CAR-000470",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "litros": 31.56,
+    "precioLitro": 45.12,
+    "tipo": "Gasolina regular",
+    "costo": 1423.99
+  },
+  {
+    "cargaId": "CAR-000471",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "litros": 39.85,
+    "precioLitro": 45.03,
+    "tipo": "Gasolina regular",
+    "costo": 1794.45
+  },
+  {
+    "cargaId": "CAR-000472",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-03",
+    "mes": "2026-03",
+    "litros": 52.73,
+    "precioLitro": 44.96,
+    "tipo": "Gasolina regular",
+    "costo": 2370.74
+  },
+  {
+    "cargaId": "CAR-000473",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-07",
+    "mes": "2026-03",
+    "litros": 35.05,
+    "precioLitro": 45.25,
+    "tipo": "Gasolina regular",
+    "costo": 1586.01
+  },
+  {
+    "cargaId": "CAR-000474",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-12",
+    "mes": "2026-03",
+    "litros": 52.2,
+    "precioLitro": 45.46,
+    "tipo": "Gasolina regular",
+    "costo": 2373.01
+  },
+  {
+    "cargaId": "CAR-000475",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-15",
+    "mes": "2026-03",
+    "litros": 31.73,
+    "precioLitro": 45.7,
+    "tipo": "Gasolina regular",
+    "costo": 1450.06
+  },
+  {
+    "cargaId": "CAR-000476",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-20",
+    "mes": "2026-03",
+    "litros": 52.75,
+    "precioLitro": 45.59,
+    "tipo": "Gasolina regular",
+    "costo": 2404.87
+  },
+  {
+    "cargaId": "CAR-000477",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-24",
+    "mes": "2026-03",
+    "litros": 39.97,
+    "precioLitro": 45.65,
+    "tipo": "Gasolina regular",
+    "costo": 1824.63
+  },
+  {
+    "cargaId": "CAR-000478",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "litros": 35.94,
+    "precioLitro": 45.85,
+    "tipo": "Gasolina regular",
+    "costo": 1647.85
+  },
+  {
+    "cargaId": "CAR-000479",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-01",
+    "mes": "2026-04",
+    "litros": 32.96,
+    "precioLitro": 45.94,
+    "tipo": "Gasolina regular",
+    "costo": 1514.18
+  },
+  {
+    "cargaId": "CAR-000480",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-05",
+    "mes": "2026-04",
+    "litros": 39.5,
+    "precioLitro": 46.06,
+    "tipo": "Gasolina regular",
+    "costo": 1819.37
+  },
+  {
+    "cargaId": "CAR-000481",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-09",
+    "mes": "2026-04",
+    "litros": 46.32,
+    "precioLitro": 45.87,
+    "tipo": "Gasolina regular",
+    "costo": 2124.7
+  },
+  {
+    "cargaId": "CAR-000482",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "litros": 34.56,
+    "precioLitro": 45.88,
+    "tipo": "Gasolina regular",
+    "costo": 1585.61
+  },
+  {
+    "cargaId": "CAR-000483",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-16",
+    "mes": "2026-04",
+    "litros": 38.54,
+    "precioLitro": 45.92,
+    "tipo": "Gasolina regular",
+    "costo": 1769.76
+  },
+  {
+    "cargaId": "CAR-000484",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-20",
+    "mes": "2026-04",
+    "litros": 47.17,
+    "precioLitro": 46.04,
+    "tipo": "Gasolina regular",
+    "costo": 2171.71
+  },
+  {
+    "cargaId": "CAR-000485",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-22",
+    "mes": "2026-04",
+    "litros": 32.82,
+    "precioLitro": 46.31,
+    "tipo": "Gasolina regular",
+    "costo": 1519.89
+  },
+  {
+    "cargaId": "CAR-000486",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-24",
+    "mes": "2026-04",
+    "litros": 38.2,
+    "precioLitro": 46.17,
+    "tipo": "Gasolina regular",
+    "costo": 1763.69
+  },
+  {
+    "cargaId": "CAR-000487",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-29",
+    "mes": "2026-04",
+    "litros": 48.28,
+    "precioLitro": 46.02,
+    "tipo": "Gasolina regular",
+    "costo": 2221.85
+  },
+  {
+    "cargaId": "CAR-000488",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-02",
+    "mes": "2026-05",
+    "litros": 48.23,
+    "precioLitro": 46.23,
+    "tipo": "Gasolina regular",
+    "costo": 2229.67
+  },
+  {
+    "cargaId": "CAR-000489",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-07",
+    "mes": "2026-05",
+    "litros": 44.31,
+    "precioLitro": 46.2,
+    "tipo": "Gasolina regular",
+    "costo": 2047.12
+  },
+  {
+    "cargaId": "CAR-000490",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-12",
+    "mes": "2026-05",
+    "litros": 33.08,
+    "precioLitro": 46.16,
+    "tipo": "Gasolina regular",
+    "costo": 1526.97
+  },
+  {
+    "cargaId": "CAR-000491",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-14",
+    "mes": "2026-05",
+    "litros": 31.72,
+    "precioLitro": 46.36,
+    "tipo": "Gasolina regular",
+    "costo": 1470.54
+  },
+  {
+    "cargaId": "CAR-000492",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-17",
+    "mes": "2026-05",
+    "litros": 42.48,
+    "precioLitro": 46.52,
+    "tipo": "Gasolina regular",
+    "costo": 1976.17
+  },
+  {
+    "cargaId": "CAR-000493",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-21",
+    "mes": "2026-05",
+    "litros": 53.9,
+    "precioLitro": 46.43,
+    "tipo": "Gasolina regular",
+    "costo": 2502.58
+  },
+  {
+    "cargaId": "CAR-000494",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-26",
+    "mes": "2026-05",
+    "litros": 49.73,
+    "precioLitro": 46.56,
+    "tipo": "Gasolina regular",
+    "costo": 2315.43
+  },
+  {
+    "cargaId": "CAR-000495",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-05-30",
+    "mes": "2026-05",
+    "litros": 49.67,
+    "precioLitro": 46.68,
+    "tipo": "Gasolina regular",
+    "costo": 2318.6
+  },
+  {
+    "cargaId": "CAR-000496",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-03",
+    "mes": "2026-06",
+    "litros": 52.68,
+    "precioLitro": 46.61,
+    "tipo": "Gasolina regular",
+    "costo": 2455.41
+  },
+  {
+    "cargaId": "CAR-000497",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-07",
+    "mes": "2026-06",
+    "litros": 48.76,
+    "precioLitro": 46.45,
+    "tipo": "Gasolina regular",
+    "costo": 2264.9
+  },
+  {
+    "cargaId": "CAR-000498",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "litros": 39.71,
+    "precioLitro": 46.62,
+    "tipo": "Gasolina regular",
+    "costo": 1851.28
+  },
+  {
+    "cargaId": "CAR-000499",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-14",
+    "mes": "2026-06",
+    "litros": 31.99,
+    "precioLitro": 46.82,
+    "tipo": "Gasolina regular",
+    "costo": 1497.77
+  },
+  {
+    "cargaId": "CAR-000500",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-18",
+    "mes": "2026-06",
+    "litros": 55.38,
+    "precioLitro": 46.87,
+    "tipo": "Gasolina regular",
+    "costo": 2595.66
+  },
+  {
+    "cargaId": "CAR-000501",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-21",
+    "mes": "2026-06",
+    "litros": 55.3,
+    "precioLitro": 46.68,
+    "tipo": "Gasolina regular",
+    "costo": 2581.4
+  },
+  {
+    "cargaId": "CAR-000502",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-25",
+    "mes": "2026-06",
+    "litros": 40.55,
+    "precioLitro": 46.87,
+    "tipo": "Gasolina regular",
+    "costo": 1900.58
+  },
+  {
+    "cargaId": "CAR-000503",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-06-30",
+    "mes": "2026-06",
+    "litros": 47.18,
+    "precioLitro": 46.74,
+    "tipo": "Gasolina regular",
+    "costo": 2205.19
+  },
+  {
+    "cargaId": "CAR-000504",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "litros": 48.17,
+    "precioLitro": 46.95,
+    "tipo": "Gasolina regular",
+    "costo": 2261.58
+  },
+  {
+    "cargaId": "CAR-000505",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-05",
+    "mes": "2026-07",
+    "litros": 55.32,
+    "precioLitro": 46.9,
+    "tipo": "Gasolina regular",
+    "costo": 2594.51
+  },
+  {
+    "cargaId": "CAR-000506",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-09",
+    "mes": "2026-07",
+    "litros": 37.78,
+    "precioLitro": 46.79,
+    "tipo": "Gasolina regular",
+    "costo": 1767.73
+  },
+  {
+    "cargaId": "CAR-000507",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-11",
+    "mes": "2026-07",
+    "litros": 40.05,
+    "precioLitro": 46.79,
+    "tipo": "Gasolina regular",
+    "costo": 1873.94
+  },
+  {
+    "cargaId": "CAR-000508",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-13",
+    "mes": "2026-07",
+    "litros": 48.34,
+    "precioLitro": 46.67,
+    "tipo": "Gasolina regular",
+    "costo": 2256.03
+  },
+  {
+    "cargaId": "CAR-000509",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "litros": 33.27,
+    "precioLitro": 46.86,
+    "tipo": "Gasolina regular",
+    "costo": 1559.03
+  },
+  {
+    "cargaId": "CAR-000510",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-21",
+    "mes": "2026-07",
+    "litros": 45.74,
+    "precioLitro": 46.81,
+    "tipo": "Gasolina regular",
+    "costo": 2141.09
+  },
+  {
+    "cargaId": "CAR-000511",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-23",
+    "mes": "2026-07",
+    "litros": 52.22,
+    "precioLitro": 46.83,
+    "tipo": "Gasolina regular",
+    "costo": 2445.46
+  },
+  {
+    "cargaId": "CAR-000512",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-25",
+    "mes": "2026-07",
+    "litros": 49.95,
+    "precioLitro": 47.09,
+    "tipo": "Gasolina regular",
+    "costo": 2352.15
+  },
+  {
+    "cargaId": "CAR-000513",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "litros": 55.03,
+    "precioLitro": 47.12,
+    "tipo": "Gasolina regular",
+    "costo": 2593.01
+  },
+  {
+    "cargaId": "CAR-000514",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-07-31",
+    "mes": "2026-07",
+    "litros": 51.72,
+    "precioLitro": 47.2,
+    "tipo": "Gasolina regular",
+    "costo": 2441.18
+  },
+  {
+    "cargaId": "CAR-000515",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-02",
+    "mes": "2026-08",
+    "litros": 43.15,
+    "precioLitro": 47.41,
+    "tipo": "Gasolina regular",
+    "costo": 2045.74
+  },
+  {
+    "cargaId": "CAR-000516",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-07",
+    "mes": "2026-08",
+    "litros": 39.88,
+    "precioLitro": 47.47,
+    "tipo": "Gasolina regular",
+    "costo": 1893.1
+  },
+  {
+    "cargaId": "CAR-000517",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-09",
+    "mes": "2026-08",
+    "litros": 48.81,
+    "precioLitro": 47.31,
+    "tipo": "Gasolina regular",
+    "costo": 2309.2
+  },
+  {
+    "cargaId": "CAR-000518",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-11",
+    "mes": "2026-08",
+    "litros": 39.52,
+    "precioLitro": 47.22,
+    "tipo": "Gasolina regular",
+    "costo": 1866.13
+  },
+  {
+    "cargaId": "CAR-000519",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-16",
+    "mes": "2026-08",
+    "litros": 35.78,
+    "precioLitro": 47.39,
+    "tipo": "Gasolina regular",
+    "costo": 1695.61
+  },
+  {
+    "cargaId": "CAR-000520",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-21",
+    "mes": "2026-08",
+    "litros": 36.27,
+    "precioLitro": 47.3,
+    "tipo": "Gasolina regular",
+    "costo": 1715.57
+  },
+  {
+    "cargaId": "CAR-000521",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-25",
+    "mes": "2026-08",
+    "litros": 54.45,
+    "precioLitro": 47.29,
+    "tipo": "Gasolina regular",
+    "costo": 2574.94
+  },
+  {
+    "cargaId": "CAR-000522",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-08-29",
+    "mes": "2026-08",
+    "litros": 1.93,
+    "precioLitro": 47.27,
+    "tipo": "Gasolina regular",
+    "costo": 91.23
+  },
+  {
+    "cargaId": "CAR-000523",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-01",
+    "mes": "2024-12",
+    "litros": 52.65,
+    "precioLitro": 47.26,
+    "tipo": "Gasolina regular",
+    "costo": 2488.24
+  },
+  {
+    "cargaId": "CAR-000524",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-05",
+    "mes": "2024-12",
+    "litros": 36.16,
+    "precioLitro": 47.53,
+    "tipo": "Gasolina regular",
+    "costo": 1718.68
+  },
+  {
+    "cargaId": "CAR-000525",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-09",
+    "mes": "2024-12",
+    "litros": 55.1,
+    "precioLitro": 47.56,
+    "tipo": "Gasolina regular",
+    "costo": 2620.56
+  },
+  {
+    "cargaId": "CAR-000526",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "litros": 42.82,
+    "precioLitro": 47.5,
+    "tipo": "Gasolina regular",
+    "costo": 2033.95
+  },
+  {
+    "cargaId": "CAR-000527",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-17",
+    "mes": "2024-12",
+    "litros": 49.04,
+    "precioLitro": 47.45,
+    "tipo": "Gasolina regular",
+    "costo": 2326.95
+  },
+  {
+    "cargaId": "CAR-000528",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-20",
+    "mes": "2024-12",
+    "litros": 33.06,
+    "precioLitro": 47.51,
+    "tipo": "Gasolina regular",
+    "costo": 1570.68
+  },
+  {
+    "cargaId": "CAR-000529",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "litros": 31.57,
+    "precioLitro": 47.63,
+    "tipo": "Gasolina regular",
+    "costo": 1503.68
+  },
+  {
+    "cargaId": "CAR-000530",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2024-12-29",
+    "mes": "2024-12",
+    "litros": 33.69,
+    "precioLitro": 47.77,
+    "tipo": "Gasolina regular",
+    "costo": 1609.37
+  },
+  {
+    "cargaId": "CAR-000531",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-01",
+    "mes": "2025-01",
+    "litros": 44.1,
+    "precioLitro": 47.81,
+    "tipo": "Gasolina regular",
+    "costo": 2108.42
+  },
+  {
+    "cargaId": "CAR-000532",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-04",
+    "mes": "2025-01",
+    "litros": 34.25,
+    "precioLitro": 47.68,
+    "tipo": "Gasolina regular",
+    "costo": 1633.04
+  },
+  {
+    "cargaId": "CAR-000533",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "litros": 43.53,
+    "precioLitro": 47.66,
+    "tipo": "Gasolina regular",
+    "costo": 2074.64
+  },
+  {
+    "cargaId": "CAR-000534",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-09",
+    "mes": "2025-01",
+    "litros": 37.83,
+    "precioLitro": 47.61,
+    "tipo": "Gasolina regular",
+    "costo": 1801.09
+  },
+  {
+    "cargaId": "CAR-000535",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-14",
+    "mes": "2025-01",
+    "litros": 51.71,
+    "precioLitro": 47.65,
+    "tipo": "Gasolina regular",
+    "costo": 2463.98
+  },
+  {
+    "cargaId": "CAR-000536",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-16",
+    "mes": "2025-01",
+    "litros": 47.68,
+    "precioLitro": 47.54,
+    "tipo": "Gasolina regular",
+    "costo": 2266.71
+  },
+  {
+    "cargaId": "CAR-000537",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-19",
+    "mes": "2025-01",
+    "litros": 39.14,
+    "precioLitro": 47.45,
+    "tipo": "Gasolina regular",
+    "costo": 1857.19
+  },
+  {
+    "cargaId": "CAR-000538",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "litros": 44.36,
+    "precioLitro": 47.72,
+    "tipo": "Gasolina regular",
+    "costo": 2116.86
+  },
+  {
+    "cargaId": "CAR-000539",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "litros": 31.91,
+    "precioLitro": 47.96,
+    "tipo": "Gasolina regular",
+    "costo": 1530.4
+  },
+  {
+    "cargaId": "CAR-000540",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-31",
+    "mes": "2025-01",
+    "litros": 38.82,
+    "precioLitro": 47.96,
+    "tipo": "Gasolina regular",
+    "costo": 1861.81
+  },
+  {
+    "cargaId": "CAR-000541",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "litros": 32.23,
+    "precioLitro": 48.04,
+    "tipo": "Gasolina regular",
+    "costo": 1548.33
+  },
+  {
+    "cargaId": "CAR-000542",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "litros": 36.25,
+    "precioLitro": 48.14,
+    "tipo": "Gasolina regular",
+    "costo": 1745.08
+  },
+  {
+    "cargaId": "CAR-000543",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-11",
+    "mes": "2025-02",
+    "litros": 32.37,
+    "precioLitro": 48.31,
+    "tipo": "Gasolina regular",
+    "costo": 1563.79
+  },
+  {
+    "cargaId": "CAR-000544",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-13",
+    "mes": "2025-02",
+    "litros": 42.53,
+    "precioLitro": 48.22,
+    "tipo": "Gasolina regular",
+    "costo": 2050.8
+  },
+  {
+    "cargaId": "CAR-000545",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-18",
+    "mes": "2025-02",
+    "litros": 54.68,
+    "precioLitro": 48.37,
+    "tipo": "Gasolina regular",
+    "costo": 2644.87
+  },
+  {
+    "cargaId": "CAR-000546",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "litros": 53.19,
+    "precioLitro": 48.52,
+    "tipo": "Gasolina regular",
+    "costo": 2580.78
+  },
+  {
+    "cargaId": "CAR-000547",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-26",
+    "mes": "2025-02",
+    "litros": 43.87,
+    "precioLitro": 48.76,
+    "tipo": "Gasolina regular",
+    "costo": 2139.1
+  },
+  {
+    "cargaId": "CAR-000548",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "litros": 41.25,
+    "precioLitro": 48.95,
+    "tipo": "Gasolina regular",
+    "costo": 2019.19
+  },
+  {
+    "cargaId": "CAR-000549",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-04",
+    "mes": "2025-03",
+    "litros": 45.63,
+    "precioLitro": 48.85,
+    "tipo": "Gasolina regular",
+    "costo": 2229.03
+  },
+  {
+    "cargaId": "CAR-000550",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-09",
+    "mes": "2025-03",
+    "litros": 38.54,
+    "precioLitro": 48.66,
+    "tipo": "Gasolina regular",
+    "costo": 1875.36
+  },
+  {
+    "cargaId": "CAR-000551",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-14",
+    "mes": "2025-03",
+    "litros": 31.28,
+    "precioLitro": 48.74,
+    "tipo": "Gasolina regular",
+    "costo": 1524.59
+  },
+  {
+    "cargaId": "CAR-000552",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-19",
+    "mes": "2025-03",
+    "litros": 41.0,
+    "precioLitro": 48.74,
+    "tipo": "Gasolina regular",
+    "costo": 1998.34
+  },
+  {
+    "cargaId": "CAR-000553",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-22",
+    "mes": "2025-03",
+    "litros": 47.8,
+    "precioLitro": 49.0,
+    "tipo": "Gasolina regular",
+    "costo": 2342.2
+  },
+  {
+    "cargaId": "CAR-000554",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "litros": 40.03,
+    "precioLitro": 49.18,
+    "tipo": "Gasolina regular",
+    "costo": 1968.68
+  },
+  {
+    "cargaId": "CAR-000555",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-27",
+    "mes": "2025-03",
+    "litros": 51.42,
+    "precioLitro": 49.16,
+    "tipo": "Gasolina regular",
+    "costo": 2527.81
+  },
+  {
+    "cargaId": "CAR-000556",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-31",
+    "mes": "2025-03",
+    "litros": 38.95,
+    "precioLitro": 49.42,
+    "tipo": "Gasolina regular",
+    "costo": 1924.91
+  },
+  {
+    "cargaId": "CAR-000557",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-04",
+    "mes": "2025-04",
+    "litros": 45.84,
+    "precioLitro": 49.4,
+    "tipo": "Gasolina regular",
+    "costo": 2264.5
+  },
+  {
+    "cargaId": "CAR-000558",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-07",
+    "mes": "2025-04",
+    "litros": 48.98,
+    "precioLitro": 49.26,
+    "tipo": "Gasolina regular",
+    "costo": 2412.75
+  },
+  {
+    "cargaId": "CAR-000559",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-11",
+    "mes": "2025-04",
+    "litros": 31.59,
+    "precioLitro": 49.17,
+    "tipo": "Gasolina regular",
+    "costo": 1553.28
+  },
+  {
+    "cargaId": "CAR-000560",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-13",
+    "mes": "2025-04",
+    "litros": 39.21,
+    "precioLitro": 49.19,
+    "tipo": "Gasolina regular",
+    "costo": 1928.74
+  },
+  {
+    "cargaId": "CAR-000561",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "litros": 44.94,
+    "precioLitro": 49.28,
+    "tipo": "Gasolina regular",
+    "costo": 2214.64
+  },
+  {
+    "cargaId": "CAR-000562",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-21",
+    "mes": "2025-04",
+    "litros": 47.13,
+    "precioLitro": 49.14,
+    "tipo": "Gasolina regular",
+    "costo": 2315.97
+  },
+  {
+    "cargaId": "CAR-000563",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-25",
+    "mes": "2025-04",
+    "litros": 34.95,
+    "precioLitro": 49.26,
+    "tipo": "Gasolina regular",
+    "costo": 1721.64
+  },
+  {
+    "cargaId": "CAR-000564",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "litros": 32.52,
+    "precioLitro": 49.08,
+    "tipo": "Gasolina regular",
+    "costo": 1596.08
+  },
+  {
+    "cargaId": "CAR-000565",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-02",
+    "mes": "2025-05",
+    "litros": 37.13,
+    "precioLitro": 49.17,
+    "tipo": "Gasolina regular",
+    "costo": 1825.68
+  },
+  {
+    "cargaId": "CAR-000566",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-06",
+    "mes": "2025-05",
+    "litros": 47.55,
+    "precioLitro": 49.28,
+    "tipo": "Gasolina regular",
+    "costo": 2343.26
+  },
+  {
+    "cargaId": "CAR-000567",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-11",
+    "mes": "2025-05",
+    "litros": 31.4,
+    "precioLitro": 49.38,
+    "tipo": "Gasolina regular",
+    "costo": 1550.53
+  },
+  {
+    "cargaId": "CAR-000568",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-13",
+    "mes": "2025-05",
+    "litros": 52.09,
+    "precioLitro": 49.39,
+    "tipo": "Gasolina regular",
+    "costo": 2572.73
+  },
+  {
+    "cargaId": "CAR-000569",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-15",
+    "mes": "2025-05",
+    "litros": 46.46,
+    "precioLitro": 49.27,
+    "tipo": "Gasolina regular",
+    "costo": 2289.08
+  },
+  {
+    "cargaId": "CAR-000570",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-18",
+    "mes": "2025-05",
+    "litros": 44.24,
+    "precioLitro": 49.09,
+    "tipo": "Gasolina regular",
+    "costo": 2171.74
+  },
+  {
+    "cargaId": "CAR-000571",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "litros": 44.22,
+    "precioLitro": 48.97,
+    "tipo": "Gasolina regular",
+    "costo": 2165.45
+  },
+  {
+    "cargaId": "CAR-000572",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-27",
+    "mes": "2025-05",
+    "litros": 46.3,
+    "precioLitro": 48.99,
+    "tipo": "Gasolina regular",
+    "costo": 2268.24
+  },
+  {
+    "cargaId": "CAR-000573",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-05-31",
+    "mes": "2025-05",
+    "litros": 54.95,
+    "precioLitro": 49.05,
+    "tipo": "Gasolina regular",
+    "costo": 2695.3
+  },
+  {
+    "cargaId": "CAR-000574",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-04",
+    "mes": "2025-06",
+    "litros": 53.06,
+    "precioLitro": 49.05,
+    "tipo": "Gasolina regular",
+    "costo": 2602.59
+  },
+  {
+    "cargaId": "CAR-000575",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-06",
+    "mes": "2025-06",
+    "litros": 40.79,
+    "precioLitro": 48.96,
+    "tipo": "Gasolina regular",
+    "costo": 1997.08
+  },
+  {
+    "cargaId": "CAR-000576",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-08",
+    "mes": "2025-06",
+    "litros": 55.57,
+    "precioLitro": 49.12,
+    "tipo": "Gasolina regular",
+    "costo": 2729.6
+  },
+  {
+    "cargaId": "CAR-000577",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-10",
+    "mes": "2025-06",
+    "litros": 37.48,
+    "precioLitro": 49.28,
+    "tipo": "Gasolina regular",
+    "costo": 1847.01
+  },
+  {
+    "cargaId": "CAR-000578",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-15",
+    "mes": "2025-06",
+    "litros": 48.7,
+    "precioLitro": 49.26,
+    "tipo": "Gasolina regular",
+    "costo": 2398.96
+  },
+  {
+    "cargaId": "CAR-000579",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-17",
+    "mes": "2025-06",
+    "litros": 44.4,
+    "precioLitro": 49.12,
+    "tipo": "Gasolina regular",
+    "costo": 2180.93
+  },
+  {
+    "cargaId": "CAR-000580",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-19",
+    "mes": "2025-06",
+    "litros": 34.75,
+    "precioLitro": 49.05,
+    "tipo": "Gasolina regular",
+    "costo": 1704.49
+  },
+  {
+    "cargaId": "CAR-000581",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-21",
+    "mes": "2025-06",
+    "litros": 52.58,
+    "precioLitro": 49.31,
+    "tipo": "Gasolina regular",
+    "costo": 2592.72
+  },
+  {
+    "cargaId": "CAR-000582",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-24",
+    "mes": "2025-06",
+    "litros": 53.5,
+    "precioLitro": 49.2,
+    "tipo": "Gasolina regular",
+    "costo": 2632.2
+  },
+  {
+    "cargaId": "CAR-000583",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "litros": 44.85,
+    "precioLitro": 49.31,
+    "tipo": "Gasolina regular",
+    "costo": 2211.55
+  },
+  {
+    "cargaId": "CAR-000584",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-30",
+    "mes": "2025-06",
+    "litros": 49.63,
+    "precioLitro": 49.17,
+    "tipo": "Gasolina regular",
+    "costo": 2440.31
+  },
+  {
+    "cargaId": "CAR-000585",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-03",
+    "mes": "2025-07",
+    "litros": 32.49,
+    "precioLitro": 49.41,
+    "tipo": "Gasolina regular",
+    "costo": 1605.33
+  },
+  {
+    "cargaId": "CAR-000586",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-08",
+    "mes": "2025-07",
+    "litros": 53.32,
+    "precioLitro": 49.42,
+    "tipo": "Gasolina regular",
+    "costo": 2635.07
+  },
+  {
+    "cargaId": "CAR-000587",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "litros": 48.73,
+    "precioLitro": 49.51,
+    "tipo": "Gasolina regular",
+    "costo": 2412.62
+  },
+  {
+    "cargaId": "CAR-000588",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-12",
+    "mes": "2025-07",
+    "litros": 51.31,
+    "precioLitro": 49.57,
+    "tipo": "Gasolina regular",
+    "costo": 2543.44
+  },
+  {
+    "cargaId": "CAR-000589",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-17",
+    "mes": "2025-07",
+    "litros": 41.53,
+    "precioLitro": 49.79,
+    "tipo": "Gasolina regular",
+    "costo": 2067.78
+  },
+  {
+    "cargaId": "CAR-000590",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "litros": 36.35,
+    "precioLitro": 49.86,
+    "tipo": "Gasolina regular",
+    "costo": 1812.41
+  },
+  {
+    "cargaId": "CAR-000591",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-24",
+    "mes": "2025-07",
+    "litros": 44.36,
+    "precioLitro": 49.84,
+    "tipo": "Gasolina regular",
+    "costo": 2210.9
+  },
+  {
+    "cargaId": "CAR-000592",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "litros": 40.78,
+    "precioLitro": 49.87,
+    "tipo": "Gasolina regular",
+    "costo": 2033.7
+  },
+  {
+    "cargaId": "CAR-000593",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "litros": 35.88,
+    "precioLitro": 49.98,
+    "tipo": "Gasolina regular",
+    "costo": 1793.28
+  },
+  {
+    "cargaId": "CAR-000594",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "litros": 49.92,
+    "precioLitro": 49.81,
+    "tipo": "Gasolina regular",
+    "costo": 2486.52
+  },
+  {
+    "cargaId": "CAR-000595",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "litros": 35.01,
+    "precioLitro": 49.71,
+    "tipo": "Gasolina regular",
+    "costo": 1740.35
+  },
+  {
+    "cargaId": "CAR-000596",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-13",
+    "mes": "2025-08",
+    "litros": 42.04,
+    "precioLitro": 49.81,
+    "tipo": "Gasolina regular",
+    "costo": 2094.01
+  },
+  {
+    "cargaId": "CAR-000597",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-18",
+    "mes": "2025-08",
+    "litros": 42.81,
+    "precioLitro": 49.91,
+    "tipo": "Gasolina regular",
+    "costo": 2136.65
+  },
+  {
+    "cargaId": "CAR-000598",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "litros": 32.23,
+    "precioLitro": 49.75,
+    "tipo": "Gasolina regular",
+    "costo": 1603.44
+  },
+  {
+    "cargaId": "CAR-000599",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-28",
+    "mes": "2025-08",
+    "litros": 55.65,
+    "precioLitro": 49.74,
+    "tipo": "Gasolina regular",
+    "costo": 2768.03
+  },
+  {
+    "cargaId": "CAR-000600",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-01",
+    "mes": "2025-09",
+    "litros": 38.21,
+    "precioLitro": 49.91,
+    "tipo": "Gasolina regular",
+    "costo": 1907.06
+  },
+  {
+    "cargaId": "CAR-000601",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-05",
+    "mes": "2025-09",
+    "litros": 31.46,
+    "precioLitro": 49.87,
+    "tipo": "Gasolina regular",
+    "costo": 1568.91
+  },
+  {
+    "cargaId": "CAR-000602",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-08",
+    "mes": "2025-09",
+    "litros": 42.52,
+    "precioLitro": 50.05,
+    "tipo": "Gasolina regular",
+    "costo": 2128.13
+  },
+  {
+    "cargaId": "CAR-000603",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-12",
+    "mes": "2025-09",
+    "litros": 50.13,
+    "precioLitro": 49.99,
+    "tipo": "Gasolina regular",
+    "costo": 2506.0
+  },
+  {
+    "cargaId": "CAR-000604",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "litros": 39.1,
+    "precioLitro": 50.01,
+    "tipo": "Gasolina regular",
+    "costo": 1955.39
+  },
+  {
+    "cargaId": "CAR-000605",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-18",
+    "mes": "2025-09",
+    "litros": 38.1,
+    "precioLitro": 50.12,
+    "tipo": "Gasolina regular",
+    "costo": 1909.57
+  },
+  {
+    "cargaId": "CAR-000606",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-23",
+    "mes": "2025-09",
+    "litros": 30.54,
+    "precioLitro": 50.22,
+    "tipo": "Gasolina regular",
+    "costo": 1533.72
+  },
+  {
+    "cargaId": "CAR-000607",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "litros": 50.98,
+    "precioLitro": 50.02,
+    "tipo": "Gasolina regular",
+    "costo": 2550.02
+  },
+  {
+    "cargaId": "CAR-000608",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "litros": 36.73,
+    "precioLitro": 50.22,
+    "tipo": "Gasolina regular",
+    "costo": 1844.58
+  },
+  {
+    "cargaId": "CAR-000609",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-05",
+    "mes": "2025-10",
+    "litros": 40.42,
+    "precioLitro": 50.21,
+    "tipo": "Gasolina regular",
+    "costo": 2029.49
+  },
+  {
+    "cargaId": "CAR-000610",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "litros": 36.93,
+    "precioLitro": 50.25,
+    "tipo": "Gasolina regular",
+    "costo": 1855.73
+  },
+  {
+    "cargaId": "CAR-000611",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-13",
+    "mes": "2025-10",
+    "litros": 47.29,
+    "precioLitro": 50.49,
+    "tipo": "Gasolina regular",
+    "costo": 2387.67
+  },
+  {
+    "cargaId": "CAR-000612",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-16",
+    "mes": "2025-10",
+    "litros": 41.94,
+    "precioLitro": 50.74,
+    "tipo": "Gasolina regular",
+    "costo": 2128.04
+  },
+  {
+    "cargaId": "CAR-000613",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "litros": 40.34,
+    "precioLitro": 50.98,
+    "tipo": "Gasolina regular",
+    "costo": 2056.53
+  },
+  {
+    "cargaId": "CAR-000614",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-21",
+    "mes": "2025-10",
+    "litros": 33.38,
+    "precioLitro": 51.07,
+    "tipo": "Gasolina regular",
+    "costo": 1704.72
+  },
+  {
+    "cargaId": "CAR-000615",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-23",
+    "mes": "2025-10",
+    "litros": 45.94,
+    "precioLitro": 51.16,
+    "tipo": "Gasolina regular",
+    "costo": 2350.29
+  },
+  {
+    "cargaId": "CAR-000616",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-25",
+    "mes": "2025-10",
+    "litros": 49.89,
+    "precioLitro": 51.43,
+    "tipo": "Gasolina regular",
+    "costo": 2565.84
+  },
+  {
+    "cargaId": "CAR-000617",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-10-28",
+    "mes": "2025-10",
+    "litros": 42.81,
+    "precioLitro": 51.54,
+    "tipo": "Gasolina regular",
+    "costo": 2206.43
+  },
+  {
+    "cargaId": "CAR-000618",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "litros": 43.1,
+    "precioLitro": 51.46,
+    "tipo": "Gasolina regular",
+    "costo": 2217.93
+  },
+  {
+    "cargaId": "CAR-000619",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "litros": 35.3,
+    "precioLitro": 51.61,
+    "tipo": "Gasolina regular",
+    "costo": 1821.83
+  },
+  {
+    "cargaId": "CAR-000620",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-09",
+    "mes": "2025-11",
+    "litros": 30.22,
+    "precioLitro": 51.72,
+    "tipo": "Gasolina regular",
+    "costo": 1562.98
+  },
+  {
+    "cargaId": "CAR-000621",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "litros": 54.35,
+    "precioLitro": 51.83,
+    "tipo": "Gasolina regular",
+    "costo": 2816.96
+  },
+  {
+    "cargaId": "CAR-000622",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-16",
+    "mes": "2025-11",
+    "litros": 36.35,
+    "precioLitro": 52.1,
+    "tipo": "Gasolina regular",
+    "costo": 1893.84
+  },
+  {
+    "cargaId": "CAR-000623",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-21",
+    "mes": "2025-11",
+    "litros": 45.86,
+    "precioLitro": 52.18,
+    "tipo": "Gasolina regular",
+    "costo": 2392.97
+  },
+  {
+    "cargaId": "CAR-000624",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-24",
+    "mes": "2025-11",
+    "litros": 39.89,
+    "precioLitro": 52.32,
+    "tipo": "Gasolina regular",
+    "costo": 2087.04
+  },
+  {
+    "cargaId": "CAR-000625",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "litros": 32.7,
+    "precioLitro": 52.28,
+    "tipo": "Gasolina regular",
+    "costo": 1709.56
+  },
+  {
+    "cargaId": "CAR-000626",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "litros": 38.36,
+    "precioLitro": 52.18,
+    "tipo": "Gasolina regular",
+    "costo": 2001.62
+  },
+  {
+    "cargaId": "CAR-000627",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-03",
+    "mes": "2025-12",
+    "litros": 35.55,
+    "precioLitro": 52.14,
+    "tipo": "Gasolina regular",
+    "costo": 1853.58
+  },
+  {
+    "cargaId": "CAR-000628",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-08",
+    "mes": "2025-12",
+    "litros": 30.53,
+    "precioLitro": 52.34,
+    "tipo": "Gasolina regular",
+    "costo": 1597.94
+  },
+  {
+    "cargaId": "CAR-000629",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-10",
+    "mes": "2025-12",
+    "litros": 32.13,
+    "precioLitro": 52.27,
+    "tipo": "Gasolina regular",
+    "costo": 1679.44
+  },
+  {
+    "cargaId": "CAR-000630",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-13",
+    "mes": "2025-12",
+    "litros": 54.07,
+    "precioLitro": 52.21,
+    "tipo": "Gasolina regular",
+    "costo": 2822.99
+  },
+  {
+    "cargaId": "CAR-000631",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "litros": 50.47,
+    "precioLitro": 52.28,
+    "tipo": "Gasolina regular",
+    "costo": 2638.57
+  },
+  {
+    "cargaId": "CAR-000632",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "litros": 30.58,
+    "precioLitro": 52.11,
+    "tipo": "Gasolina regular",
+    "costo": 1593.52
+  },
+  {
+    "cargaId": "CAR-000633",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "litros": 34.27,
+    "precioLitro": 52.17,
+    "tipo": "Gasolina regular",
+    "costo": 1787.87
+  },
+  {
+    "cargaId": "CAR-000634",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-29",
+    "mes": "2025-12",
+    "litros": 32.35,
+    "precioLitro": 52.28,
+    "tipo": "Gasolina regular",
+    "costo": 1691.26
+  },
+  {
+    "cargaId": "CAR-000635",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-31",
+    "mes": "2025-12",
+    "litros": 43.46,
+    "precioLitro": 52.3,
+    "tipo": "Gasolina regular",
+    "costo": 2272.96
+  },
+  {
+    "cargaId": "CAR-000636",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-03",
+    "mes": "2026-01",
+    "litros": 52.34,
+    "precioLitro": 52.46,
+    "tipo": "Gasolina regular",
+    "costo": 2745.76
+  },
+  {
+    "cargaId": "CAR-000637",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-08",
+    "mes": "2026-01",
+    "litros": 50.87,
+    "precioLitro": 52.39,
+    "tipo": "Gasolina regular",
+    "costo": 2665.08
+  },
+  {
+    "cargaId": "CAR-000638",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-12",
+    "mes": "2026-01",
+    "litros": 48.87,
+    "precioLitro": 52.22,
+    "tipo": "Gasolina regular",
+    "costo": 2551.99
+  },
+  {
+    "cargaId": "CAR-000639",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-17",
+    "mes": "2026-01",
+    "litros": 44.63,
+    "precioLitro": 52.09,
+    "tipo": "Gasolina regular",
+    "costo": 2324.78
+  },
+  {
+    "cargaId": "CAR-000640",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "litros": 42.2,
+    "precioLitro": 52.21,
+    "tipo": "Gasolina regular",
+    "costo": 2203.26
+  },
+  {
+    "cargaId": "CAR-000641",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "litros": 46.61,
+    "precioLitro": 52.1,
+    "tipo": "Gasolina regular",
+    "costo": 2428.38
+  },
+  {
+    "cargaId": "CAR-000642",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-01-31",
+    "mes": "2026-01",
+    "litros": 31.71,
+    "precioLitro": 52.36,
+    "tipo": "Gasolina regular",
+    "costo": 1660.34
+  },
+  {
+    "cargaId": "CAR-000643",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "litros": 31.8,
+    "precioLitro": 52.29,
+    "tipo": "Gasolina regular",
+    "costo": 1662.82
+  },
+  {
+    "cargaId": "CAR-000644",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-08",
+    "mes": "2026-02",
+    "litros": 32.54,
+    "precioLitro": 52.28,
+    "tipo": "Gasolina regular",
+    "costo": 1701.19
+  },
+  {
+    "cargaId": "CAR-000645",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-12",
+    "mes": "2026-02",
+    "litros": 43.42,
+    "precioLitro": 52.31,
+    "tipo": "Gasolina regular",
+    "costo": 2271.3
+  },
+  {
+    "cargaId": "CAR-000646",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "litros": 54.65,
+    "precioLitro": 52.46,
+    "tipo": "Gasolina regular",
+    "costo": 2866.94
+  },
+  {
+    "cargaId": "CAR-000647",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-20",
+    "mes": "2026-02",
+    "litros": 36.26,
+    "precioLitro": 52.28,
+    "tipo": "Gasolina regular",
+    "costo": 1895.67
+  },
+  {
+    "cargaId": "CAR-000648",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-25",
+    "mes": "2026-02",
+    "litros": 49.78,
+    "precioLitro": 52.33,
+    "tipo": "Gasolina regular",
+    "costo": 2604.99
+  },
+  {
+    "cargaId": "CAR-000649",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-02",
+    "mes": "2026-03",
+    "litros": 49.03,
+    "precioLitro": 52.26,
+    "tipo": "Gasolina regular",
+    "costo": 2562.31
+  },
+  {
+    "cargaId": "CAR-000650",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-04",
+    "mes": "2026-03",
+    "litros": 35.97,
+    "precioLitro": 52.24,
+    "tipo": "Gasolina regular",
+    "costo": 1879.07
+  },
+  {
+    "cargaId": "CAR-000651",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-09",
+    "mes": "2026-03",
+    "litros": 36.77,
+    "precioLitro": 52.48,
+    "tipo": "Gasolina regular",
+    "costo": 1929.69
+  },
+  {
+    "cargaId": "CAR-000652",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "litros": 40.79,
+    "precioLitro": 52.37,
+    "tipo": "Gasolina regular",
+    "costo": 2136.17
+  },
+  {
+    "cargaId": "CAR-000653",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-15",
+    "mes": "2026-03",
+    "litros": 44.13,
+    "precioLitro": 52.55,
+    "tipo": "Gasolina regular",
+    "costo": 2319.03
+  },
+  {
+    "cargaId": "CAR-000654",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-17",
+    "mes": "2026-03",
+    "litros": 33.76,
+    "precioLitro": 52.75,
+    "tipo": "Gasolina regular",
+    "costo": 1780.84
+  },
+  {
+    "cargaId": "CAR-000655",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-20",
+    "mes": "2026-03",
+    "litros": 32.75,
+    "precioLitro": 52.84,
+    "tipo": "Gasolina regular",
+    "costo": 1730.51
+  },
+  {
+    "cargaId": "CAR-000656",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-25",
+    "mes": "2026-03",
+    "litros": 41.41,
+    "precioLitro": 52.95,
+    "tipo": "Gasolina regular",
+    "costo": 2192.66
+  },
+  {
+    "cargaId": "CAR-000657",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-30",
+    "mes": "2026-03",
+    "litros": 33.74,
+    "precioLitro": 53.17,
+    "tipo": "Gasolina regular",
+    "costo": 1793.96
+  },
+  {
+    "cargaId": "CAR-000658",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "litros": 35.37,
+    "precioLitro": 53.3,
+    "tipo": "Gasolina regular",
+    "costo": 1885.22
+  },
+  {
+    "cargaId": "CAR-000659",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-05",
+    "mes": "2026-04",
+    "litros": 55.36,
+    "precioLitro": 53.11,
+    "tipo": "Gasolina regular",
+    "costo": 2940.17
+  },
+  {
+    "cargaId": "CAR-000660",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-09",
+    "mes": "2026-04",
+    "litros": 41.48,
+    "precioLitro": 53.07,
+    "tipo": "Gasolina regular",
+    "costo": 2201.34
+  },
+  {
+    "cargaId": "CAR-000661",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-11",
+    "mes": "2026-04",
+    "litros": 30.01,
+    "precioLitro": 53.2,
+    "tipo": "Gasolina regular",
+    "costo": 1596.53
+  },
+  {
+    "cargaId": "CAR-000662",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-14",
+    "mes": "2026-04",
+    "litros": 44.71,
+    "precioLitro": 53.37,
+    "tipo": "Gasolina regular",
+    "costo": 2386.17
+  },
+  {
+    "cargaId": "CAR-000663",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-17",
+    "mes": "2026-04",
+    "litros": 33.76,
+    "precioLitro": 53.25,
+    "tipo": "Gasolina regular",
+    "costo": 1797.72
+  },
+  {
+    "cargaId": "CAR-000664",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-20",
+    "mes": "2026-04",
+    "litros": 30.87,
+    "precioLitro": 53.49,
+    "tipo": "Gasolina regular",
+    "costo": 1651.24
+  },
+  {
+    "cargaId": "CAR-000665",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-22",
+    "mes": "2026-04",
+    "litros": 39.88,
+    "precioLitro": 53.29,
+    "tipo": "Gasolina regular",
+    "costo": 2125.21
+  },
+  {
+    "cargaId": "CAR-000666",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-27",
+    "mes": "2026-04",
+    "litros": 45.15,
+    "precioLitro": 53.19,
+    "tipo": "Gasolina regular",
+    "costo": 2401.53
+  },
+  {
+    "cargaId": "CAR-000667",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-30",
+    "mes": "2026-04",
+    "litros": 48.61,
+    "precioLitro": 53.38,
+    "tipo": "Gasolina regular",
+    "costo": 2594.8
+  },
+  {
+    "cargaId": "CAR-000668",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "litros": 53.03,
+    "precioLitro": 53.19,
+    "tipo": "Gasolina regular",
+    "costo": 2820.67
+  },
+  {
+    "cargaId": "CAR-000669",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-07",
+    "mes": "2026-05",
+    "litros": 36.82,
+    "precioLitro": 53.27,
+    "tipo": "Gasolina regular",
+    "costo": 1961.4
+  },
+  {
+    "cargaId": "CAR-000670",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-09",
+    "mes": "2026-05",
+    "litros": 46.85,
+    "precioLitro": 53.19,
+    "tipo": "Gasolina regular",
+    "costo": 2491.95
+  },
+  {
+    "cargaId": "CAR-000671",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-11",
+    "mes": "2026-05",
+    "litros": 43.2,
+    "precioLitro": 53.24,
+    "tipo": "Gasolina regular",
+    "costo": 2299.97
+  },
+  {
+    "cargaId": "CAR-000672",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-13",
+    "mes": "2026-05",
+    "litros": 43.09,
+    "precioLitro": 53.5,
+    "tipo": "Gasolina regular",
+    "costo": 2305.32
+  },
+  {
+    "cargaId": "CAR-000673",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-17",
+    "mes": "2026-05",
+    "litros": 51.19,
+    "precioLitro": 53.78,
+    "tipo": "Gasolina regular",
+    "costo": 2753.0
+  },
+  {
+    "cargaId": "CAR-000674",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-21",
+    "mes": "2026-05",
+    "litros": 45.67,
+    "precioLitro": 53.6,
+    "tipo": "Gasolina regular",
+    "costo": 2447.91
+  },
+  {
+    "cargaId": "CAR-000675",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-26",
+    "mes": "2026-05",
+    "litros": 44.62,
+    "precioLitro": 53.71,
+    "tipo": "Gasolina regular",
+    "costo": 2396.54
+  },
+  {
+    "cargaId": "CAR-000676",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "litros": 39.83,
+    "precioLitro": 53.95,
+    "tipo": "Gasolina regular",
+    "costo": 2148.83
+  },
+  {
+    "cargaId": "CAR-000677",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-03",
+    "mes": "2026-06",
+    "litros": 46.88,
+    "precioLitro": 53.91,
+    "tipo": "Gasolina regular",
+    "costo": 2527.3
+  },
+  {
+    "cargaId": "CAR-000678",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-05",
+    "mes": "2026-06",
+    "litros": 35.22,
+    "precioLitro": 53.72,
+    "tipo": "Gasolina regular",
+    "costo": 1892.02
+  },
+  {
+    "cargaId": "CAR-000679",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-10",
+    "mes": "2026-06",
+    "litros": 54.12,
+    "precioLitro": 53.69,
+    "tipo": "Gasolina regular",
+    "costo": 2905.7
+  },
+  {
+    "cargaId": "CAR-000680",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-14",
+    "mes": "2026-06",
+    "litros": 40.3,
+    "precioLitro": 53.58,
+    "tipo": "Gasolina regular",
+    "costo": 2159.27
+  },
+  {
+    "cargaId": "CAR-000681",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-17",
+    "mes": "2026-06",
+    "litros": 36.02,
+    "precioLitro": 53.46,
+    "tipo": "Gasolina regular",
+    "costo": 1925.63
+  },
+  {
+    "cargaId": "CAR-000682",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-19",
+    "mes": "2026-06",
+    "litros": 32.79,
+    "precioLitro": 53.49,
+    "tipo": "Gasolina regular",
+    "costo": 1753.94
+  },
+  {
+    "cargaId": "CAR-000683",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-21",
+    "mes": "2026-06",
+    "litros": 37.8,
+    "precioLitro": 53.68,
+    "tipo": "Gasolina regular",
+    "costo": 2029.1
+  },
+  {
+    "cargaId": "CAR-000684",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "litros": 37.78,
+    "precioLitro": 53.79,
+    "tipo": "Gasolina regular",
+    "costo": 2032.19
+  },
+  {
+    "cargaId": "CAR-000685",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "litros": 43.59,
+    "precioLitro": 53.92,
+    "tipo": "Gasolina regular",
+    "costo": 2350.37
+  },
+  {
+    "cargaId": "CAR-000686",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "litros": 38.54,
+    "precioLitro": 54.22,
+    "tipo": "Gasolina regular",
+    "costo": 2089.64
+  },
+  {
+    "cargaId": "CAR-000687",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-05",
+    "mes": "2026-07",
+    "litros": 45.38,
+    "precioLitro": 54.36,
+    "tipo": "Gasolina regular",
+    "costo": 2466.86
+  },
+  {
+    "cargaId": "CAR-000688",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-07",
+    "mes": "2026-07",
+    "litros": 41.24,
+    "precioLitro": 54.31,
+    "tipo": "Gasolina regular",
+    "costo": 2239.74
+  },
+  {
+    "cargaId": "CAR-000689",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-11",
+    "mes": "2026-07",
+    "litros": 48.9,
+    "precioLitro": 54.54,
+    "tipo": "Gasolina regular",
+    "costo": 2667.01
+  },
+  {
+    "cargaId": "CAR-000690",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-14",
+    "mes": "2026-07",
+    "litros": 35.23,
+    "precioLitro": 54.58,
+    "tipo": "Gasolina regular",
+    "costo": 1922.85
+  },
+  {
+    "cargaId": "CAR-000691",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-19",
+    "mes": "2026-07",
+    "litros": 50.2,
+    "precioLitro": 54.38,
+    "tipo": "Gasolina regular",
+    "costo": 2729.88
+  },
+  {
+    "cargaId": "CAR-000692",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-22",
+    "mes": "2026-07",
+    "litros": 39.2,
+    "precioLitro": 54.33,
+    "tipo": "Gasolina regular",
+    "costo": 2129.74
+  },
+  {
+    "cargaId": "CAR-000693",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-25",
+    "mes": "2026-07",
+    "litros": 21.82,
+    "precioLitro": 54.15,
+    "tipo": "Gasolina regular",
+    "costo": 1181.55
+  }
+]

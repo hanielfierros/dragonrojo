@@ -1,0 +1,4202 @@
+[
+  {
+    "evaluacionId": "EVA-000001",
+    "personaId": "ELEM-006",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "puntaje": 84.6
+  },
+  {
+    "evaluacionId": "EVA-000002",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-08-04",
+    "mes": "2025-08",
+    "puntaje": 94.0
+  },
+  {
+    "evaluacionId": "EVA-000003",
+    "personaId": "ELEM-016",
+    "fecha": "2025-12-17",
+    "mes": "2025-12",
+    "puntaje": 98.2
+  },
+  {
+    "evaluacionId": "EVA-000004",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "puntaje": 82.2
+  },
+  {
+    "evaluacionId": "EVA-000005",
+    "personaId": "ELEM-019",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "puntaje": 72.3
+  },
+  {
+    "evaluacionId": "EVA-000006",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-04-10",
+    "mes": "2025-04",
+    "puntaje": 93.6
+  },
+  {
+    "evaluacionId": "EVA-000007",
+    "personaId": "ELEM-007",
+    "fecha": "2026-02-12",
+    "mes": "2026-02",
+    "puntaje": 91.4
+  },
+  {
+    "evaluacionId": "EVA-000008",
+    "personaId": "ELEM-014",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "puntaje": 90.5
+  },
+  {
+    "evaluacionId": "EVA-000009",
+    "personaId": "ELEM-018",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "puntaje": 78.7
+  },
+  {
+    "evaluacionId": "EVA-000010",
+    "personaId": "ELEM-020",
+    "fecha": "2025-11-16",
+    "mes": "2025-11",
+    "puntaje": 95.6
+  },
+  {
+    "evaluacionId": "EVA-000011",
+    "personaId": "ELEM-005",
+    "fecha": "2024-12-03",
+    "mes": "2024-12",
+    "puntaje": 70.8
+  },
+  {
+    "evaluacionId": "EVA-000012",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "puntaje": 81.6
+  },
+  {
+    "evaluacionId": "EVA-000013",
+    "personaId": "SUP-002",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "puntaje": 98.8
+  },
+  {
+    "evaluacionId": "EVA-000014",
+    "personaId": "ELEM-004",
+    "fecha": "2025-11-10",
+    "mes": "2025-11",
+    "puntaje": 65.1
+  },
+  {
+    "evaluacionId": "EVA-000015",
+    "personaId": "ELEM-014",
+    "fecha": "2025-09-02",
+    "mes": "2025-09",
+    "puntaje": 78.0
+  },
+  {
+    "evaluacionId": "EVA-000016",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-03-18",
+    "mes": "2026-03",
+    "puntaje": 77.5
+  },
+  {
+    "evaluacionId": "EVA-000017",
+    "personaId": "ELEM-011",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "puntaje": 97.0
+  },
+  {
+    "evaluacionId": "EVA-000018",
+    "personaId": "SUP-002",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "puntaje": 60.9
+  },
+  {
+    "evaluacionId": "EVA-000019",
+    "personaId": "ELEM-019",
+    "fecha": "2026-10-02",
+    "mes": "2026-10",
+    "puntaje": 89.4
+  },
+  {
+    "evaluacionId": "EVA-000020",
+    "personaId": "ELEM-002",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "puntaje": 88.8
+  },
+  {
+    "evaluacionId": "EVA-000021",
+    "personaId": "ELEM-009",
+    "fecha": "2025-05-16",
+    "mes": "2025-05",
+    "puntaje": 72.0
+  },
+  {
+    "evaluacionId": "EVA-000022",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "puntaje": 68.5
+  },
+  {
+    "evaluacionId": "EVA-000023",
+    "personaId": "ELEM-004",
+    "fecha": "2026-06-14",
+    "mes": "2026-06",
+    "puntaje": 95.7
+  },
+  {
+    "evaluacionId": "EVA-000024",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-05-10",
+    "mes": "2025-05",
+    "puntaje": 77.3
+  },
+  {
+    "evaluacionId": "EVA-000025",
+    "personaId": "ELEM-014",
+    "fecha": "2026-09-01",
+    "mes": "2026-09",
+    "puntaje": 80.1
+  },
+  {
+    "evaluacionId": "EVA-000026",
+    "personaId": "ELEM-012",
+    "fecha": "2025-12-11",
+    "mes": "2025-12",
+    "puntaje": 96.7
+  },
+  {
+    "evaluacionId": "EVA-000027",
+    "personaId": "ELEM-010",
+    "fecha": "2025-10-28",
+    "mes": "2025-10",
+    "puntaje": 62.8
+  },
+  {
+    "evaluacionId": "EVA-000028",
+    "personaId": "ELEM-010",
+    "fecha": "2025-02-09",
+    "mes": "2025-02",
+    "puntaje": 75.1
+  },
+  {
+    "evaluacionId": "EVA-000029",
+    "personaId": "ELEM-005",
+    "fecha": "2025-04-17",
+    "mes": "2025-04",
+    "puntaje": 74.3
+  },
+  {
+    "evaluacionId": "EVA-000030",
+    "personaId": "SUP-003",
+    "fecha": "2026-11-08",
+    "mes": "2026-11",
+    "puntaje": 77.2
+  },
+  {
+    "evaluacionId": "EVA-000031",
+    "personaId": "ELEM-008",
+    "fecha": "2026-04-10",
+    "mes": "2026-04",
+    "puntaje": 99.6
+  },
+  {
+    "evaluacionId": "EVA-000032",
+    "personaId": "ELEM-011",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "puntaje": 84.2
+  },
+  {
+    "evaluacionId": "EVA-000033",
+    "personaId": "ELEM-002",
+    "fecha": "2026-08-14",
+    "mes": "2026-08",
+    "puntaje": 61.0
+  },
+  {
+    "evaluacionId": "EVA-000034",
+    "personaId": "ELEM-005",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "puntaje": 67.9
+  },
+  {
+    "evaluacionId": "EVA-000035",
+    "personaId": "SUP-002",
+    "fecha": "2026-05-18",
+    "mes": "2026-05",
+    "puntaje": 98.2
+  },
+  {
+    "evaluacionId": "EVA-000036",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "puntaje": 62.8
+  },
+  {
+    "evaluacionId": "EVA-000037",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-01-25",
+    "mes": "2026-01",
+    "puntaje": 69.8
+  },
+  {
+    "evaluacionId": "EVA-000038",
+    "personaId": "ELEM-015",
+    "fecha": "2026-01-11",
+    "mes": "2026-01",
+    "puntaje": 74.2
+  },
+  {
+    "evaluacionId": "EVA-000039",
+    "personaId": "ELEM-007",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "puntaje": 67.9
+  },
+  {
+    "evaluacionId": "EVA-000040",
+    "personaId": "ELEM-005",
+    "fecha": "2026-09-14",
+    "mes": "2026-09",
+    "puntaje": 83.8
+  },
+  {
+    "evaluacionId": "EVA-000041",
+    "personaId": "ELEM-002",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "puntaje": 71.8
+  },
+  {
+    "evaluacionId": "EVA-000042",
+    "personaId": "SUP-004",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "puntaje": 79.6
+  },
+  {
+    "evaluacionId": "EVA-000043",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "puntaje": 61.7
+  },
+  {
+    "evaluacionId": "EVA-000044",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-09-11",
+    "mes": "2026-09",
+    "puntaje": 70.5
+  },
+  {
+    "evaluacionId": "EVA-000045",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-08-11",
+    "mes": "2026-08",
+    "puntaje": 91.5
+  },
+  {
+    "evaluacionId": "EVA-000046",
+    "personaId": "ELEM-016",
+    "fecha": "2025-09-24",
+    "mes": "2025-09",
+    "puntaje": 88.2
+  },
+  {
+    "evaluacionId": "EVA-000047",
+    "personaId": "ELEM-017",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "puntaje": 64.0
+  },
+  {
+    "evaluacionId": "EVA-000048",
+    "personaId": "ELEM-007",
+    "fecha": "2025-09-01",
+    "mes": "2025-09",
+    "puntaje": 84.7
+  },
+  {
+    "evaluacionId": "EVA-000049",
+    "personaId": "ELEM-010",
+    "fecha": "2025-04-01",
+    "mes": "2025-04",
+    "puntaje": 92.5
+  },
+  {
+    "evaluacionId": "EVA-000050",
+    "personaId": "ELEM-020",
+    "fecha": "2026-03-26",
+    "mes": "2026-03",
+    "puntaje": 77.2
+  },
+  {
+    "evaluacionId": "EVA-000051",
+    "personaId": "ELEM-004",
+    "fecha": "2025-11-27",
+    "mes": "2025-11",
+    "puntaje": 60.2
+  },
+  {
+    "evaluacionId": "EVA-000052",
+    "personaId": "ELEM-017",
+    "fecha": "2026-03-14",
+    "mes": "2026-03",
+    "puntaje": 91.4
+  },
+  {
+    "evaluacionId": "EVA-000053",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-12-03",
+    "mes": "2025-12",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000054",
+    "personaId": "ELEM-001",
+    "fecha": "2026-01-04",
+    "mes": "2026-01",
+    "puntaje": 90.8
+  },
+  {
+    "evaluacionId": "EVA-000055",
+    "personaId": "SUP-001",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "puntaje": 71.9
+  },
+  {
+    "evaluacionId": "EVA-000056",
+    "personaId": "SUP-005",
+    "fecha": "2026-07-06",
+    "mes": "2026-07",
+    "puntaje": 79.8
+  },
+  {
+    "evaluacionId": "EVA-000057",
+    "personaId": "ELEM-013",
+    "fecha": "2025-03-30",
+    "mes": "2025-03",
+    "puntaje": 86.7
+  },
+  {
+    "evaluacionId": "EVA-000058",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-06-19",
+    "mes": "2025-06",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000059",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "puntaje": 96.2
+  },
+  {
+    "evaluacionId": "EVA-000060",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-05-08",
+    "mes": "2026-05",
+    "puntaje": 63.8
+  },
+  {
+    "evaluacionId": "EVA-000061",
+    "personaId": "SUP-005",
+    "fecha": "2026-08-07",
+    "mes": "2026-08",
+    "puntaje": 92.4
+  },
+  {
+    "evaluacionId": "EVA-000062",
+    "personaId": "ELEM-005",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "puntaje": 74.5
+  },
+  {
+    "evaluacionId": "EVA-000063",
+    "personaId": "ELEM-016",
+    "fecha": "2025-07-28",
+    "mes": "2025-07",
+    "puntaje": 81.5
+  },
+  {
+    "evaluacionId": "EVA-000064",
+    "personaId": "SUP-002",
+    "fecha": "2024-12-19",
+    "mes": "2024-12",
+    "puntaje": 62.0
+  },
+  {
+    "evaluacionId": "EVA-000065",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-08-09",
+    "mes": "2025-08",
+    "puntaje": 80.2
+  },
+  {
+    "evaluacionId": "EVA-000066",
+    "personaId": "ELEM-011",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "puntaje": 90.0
+  },
+  {
+    "evaluacionId": "EVA-000067",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-05-14",
+    "mes": "2025-05",
+    "puntaje": 83.0
+  },
+  {
+    "evaluacionId": "EVA-000068",
+    "personaId": "ELEM-018",
+    "fecha": "2025-09-08",
+    "mes": "2025-09",
+    "puntaje": 93.9
+  },
+  {
+    "evaluacionId": "EVA-000069",
+    "personaId": "ELEM-020",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "puntaje": 81.3
+  },
+  {
+    "evaluacionId": "EVA-000070",
+    "personaId": "ELEM-015",
+    "fecha": "2026-08-20",
+    "mes": "2026-08",
+    "puntaje": 63.2
+  },
+  {
+    "evaluacionId": "EVA-000071",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "puntaje": 60.7
+  },
+  {
+    "evaluacionId": "EVA-000072",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-10-15",
+    "mes": "2025-10",
+    "puntaje": 77.2
+  },
+  {
+    "evaluacionId": "EVA-000073",
+    "personaId": "SUP-004",
+    "fecha": "2025-10-06",
+    "mes": "2025-10",
+    "puntaje": 76.2
+  },
+  {
+    "evaluacionId": "EVA-000074",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-02-23",
+    "mes": "2025-02",
+    "puntaje": 86.6
+  },
+  {
+    "evaluacionId": "EVA-000075",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-07-06",
+    "mes": "2025-07",
+    "puntaje": 75.7
+  },
+  {
+    "evaluacionId": "EVA-000076",
+    "personaId": "SUP-004",
+    "fecha": "2025-10-29",
+    "mes": "2025-10",
+    "puntaje": 88.6
+  },
+  {
+    "evaluacionId": "EVA-000077",
+    "personaId": "ELEM-004",
+    "fecha": "2025-09-27",
+    "mes": "2025-09",
+    "puntaje": 65.8
+  },
+  {
+    "evaluacionId": "EVA-000078",
+    "personaId": "ELEM-006",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "puntaje": 96.9
+  },
+  {
+    "evaluacionId": "EVA-000079",
+    "personaId": "SUP-004",
+    "fecha": "2025-02-17",
+    "mes": "2025-02",
+    "puntaje": 79.7
+  },
+  {
+    "evaluacionId": "EVA-000080",
+    "personaId": "ELEM-020",
+    "fecha": "2026-06-27",
+    "mes": "2026-06",
+    "puntaje": 67.2
+  },
+  {
+    "evaluacionId": "EVA-000081",
+    "personaId": "SUP-005",
+    "fecha": "2025-04-24",
+    "mes": "2025-04",
+    "puntaje": 66.9
+  },
+  {
+    "evaluacionId": "EVA-000082",
+    "personaId": "ELEM-019",
+    "fecha": "2024-12-18",
+    "mes": "2024-12",
+    "puntaje": 86.2
+  },
+  {
+    "evaluacionId": "EVA-000083",
+    "personaId": "ELEM-009",
+    "fecha": "2025-04-07",
+    "mes": "2025-04",
+    "puntaje": 69.4
+  },
+  {
+    "evaluacionId": "EVA-000084",
+    "personaId": "ELEM-007",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "puntaje": 60.6
+  },
+  {
+    "evaluacionId": "EVA-000085",
+    "personaId": "ELEM-001",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "puntaje": 72.8
+  },
+  {
+    "evaluacionId": "EVA-000086",
+    "personaId": "ELEM-011",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "puntaje": 74.6
+  },
+  {
+    "evaluacionId": "EVA-000087",
+    "personaId": "SUP-003",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "puntaje": 65.3
+  },
+  {
+    "evaluacionId": "EVA-000088",
+    "personaId": "ELEM-012",
+    "fecha": "2024-12-13",
+    "mes": "2024-12",
+    "puntaje": 73.2
+  },
+  {
+    "evaluacionId": "EVA-000089",
+    "personaId": "ELEM-002",
+    "fecha": "2026-03-31",
+    "mes": "2026-03",
+    "puntaje": 82.7
+  },
+  {
+    "evaluacionId": "EVA-000090",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-10-15",
+    "mes": "2026-10",
+    "puntaje": 65.6
+  },
+  {
+    "evaluacionId": "EVA-000091",
+    "personaId": "ELEM-003",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "puntaje": 79.8
+  },
+  {
+    "evaluacionId": "EVA-000092",
+    "personaId": "ELEM-001",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "puntaje": 78.9
+  },
+  {
+    "evaluacionId": "EVA-000093",
+    "personaId": "SUP-001",
+    "fecha": "2026-03-08",
+    "mes": "2026-03",
+    "puntaje": 88.5
+  },
+  {
+    "evaluacionId": "EVA-000094",
+    "personaId": "ELEM-008",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "puntaje": 83.0
+  },
+  {
+    "evaluacionId": "EVA-000095",
+    "personaId": "SUP-004",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "puntaje": 95.0
+  },
+  {
+    "evaluacionId": "EVA-000096",
+    "personaId": "ELEM-001",
+    "fecha": "2026-09-14",
+    "mes": "2026-09",
+    "puntaje": 95.8
+  },
+  {
+    "evaluacionId": "EVA-000097",
+    "personaId": "SUP-005",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "puntaje": 62.9
+  },
+  {
+    "evaluacionId": "EVA-000098",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "puntaje": 66.0
+  },
+  {
+    "evaluacionId": "EVA-000099",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-06-17",
+    "mes": "2025-06",
+    "puntaje": 91.6
+  },
+  {
+    "evaluacionId": "EVA-000100",
+    "personaId": "ELEM-018",
+    "fecha": "2026-04-02",
+    "mes": "2026-04",
+    "puntaje": 79.7
+  },
+  {
+    "evaluacionId": "EVA-000101",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-12-14",
+    "mes": "2025-12",
+    "puntaje": 85.2
+  },
+  {
+    "evaluacionId": "EVA-000102",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-06-05",
+    "mes": "2025-06",
+    "puntaje": 70.8
+  },
+  {
+    "evaluacionId": "EVA-000103",
+    "personaId": "ELEM-020",
+    "fecha": "2025-02-04",
+    "mes": "2025-02",
+    "puntaje": 75.5
+  },
+  {
+    "evaluacionId": "EVA-000104",
+    "personaId": "ELEM-009",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "puntaje": 76.9
+  },
+  {
+    "evaluacionId": "EVA-000105",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-01-12",
+    "mes": "2026-01",
+    "puntaje": 74.1
+  },
+  {
+    "evaluacionId": "EVA-000106",
+    "personaId": "ELEM-009",
+    "fecha": "2025-10-01",
+    "mes": "2025-10",
+    "puntaje": 83.2
+  },
+  {
+    "evaluacionId": "EVA-000107",
+    "personaId": "ELEM-012",
+    "fecha": "2025-07-31",
+    "mes": "2025-07",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000108",
+    "personaId": "SUP-004",
+    "fecha": "2025-10-17",
+    "mes": "2025-10",
+    "puntaje": 98.6
+  },
+  {
+    "evaluacionId": "EVA-000109",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-05-30",
+    "mes": "2026-05",
+    "puntaje": 95.3
+  },
+  {
+    "evaluacionId": "EVA-000110",
+    "personaId": "ELEM-007",
+    "fecha": "2025-01-31",
+    "mes": "2025-01",
+    "puntaje": 97.8
+  },
+  {
+    "evaluacionId": "EVA-000111",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "puntaje": 80.6
+  },
+  {
+    "evaluacionId": "EVA-000112",
+    "personaId": "SUP-004",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "puntaje": 80.0
+  },
+  {
+    "evaluacionId": "EVA-000113",
+    "personaId": "ELEM-020",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "puntaje": 68.2
+  },
+  {
+    "evaluacionId": "EVA-000114",
+    "personaId": "ELEM-005",
+    "fecha": "2026-11-13",
+    "mes": "2026-11",
+    "puntaje": 79.4
+  },
+  {
+    "evaluacionId": "EVA-000115",
+    "personaId": "ELEM-009",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "puntaje": 95.8
+  },
+  {
+    "evaluacionId": "EVA-000116",
+    "personaId": "ELEM-020",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "puntaje": 72.5
+  },
+  {
+    "evaluacionId": "EVA-000117",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-02-04",
+    "mes": "2025-02",
+    "puntaje": 70.2
+  },
+  {
+    "evaluacionId": "EVA-000118",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-12-18",
+    "mes": "2025-12",
+    "puntaje": 87.7
+  },
+  {
+    "evaluacionId": "EVA-000119",
+    "personaId": "ELEM-003",
+    "fecha": "2026-10-20",
+    "mes": "2026-10",
+    "puntaje": 80.7
+  },
+  {
+    "evaluacionId": "EVA-000120",
+    "personaId": "ELEM-006",
+    "fecha": "2025-09-09",
+    "mes": "2025-09",
+    "puntaje": 88.7
+  },
+  {
+    "evaluacionId": "EVA-000121",
+    "personaId": "ELEM-012",
+    "fecha": "2026-01-02",
+    "mes": "2026-01",
+    "puntaje": 73.0
+  },
+  {
+    "evaluacionId": "EVA-000122",
+    "personaId": "ELEM-010",
+    "fecha": "2026-06-22",
+    "mes": "2026-06",
+    "puntaje": 79.5
+  },
+  {
+    "evaluacionId": "EVA-000123",
+    "personaId": "ELEM-019",
+    "fecha": "2025-09-18",
+    "mes": "2025-09",
+    "puntaje": 74.0
+  },
+  {
+    "evaluacionId": "EVA-000124",
+    "personaId": "ELEM-008",
+    "fecha": "2025-11-26",
+    "mes": "2025-11",
+    "puntaje": 91.0
+  },
+  {
+    "evaluacionId": "EVA-000125",
+    "personaId": "ELEM-005",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "puntaje": 90.8
+  },
+  {
+    "evaluacionId": "EVA-000126",
+    "personaId": "ELEM-017",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "puntaje": 67.2
+  },
+  {
+    "evaluacionId": "EVA-000127",
+    "personaId": "ELEM-007",
+    "fecha": "2025-07-08",
+    "mes": "2025-07",
+    "puntaje": 81.1
+  },
+  {
+    "evaluacionId": "EVA-000128",
+    "personaId": "ELEM-020",
+    "fecha": "2025-12-17",
+    "mes": "2025-12",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000129",
+    "personaId": "SUP-005",
+    "fecha": "2026-06-19",
+    "mes": "2026-06",
+    "puntaje": 60.3
+  },
+  {
+    "evaluacionId": "EVA-000130",
+    "personaId": "ELEM-006",
+    "fecha": "2025-10-17",
+    "mes": "2025-10",
+    "puntaje": 66.4
+  },
+  {
+    "evaluacionId": "EVA-000131",
+    "personaId": "ELEM-011",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "puntaje": 73.8
+  },
+  {
+    "evaluacionId": "EVA-000132",
+    "personaId": "ELEM-020",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "puntaje": 70.4
+  },
+  {
+    "evaluacionId": "EVA-000133",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-12-26",
+    "mes": "2025-12",
+    "puntaje": 62.4
+  },
+  {
+    "evaluacionId": "EVA-000134",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "puntaje": 64.9
+  },
+  {
+    "evaluacionId": "EVA-000135",
+    "personaId": "ELEM-009",
+    "fecha": "2025-09-13",
+    "mes": "2025-09",
+    "puntaje": 66.5
+  },
+  {
+    "evaluacionId": "EVA-000136",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-05-28",
+    "mes": "2025-05",
+    "puntaje": 68.5
+  },
+  {
+    "evaluacionId": "EVA-000137",
+    "personaId": "ELEM-017",
+    "fecha": "2026-08-30",
+    "mes": "2026-08",
+    "puntaje": 91.7
+  },
+  {
+    "evaluacionId": "EVA-000138",
+    "personaId": "ELEM-013",
+    "fecha": "2024-12-15",
+    "mes": "2024-12",
+    "puntaje": 95.0
+  },
+  {
+    "evaluacionId": "EVA-000139",
+    "personaId": "SUP-003",
+    "fecha": "2025-06-16",
+    "mes": "2025-06",
+    "puntaje": 83.5
+  },
+  {
+    "evaluacionId": "EVA-000140",
+    "personaId": "ELEM-020",
+    "fecha": "2026-11-07",
+    "mes": "2026-11",
+    "puntaje": 61.1
+  },
+  {
+    "evaluacionId": "EVA-000141",
+    "personaId": "ELEM-019",
+    "fecha": "2025-01-30",
+    "mes": "2025-01",
+    "puntaje": 98.4
+  },
+  {
+    "evaluacionId": "EVA-000142",
+    "personaId": "ELEM-002",
+    "fecha": "2025-10-24",
+    "mes": "2025-10",
+    "puntaje": 71.8
+  },
+  {
+    "evaluacionId": "EVA-000143",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-12-15",
+    "mes": "2025-12",
+    "puntaje": 75.6
+  },
+  {
+    "evaluacionId": "EVA-000144",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "puntaje": 98.8
+  },
+  {
+    "evaluacionId": "EVA-000145",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "puntaje": 76.7
+  },
+  {
+    "evaluacionId": "EVA-000146",
+    "personaId": "ELEM-004",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "puntaje": 99.8
+  },
+  {
+    "evaluacionId": "EVA-000147",
+    "personaId": "ELEM-015",
+    "fecha": "2026-02-22",
+    "mes": "2026-02",
+    "puntaje": 70.2
+  },
+  {
+    "evaluacionId": "EVA-000148",
+    "personaId": "ELEM-003",
+    "fecha": "2026-05-13",
+    "mes": "2026-05",
+    "puntaje": 95.5
+  },
+  {
+    "evaluacionId": "EVA-000149",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "puntaje": 96.4
+  },
+  {
+    "evaluacionId": "EVA-000150",
+    "personaId": "ELEM-011",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "puntaje": 89.1
+  },
+  {
+    "evaluacionId": "EVA-000151",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-04-08",
+    "mes": "2026-04",
+    "puntaje": 87.3
+  },
+  {
+    "evaluacionId": "EVA-000152",
+    "personaId": "SUP-003",
+    "fecha": "2025-08-29",
+    "mes": "2025-08",
+    "puntaje": 92.3
+  },
+  {
+    "evaluacionId": "EVA-000153",
+    "personaId": "ELEM-014",
+    "fecha": "2026-01-24",
+    "mes": "2026-01",
+    "puntaje": 92.3
+  },
+  {
+    "evaluacionId": "EVA-000154",
+    "personaId": "ELEM-010",
+    "fecha": "2025-12-30",
+    "mes": "2025-12",
+    "puntaje": 75.9
+  },
+  {
+    "evaluacionId": "EVA-000155",
+    "personaId": "ELEM-009",
+    "fecha": "2025-08-14",
+    "mes": "2025-08",
+    "puntaje": 63.7
+  },
+  {
+    "evaluacionId": "EVA-000156",
+    "personaId": "ELEM-011",
+    "fecha": "2025-01-11",
+    "mes": "2025-01",
+    "puntaje": 63.4
+  },
+  {
+    "evaluacionId": "EVA-000157",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "puntaje": 62.3
+  },
+  {
+    "evaluacionId": "EVA-000158",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-12-13",
+    "mes": "2025-12",
+    "puntaje": 69.5
+  },
+  {
+    "evaluacionId": "EVA-000159",
+    "personaId": "ELEM-001",
+    "fecha": "2025-09-18",
+    "mes": "2025-09",
+    "puntaje": 65.7
+  },
+  {
+    "evaluacionId": "EVA-000160",
+    "personaId": "ELEM-016",
+    "fecha": "2025-04-09",
+    "mes": "2025-04",
+    "puntaje": 61.6
+  },
+  {
+    "evaluacionId": "EVA-000161",
+    "personaId": "ELEM-016",
+    "fecha": "2025-07-17",
+    "mes": "2025-07",
+    "puntaje": 80.6
+  },
+  {
+    "evaluacionId": "EVA-000162",
+    "personaId": "ELEM-014",
+    "fecha": "2026-08-10",
+    "mes": "2026-08",
+    "puntaje": 73.8
+  },
+  {
+    "evaluacionId": "EVA-000163",
+    "personaId": "SUP-004",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "puntaje": 83.1
+  },
+  {
+    "evaluacionId": "EVA-000164",
+    "personaId": "ELEM-019",
+    "fecha": "2025-08-24",
+    "mes": "2025-08",
+    "puntaje": 64.9
+  },
+  {
+    "evaluacionId": "EVA-000165",
+    "personaId": "ELEM-001",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "puntaje": 91.3
+  },
+  {
+    "evaluacionId": "EVA-000166",
+    "personaId": "ELEM-017",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "puntaje": 72.7
+  },
+  {
+    "evaluacionId": "EVA-000167",
+    "personaId": "ELEM-018",
+    "fecha": "2025-06-16",
+    "mes": "2025-06",
+    "puntaje": 83.9
+  },
+  {
+    "evaluacionId": "EVA-000168",
+    "personaId": "SUP-004",
+    "fecha": "2025-05-25",
+    "mes": "2025-05",
+    "puntaje": 76.5
+  },
+  {
+    "evaluacionId": "EVA-000169",
+    "personaId": "SUP-003",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "puntaje": 96.8
+  },
+  {
+    "evaluacionId": "EVA-000170",
+    "personaId": "ELEM-010",
+    "fecha": "2026-02-20",
+    "mes": "2026-02",
+    "puntaje": 93.9
+  },
+  {
+    "evaluacionId": "EVA-000171",
+    "personaId": "ELEM-010",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "puntaje": 64.8
+  },
+  {
+    "evaluacionId": "EVA-000172",
+    "personaId": "ELEM-009",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "puntaje": 77.8
+  },
+  {
+    "evaluacionId": "EVA-000173",
+    "personaId": "SUP-002",
+    "fecha": "2026-01-29",
+    "mes": "2026-01",
+    "puntaje": 78.3
+  },
+  {
+    "evaluacionId": "EVA-000174",
+    "personaId": "ELEM-010",
+    "fecha": "2025-11-09",
+    "mes": "2025-11",
+    "puntaje": 93.3
+  },
+  {
+    "evaluacionId": "EVA-000175",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "puntaje": 81.8
+  },
+  {
+    "evaluacionId": "EVA-000176",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "puntaje": 82.2
+  },
+  {
+    "evaluacionId": "EVA-000177",
+    "personaId": "ELEM-012",
+    "fecha": "2025-11-10",
+    "mes": "2025-11",
+    "puntaje": 78.8
+  },
+  {
+    "evaluacionId": "EVA-000178",
+    "personaId": "ELEM-004",
+    "fecha": "2025-10-20",
+    "mes": "2025-10",
+    "puntaje": 90.1
+  },
+  {
+    "evaluacionId": "EVA-000179",
+    "personaId": "ELEM-007",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "puntaje": 76.9
+  },
+  {
+    "evaluacionId": "EVA-000180",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-02-20",
+    "mes": "2026-02",
+    "puntaje": 64.5
+  },
+  {
+    "evaluacionId": "EVA-000181",
+    "personaId": "ELEM-005",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "puntaje": 97.1
+  },
+  {
+    "evaluacionId": "EVA-000182",
+    "personaId": "SUP-002",
+    "fecha": "2025-05-29",
+    "mes": "2025-05",
+    "puntaje": 82.0
+  },
+  {
+    "evaluacionId": "EVA-000183",
+    "personaId": "SUP-004",
+    "fecha": "2025-02-04",
+    "mes": "2025-02",
+    "puntaje": 93.5
+  },
+  {
+    "evaluacionId": "EVA-000184",
+    "personaId": "ELEM-014",
+    "fecha": "2025-07-24",
+    "mes": "2025-07",
+    "puntaje": 70.7
+  },
+  {
+    "evaluacionId": "EVA-000185",
+    "personaId": "ELEM-013",
+    "fecha": "2026-11-21",
+    "mes": "2026-11",
+    "puntaje": 89.4
+  },
+  {
+    "evaluacionId": "EVA-000186",
+    "personaId": "ELEM-003",
+    "fecha": "2026-09-20",
+    "mes": "2026-09",
+    "puntaje": 78.4
+  },
+  {
+    "evaluacionId": "EVA-000187",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-06-30",
+    "mes": "2026-06",
+    "puntaje": 78.6
+  },
+  {
+    "evaluacionId": "EVA-000188",
+    "personaId": "ELEM-020",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "puntaje": 94.8
+  },
+  {
+    "evaluacionId": "EVA-000189",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2024-12-19",
+    "mes": "2024-12",
+    "puntaje": 96.1
+  },
+  {
+    "evaluacionId": "EVA-000190",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-02-23",
+    "mes": "2026-02",
+    "puntaje": 90.8
+  },
+  {
+    "evaluacionId": "EVA-000191",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "puntaje": 64.0
+  },
+  {
+    "evaluacionId": "EVA-000192",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "puntaje": 68.4
+  },
+  {
+    "evaluacionId": "EVA-000193",
+    "personaId": "ELEM-004",
+    "fecha": "2026-04-01",
+    "mes": "2026-04",
+    "puntaje": 72.6
+  },
+  {
+    "evaluacionId": "EVA-000194",
+    "personaId": "SUP-001",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "puntaje": 78.1
+  },
+  {
+    "evaluacionId": "EVA-000195",
+    "personaId": "ELEM-003",
+    "fecha": "2025-06-02",
+    "mes": "2025-06",
+    "puntaje": 79.7
+  },
+  {
+    "evaluacionId": "EVA-000196",
+    "personaId": "ELEM-012",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "puntaje": 68.5
+  },
+  {
+    "evaluacionId": "EVA-000197",
+    "personaId": "ELEM-015",
+    "fecha": "2026-04-05",
+    "mes": "2026-04",
+    "puntaje": 75.9
+  },
+  {
+    "evaluacionId": "EVA-000198",
+    "personaId": "ELEM-006",
+    "fecha": "2026-01-22",
+    "mes": "2026-01",
+    "puntaje": 99.1
+  },
+  {
+    "evaluacionId": "EVA-000199",
+    "personaId": "ELEM-013",
+    "fecha": "2026-07-01",
+    "mes": "2026-07",
+    "puntaje": 74.4
+  },
+  {
+    "evaluacionId": "EVA-000200",
+    "personaId": "ELEM-001",
+    "fecha": "2026-05-06",
+    "mes": "2026-05",
+    "puntaje": 88.3
+  },
+  {
+    "evaluacionId": "EVA-000201",
+    "personaId": "ELEM-004",
+    "fecha": "2025-07-14",
+    "mes": "2025-07",
+    "puntaje": 65.0
+  },
+  {
+    "evaluacionId": "EVA-000202",
+    "personaId": "ELEM-015",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "puntaje": 80.1
+  },
+  {
+    "evaluacionId": "EVA-000203",
+    "personaId": "ELEM-003",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "puntaje": 86.4
+  },
+  {
+    "evaluacionId": "EVA-000204",
+    "personaId": "ELEM-006",
+    "fecha": "2026-07-15",
+    "mes": "2026-07",
+    "puntaje": 65.3
+  },
+  {
+    "evaluacionId": "EVA-000205",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-03-17",
+    "mes": "2026-03",
+    "puntaje": 66.8
+  },
+  {
+    "evaluacionId": "EVA-000206",
+    "personaId": "SUP-003",
+    "fecha": "2025-08-14",
+    "mes": "2025-08",
+    "puntaje": 83.1
+  },
+  {
+    "evaluacionId": "EVA-000207",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "puntaje": 97.4
+  },
+  {
+    "evaluacionId": "EVA-000208",
+    "personaId": "ELEM-009",
+    "fecha": "2026-08-06",
+    "mes": "2026-08",
+    "puntaje": 62.4
+  },
+  {
+    "evaluacionId": "EVA-000209",
+    "personaId": "ELEM-006",
+    "fecha": "2026-08-21",
+    "mes": "2026-08",
+    "puntaje": 63.5
+  },
+  {
+    "evaluacionId": "EVA-000210",
+    "personaId": "ELEM-015",
+    "fecha": "2026-10-17",
+    "mes": "2026-10",
+    "puntaje": 85.2
+  },
+  {
+    "evaluacionId": "EVA-000211",
+    "personaId": "SUP-004",
+    "fecha": "2025-11-13",
+    "mes": "2025-11",
+    "puntaje": 68.0
+  },
+  {
+    "evaluacionId": "EVA-000212",
+    "personaId": "SUP-003",
+    "fecha": "2026-09-13",
+    "mes": "2026-09",
+    "puntaje": 64.2
+  },
+  {
+    "evaluacionId": "EVA-000213",
+    "personaId": "ELEM-016",
+    "fecha": "2025-12-23",
+    "mes": "2025-12",
+    "puntaje": 74.6
+  },
+  {
+    "evaluacionId": "EVA-000214",
+    "personaId": "ELEM-007",
+    "fecha": "2025-02-05",
+    "mes": "2025-02",
+    "puntaje": 99.9
+  },
+  {
+    "evaluacionId": "EVA-000215",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-04-09",
+    "mes": "2025-04",
+    "puntaje": 67.8
+  },
+  {
+    "evaluacionId": "EVA-000216",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "puntaje": 63.5
+  },
+  {
+    "evaluacionId": "EVA-000217",
+    "personaId": "ELEM-004",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "puntaje": 78.5
+  },
+  {
+    "evaluacionId": "EVA-000218",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "puntaje": 82.6
+  },
+  {
+    "evaluacionId": "EVA-000219",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-06-21",
+    "mes": "2026-06",
+    "puntaje": 67.4
+  },
+  {
+    "evaluacionId": "EVA-000220",
+    "personaId": "ELEM-013",
+    "fecha": "2026-08-23",
+    "mes": "2026-08",
+    "puntaje": 79.1
+  },
+  {
+    "evaluacionId": "EVA-000221",
+    "personaId": "ELEM-011",
+    "fecha": "2026-04-17",
+    "mes": "2026-04",
+    "puntaje": 86.5
+  },
+  {
+    "evaluacionId": "EVA-000222",
+    "personaId": "ELEM-012",
+    "fecha": "2025-08-26",
+    "mes": "2025-08",
+    "puntaje": 89.3
+  },
+  {
+    "evaluacionId": "EVA-000223",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-02-12",
+    "mes": "2025-02",
+    "puntaje": 97.6
+  },
+  {
+    "evaluacionId": "EVA-000224",
+    "personaId": "ELEM-009",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "puntaje": 85.8
+  },
+  {
+    "evaluacionId": "EVA-000225",
+    "personaId": "SUP-004",
+    "fecha": "2025-02-24",
+    "mes": "2025-02",
+    "puntaje": 96.2
+  },
+  {
+    "evaluacionId": "EVA-000226",
+    "personaId": "SUP-001",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "puntaje": 65.9
+  },
+  {
+    "evaluacionId": "EVA-000227",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-02-12",
+    "mes": "2026-02",
+    "puntaje": 77.8
+  },
+  {
+    "evaluacionId": "EVA-000228",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-10-19",
+    "mes": "2026-10",
+    "puntaje": 75.5
+  },
+  {
+    "evaluacionId": "EVA-000229",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-01-22",
+    "mes": "2025-01",
+    "puntaje": 89.1
+  },
+  {
+    "evaluacionId": "EVA-000230",
+    "personaId": "ELEM-010",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "puntaje": 81.1
+  },
+  {
+    "evaluacionId": "EVA-000231",
+    "personaId": "SUP-005",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "puntaje": 86.6
+  },
+  {
+    "evaluacionId": "EVA-000232",
+    "personaId": "ELEM-002",
+    "fecha": "2025-05-20",
+    "mes": "2025-05",
+    "puntaje": 84.1
+  },
+  {
+    "evaluacionId": "EVA-000233",
+    "personaId": "SUP-003",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "puntaje": 66.7
+  },
+  {
+    "evaluacionId": "EVA-000234",
+    "personaId": "SUP-002",
+    "fecha": "2026-02-07",
+    "mes": "2026-02",
+    "puntaje": 87.7
+  },
+  {
+    "evaluacionId": "EVA-000235",
+    "personaId": "SUP-004",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "puntaje": 75.4
+  },
+  {
+    "evaluacionId": "EVA-000236",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "puntaje": 83.4
+  },
+  {
+    "evaluacionId": "EVA-000237",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-12-28",
+    "mes": "2025-12",
+    "puntaje": 95.2
+  },
+  {
+    "evaluacionId": "EVA-000238",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-09-09",
+    "mes": "2026-09",
+    "puntaje": 86.7
+  },
+  {
+    "evaluacionId": "EVA-000239",
+    "personaId": "ELEM-013",
+    "fecha": "2025-06-29",
+    "mes": "2025-06",
+    "puntaje": 85.5
+  },
+  {
+    "evaluacionId": "EVA-000240",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "puntaje": 84.0
+  },
+  {
+    "evaluacionId": "EVA-000241",
+    "personaId": "ELEM-007",
+    "fecha": "2026-02-13",
+    "mes": "2026-02",
+    "puntaje": 85.6
+  },
+  {
+    "evaluacionId": "EVA-000242",
+    "personaId": "ELEM-016",
+    "fecha": "2025-08-21",
+    "mes": "2025-08",
+    "puntaje": 81.7
+  },
+  {
+    "evaluacionId": "EVA-000243",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-10-28",
+    "mes": "2026-10",
+    "puntaje": 78.3
+  },
+  {
+    "evaluacionId": "EVA-000244",
+    "personaId": "ELEM-018",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "puntaje": 83.7
+  },
+  {
+    "evaluacionId": "EVA-000245",
+    "personaId": "ELEM-007",
+    "fecha": "2025-09-21",
+    "mes": "2025-09",
+    "puntaje": 94.1
+  },
+  {
+    "evaluacionId": "EVA-000246",
+    "personaId": "ELEM-001",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "puntaje": 90.1
+  },
+  {
+    "evaluacionId": "EVA-000247",
+    "personaId": "ELEM-015",
+    "fecha": "2025-11-24",
+    "mes": "2025-11",
+    "puntaje": 78.4
+  },
+  {
+    "evaluacionId": "EVA-000248",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-08-20",
+    "mes": "2026-08",
+    "puntaje": 81.4
+  },
+  {
+    "evaluacionId": "EVA-000249",
+    "personaId": "SUP-004",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "puntaje": 94.9
+  },
+  {
+    "evaluacionId": "EVA-000250",
+    "personaId": "ELEM-007",
+    "fecha": "2025-03-13",
+    "mes": "2025-03",
+    "puntaje": 84.6
+  },
+  {
+    "evaluacionId": "EVA-000251",
+    "personaId": "ELEM-002",
+    "fecha": "2025-04-03",
+    "mes": "2025-04",
+    "puntaje": 66.2
+  },
+  {
+    "evaluacionId": "EVA-000252",
+    "personaId": "ELEM-001",
+    "fecha": "2025-11-17",
+    "mes": "2025-11",
+    "puntaje": 84.9
+  },
+  {
+    "evaluacionId": "EVA-000253",
+    "personaId": "ELEM-014",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "puntaje": 92.2
+  },
+  {
+    "evaluacionId": "EVA-000254",
+    "personaId": "ELEM-011",
+    "fecha": "2026-06-18",
+    "mes": "2026-06",
+    "puntaje": 81.1
+  },
+  {
+    "evaluacionId": "EVA-000255",
+    "personaId": "ELEM-020",
+    "fecha": "2026-08-04",
+    "mes": "2026-08",
+    "puntaje": 96.4
+  },
+  {
+    "evaluacionId": "EVA-000256",
+    "personaId": "ELEM-019",
+    "fecha": "2025-12-28",
+    "mes": "2025-12",
+    "puntaje": 60.4
+  },
+  {
+    "evaluacionId": "EVA-000257",
+    "personaId": "ELEM-009",
+    "fecha": "2025-10-16",
+    "mes": "2025-10",
+    "puntaje": 86.4
+  },
+  {
+    "evaluacionId": "EVA-000258",
+    "personaId": "ELEM-014",
+    "fecha": "2025-04-03",
+    "mes": "2025-04",
+    "puntaje": 76.3
+  },
+  {
+    "evaluacionId": "EVA-000259",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-02-15",
+    "mes": "2025-02",
+    "puntaje": 96.0
+  },
+  {
+    "evaluacionId": "EVA-000260",
+    "personaId": "SUP-002",
+    "fecha": "2026-05-31",
+    "mes": "2026-05",
+    "puntaje": 92.4
+  },
+  {
+    "evaluacionId": "EVA-000261",
+    "personaId": "ELEM-014",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "puntaje": 81.0
+  },
+  {
+    "evaluacionId": "EVA-000262",
+    "personaId": "ELEM-019",
+    "fecha": "2025-02-18",
+    "mes": "2025-02",
+    "puntaje": 99.2
+  },
+  {
+    "evaluacionId": "EVA-000263",
+    "personaId": "SUP-005",
+    "fecha": "2025-03-14",
+    "mes": "2025-03",
+    "puntaje": 86.6
+  },
+  {
+    "evaluacionId": "EVA-000264",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-10-27",
+    "mes": "2025-10",
+    "puntaje": 80.0
+  },
+  {
+    "evaluacionId": "EVA-000265",
+    "personaId": "ELEM-019",
+    "fecha": "2026-11-03",
+    "mes": "2026-11",
+    "puntaje": 74.2
+  },
+  {
+    "evaluacionId": "EVA-000266",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-01-24",
+    "mes": "2025-01",
+    "puntaje": 88.8
+  },
+  {
+    "evaluacionId": "EVA-000267",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-12-15",
+    "mes": "2025-12",
+    "puntaje": 61.6
+  },
+  {
+    "evaluacionId": "EVA-000268",
+    "personaId": "ELEM-002",
+    "fecha": "2026-06-18",
+    "mes": "2026-06",
+    "puntaje": 91.7
+  },
+  {
+    "evaluacionId": "EVA-000269",
+    "personaId": "ELEM-002",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "puntaje": 63.9
+  },
+  {
+    "evaluacionId": "EVA-000270",
+    "personaId": "ELEM-004",
+    "fecha": "2025-07-30",
+    "mes": "2025-07",
+    "puntaje": 98.9
+  },
+  {
+    "evaluacionId": "EVA-000271",
+    "personaId": "ELEM-001",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "puntaje": 75.1
+  },
+  {
+    "evaluacionId": "EVA-000272",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-11-08",
+    "mes": "2026-11",
+    "puntaje": 85.9
+  },
+  {
+    "evaluacionId": "EVA-000273",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "puntaje": 89.3
+  },
+  {
+    "evaluacionId": "EVA-000274",
+    "personaId": "ELEM-004",
+    "fecha": "2025-12-23",
+    "mes": "2025-12",
+    "puntaje": 72.5
+  },
+  {
+    "evaluacionId": "EVA-000275",
+    "personaId": "SUP-003",
+    "fecha": "2026-09-19",
+    "mes": "2026-09",
+    "puntaje": 77.5
+  },
+  {
+    "evaluacionId": "EVA-000276",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-04-11",
+    "mes": "2026-04",
+    "puntaje": 65.6
+  },
+  {
+    "evaluacionId": "EVA-000277",
+    "personaId": "ELEM-008",
+    "fecha": "2025-10-06",
+    "mes": "2025-10",
+    "puntaje": 84.9
+  },
+  {
+    "evaluacionId": "EVA-000278",
+    "personaId": "ELEM-004",
+    "fecha": "2025-11-18",
+    "mes": "2025-11",
+    "puntaje": 94.1
+  },
+  {
+    "evaluacionId": "EVA-000279",
+    "personaId": "ELEM-008",
+    "fecha": "2026-07-28",
+    "mes": "2026-07",
+    "puntaje": 93.2
+  },
+  {
+    "evaluacionId": "EVA-000280",
+    "personaId": "ELEM-020",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "puntaje": 65.2
+  },
+  {
+    "evaluacionId": "EVA-000281",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-05-16",
+    "mes": "2026-05",
+    "puntaje": 89.6
+  },
+  {
+    "evaluacionId": "EVA-000282",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "puntaje": 90.2
+  },
+  {
+    "evaluacionId": "EVA-000283",
+    "personaId": "ELEM-002",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "puntaje": 75.1
+  },
+  {
+    "evaluacionId": "EVA-000284",
+    "personaId": "ELEM-011",
+    "fecha": "2025-05-08",
+    "mes": "2025-05",
+    "puntaje": 96.8
+  },
+  {
+    "evaluacionId": "EVA-000285",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-29",
+    "mes": "2026-07",
+    "puntaje": 86.9
+  },
+  {
+    "evaluacionId": "EVA-000286",
+    "personaId": "ELEM-003",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "puntaje": 73.5
+  },
+  {
+    "evaluacionId": "EVA-000287",
+    "personaId": "ELEM-008",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "puntaje": 83.5
+  },
+  {
+    "evaluacionId": "EVA-000288",
+    "personaId": "ELEM-013",
+    "fecha": "2025-04-09",
+    "mes": "2025-04",
+    "puntaje": 85.0
+  },
+  {
+    "evaluacionId": "EVA-000289",
+    "personaId": "ELEM-007",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "puntaje": 99.0
+  },
+  {
+    "evaluacionId": "EVA-000290",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000291",
+    "personaId": "SUP-004",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "puntaje": 95.1
+  },
+  {
+    "evaluacionId": "EVA-000292",
+    "personaId": "SUP-003",
+    "fecha": "2024-12-02",
+    "mes": "2024-12",
+    "puntaje": 90.6
+  },
+  {
+    "evaluacionId": "EVA-000293",
+    "personaId": "ELEM-008",
+    "fecha": "2026-11-06",
+    "mes": "2026-11",
+    "puntaje": 87.9
+  },
+  {
+    "evaluacionId": "EVA-000294",
+    "personaId": "ELEM-015",
+    "fecha": "2025-01-10",
+    "mes": "2025-01",
+    "puntaje": 89.3
+  },
+  {
+    "evaluacionId": "EVA-000295",
+    "personaId": "ELEM-020",
+    "fecha": "2026-03-25",
+    "mes": "2026-03",
+    "puntaje": 93.7
+  },
+  {
+    "evaluacionId": "EVA-000296",
+    "personaId": "SUP-002",
+    "fecha": "2026-09-29",
+    "mes": "2026-09",
+    "puntaje": 69.2
+  },
+  {
+    "evaluacionId": "EVA-000297",
+    "personaId": "ELEM-005",
+    "fecha": "2025-02-08",
+    "mes": "2025-02",
+    "puntaje": 67.1
+  },
+  {
+    "evaluacionId": "EVA-000298",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-03-18",
+    "mes": "2025-03",
+    "puntaje": 95.2
+  },
+  {
+    "evaluacionId": "EVA-000299",
+    "personaId": "SUP-001",
+    "fecha": "2026-10-10",
+    "mes": "2026-10",
+    "puntaje": 65.7
+  },
+  {
+    "evaluacionId": "EVA-000300",
+    "personaId": "ELEM-006",
+    "fecha": "2026-01-28",
+    "mes": "2026-01",
+    "puntaje": 77.5
+  },
+  {
+    "evaluacionId": "EVA-000301",
+    "personaId": "ELEM-011",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "puntaje": 72.3
+  },
+  {
+    "evaluacionId": "EVA-000302",
+    "personaId": "SUP-005",
+    "fecha": "2025-08-09",
+    "mes": "2025-08",
+    "puntaje": 85.1
+  },
+  {
+    "evaluacionId": "EVA-000303",
+    "personaId": "ELEM-008",
+    "fecha": "2025-01-07",
+    "mes": "2025-01",
+    "puntaje": 71.4
+  },
+  {
+    "evaluacionId": "EVA-000304",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-10-18",
+    "mes": "2026-10",
+    "puntaje": 86.3
+  },
+  {
+    "evaluacionId": "EVA-000305",
+    "personaId": "ELEM-009",
+    "fecha": "2026-06-20",
+    "mes": "2026-06",
+    "puntaje": 86.4
+  },
+  {
+    "evaluacionId": "EVA-000306",
+    "personaId": "ELEM-017",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "puntaje": 88.3
+  },
+  {
+    "evaluacionId": "EVA-000307",
+    "personaId": "SUP-002",
+    "fecha": "2026-03-24",
+    "mes": "2026-03",
+    "puntaje": 91.5
+  },
+  {
+    "evaluacionId": "EVA-000308",
+    "personaId": "ELEM-012",
+    "fecha": "2026-01-17",
+    "mes": "2026-01",
+    "puntaje": 63.5
+  },
+  {
+    "evaluacionId": "EVA-000309",
+    "personaId": "ELEM-017",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "puntaje": 70.3
+  },
+  {
+    "evaluacionId": "EVA-000310",
+    "personaId": "ELEM-005",
+    "fecha": "2025-09-27",
+    "mes": "2025-09",
+    "puntaje": 64.3
+  },
+  {
+    "evaluacionId": "EVA-000311",
+    "personaId": "ELEM-008",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "puntaje": 95.7
+  },
+  {
+    "evaluacionId": "EVA-000312",
+    "personaId": "SUP-005",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "puntaje": 96.5
+  },
+  {
+    "evaluacionId": "EVA-000313",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-10-20",
+    "mes": "2026-10",
+    "puntaje": 79.6
+  },
+  {
+    "evaluacionId": "EVA-000314",
+    "personaId": "SUP-005",
+    "fecha": "2025-12-07",
+    "mes": "2025-12",
+    "puntaje": 89.9
+  },
+  {
+    "evaluacionId": "EVA-000315",
+    "personaId": "ELEM-009",
+    "fecha": "2025-09-01",
+    "mes": "2025-09",
+    "puntaje": 98.9
+  },
+  {
+    "evaluacionId": "EVA-000316",
+    "personaId": "ELEM-004",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "puntaje": 69.8
+  },
+  {
+    "evaluacionId": "EVA-000317",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-10-29",
+    "mes": "2025-10",
+    "puntaje": 61.8
+  },
+  {
+    "evaluacionId": "EVA-000318",
+    "personaId": "ELEM-012",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "puntaje": 63.0
+  },
+  {
+    "evaluacionId": "EVA-000319",
+    "personaId": "ELEM-017",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "puntaje": 71.1
+  },
+  {
+    "evaluacionId": "EVA-000320",
+    "personaId": "ELEM-015",
+    "fecha": "2025-10-05",
+    "mes": "2025-10",
+    "puntaje": 89.2
+  },
+  {
+    "evaluacionId": "EVA-000321",
+    "personaId": "ELEM-020",
+    "fecha": "2024-12-30",
+    "mes": "2024-12",
+    "puntaje": 95.2
+  },
+  {
+    "evaluacionId": "EVA-000322",
+    "personaId": "SUP-001",
+    "fecha": "2025-07-24",
+    "mes": "2025-07",
+    "puntaje": 90.3
+  },
+  {
+    "evaluacionId": "EVA-000323",
+    "personaId": "ELEM-016",
+    "fecha": "2025-10-16",
+    "mes": "2025-10",
+    "puntaje": 86.0
+  },
+  {
+    "evaluacionId": "EVA-000324",
+    "personaId": "ELEM-016",
+    "fecha": "2025-01-01",
+    "mes": "2025-01",
+    "puntaje": 67.6
+  },
+  {
+    "evaluacionId": "EVA-000325",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "puntaje": 63.4
+  },
+  {
+    "evaluacionId": "EVA-000326",
+    "personaId": "ELEM-020",
+    "fecha": "2024-12-27",
+    "mes": "2024-12",
+    "puntaje": 96.8
+  },
+  {
+    "evaluacionId": "EVA-000327",
+    "personaId": "ELEM-011",
+    "fecha": "2026-02-02",
+    "mes": "2026-02",
+    "puntaje": 69.4
+  },
+  {
+    "evaluacionId": "EVA-000328",
+    "personaId": "ELEM-004",
+    "fecha": "2025-05-19",
+    "mes": "2025-05",
+    "puntaje": 70.5
+  },
+  {
+    "evaluacionId": "EVA-000329",
+    "personaId": "ELEM-016",
+    "fecha": "2025-06-11",
+    "mes": "2025-06",
+    "puntaje": 99.7
+  },
+  {
+    "evaluacionId": "EVA-000330",
+    "personaId": "ELEM-002",
+    "fecha": "2026-11-17",
+    "mes": "2026-11",
+    "puntaje": 88.9
+  },
+  {
+    "evaluacionId": "EVA-000331",
+    "personaId": "ELEM-019",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "puntaje": 81.3
+  },
+  {
+    "evaluacionId": "EVA-000332",
+    "personaId": "ELEM-017",
+    "fecha": "2026-01-18",
+    "mes": "2026-01",
+    "puntaje": 65.8
+  },
+  {
+    "evaluacionId": "EVA-000333",
+    "personaId": "SUP-005",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "puntaje": 93.1
+  },
+  {
+    "evaluacionId": "EVA-000334",
+    "personaId": "ELEM-011",
+    "fecha": "2026-11-02",
+    "mes": "2026-11",
+    "puntaje": 71.5
+  },
+  {
+    "evaluacionId": "EVA-000335",
+    "personaId": "ELEM-003",
+    "fecha": "2025-04-03",
+    "mes": "2025-04",
+    "puntaje": 69.3
+  },
+  {
+    "evaluacionId": "EVA-000336",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "puntaje": 64.4
+  },
+  {
+    "evaluacionId": "EVA-000337",
+    "personaId": "ELEM-020",
+    "fecha": "2026-04-29",
+    "mes": "2026-04",
+    "puntaje": 82.5
+  },
+  {
+    "evaluacionId": "EVA-000338",
+    "personaId": "ELEM-001",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "puntaje": 72.7
+  },
+  {
+    "evaluacionId": "EVA-000339",
+    "personaId": "SUP-004",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "puntaje": 82.0
+  },
+  {
+    "evaluacionId": "EVA-000340",
+    "personaId": "SUP-005",
+    "fecha": "2025-09-12",
+    "mes": "2025-09",
+    "puntaje": 98.8
+  },
+  {
+    "evaluacionId": "EVA-000341",
+    "personaId": "ELEM-008",
+    "fecha": "2026-09-15",
+    "mes": "2026-09",
+    "puntaje": 90.1
+  },
+  {
+    "evaluacionId": "EVA-000342",
+    "personaId": "ELEM-014",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "puntaje": 83.9
+  },
+  {
+    "evaluacionId": "EVA-000343",
+    "personaId": "ELEM-006",
+    "fecha": "2025-04-26",
+    "mes": "2025-04",
+    "puntaje": 64.4
+  },
+  {
+    "evaluacionId": "EVA-000344",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "puntaje": 90.4
+  },
+  {
+    "evaluacionId": "EVA-000345",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-05-02",
+    "mes": "2026-05",
+    "puntaje": 81.2
+  },
+  {
+    "evaluacionId": "EVA-000346",
+    "personaId": "ELEM-018",
+    "fecha": "2026-04-19",
+    "mes": "2026-04",
+    "puntaje": 67.1
+  },
+  {
+    "evaluacionId": "EVA-000347",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-09-16",
+    "mes": "2025-09",
+    "puntaje": 91.0
+  },
+  {
+    "evaluacionId": "EVA-000348",
+    "personaId": "ELEM-015",
+    "fecha": "2026-06-27",
+    "mes": "2026-06",
+    "puntaje": 60.6
+  },
+  {
+    "evaluacionId": "EVA-000349",
+    "personaId": "SUP-001",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "puntaje": 76.4
+  },
+  {
+    "evaluacionId": "EVA-000350",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "puntaje": 75.5
+  },
+  {
+    "evaluacionId": "EVA-000351",
+    "personaId": "ELEM-006",
+    "fecha": "2025-12-18",
+    "mes": "2025-12",
+    "puntaje": 65.0
+  },
+  {
+    "evaluacionId": "EVA-000352",
+    "personaId": "ELEM-005",
+    "fecha": "2026-04-06",
+    "mes": "2026-04",
+    "puntaje": 99.3
+  },
+  {
+    "evaluacionId": "EVA-000353",
+    "personaId": "SUP-001",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "puntaje": 65.2
+  },
+  {
+    "evaluacionId": "EVA-000354",
+    "personaId": "SUP-001",
+    "fecha": "2026-02-28",
+    "mes": "2026-02",
+    "puntaje": 73.3
+  },
+  {
+    "evaluacionId": "EVA-000355",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-05-14",
+    "mes": "2025-05",
+    "puntaje": 75.3
+  },
+  {
+    "evaluacionId": "EVA-000356",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "puntaje": 83.5
+  },
+  {
+    "evaluacionId": "EVA-000357",
+    "personaId": "ELEM-004",
+    "fecha": "2026-08-13",
+    "mes": "2026-08",
+    "puntaje": 95.3
+  },
+  {
+    "evaluacionId": "EVA-000358",
+    "personaId": "ELEM-014",
+    "fecha": "2025-11-16",
+    "mes": "2025-11",
+    "puntaje": 90.0
+  },
+  {
+    "evaluacionId": "EVA-000359",
+    "personaId": "ELEM-015",
+    "fecha": "2026-09-16",
+    "mes": "2026-09",
+    "puntaje": 95.0
+  },
+  {
+    "evaluacionId": "EVA-000360",
+    "personaId": "ELEM-001",
+    "fecha": "2025-01-12",
+    "mes": "2025-01",
+    "puntaje": 62.0
+  },
+  {
+    "evaluacionId": "EVA-000361",
+    "personaId": "SUP-004",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "puntaje": 75.2
+  },
+  {
+    "evaluacionId": "EVA-000362",
+    "personaId": "ELEM-004",
+    "fecha": "2025-11-01",
+    "mes": "2025-11",
+    "puntaje": 93.2
+  },
+  {
+    "evaluacionId": "EVA-000363",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-05-31",
+    "mes": "2026-05",
+    "puntaje": 64.8
+  },
+  {
+    "evaluacionId": "EVA-000364",
+    "personaId": "ELEM-015",
+    "fecha": "2026-01-07",
+    "mes": "2026-01",
+    "puntaje": 82.3
+  },
+  {
+    "evaluacionId": "EVA-000365",
+    "personaId": "ELEM-012",
+    "fecha": "2025-07-03",
+    "mes": "2025-07",
+    "puntaje": 69.6
+  },
+  {
+    "evaluacionId": "EVA-000366",
+    "personaId": "ELEM-016",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "puntaje": 60.3
+  },
+  {
+    "evaluacionId": "EVA-000367",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "puntaje": 63.9
+  },
+  {
+    "evaluacionId": "EVA-000368",
+    "personaId": "ELEM-011",
+    "fecha": "2026-05-09",
+    "mes": "2026-05",
+    "puntaje": 67.9
+  },
+  {
+    "evaluacionId": "EVA-000369",
+    "personaId": "ELEM-002",
+    "fecha": "2026-05-06",
+    "mes": "2026-05",
+    "puntaje": 98.4
+  },
+  {
+    "evaluacionId": "EVA-000370",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "puntaje": 90.5
+  },
+  {
+    "evaluacionId": "EVA-000371",
+    "personaId": "ELEM-014",
+    "fecha": "2025-04-09",
+    "mes": "2025-04",
+    "puntaje": 98.2
+  },
+  {
+    "evaluacionId": "EVA-000372",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "puntaje": 88.3
+  },
+  {
+    "evaluacionId": "EVA-000373",
+    "personaId": "ELEM-007",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "puntaje": 70.7
+  },
+  {
+    "evaluacionId": "EVA-000374",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-01-08",
+    "mes": "2025-01",
+    "puntaje": 69.6
+  },
+  {
+    "evaluacionId": "EVA-000375",
+    "personaId": "SUP-005",
+    "fecha": "2026-10-03",
+    "mes": "2026-10",
+    "puntaje": 68.5
+  },
+  {
+    "evaluacionId": "EVA-000376",
+    "personaId": "ELEM-011",
+    "fecha": "2026-10-22",
+    "mes": "2026-10",
+    "puntaje": 92.2
+  },
+  {
+    "evaluacionId": "EVA-000377",
+    "personaId": "ELEM-002",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "puntaje": 65.7
+  },
+  {
+    "evaluacionId": "EVA-000378",
+    "personaId": "ELEM-002",
+    "fecha": "2026-01-11",
+    "mes": "2026-01",
+    "puntaje": 79.4
+  },
+  {
+    "evaluacionId": "EVA-000379",
+    "personaId": "SUP-002",
+    "fecha": "2025-10-10",
+    "mes": "2025-10",
+    "puntaje": 92.1
+  },
+  {
+    "evaluacionId": "EVA-000380",
+    "personaId": "ELEM-017",
+    "fecha": "2026-02-26",
+    "mes": "2026-02",
+    "puntaje": 61.1
+  },
+  {
+    "evaluacionId": "EVA-000381",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "puntaje": 60.4
+  },
+  {
+    "evaluacionId": "EVA-000382",
+    "personaId": "ELEM-016",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "puntaje": 89.9
+  },
+  {
+    "evaluacionId": "EVA-000383",
+    "personaId": "SUP-002",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "puntaje": 60.7
+  },
+  {
+    "evaluacionId": "EVA-000384",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "puntaje": 97.6
+  },
+  {
+    "evaluacionId": "EVA-000385",
+    "personaId": "ELEM-020",
+    "fecha": "2025-03-26",
+    "mes": "2025-03",
+    "puntaje": 64.2
+  },
+  {
+    "evaluacionId": "EVA-000386",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "puntaje": 94.2
+  },
+  {
+    "evaluacionId": "EVA-000387",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-06-15",
+    "mes": "2025-06",
+    "puntaje": 88.4
+  },
+  {
+    "evaluacionId": "EVA-000388",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "puntaje": 62.7
+  },
+  {
+    "evaluacionId": "EVA-000389",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-01-25",
+    "mes": "2026-01",
+    "puntaje": 91.8
+  },
+  {
+    "evaluacionId": "EVA-000390",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "puntaje": 64.9
+  },
+  {
+    "evaluacionId": "EVA-000391",
+    "personaId": "ELEM-003",
+    "fecha": "2026-04-06",
+    "mes": "2026-04",
+    "puntaje": 94.9
+  },
+  {
+    "evaluacionId": "EVA-000392",
+    "personaId": "ELEM-004",
+    "fecha": "2025-05-14",
+    "mes": "2025-05",
+    "puntaje": 96.6
+  },
+  {
+    "evaluacionId": "EVA-000393",
+    "personaId": "ELEM-016",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "puntaje": 94.4
+  },
+  {
+    "evaluacionId": "EVA-000394",
+    "personaId": "ELEM-017",
+    "fecha": "2025-01-27",
+    "mes": "2025-01",
+    "puntaje": 77.8
+  },
+  {
+    "evaluacionId": "EVA-000395",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "puntaje": 80.1
+  },
+  {
+    "evaluacionId": "EVA-000396",
+    "personaId": "ELEM-003",
+    "fecha": "2026-04-23",
+    "mes": "2026-04",
+    "puntaje": 77.1
+  },
+  {
+    "evaluacionId": "EVA-000397",
+    "personaId": "SUP-002",
+    "fecha": "2026-04-05",
+    "mes": "2026-04",
+    "puntaje": 99.8
+  },
+  {
+    "evaluacionId": "EVA-000398",
+    "personaId": "ELEM-020",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "puntaje": 63.4
+  },
+  {
+    "evaluacionId": "EVA-000399",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-10-11",
+    "mes": "2025-10",
+    "puntaje": 87.3
+  },
+  {
+    "evaluacionId": "EVA-000400",
+    "personaId": "ELEM-002",
+    "fecha": "2025-01-24",
+    "mes": "2025-01",
+    "puntaje": 93.6
+  },
+  {
+    "evaluacionId": "EVA-000401",
+    "personaId": "SUP-001",
+    "fecha": "2025-02-10",
+    "mes": "2025-02",
+    "puntaje": 76.3
+  },
+  {
+    "evaluacionId": "EVA-000402",
+    "personaId": "ELEM-010",
+    "fecha": "2025-10-20",
+    "mes": "2025-10",
+    "puntaje": 72.3
+  },
+  {
+    "evaluacionId": "EVA-000403",
+    "personaId": "SUP-001",
+    "fecha": "2025-02-09",
+    "mes": "2025-02",
+    "puntaje": 83.2
+  },
+  {
+    "evaluacionId": "EVA-000404",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-07-12",
+    "mes": "2025-07",
+    "puntaje": 87.6
+  },
+  {
+    "evaluacionId": "EVA-000405",
+    "personaId": "ELEM-005",
+    "fecha": "2026-08-24",
+    "mes": "2026-08",
+    "puntaje": 61.4
+  },
+  {
+    "evaluacionId": "EVA-000406",
+    "personaId": "ELEM-012",
+    "fecha": "2025-10-21",
+    "mes": "2025-10",
+    "puntaje": 62.2
+  },
+  {
+    "evaluacionId": "EVA-000407",
+    "personaId": "SUP-001",
+    "fecha": "2025-04-17",
+    "mes": "2025-04",
+    "puntaje": 78.3
+  },
+  {
+    "evaluacionId": "EVA-000408",
+    "personaId": "ELEM-007",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "puntaje": 61.5
+  },
+  {
+    "evaluacionId": "EVA-000409",
+    "personaId": "ELEM-003",
+    "fecha": "2025-04-04",
+    "mes": "2025-04",
+    "puntaje": 77.5
+  },
+  {
+    "evaluacionId": "EVA-000410",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-08-09",
+    "mes": "2026-08",
+    "puntaje": 86.7
+  },
+  {
+    "evaluacionId": "EVA-000411",
+    "personaId": "ELEM-017",
+    "fecha": "2026-09-17",
+    "mes": "2026-09",
+    "puntaje": 89.8
+  },
+  {
+    "evaluacionId": "EVA-000412",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-10-14",
+    "mes": "2025-10",
+    "puntaje": 67.4
+  },
+  {
+    "evaluacionId": "EVA-000413",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-06-04",
+    "mes": "2025-06",
+    "puntaje": 68.5
+  },
+  {
+    "evaluacionId": "EVA-000414",
+    "personaId": "ELEM-016",
+    "fecha": "2026-06-10",
+    "mes": "2026-06",
+    "puntaje": 76.9
+  },
+  {
+    "evaluacionId": "EVA-000415",
+    "personaId": "ELEM-001",
+    "fecha": "2024-12-14",
+    "mes": "2024-12",
+    "puntaje": 74.1
+  },
+  {
+    "evaluacionId": "EVA-000416",
+    "personaId": "ELEM-005",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "puntaje": 70.3
+  },
+  {
+    "evaluacionId": "EVA-000417",
+    "personaId": "SUP-005",
+    "fecha": "2025-01-01",
+    "mes": "2025-01",
+    "puntaje": 74.8
+  },
+  {
+    "evaluacionId": "EVA-000418",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-06-27",
+    "mes": "2026-06",
+    "puntaje": 93.6
+  },
+  {
+    "evaluacionId": "EVA-000419",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-12-11",
+    "mes": "2025-12",
+    "puntaje": 77.4
+  },
+  {
+    "evaluacionId": "EVA-000420",
+    "personaId": "SUP-004",
+    "fecha": "2026-10-20",
+    "mes": "2026-10",
+    "puntaje": 98.7
+  },
+  {
+    "evaluacionId": "EVA-000421",
+    "personaId": "ELEM-011",
+    "fecha": "2025-05-29",
+    "mes": "2025-05",
+    "puntaje": 66.8
+  },
+  {
+    "evaluacionId": "EVA-000422",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-10-07",
+    "mes": "2026-10",
+    "puntaje": 68.4
+  },
+  {
+    "evaluacionId": "EVA-000423",
+    "personaId": "SUP-002",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "puntaje": 78.1
+  },
+  {
+    "evaluacionId": "EVA-000424",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "puntaje": 97.7
+  },
+  {
+    "evaluacionId": "EVA-000425",
+    "personaId": "ELEM-011",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "puntaje": 80.3
+  },
+  {
+    "evaluacionId": "EVA-000426",
+    "personaId": "ELEM-019",
+    "fecha": "2024-12-04",
+    "mes": "2024-12",
+    "puntaje": 88.3
+  },
+  {
+    "evaluacionId": "EVA-000427",
+    "personaId": "SUP-004",
+    "fecha": "2025-06-04",
+    "mes": "2025-06",
+    "puntaje": 71.0
+  },
+  {
+    "evaluacionId": "EVA-000428",
+    "personaId": "ELEM-017",
+    "fecha": "2026-11-12",
+    "mes": "2026-11",
+    "puntaje": 93.8
+  },
+  {
+    "evaluacionId": "EVA-000429",
+    "personaId": "ELEM-004",
+    "fecha": "2025-12-13",
+    "mes": "2025-12",
+    "puntaje": 64.9
+  },
+  {
+    "evaluacionId": "EVA-000430",
+    "personaId": "ELEM-016",
+    "fecha": "2026-05-28",
+    "mes": "2026-05",
+    "puntaje": 97.7
+  },
+  {
+    "evaluacionId": "EVA-000431",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "puntaje": 63.4
+  },
+  {
+    "evaluacionId": "EVA-000432",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-01-24",
+    "mes": "2026-01",
+    "puntaje": 86.6
+  },
+  {
+    "evaluacionId": "EVA-000433",
+    "personaId": "SUP-004",
+    "fecha": "2025-11-25",
+    "mes": "2025-11",
+    "puntaje": 82.7
+  },
+  {
+    "evaluacionId": "EVA-000434",
+    "personaId": "ELEM-009",
+    "fecha": "2025-05-07",
+    "mes": "2025-05",
+    "puntaje": 75.6
+  },
+  {
+    "evaluacionId": "EVA-000435",
+    "personaId": "ELEM-009",
+    "fecha": "2025-04-05",
+    "mes": "2025-04",
+    "puntaje": 76.1
+  },
+  {
+    "evaluacionId": "EVA-000436",
+    "personaId": "ELEM-005",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "puntaje": 92.2
+  },
+  {
+    "evaluacionId": "EVA-000437",
+    "personaId": "ELEM-019",
+    "fecha": "2025-07-12",
+    "mes": "2025-07",
+    "puntaje": 80.7
+  },
+  {
+    "evaluacionId": "EVA-000438",
+    "personaId": "SUP-001",
+    "fecha": "2024-12-23",
+    "mes": "2024-12",
+    "puntaje": 96.0
+  },
+  {
+    "evaluacionId": "EVA-000439",
+    "personaId": "SUP-004",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "puntaje": 75.7
+  },
+  {
+    "evaluacionId": "EVA-000440",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2024-12-17",
+    "mes": "2024-12",
+    "puntaje": 93.1
+  },
+  {
+    "evaluacionId": "EVA-000441",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-10-10",
+    "mes": "2026-10",
+    "puntaje": 88.3
+  },
+  {
+    "evaluacionId": "EVA-000442",
+    "personaId": "ELEM-006",
+    "fecha": "2025-03-22",
+    "mes": "2025-03",
+    "puntaje": 65.8
+  },
+  {
+    "evaluacionId": "EVA-000443",
+    "personaId": "ELEM-011",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "puntaje": 89.6
+  },
+  {
+    "evaluacionId": "EVA-000444",
+    "personaId": "ELEM-014",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "puntaje": 80.5
+  },
+  {
+    "evaluacionId": "EVA-000445",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "puntaje": 73.8
+  },
+  {
+    "evaluacionId": "EVA-000446",
+    "personaId": "ELEM-014",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "puntaje": 86.9
+  },
+  {
+    "evaluacionId": "EVA-000447",
+    "personaId": "ELEM-014",
+    "fecha": "2026-08-23",
+    "mes": "2026-08",
+    "puntaje": 72.1
+  },
+  {
+    "evaluacionId": "EVA-000448",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "puntaje": 65.3
+  },
+  {
+    "evaluacionId": "EVA-000449",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-08-22",
+    "mes": "2026-08",
+    "puntaje": 96.1
+  },
+  {
+    "evaluacionId": "EVA-000450",
+    "personaId": "ELEM-015",
+    "fecha": "2026-06-09",
+    "mes": "2026-06",
+    "puntaje": 73.8
+  },
+  {
+    "evaluacionId": "EVA-000451",
+    "personaId": "ELEM-006",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "puntaje": 75.5
+  },
+  {
+    "evaluacionId": "EVA-000452",
+    "personaId": "SUP-003",
+    "fecha": "2025-03-03",
+    "mes": "2025-03",
+    "puntaje": 64.4
+  },
+  {
+    "evaluacionId": "EVA-000453",
+    "personaId": "ELEM-020",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "puntaje": 82.2
+  },
+  {
+    "evaluacionId": "EVA-000454",
+    "personaId": "SUP-005",
+    "fecha": "2025-12-26",
+    "mes": "2025-12",
+    "puntaje": 80.5
+  },
+  {
+    "evaluacionId": "EVA-000455",
+    "personaId": "ELEM-015",
+    "fecha": "2025-01-09",
+    "mes": "2025-01",
+    "puntaje": 90.5
+  },
+  {
+    "evaluacionId": "EVA-000456",
+    "personaId": "ELEM-016",
+    "fecha": "2026-10-06",
+    "mes": "2026-10",
+    "puntaje": 70.1
+  },
+  {
+    "evaluacionId": "EVA-000457",
+    "personaId": "ELEM-002",
+    "fecha": "2026-09-06",
+    "mes": "2026-09",
+    "puntaje": 71.2
+  },
+  {
+    "evaluacionId": "EVA-000458",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "puntaje": 93.2
+  },
+  {
+    "evaluacionId": "EVA-000459",
+    "personaId": "ELEM-001",
+    "fecha": "2026-10-12",
+    "mes": "2026-10",
+    "puntaje": 80.5
+  },
+  {
+    "evaluacionId": "EVA-000460",
+    "personaId": "ELEM-018",
+    "fecha": "2026-03-21",
+    "mes": "2026-03",
+    "puntaje": 71.0
+  },
+  {
+    "evaluacionId": "EVA-000461",
+    "personaId": "ELEM-012",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "puntaje": 92.5
+  },
+  {
+    "evaluacionId": "EVA-000462",
+    "personaId": "ELEM-003",
+    "fecha": "2026-03-11",
+    "mes": "2026-03",
+    "puntaje": 72.7
+  },
+  {
+    "evaluacionId": "EVA-000463",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-06-26",
+    "mes": "2025-06",
+    "puntaje": 69.9
+  },
+  {
+    "evaluacionId": "EVA-000464",
+    "personaId": "ELEM-009",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "puntaje": 77.6
+  },
+  {
+    "evaluacionId": "EVA-000465",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "puntaje": 70.5
+  },
+  {
+    "evaluacionId": "EVA-000466",
+    "personaId": "ELEM-008",
+    "fecha": "2026-01-31",
+    "mes": "2026-01",
+    "puntaje": 96.3
+  },
+  {
+    "evaluacionId": "EVA-000467",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-08-09",
+    "mes": "2026-08",
+    "puntaje": 61.8
+  },
+  {
+    "evaluacionId": "EVA-000468",
+    "personaId": "ELEM-012",
+    "fecha": "2025-02-14",
+    "mes": "2025-02",
+    "puntaje": 68.8
+  },
+  {
+    "evaluacionId": "EVA-000469",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "puntaje": 65.3
+  },
+  {
+    "evaluacionId": "EVA-000470",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-10-06",
+    "mes": "2026-10",
+    "puntaje": 64.6
+  },
+  {
+    "evaluacionId": "EVA-000471",
+    "personaId": "ELEM-020",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "puntaje": 69.8
+  },
+  {
+    "evaluacionId": "EVA-000472",
+    "personaId": "ELEM-018",
+    "fecha": "2026-03-27",
+    "mes": "2026-03",
+    "puntaje": 94.9
+  },
+  {
+    "evaluacionId": "EVA-000473",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-01-03",
+    "mes": "2025-01",
+    "puntaje": 77.2
+  },
+  {
+    "evaluacionId": "EVA-000474",
+    "personaId": "ELEM-020",
+    "fecha": "2024-12-26",
+    "mes": "2024-12",
+    "puntaje": 87.6
+  },
+  {
+    "evaluacionId": "EVA-000475",
+    "personaId": "ELEM-005",
+    "fecha": "2026-01-19",
+    "mes": "2026-01",
+    "puntaje": 63.3
+  },
+  {
+    "evaluacionId": "EVA-000476",
+    "personaId": "ELEM-011",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "puntaje": 88.7
+  },
+  {
+    "evaluacionId": "EVA-000477",
+    "personaId": "SUP-002",
+    "fecha": "2026-03-18",
+    "mes": "2026-03",
+    "puntaje": 80.2
+  },
+  {
+    "evaluacionId": "EVA-000478",
+    "personaId": "SUP-003",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "puntaje": 90.9
+  },
+  {
+    "evaluacionId": "EVA-000479",
+    "personaId": "SUP-001",
+    "fecha": "2025-10-25",
+    "mes": "2025-10",
+    "puntaje": 86.9
+  },
+  {
+    "evaluacionId": "EVA-000480",
+    "personaId": "ELEM-001",
+    "fecha": "2026-08-14",
+    "mes": "2026-08",
+    "puntaje": 75.2
+  },
+  {
+    "evaluacionId": "EVA-000481",
+    "personaId": "ELEM-019",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "puntaje": 64.3
+  },
+  {
+    "evaluacionId": "EVA-000482",
+    "personaId": "ELEM-006",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "puntaje": 68.3
+  },
+  {
+    "evaluacionId": "EVA-000483",
+    "personaId": "SUP-004",
+    "fecha": "2026-11-03",
+    "mes": "2026-11",
+    "puntaje": 78.2
+  },
+  {
+    "evaluacionId": "EVA-000484",
+    "personaId": "ELEM-019",
+    "fecha": "2025-08-31",
+    "mes": "2025-08",
+    "puntaje": 99.3
+  },
+  {
+    "evaluacionId": "EVA-000485",
+    "personaId": "ELEM-014",
+    "fecha": "2026-07-11",
+    "mes": "2026-07",
+    "puntaje": 61.5
+  },
+  {
+    "evaluacionId": "EVA-000486",
+    "personaId": "ELEM-013",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "puntaje": 89.9
+  },
+  {
+    "evaluacionId": "EVA-000487",
+    "personaId": "ELEM-013",
+    "fecha": "2026-08-13",
+    "mes": "2026-08",
+    "puntaje": 94.7
+  },
+  {
+    "evaluacionId": "EVA-000488",
+    "personaId": "ELEM-008",
+    "fecha": "2024-12-23",
+    "mes": "2024-12",
+    "puntaje": 91.6
+  },
+  {
+    "evaluacionId": "EVA-000489",
+    "personaId": "ELEM-018",
+    "fecha": "2026-09-24",
+    "mes": "2026-09",
+    "puntaje": 67.0
+  },
+  {
+    "evaluacionId": "EVA-000490",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-13",
+    "mes": "2026-07",
+    "puntaje": 77.0
+  },
+  {
+    "evaluacionId": "EVA-000491",
+    "personaId": "SUP-002",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "puntaje": 89.7
+  },
+  {
+    "evaluacionId": "EVA-000492",
+    "personaId": "ELEM-015",
+    "fecha": "2026-08-20",
+    "mes": "2026-08",
+    "puntaje": 90.1
+  },
+  {
+    "evaluacionId": "EVA-000493",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-09-24",
+    "mes": "2025-09",
+    "puntaje": 94.1
+  },
+  {
+    "evaluacionId": "EVA-000494",
+    "personaId": "SUP-004",
+    "fecha": "2025-09-16",
+    "mes": "2025-09",
+    "puntaje": 70.2
+  },
+  {
+    "evaluacionId": "EVA-000495",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-09-05",
+    "mes": "2026-09",
+    "puntaje": 76.0
+  },
+  {
+    "evaluacionId": "EVA-000496",
+    "personaId": "ELEM-018",
+    "fecha": "2025-12-06",
+    "mes": "2025-12",
+    "puntaje": 89.9
+  },
+  {
+    "evaluacionId": "EVA-000497",
+    "personaId": "ELEM-015",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "puntaje": 66.3
+  },
+  {
+    "evaluacionId": "EVA-000498",
+    "personaId": "ELEM-019",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "puntaje": 69.0
+  },
+  {
+    "evaluacionId": "EVA-000499",
+    "personaId": "ELEM-016",
+    "fecha": "2026-09-02",
+    "mes": "2026-09",
+    "puntaje": 77.7
+  },
+  {
+    "evaluacionId": "EVA-000500",
+    "personaId": "SUP-004",
+    "fecha": "2026-02-13",
+    "mes": "2026-02",
+    "puntaje": 79.9
+  },
+  {
+    "evaluacionId": "EVA-000501",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2024-12-09",
+    "mes": "2024-12",
+    "puntaje": 71.1
+  },
+  {
+    "evaluacionId": "EVA-000502",
+    "personaId": "SUP-003",
+    "fecha": "2026-03-02",
+    "mes": "2026-03",
+    "puntaje": 69.0
+  },
+  {
+    "evaluacionId": "EVA-000503",
+    "personaId": "ELEM-015",
+    "fecha": "2026-01-23",
+    "mes": "2026-01",
+    "puntaje": 69.0
+  },
+  {
+    "evaluacionId": "EVA-000504",
+    "personaId": "ELEM-011",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "puntaje": 79.9
+  },
+  {
+    "evaluacionId": "EVA-000505",
+    "personaId": "ELEM-002",
+    "fecha": "2025-12-18",
+    "mes": "2025-12",
+    "puntaje": 92.9
+  },
+  {
+    "evaluacionId": "EVA-000506",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-09-19",
+    "mes": "2025-09",
+    "puntaje": 71.0
+  },
+  {
+    "evaluacionId": "EVA-000507",
+    "personaId": "SUP-005",
+    "fecha": "2026-07-14",
+    "mes": "2026-07",
+    "puntaje": 99.3
+  },
+  {
+    "evaluacionId": "EVA-000508",
+    "personaId": "ELEM-014",
+    "fecha": "2025-08-31",
+    "mes": "2025-08",
+    "puntaje": 69.3
+  },
+  {
+    "evaluacionId": "EVA-000509",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-10-06",
+    "mes": "2026-10",
+    "puntaje": 86.2
+  },
+  {
+    "evaluacionId": "EVA-000510",
+    "personaId": "ELEM-012",
+    "fecha": "2025-04-08",
+    "mes": "2025-04",
+    "puntaje": 95.3
+  },
+  {
+    "evaluacionId": "EVA-000511",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-11-12",
+    "mes": "2025-11",
+    "puntaje": 85.6
+  },
+  {
+    "evaluacionId": "EVA-000512",
+    "personaId": "ELEM-011",
+    "fecha": "2026-04-17",
+    "mes": "2026-04",
+    "puntaje": 73.8
+  },
+  {
+    "evaluacionId": "EVA-000513",
+    "personaId": "SUP-005",
+    "fecha": "2025-10-14",
+    "mes": "2025-10",
+    "puntaje": 97.4
+  },
+  {
+    "evaluacionId": "EVA-000514",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-10-21",
+    "mes": "2026-10",
+    "puntaje": 80.4
+  },
+  {
+    "evaluacionId": "EVA-000515",
+    "personaId": "ELEM-018",
+    "fecha": "2025-01-02",
+    "mes": "2025-01",
+    "puntaje": 82.3
+  },
+  {
+    "evaluacionId": "EVA-000516",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "puntaje": 73.9
+  },
+  {
+    "evaluacionId": "EVA-000517",
+    "personaId": "ELEM-005",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "puntaje": 97.0
+  },
+  {
+    "evaluacionId": "EVA-000518",
+    "personaId": "ELEM-002",
+    "fecha": "2025-04-08",
+    "mes": "2025-04",
+    "puntaje": 87.0
+  },
+  {
+    "evaluacionId": "EVA-000519",
+    "personaId": "ELEM-007",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "puntaje": 98.3
+  },
+  {
+    "evaluacionId": "EVA-000520",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "puntaje": 77.2
+  },
+  {
+    "evaluacionId": "EVA-000521",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-03-14",
+    "mes": "2026-03",
+    "puntaje": 76.9
+  },
+  {
+    "evaluacionId": "EVA-000522",
+    "personaId": "ELEM-001",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "puntaje": 72.4
+  },
+  {
+    "evaluacionId": "EVA-000523",
+    "personaId": "ELEM-020",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "puntaje": 70.0
+  },
+  {
+    "evaluacionId": "EVA-000524",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "puntaje": 96.1
+  },
+  {
+    "evaluacionId": "EVA-000525",
+    "personaId": "SUP-004",
+    "fecha": "2024-12-03",
+    "mes": "2024-12",
+    "puntaje": 61.2
+  },
+  {
+    "evaluacionId": "EVA-000526",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-02-24",
+    "mes": "2025-02",
+    "puntaje": 73.6
+  },
+  {
+    "evaluacionId": "EVA-000527",
+    "personaId": "SUP-002",
+    "fecha": "2026-06-17",
+    "mes": "2026-06",
+    "puntaje": 86.7
+  },
+  {
+    "evaluacionId": "EVA-000528",
+    "personaId": "SUP-003",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "puntaje": 91.2
+  },
+  {
+    "evaluacionId": "EVA-000529",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-03-20",
+    "mes": "2025-03",
+    "puntaje": 80.4
+  },
+  {
+    "evaluacionId": "EVA-000530",
+    "personaId": "ELEM-005",
+    "fecha": "2026-06-12",
+    "mes": "2026-06",
+    "puntaje": 75.6
+  },
+  {
+    "evaluacionId": "EVA-000531",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "puntaje": 83.1
+  },
+  {
+    "evaluacionId": "EVA-000532",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "puntaje": 98.8
+  },
+  {
+    "evaluacionId": "EVA-000533",
+    "personaId": "ELEM-002",
+    "fecha": "2026-06-09",
+    "mes": "2026-06",
+    "puntaje": 64.2
+  },
+  {
+    "evaluacionId": "EVA-000534",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-10-28",
+    "mes": "2025-10",
+    "puntaje": 97.1
+  },
+  {
+    "evaluacionId": "EVA-000535",
+    "personaId": "SUP-001",
+    "fecha": "2026-09-08",
+    "mes": "2026-09",
+    "puntaje": 89.5
+  },
+  {
+    "evaluacionId": "EVA-000536",
+    "personaId": "ELEM-014",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "puntaje": 61.1
+  },
+  {
+    "evaluacionId": "EVA-000537",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "puntaje": 93.6
+  },
+  {
+    "evaluacionId": "EVA-000538",
+    "personaId": "ELEM-020",
+    "fecha": "2025-04-16",
+    "mes": "2025-04",
+    "puntaje": 92.8
+  },
+  {
+    "evaluacionId": "EVA-000539",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "puntaje": 90.5
+  },
+  {
+    "evaluacionId": "EVA-000540",
+    "personaId": "ELEM-011",
+    "fecha": "2026-08-15",
+    "mes": "2026-08",
+    "puntaje": 70.2
+  },
+  {
+    "evaluacionId": "EVA-000541",
+    "personaId": "ELEM-015",
+    "fecha": "2024-12-29",
+    "mes": "2024-12",
+    "puntaje": 63.7
+  },
+  {
+    "evaluacionId": "EVA-000542",
+    "personaId": "ELEM-004",
+    "fecha": "2026-08-23",
+    "mes": "2026-08",
+    "puntaje": 70.6
+  },
+  {
+    "evaluacionId": "EVA-000543",
+    "personaId": "ELEM-005",
+    "fecha": "2025-02-20",
+    "mes": "2025-02",
+    "puntaje": 92.5
+  },
+  {
+    "evaluacionId": "EVA-000544",
+    "personaId": "ELEM-002",
+    "fecha": "2025-01-04",
+    "mes": "2025-01",
+    "puntaje": 62.6
+  },
+  {
+    "evaluacionId": "EVA-000545",
+    "personaId": "ELEM-001",
+    "fecha": "2026-01-29",
+    "mes": "2026-01",
+    "puntaje": 66.6
+  },
+  {
+    "evaluacionId": "EVA-000546",
+    "personaId": "ELEM-011",
+    "fecha": "2026-04-30",
+    "mes": "2026-04",
+    "puntaje": 65.4
+  },
+  {
+    "evaluacionId": "EVA-000547",
+    "personaId": "ELEM-015",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "puntaje": 60.5
+  },
+  {
+    "evaluacionId": "EVA-000548",
+    "personaId": "SUP-002",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "puntaje": 69.9
+  },
+  {
+    "evaluacionId": "EVA-000549",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "puntaje": 99.1
+  },
+  {
+    "evaluacionId": "EVA-000550",
+    "personaId": "ELEM-011",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "puntaje": 81.9
+  },
+  {
+    "evaluacionId": "EVA-000551",
+    "personaId": "SUP-002",
+    "fecha": "2026-07-13",
+    "mes": "2026-07",
+    "puntaje": 94.3
+  },
+  {
+    "evaluacionId": "EVA-000552",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "puntaje": 71.8
+  },
+  {
+    "evaluacionId": "EVA-000553",
+    "personaId": "ELEM-007",
+    "fecha": "2026-11-06",
+    "mes": "2026-11",
+    "puntaje": 62.6
+  },
+  {
+    "evaluacionId": "EVA-000554",
+    "personaId": "ELEM-002",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "puntaje": 81.2
+  },
+  {
+    "evaluacionId": "EVA-000555",
+    "personaId": "ELEM-007",
+    "fecha": "2026-04-04",
+    "mes": "2026-04",
+    "puntaje": 96.0
+  },
+  {
+    "evaluacionId": "EVA-000556",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-10-15",
+    "mes": "2025-10",
+    "puntaje": 76.6
+  },
+  {
+    "evaluacionId": "EVA-000557",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-12",
+    "mes": "2026-07",
+    "puntaje": 71.5
+  },
+  {
+    "evaluacionId": "EVA-000558",
+    "personaId": "SUP-004",
+    "fecha": "2025-09-03",
+    "mes": "2025-09",
+    "puntaje": 92.1
+  },
+  {
+    "evaluacionId": "EVA-000559",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "puntaje": 75.9
+  },
+  {
+    "evaluacionId": "EVA-000560",
+    "personaId": "ELEM-016",
+    "fecha": "2026-10-10",
+    "mes": "2026-10",
+    "puntaje": 60.6
+  },
+  {
+    "evaluacionId": "EVA-000561",
+    "personaId": "ELEM-002",
+    "fecha": "2025-04-28",
+    "mes": "2025-04",
+    "puntaje": 70.1
+  },
+  {
+    "evaluacionId": "EVA-000562",
+    "personaId": "ELEM-010",
+    "fecha": "2026-09-17",
+    "mes": "2026-09",
+    "puntaje": 77.3
+  },
+  {
+    "evaluacionId": "EVA-000563",
+    "personaId": "ELEM-004",
+    "fecha": "2025-07-02",
+    "mes": "2025-07",
+    "puntaje": 89.3
+  },
+  {
+    "evaluacionId": "EVA-000564",
+    "personaId": "ELEM-009",
+    "fecha": "2025-11-09",
+    "mes": "2025-11",
+    "puntaje": 67.7
+  },
+  {
+    "evaluacionId": "EVA-000565",
+    "personaId": "ELEM-001",
+    "fecha": "2025-06-03",
+    "mes": "2025-06",
+    "puntaje": 70.6
+  },
+  {
+    "evaluacionId": "EVA-000566",
+    "personaId": "ELEM-015",
+    "fecha": "2026-05-24",
+    "mes": "2026-05",
+    "puntaje": 61.2
+  },
+  {
+    "evaluacionId": "EVA-000567",
+    "personaId": "ELEM-013",
+    "fecha": "2026-10-15",
+    "mes": "2026-10",
+    "puntaje": 61.5
+  },
+  {
+    "evaluacionId": "EVA-000568",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-03-09",
+    "mes": "2026-03",
+    "puntaje": 72.2
+  },
+  {
+    "evaluacionId": "EVA-000569",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-08-23",
+    "mes": "2026-08",
+    "puntaje": 86.6
+  },
+  {
+    "evaluacionId": "EVA-000570",
+    "personaId": "ELEM-007",
+    "fecha": "2026-05-12",
+    "mes": "2026-05",
+    "puntaje": 79.6
+  },
+  {
+    "evaluacionId": "EVA-000571",
+    "personaId": "SUP-002",
+    "fecha": "2025-01-10",
+    "mes": "2025-01",
+    "puntaje": 96.6
+  },
+  {
+    "evaluacionId": "EVA-000572",
+    "personaId": "SUP-003",
+    "fecha": "2025-06-20",
+    "mes": "2025-06",
+    "puntaje": 97.6
+  },
+  {
+    "evaluacionId": "EVA-000573",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-01-13",
+    "mes": "2026-01",
+    "puntaje": 64.3
+  },
+  {
+    "evaluacionId": "EVA-000574",
+    "personaId": "ELEM-019",
+    "fecha": "2026-03-14",
+    "mes": "2026-03",
+    "puntaje": 86.9
+  },
+  {
+    "evaluacionId": "EVA-000575",
+    "personaId": "ELEM-018",
+    "fecha": "2026-10-05",
+    "mes": "2026-10",
+    "puntaje": 85.0
+  },
+  {
+    "evaluacionId": "EVA-000576",
+    "personaId": "ELEM-010",
+    "fecha": "2026-09-28",
+    "mes": "2026-09",
+    "puntaje": 75.7
+  },
+  {
+    "evaluacionId": "EVA-000577",
+    "personaId": "ELEM-010",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "puntaje": 86.2
+  },
+  {
+    "evaluacionId": "EVA-000578",
+    "personaId": "ELEM-011",
+    "fecha": "2025-05-18",
+    "mes": "2025-05",
+    "puntaje": 75.5
+  },
+  {
+    "evaluacionId": "EVA-000579",
+    "personaId": "SUP-005",
+    "fecha": "2025-11-04",
+    "mes": "2025-11",
+    "puntaje": 99.4
+  },
+  {
+    "evaluacionId": "EVA-000580",
+    "personaId": "ELEM-012",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "puntaje": 66.6
+  },
+  {
+    "evaluacionId": "EVA-000581",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "puntaje": 70.1
+  },
+  {
+    "evaluacionId": "EVA-000582",
+    "personaId": "SUP-004",
+    "fecha": "2026-08-09",
+    "mes": "2026-08",
+    "puntaje": 61.4
+  },
+  {
+    "evaluacionId": "EVA-000583",
+    "personaId": "ELEM-006",
+    "fecha": "2025-09-06",
+    "mes": "2025-09",
+    "puntaje": 81.2
+  },
+  {
+    "evaluacionId": "EVA-000584",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "puntaje": 73.9
+  },
+  {
+    "evaluacionId": "EVA-000585",
+    "personaId": "ELEM-018",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "puntaje": 83.2
+  },
+  {
+    "evaluacionId": "EVA-000586",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-06-30",
+    "mes": "2026-06",
+    "puntaje": 97.9
+  },
+  {
+    "evaluacionId": "EVA-000587",
+    "personaId": "SUP-003",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "puntaje": 73.7
+  },
+  {
+    "evaluacionId": "EVA-000588",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "puntaje": 93.0
+  },
+  {
+    "evaluacionId": "EVA-000589",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2026-09-18",
+    "mes": "2026-09",
+    "puntaje": 97.3
+  },
+  {
+    "evaluacionId": "EVA-000590",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-03-22",
+    "mes": "2025-03",
+    "puntaje": 65.4
+  },
+  {
+    "evaluacionId": "EVA-000591",
+    "personaId": "ELEM-005",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "puntaje": 97.5
+  },
+  {
+    "evaluacionId": "EVA-000592",
+    "personaId": "SUP-004",
+    "fecha": "2026-01-24",
+    "mes": "2026-01",
+    "puntaje": 75.8
+  },
+  {
+    "evaluacionId": "EVA-000593",
+    "personaId": "ELEM-007",
+    "fecha": "2025-10-02",
+    "mes": "2025-10",
+    "puntaje": 65.6
+  },
+  {
+    "evaluacionId": "EVA-000594",
+    "personaId": "ELEM-007",
+    "fecha": "2025-01-11",
+    "mes": "2025-01",
+    "puntaje": 82.9
+  },
+  {
+    "evaluacionId": "EVA-000595",
+    "personaId": "ELEM-019",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "puntaje": 86.8
+  },
+  {
+    "evaluacionId": "EVA-000596",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-08-01",
+    "mes": "2026-08",
+    "puntaje": 95.7
+  },
+  {
+    "evaluacionId": "EVA-000597",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "puntaje": 96.0
+  },
+  {
+    "evaluacionId": "EVA-000598",
+    "personaId": "ELEM-020",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "puntaje": 62.1
+  },
+  {
+    "evaluacionId": "EVA-000599",
+    "personaId": "ELEM-020",
+    "fecha": "2024-12-22",
+    "mes": "2024-12",
+    "puntaje": 74.8
+  },
+  {
+    "evaluacionId": "EVA-000600",
+    "personaId": "SUP-003",
+    "fecha": "2026-11-07",
+    "mes": "2026-11",
+    "puntaje": 69.2
+  }
+]

@@ -1,0 +1,8002 @@
+[
+  {
+    "checklistId": "CHK-000001",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002188",
+    "fecha": "2026-02-22",
+    "mes": "2026-02",
+    "porcentaje": 81.6
+  },
+  {
+    "checklistId": "CHK-000002",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000782",
+    "fecha": "2025-10-01",
+    "mes": "2025-10",
+    "porcentaje": 71.4
+  },
+  {
+    "checklistId": "CHK-000003",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001254",
+    "fecha": "2025-05-20",
+    "mes": "2025-05",
+    "porcentaje": 85.7
+  },
+  {
+    "checklistId": "CHK-000004",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004927",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "porcentaje": 90.0
+  },
+  {
+    "checklistId": "CHK-000005",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-004008",
+    "fecha": "2024-12-31",
+    "mes": "2024-12",
+    "porcentaje": 85.3
+  },
+  {
+    "checklistId": "CHK-000006",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-004107",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000007",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003280",
+    "fecha": "2026-08-25",
+    "mes": "2026-08",
+    "porcentaje": 84.2
+  },
+  {
+    "checklistId": "CHK-000008",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001220",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "porcentaje": 99.2
+  },
+  {
+    "checklistId": "CHK-000009",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-003838",
+    "fecha": "2026-10-07",
+    "mes": "2026-10",
+    "porcentaje": 92.2
+  },
+  {
+    "checklistId": "CHK-000010",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002406",
+    "fecha": "2025-07-06",
+    "mes": "2025-07",
+    "porcentaje": 71.6
+  },
+  {
+    "checklistId": "CHK-000011",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-002634",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000012",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001419",
+    "fecha": "2026-07-07",
+    "mes": "2026-07",
+    "porcentaje": 97.3
+  },
+  {
+    "checklistId": "CHK-000013",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004987",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "porcentaje": 90.9
+  },
+  {
+    "checklistId": "CHK-000014",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004222",
+    "fecha": "2026-07-05",
+    "mes": "2026-07",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000015",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000135",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000016",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003508",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000017",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003114",
+    "fecha": "2026-05-18",
+    "mes": "2026-05",
+    "porcentaje": 95.8
+  },
+  {
+    "checklistId": "CHK-000018",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001944",
+    "fecha": "2026-06-22",
+    "mes": "2026-06",
+    "porcentaje": 88.1
+  },
+  {
+    "checklistId": "CHK-000019",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000672",
+    "fecha": "2025-02-26",
+    "mes": "2025-02",
+    "porcentaje": 72.6
+  },
+  {
+    "checklistId": "CHK-000020",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002067",
+    "fecha": "2026-10-19",
+    "mes": "2026-10",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000021",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-004610",
+    "fecha": "2026-04-19",
+    "mes": "2026-04",
+    "porcentaje": 71.9
+  },
+  {
+    "checklistId": "CHK-000022",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-003674",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "porcentaje": 96.6
+  },
+  {
+    "checklistId": "CHK-000023",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000139",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000024",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000152",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "porcentaje": 74.3
+  },
+  {
+    "checklistId": "CHK-000025",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004294",
+    "fecha": "2026-11-12",
+    "mes": "2026-11",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000026",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004364",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000027",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-001665",
+    "fecha": "2026-05-18",
+    "mes": "2026-05",
+    "porcentaje": 80.7
+  },
+  {
+    "checklistId": "CHK-000028",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-004397",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "porcentaje": 92.7
+  },
+  {
+    "checklistId": "CHK-000029",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-001134",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000030",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-001614",
+    "fecha": "2025-06-21",
+    "mes": "2025-06",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000031",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001962",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "porcentaje": 97.9
+  },
+  {
+    "checklistId": "CHK-000032",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004456",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000033",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001718",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "porcentaje": 85.3
+  },
+  {
+    "checklistId": "CHK-000034",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003110",
+    "fecha": "2025-04-05",
+    "mes": "2025-04",
+    "porcentaje": 90.7
+  },
+  {
+    "checklistId": "CHK-000035",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003943",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "porcentaje": 75.8
+  },
+  {
+    "checklistId": "CHK-000036",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000229",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000037",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002245",
+    "fecha": "2025-08-18",
+    "mes": "2025-08",
+    "porcentaje": 73.8
+  },
+  {
+    "checklistId": "CHK-000038",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003262",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "porcentaje": 74.8
+  },
+  {
+    "checklistId": "CHK-000039",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001354",
+    "fecha": "2025-11-07",
+    "mes": "2025-11",
+    "porcentaje": 97.4
+  },
+  {
+    "checklistId": "CHK-000040",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002209",
+    "fecha": "2026-11-06",
+    "mes": "2026-11",
+    "porcentaje": 93.6
+  },
+  {
+    "checklistId": "CHK-000041",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003581",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "porcentaje": 80.6
+  },
+  {
+    "checklistId": "CHK-000042",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002509",
+    "fecha": "2025-11-18",
+    "mes": "2025-11",
+    "porcentaje": 72.5
+  },
+  {
+    "checklistId": "CHK-000043",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002943",
+    "fecha": "2026-05-25",
+    "mes": "2026-05",
+    "porcentaje": 80.6
+  },
+  {
+    "checklistId": "CHK-000044",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-002804",
+    "fecha": "2026-04-23",
+    "mes": "2026-04",
+    "porcentaje": 76.5
+  },
+  {
+    "checklistId": "CHK-000045",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004393",
+    "fecha": "2026-03-18",
+    "mes": "2026-03",
+    "porcentaje": 75.4
+  },
+  {
+    "checklistId": "CHK-000046",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002058",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "porcentaje": 77.9
+  },
+  {
+    "checklistId": "CHK-000047",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-002467",
+    "fecha": "2025-10-09",
+    "mes": "2025-10",
+    "porcentaje": 78.5
+  },
+  {
+    "checklistId": "CHK-000048",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000900",
+    "fecha": "2025-10-27",
+    "mes": "2025-10",
+    "porcentaje": 72.8
+  },
+  {
+    "checklistId": "CHK-000049",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003792",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000050",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003074",
+    "fecha": "2026-03-19",
+    "mes": "2026-03",
+    "porcentaje": 92.2
+  },
+  {
+    "checklistId": "CHK-000051",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-004276",
+    "fecha": "2026-03-20",
+    "mes": "2026-03",
+    "porcentaje": 70.5
+  },
+  {
+    "checklistId": "CHK-000052",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-002223",
+    "fecha": "2026-05-10",
+    "mes": "2026-05",
+    "porcentaje": 88.4
+  },
+  {
+    "checklistId": "CHK-000053",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004041",
+    "fecha": "2026-07-04",
+    "mes": "2026-07",
+    "porcentaje": 97.3
+  },
+  {
+    "checklistId": "CHK-000054",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000641",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000055",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-003312",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "porcentaje": 76.1
+  },
+  {
+    "checklistId": "CHK-000056",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003448",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000057",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-001831",
+    "fecha": "2026-06-25",
+    "mes": "2026-06",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000058",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-002176",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "porcentaje": 86.7
+  },
+  {
+    "checklistId": "CHK-000059",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001325",
+    "fecha": "2026-06-10",
+    "mes": "2026-06",
+    "porcentaje": 77.7
+  },
+  {
+    "checklistId": "CHK-000060",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002174",
+    "fecha": "2025-02-10",
+    "mes": "2025-02",
+    "porcentaje": 82.0
+  },
+  {
+    "checklistId": "CHK-000061",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000948",
+    "fecha": "2025-08-21",
+    "mes": "2025-08",
+    "porcentaje": 88.7
+  },
+  {
+    "checklistId": "CHK-000062",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-000450",
+    "fecha": "2026-09-03",
+    "mes": "2026-09",
+    "porcentaje": 81.3
+  },
+  {
+    "checklistId": "CHK-000063",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-000178",
+    "fecha": "2026-03-24",
+    "mes": "2026-03",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000064",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-001858",
+    "fecha": "2024-12-22",
+    "mes": "2024-12",
+    "porcentaje": 91.2
+  },
+  {
+    "checklistId": "CHK-000065",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-004578",
+    "fecha": "2025-01-27",
+    "mes": "2025-01",
+    "porcentaje": 88.3
+  },
+  {
+    "checklistId": "CHK-000066",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002085",
+    "fecha": "2025-10-01",
+    "mes": "2025-10",
+    "porcentaje": 87.4
+  },
+  {
+    "checklistId": "CHK-000067",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004934",
+    "fecha": "2025-05-09",
+    "mes": "2025-05",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000068",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-001687",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "porcentaje": 93.3
+  },
+  {
+    "checklistId": "CHK-000069",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003629",
+    "fecha": "2026-09-26",
+    "mes": "2026-09",
+    "porcentaje": 86.6
+  },
+  {
+    "checklistId": "CHK-000070",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004192",
+    "fecha": "2025-12-18",
+    "mes": "2025-12",
+    "porcentaje": 93.8
+  },
+  {
+    "checklistId": "CHK-000071",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-003919",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "porcentaje": 73.0
+  },
+  {
+    "checklistId": "CHK-000072",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-003388",
+    "fecha": "2025-02-22",
+    "mes": "2025-02",
+    "porcentaje": 79.5
+  },
+  {
+    "checklistId": "CHK-000073",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-001634",
+    "fecha": "2025-08-21",
+    "mes": "2025-08",
+    "porcentaje": 100.0
+  },
+  {
+    "checklistId": "CHK-000074",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000027",
+    "fecha": "2025-12-24",
+    "mes": "2025-12",
+    "porcentaje": 76.6
+  },
+  {
+    "checklistId": "CHK-000075",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000519",
+    "fecha": "2025-11-04",
+    "mes": "2025-11",
+    "porcentaje": 80.1
+  },
+  {
+    "checklistId": "CHK-000076",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-001554",
+    "fecha": "2025-03-04",
+    "mes": "2025-03",
+    "porcentaje": 74.6
+  },
+  {
+    "checklistId": "CHK-000077",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000149",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "porcentaje": 87.8
+  },
+  {
+    "checklistId": "CHK-000078",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004715",
+    "fecha": "2025-10-09",
+    "mes": "2025-10",
+    "porcentaje": 70.5
+  },
+  {
+    "checklistId": "CHK-000079",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004434",
+    "fecha": "2025-03-28",
+    "mes": "2025-03",
+    "porcentaje": 71.7
+  },
+  {
+    "checklistId": "CHK-000080",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000669",
+    "fecha": "2024-12-23",
+    "mes": "2024-12",
+    "porcentaje": 91.7
+  },
+  {
+    "checklistId": "CHK-000081",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000443",
+    "fecha": "2026-08-29",
+    "mes": "2026-08",
+    "porcentaje": 98.8
+  },
+  {
+    "checklistId": "CHK-000082",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002968",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "porcentaje": 85.7
+  },
+  {
+    "checklistId": "CHK-000083",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-001781",
+    "fecha": "2025-11-09",
+    "mes": "2025-11",
+    "porcentaje": 86.6
+  },
+  {
+    "checklistId": "CHK-000084",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003509",
+    "fecha": "2025-10-18",
+    "mes": "2025-10",
+    "porcentaje": 97.7
+  },
+  {
+    "checklistId": "CHK-000085",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-001317",
+    "fecha": "2026-09-10",
+    "mes": "2026-09",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000086",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001557",
+    "fecha": "2026-04-02",
+    "mes": "2026-04",
+    "porcentaje": 72.2
+  },
+  {
+    "checklistId": "CHK-000087",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-001531",
+    "fecha": "2024-12-30",
+    "mes": "2024-12",
+    "porcentaje": 78.6
+  },
+  {
+    "checklistId": "CHK-000088",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-003881",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "porcentaje": 73.0
+  },
+  {
+    "checklistId": "CHK-000089",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-003894",
+    "fecha": "2026-07-26",
+    "mes": "2026-07",
+    "porcentaje": 71.4
+  },
+  {
+    "checklistId": "CHK-000090",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004977",
+    "fecha": "2024-12-03",
+    "mes": "2024-12",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000091",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004711",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "porcentaje": 76.0
+  },
+  {
+    "checklistId": "CHK-000092",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001928",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "porcentaje": 79.4
+  },
+  {
+    "checklistId": "CHK-000093",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004775",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000094",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003072",
+    "fecha": "2025-02-05",
+    "mes": "2025-02",
+    "porcentaje": 72.3
+  },
+  {
+    "checklistId": "CHK-000095",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003056",
+    "fecha": "2026-07-29",
+    "mes": "2026-07",
+    "porcentaje": 95.8
+  },
+  {
+    "checklistId": "CHK-000096",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004880",
+    "fecha": "2026-07-29",
+    "mes": "2026-07",
+    "porcentaje": 87.3
+  },
+  {
+    "checklistId": "CHK-000097",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001521",
+    "fecha": "2026-05-21",
+    "mes": "2026-05",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000098",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004469",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "porcentaje": 88.2
+  },
+  {
+    "checklistId": "CHK-000099",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002135",
+    "fecha": "2025-07-31",
+    "mes": "2025-07",
+    "porcentaje": 71.4
+  },
+  {
+    "checklistId": "CHK-000100",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000351",
+    "fecha": "2026-08-02",
+    "mes": "2026-08",
+    "porcentaje": 87.2
+  },
+  {
+    "checklistId": "CHK-000101",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-004075",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "porcentaje": 83.6
+  },
+  {
+    "checklistId": "CHK-000102",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-001228",
+    "fecha": "2026-09-15",
+    "mes": "2026-09",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000103",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-001828",
+    "fecha": "2026-09-20",
+    "mes": "2026-09",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000104",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-003015",
+    "fecha": "2026-05-17",
+    "mes": "2026-05",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000105",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004420",
+    "fecha": "2026-01-03",
+    "mes": "2026-01",
+    "porcentaje": 82.0
+  },
+  {
+    "checklistId": "CHK-000106",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-004286",
+    "fecha": "2025-05-04",
+    "mes": "2025-05",
+    "porcentaje": 81.6
+  },
+  {
+    "checklistId": "CHK-000107",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003140",
+    "fecha": "2025-04-23",
+    "mes": "2025-04",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000108",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004078",
+    "fecha": "2025-01-12",
+    "mes": "2025-01",
+    "porcentaje": 82.3
+  },
+  {
+    "checklistId": "CHK-000109",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000528",
+    "fecha": "2025-03-03",
+    "mes": "2025-03",
+    "porcentaje": 90.8
+  },
+  {
+    "checklistId": "CHK-000110",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-002776",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "porcentaje": 89.8
+  },
+  {
+    "checklistId": "CHK-000111",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003612",
+    "fecha": "2026-07-26",
+    "mes": "2026-07",
+    "porcentaje": 76.6
+  },
+  {
+    "checklistId": "CHK-000112",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002107",
+    "fecha": "2026-02-17",
+    "mes": "2026-02",
+    "porcentaje": 75.0
+  },
+  {
+    "checklistId": "CHK-000113",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001311",
+    "fecha": "2025-08-30",
+    "mes": "2025-08",
+    "porcentaje": 91.9
+  },
+  {
+    "checklistId": "CHK-000114",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-004504",
+    "fecha": "2025-02-06",
+    "mes": "2025-02",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000115",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004817",
+    "fecha": "2025-02-20",
+    "mes": "2025-02",
+    "porcentaje": 89.6
+  },
+  {
+    "checklistId": "CHK-000116",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003270",
+    "fecha": "2025-03-23",
+    "mes": "2025-03",
+    "porcentaje": 84.3
+  },
+  {
+    "checklistId": "CHK-000117",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-001409",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000118",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000739",
+    "fecha": "2026-04-25",
+    "mes": "2026-04",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000119",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000080",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000120",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002796",
+    "fecha": "2026-08-13",
+    "mes": "2026-08",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000121",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000803",
+    "fecha": "2025-02-25",
+    "mes": "2025-02",
+    "porcentaje": 99.3
+  },
+  {
+    "checklistId": "CHK-000122",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001730",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "porcentaje": 84.5
+  },
+  {
+    "checklistId": "CHK-000123",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000717",
+    "fecha": "2026-05-23",
+    "mes": "2026-05",
+    "porcentaje": 70.7
+  },
+  {
+    "checklistId": "CHK-000124",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-002055",
+    "fecha": "2025-03-19",
+    "mes": "2025-03",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000125",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-000237",
+    "fecha": "2026-09-28",
+    "mes": "2026-09",
+    "porcentaje": 96.4
+  },
+  {
+    "checklistId": "CHK-000126",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-004672",
+    "fecha": "2025-08-25",
+    "mes": "2025-08",
+    "porcentaje": 96.8
+  },
+  {
+    "checklistId": "CHK-000127",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001594",
+    "fecha": "2025-12-23",
+    "mes": "2025-12",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000128",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-002409",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "porcentaje": 97.3
+  },
+  {
+    "checklistId": "CHK-000129",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001360",
+    "fecha": "2026-04-16",
+    "mes": "2026-04",
+    "porcentaje": 92.5
+  },
+  {
+    "checklistId": "CHK-000130",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-001608",
+    "fecha": "2026-07-04",
+    "mes": "2026-07",
+    "porcentaje": 89.3
+  },
+  {
+    "checklistId": "CHK-000131",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002446",
+    "fecha": "2025-06-12",
+    "mes": "2025-06",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000132",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004217",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "porcentaje": 70.9
+  },
+  {
+    "checklistId": "CHK-000133",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-002454",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "porcentaje": 77.8
+  },
+  {
+    "checklistId": "CHK-000134",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-004231",
+    "fecha": "2025-10-07",
+    "mes": "2025-10",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000135",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-002463",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "porcentaje": 84.8
+  },
+  {
+    "checklistId": "CHK-000136",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002924",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "porcentaje": 90.2
+  },
+  {
+    "checklistId": "CHK-000137",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004465",
+    "fecha": "2026-08-25",
+    "mes": "2026-08",
+    "porcentaje": 81.8
+  },
+  {
+    "checklistId": "CHK-000138",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003418",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "porcentaje": 89.1
+  },
+  {
+    "checklistId": "CHK-000139",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-001951",
+    "fecha": "2025-07-23",
+    "mes": "2025-07",
+    "porcentaje": 85.8
+  },
+  {
+    "checklistId": "CHK-000140",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002996",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "porcentaje": 95.2
+  },
+  {
+    "checklistId": "CHK-000141",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-002140",
+    "fecha": "2026-04-04",
+    "mes": "2026-04",
+    "porcentaje": 97.9
+  },
+  {
+    "checklistId": "CHK-000142",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000971",
+    "fecha": "2025-05-16",
+    "mes": "2025-05",
+    "porcentaje": 82.0
+  },
+  {
+    "checklistId": "CHK-000143",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004495",
+    "fecha": "2025-09-24",
+    "mes": "2025-09",
+    "porcentaje": 72.4
+  },
+  {
+    "checklistId": "CHK-000144",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002290",
+    "fecha": "2026-03-10",
+    "mes": "2026-03",
+    "porcentaje": 96.4
+  },
+  {
+    "checklistId": "CHK-000145",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-004141",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000146",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-003973",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "porcentaje": 73.6
+  },
+  {
+    "checklistId": "CHK-000147",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-002368",
+    "fecha": "2025-07-26",
+    "mes": "2025-07",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000148",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000672",
+    "fecha": "2025-11-24",
+    "mes": "2025-11",
+    "porcentaje": 84.2
+  },
+  {
+    "checklistId": "CHK-000149",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-002993",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "porcentaje": 94.8
+  },
+  {
+    "checklistId": "CHK-000150",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001279",
+    "fecha": "2025-09-06",
+    "mes": "2025-09",
+    "porcentaje": 94.0
+  },
+  {
+    "checklistId": "CHK-000151",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-001998",
+    "fecha": "2025-06-28",
+    "mes": "2025-06",
+    "porcentaje": 78.1
+  },
+  {
+    "checklistId": "CHK-000152",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002607",
+    "fecha": "2026-10-25",
+    "mes": "2026-10",
+    "porcentaje": 89.4
+  },
+  {
+    "checklistId": "CHK-000153",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004610",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000154",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-001938",
+    "fecha": "2025-11-16",
+    "mes": "2025-11",
+    "porcentaje": 91.5
+  },
+  {
+    "checklistId": "CHK-000155",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-000631",
+    "fecha": "2026-07-31",
+    "mes": "2026-07",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000156",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003568",
+    "fecha": "2025-04-08",
+    "mes": "2025-04",
+    "porcentaje": 71.9
+  },
+  {
+    "checklistId": "CHK-000157",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002217",
+    "fecha": "2025-12-12",
+    "mes": "2025-12",
+    "porcentaje": 93.5
+  },
+  {
+    "checklistId": "CHK-000158",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000642",
+    "fecha": "2026-04-18",
+    "mes": "2026-04",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000159",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-001515",
+    "fecha": "2026-07-14",
+    "mes": "2026-07",
+    "porcentaje": 85.7
+  },
+  {
+    "checklistId": "CHK-000160",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000161",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "porcentaje": 71.1
+  },
+  {
+    "checklistId": "CHK-000161",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003771",
+    "fecha": "2025-07-08",
+    "mes": "2025-07",
+    "porcentaje": 82.1
+  },
+  {
+    "checklistId": "CHK-000162",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000845",
+    "fecha": "2025-08-12",
+    "mes": "2025-08",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000163",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000193",
+    "fecha": "2026-07-07",
+    "mes": "2026-07",
+    "porcentaje": 91.7
+  },
+  {
+    "checklistId": "CHK-000164",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-003508",
+    "fecha": "2026-09-23",
+    "mes": "2026-09",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000165",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-001977",
+    "fecha": "2025-06-15",
+    "mes": "2025-06",
+    "porcentaje": 93.1
+  },
+  {
+    "checklistId": "CHK-000166",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004916",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "porcentaje": 99.5
+  },
+  {
+    "checklistId": "CHK-000167",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002834",
+    "fecha": "2026-11-03",
+    "mes": "2026-11",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000168",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-003820",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000169",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-002899",
+    "fecha": "2026-05-31",
+    "mes": "2026-05",
+    "porcentaje": 92.0
+  },
+  {
+    "checklistId": "CHK-000170",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002830",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000171",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-000433",
+    "fecha": "2025-05-16",
+    "mes": "2025-05",
+    "porcentaje": 88.3
+  },
+  {
+    "checklistId": "CHK-000172",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-001674",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "porcentaje": 94.3
+  },
+  {
+    "checklistId": "CHK-000173",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-003409",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000174",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-002452",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000175",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003057",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "porcentaje": 76.4
+  },
+  {
+    "checklistId": "CHK-000176",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-001723",
+    "fecha": "2026-01-10",
+    "mes": "2026-01",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000177",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003758",
+    "fecha": "2025-03-30",
+    "mes": "2025-03",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000178",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-002579",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "porcentaje": 96.9
+  },
+  {
+    "checklistId": "CHK-000179",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003554",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000180",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-003397",
+    "fecha": "2025-10-09",
+    "mes": "2025-10",
+    "porcentaje": 70.1
+  },
+  {
+    "checklistId": "CHK-000181",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000085",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "porcentaje": 75.8
+  },
+  {
+    "checklistId": "CHK-000182",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001649",
+    "fecha": "2026-06-30",
+    "mes": "2026-06",
+    "porcentaje": 79.6
+  },
+  {
+    "checklistId": "CHK-000183",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001429",
+    "fecha": "2026-09-01",
+    "mes": "2026-09",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000184",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-004780",
+    "fecha": "2025-05-29",
+    "mes": "2025-05",
+    "porcentaje": 78.0
+  },
+  {
+    "checklistId": "CHK-000185",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-004883",
+    "fecha": "2025-05-13",
+    "mes": "2025-05",
+    "porcentaje": 83.9
+  },
+  {
+    "checklistId": "CHK-000186",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001911",
+    "fecha": "2026-07-23",
+    "mes": "2026-07",
+    "porcentaje": 87.8
+  },
+  {
+    "checklistId": "CHK-000187",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-002462",
+    "fecha": "2025-06-07",
+    "mes": "2025-06",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000188",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001026",
+    "fecha": "2026-10-06",
+    "mes": "2026-10",
+    "porcentaje": 90.8
+  },
+  {
+    "checklistId": "CHK-000189",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002046",
+    "fecha": "2025-04-17",
+    "mes": "2025-04",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000190",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-004730",
+    "fecha": "2026-10-03",
+    "mes": "2026-10",
+    "porcentaje": 90.2
+  },
+  {
+    "checklistId": "CHK-000191",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-004920",
+    "fecha": "2025-02-18",
+    "mes": "2025-02",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000192",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004767",
+    "fecha": "2026-10-14",
+    "mes": "2026-10",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000193",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001684",
+    "fecha": "2026-02-20",
+    "mes": "2026-02",
+    "porcentaje": 98.7
+  },
+  {
+    "checklistId": "CHK-000194",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002381",
+    "fecha": "2024-12-07",
+    "mes": "2024-12",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000195",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002131",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "porcentaje": 80.4
+  },
+  {
+    "checklistId": "CHK-000196",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002948",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "porcentaje": 77.4
+  },
+  {
+    "checklistId": "CHK-000197",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003148",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "porcentaje": 84.8
+  },
+  {
+    "checklistId": "CHK-000198",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-001749",
+    "fecha": "2026-10-19",
+    "mes": "2026-10",
+    "porcentaje": 85.1
+  },
+  {
+    "checklistId": "CHK-000199",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000097",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "porcentaje": 88.3
+  },
+  {
+    "checklistId": "CHK-000200",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000045",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000201",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-000365",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "porcentaje": 89.3
+  },
+  {
+    "checklistId": "CHK-000202",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-003215",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "porcentaje": 76.7
+  },
+  {
+    "checklistId": "CHK-000203",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004329",
+    "fecha": "2026-07-11",
+    "mes": "2026-07",
+    "porcentaje": 72.4
+  },
+  {
+    "checklistId": "CHK-000204",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003288",
+    "fecha": "2026-07-26",
+    "mes": "2026-07",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000205",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001648",
+    "fecha": "2026-11-09",
+    "mes": "2026-11",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000206",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002342",
+    "fecha": "2026-02-23",
+    "mes": "2026-02",
+    "porcentaje": 94.0
+  },
+  {
+    "checklistId": "CHK-000207",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000063",
+    "fecha": "2026-01-03",
+    "mes": "2026-01",
+    "porcentaje": 71.7
+  },
+  {
+    "checklistId": "CHK-000208",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003773",
+    "fecha": "2026-10-09",
+    "mes": "2026-10",
+    "porcentaje": 99.7
+  },
+  {
+    "checklistId": "CHK-000209",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-001295",
+    "fecha": "2025-10-21",
+    "mes": "2025-10",
+    "porcentaje": 87.4
+  },
+  {
+    "checklistId": "CHK-000210",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-000109",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "porcentaje": 76.3
+  },
+  {
+    "checklistId": "CHK-000211",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003477",
+    "fecha": "2025-09-13",
+    "mes": "2025-09",
+    "porcentaje": 75.9
+  },
+  {
+    "checklistId": "CHK-000212",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000601",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "porcentaje": 80.4
+  },
+  {
+    "checklistId": "CHK-000213",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003334",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "porcentaje": 91.5
+  },
+  {
+    "checklistId": "CHK-000214",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-003255",
+    "fecha": "2026-07-01",
+    "mes": "2026-07",
+    "porcentaje": 88.7
+  },
+  {
+    "checklistId": "CHK-000215",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001584",
+    "fecha": "2025-01-13",
+    "mes": "2025-01",
+    "porcentaje": 80.9
+  },
+  {
+    "checklistId": "CHK-000216",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000286",
+    "fecha": "2025-12-06",
+    "mes": "2025-12",
+    "porcentaje": 74.0
+  },
+  {
+    "checklistId": "CHK-000217",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-000794",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000218",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002857",
+    "fecha": "2026-05-05",
+    "mes": "2026-05",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000219",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-001881",
+    "fecha": "2026-11-12",
+    "mes": "2026-11",
+    "porcentaje": 92.0
+  },
+  {
+    "checklistId": "CHK-000220",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004398",
+    "fecha": "2025-10-21",
+    "mes": "2025-10",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000221",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000795",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000222",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-004530",
+    "fecha": "2026-03-26",
+    "mes": "2026-03",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000223",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003348",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "porcentaje": 83.9
+  },
+  {
+    "checklistId": "CHK-000224",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002714",
+    "fecha": "2025-05-04",
+    "mes": "2025-05",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000225",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002723",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000226",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003995",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "porcentaje": 81.9
+  },
+  {
+    "checklistId": "CHK-000227",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003129",
+    "fecha": "2025-08-30",
+    "mes": "2025-08",
+    "porcentaje": 99.4
+  },
+  {
+    "checklistId": "CHK-000228",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000798",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "porcentaje": 74.6
+  },
+  {
+    "checklistId": "CHK-000229",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003115",
+    "fecha": "2025-06-26",
+    "mes": "2025-06",
+    "porcentaje": 82.8
+  },
+  {
+    "checklistId": "CHK-000230",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003889",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000231",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000256",
+    "fecha": "2025-03-09",
+    "mes": "2025-03",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000232",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004045",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "porcentaje": 95.0
+  },
+  {
+    "checklistId": "CHK-000233",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000540",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "porcentaje": 81.9
+  },
+  {
+    "checklistId": "CHK-000234",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003255",
+    "fecha": "2025-01-05",
+    "mes": "2025-01",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000235",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-000202",
+    "fecha": "2026-10-29",
+    "mes": "2026-10",
+    "porcentaje": 70.5
+  },
+  {
+    "checklistId": "CHK-000236",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-004727",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "porcentaje": 84.1
+  },
+  {
+    "checklistId": "CHK-000237",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001046",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "porcentaje": 86.6
+  },
+  {
+    "checklistId": "CHK-000238",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-001315",
+    "fecha": "2025-03-17",
+    "mes": "2025-03",
+    "porcentaje": 99.4
+  },
+  {
+    "checklistId": "CHK-000239",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-004790",
+    "fecha": "2025-09-22",
+    "mes": "2025-09",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000240",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003006",
+    "fecha": "2025-11-12",
+    "mes": "2025-11",
+    "porcentaje": 71.5
+  },
+  {
+    "checklistId": "CHK-000241",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003729",
+    "fecha": "2025-10-28",
+    "mes": "2025-10",
+    "porcentaje": 85.3
+  },
+  {
+    "checklistId": "CHK-000242",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001731",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "porcentaje": 89.4
+  },
+  {
+    "checklistId": "CHK-000243",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001468",
+    "fecha": "2026-02-01",
+    "mes": "2026-02",
+    "porcentaje": 78.5
+  },
+  {
+    "checklistId": "CHK-000244",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001344",
+    "fecha": "2026-08-12",
+    "mes": "2026-08",
+    "porcentaje": 81.2
+  },
+  {
+    "checklistId": "CHK-000245",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000722",
+    "fecha": "2026-10-30",
+    "mes": "2026-10",
+    "porcentaje": 80.8
+  },
+  {
+    "checklistId": "CHK-000246",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-001185",
+    "fecha": "2025-11-13",
+    "mes": "2025-11",
+    "porcentaje": 82.9
+  },
+  {
+    "checklistId": "CHK-000247",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003586",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000248",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004703",
+    "fecha": "2025-05-11",
+    "mes": "2025-05",
+    "porcentaje": 72.4
+  },
+  {
+    "checklistId": "CHK-000249",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-003166",
+    "fecha": "2025-07-16",
+    "mes": "2025-07",
+    "porcentaje": 72.8
+  },
+  {
+    "checklistId": "CHK-000250",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002372",
+    "fecha": "2025-04-04",
+    "mes": "2025-04",
+    "porcentaje": 92.9
+  },
+  {
+    "checklistId": "CHK-000251",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-002259",
+    "fecha": "2025-08-29",
+    "mes": "2025-08",
+    "porcentaje": 99.7
+  },
+  {
+    "checklistId": "CHK-000252",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002348",
+    "fecha": "2024-12-27",
+    "mes": "2024-12",
+    "porcentaje": 70.1
+  },
+  {
+    "checklistId": "CHK-000253",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000827",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "porcentaje": 99.6
+  },
+  {
+    "checklistId": "CHK-000254",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000019",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "porcentaje": 95.6
+  },
+  {
+    "checklistId": "CHK-000255",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000115",
+    "fecha": "2025-09-06",
+    "mes": "2025-09",
+    "porcentaje": 74.0
+  },
+  {
+    "checklistId": "CHK-000256",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003467",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "porcentaje": 97.0
+  },
+  {
+    "checklistId": "CHK-000257",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-000666",
+    "fecha": "2025-03-28",
+    "mes": "2025-03",
+    "porcentaje": 71.3
+  },
+  {
+    "checklistId": "CHK-000258",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003995",
+    "fecha": "2025-04-16",
+    "mes": "2025-04",
+    "porcentaje": 76.7
+  },
+  {
+    "checklistId": "CHK-000259",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-003559",
+    "fecha": "2025-04-30",
+    "mes": "2025-04",
+    "porcentaje": 100.0
+  },
+  {
+    "checklistId": "CHK-000260",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-002053",
+    "fecha": "2026-05-01",
+    "mes": "2026-05",
+    "porcentaje": 92.5
+  },
+  {
+    "checklistId": "CHK-000261",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-003960",
+    "fecha": "2026-05-13",
+    "mes": "2026-05",
+    "porcentaje": 96.0
+  },
+  {
+    "checklistId": "CHK-000262",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-001750",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000263",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-003517",
+    "fecha": "2025-08-18",
+    "mes": "2025-08",
+    "porcentaje": 73.6
+  },
+  {
+    "checklistId": "CHK-000264",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000642",
+    "fecha": "2024-12-09",
+    "mes": "2024-12",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000265",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-003082",
+    "fecha": "2026-08-06",
+    "mes": "2026-08",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000266",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-000845",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000267",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004388",
+    "fecha": "2026-10-15",
+    "mes": "2026-10",
+    "porcentaje": 91.0
+  },
+  {
+    "checklistId": "CHK-000268",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000395",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "porcentaje": 96.8
+  },
+  {
+    "checklistId": "CHK-000269",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001821",
+    "fecha": "2025-02-06",
+    "mes": "2025-02",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000270",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-004159",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "porcentaje": 72.2
+  },
+  {
+    "checklistId": "CHK-000271",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001697",
+    "fecha": "2024-12-20",
+    "mes": "2024-12",
+    "porcentaje": 95.9
+  },
+  {
+    "checklistId": "CHK-000272",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000420",
+    "fecha": "2025-09-08",
+    "mes": "2025-09",
+    "porcentaje": 74.9
+  },
+  {
+    "checklistId": "CHK-000273",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-004546",
+    "fecha": "2026-03-20",
+    "mes": "2026-03",
+    "porcentaje": 76.4
+  },
+  {
+    "checklistId": "CHK-000274",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-002515",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "porcentaje": 90.2
+  },
+  {
+    "checklistId": "CHK-000275",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003218",
+    "fecha": "2026-01-22",
+    "mes": "2026-01",
+    "porcentaje": 88.2
+  },
+  {
+    "checklistId": "CHK-000276",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000799",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "porcentaje": 98.7
+  },
+  {
+    "checklistId": "CHK-000277",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000981",
+    "fecha": "2025-01-27",
+    "mes": "2025-01",
+    "porcentaje": 75.0
+  },
+  {
+    "checklistId": "CHK-000278",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004663",
+    "fecha": "2025-09-05",
+    "mes": "2025-09",
+    "porcentaje": 72.8
+  },
+  {
+    "checklistId": "CHK-000279",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000687",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000280",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-001386",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "porcentaje": 75.2
+  },
+  {
+    "checklistId": "CHK-000281",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-004846",
+    "fecha": "2026-08-06",
+    "mes": "2026-08",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000282",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-002157",
+    "fecha": "2025-01-30",
+    "mes": "2025-01",
+    "porcentaje": 79.8
+  },
+  {
+    "checklistId": "CHK-000283",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-001207",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "porcentaje": 93.3
+  },
+  {
+    "checklistId": "CHK-000284",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003102",
+    "fecha": "2024-12-17",
+    "mes": "2024-12",
+    "porcentaje": 85.0
+  },
+  {
+    "checklistId": "CHK-000285",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-001633",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "porcentaje": 71.3
+  },
+  {
+    "checklistId": "CHK-000286",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002491",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000287",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002350",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "porcentaje": 71.3
+  },
+  {
+    "checklistId": "CHK-000288",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001622",
+    "fecha": "2026-09-01",
+    "mes": "2026-09",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000289",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004039",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "porcentaje": 80.1
+  },
+  {
+    "checklistId": "CHK-000290",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004854",
+    "fecha": "2025-08-07",
+    "mes": "2025-08",
+    "porcentaje": 97.9
+  },
+  {
+    "checklistId": "CHK-000291",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000288",
+    "fecha": "2025-01-12",
+    "mes": "2025-01",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000292",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-001754",
+    "fecha": "2024-12-10",
+    "mes": "2024-12",
+    "porcentaje": 93.6
+  },
+  {
+    "checklistId": "CHK-000293",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000514",
+    "fecha": "2026-07-22",
+    "mes": "2026-07",
+    "porcentaje": 86.6
+  },
+  {
+    "checklistId": "CHK-000294",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-003229",
+    "fecha": "2025-02-13",
+    "mes": "2025-02",
+    "porcentaje": 79.6
+  },
+  {
+    "checklistId": "CHK-000295",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002330",
+    "fecha": "2026-10-21",
+    "mes": "2026-10",
+    "porcentaje": 87.3
+  },
+  {
+    "checklistId": "CHK-000296",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000674",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000297",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004219",
+    "fecha": "2025-10-26",
+    "mes": "2025-10",
+    "porcentaje": 77.7
+  },
+  {
+    "checklistId": "CHK-000298",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004727",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000299",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003043",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "porcentaje": 92.5
+  },
+  {
+    "checklistId": "CHK-000300",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002523",
+    "fecha": "2025-12-04",
+    "mes": "2025-12",
+    "porcentaje": 86.2
+  },
+  {
+    "checklistId": "CHK-000301",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-002429",
+    "fecha": "2026-08-25",
+    "mes": "2026-08",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000302",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003650",
+    "fecha": "2025-01-27",
+    "mes": "2025-01",
+    "porcentaje": 76.4
+  },
+  {
+    "checklistId": "CHK-000303",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002962",
+    "fecha": "2025-02-22",
+    "mes": "2025-02",
+    "porcentaje": 78.7
+  },
+  {
+    "checklistId": "CHK-000304",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-002116",
+    "fecha": "2025-02-14",
+    "mes": "2025-02",
+    "porcentaje": 74.3
+  },
+  {
+    "checklistId": "CHK-000305",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001599",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000306",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003099",
+    "fecha": "2025-07-31",
+    "mes": "2025-07",
+    "porcentaje": 92.1
+  },
+  {
+    "checklistId": "CHK-000307",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003236",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "porcentaje": 80.3
+  },
+  {
+    "checklistId": "CHK-000308",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-001418",
+    "fecha": "2026-05-02",
+    "mes": "2026-05",
+    "porcentaje": 73.6
+  },
+  {
+    "checklistId": "CHK-000309",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004015",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "porcentaje": 90.0
+  },
+  {
+    "checklistId": "CHK-000310",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003782",
+    "fecha": "2025-08-12",
+    "mes": "2025-08",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000311",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000132",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "porcentaje": 72.3
+  },
+  {
+    "checklistId": "CHK-000312",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-000434",
+    "fecha": "2025-06-25",
+    "mes": "2025-06",
+    "porcentaje": 74.2
+  },
+  {
+    "checklistId": "CHK-000313",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002353",
+    "fecha": "2025-09-01",
+    "mes": "2025-09",
+    "porcentaje": 79.7
+  },
+  {
+    "checklistId": "CHK-000314",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-002887",
+    "fecha": "2025-04-10",
+    "mes": "2025-04",
+    "porcentaje": 75.8
+  },
+  {
+    "checklistId": "CHK-000315",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003268",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "porcentaje": 90.5
+  },
+  {
+    "checklistId": "CHK-000316",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-000381",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "porcentaje": 71.0
+  },
+  {
+    "checklistId": "CHK-000317",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000141",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000318",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-001928",
+    "fecha": "2026-03-25",
+    "mes": "2026-03",
+    "porcentaje": 78.1
+  },
+  {
+    "checklistId": "CHK-000319",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003288",
+    "fecha": "2025-08-18",
+    "mes": "2025-08",
+    "porcentaje": 87.0
+  },
+  {
+    "checklistId": "CHK-000320",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003696",
+    "fecha": "2025-10-15",
+    "mes": "2025-10",
+    "porcentaje": 98.1
+  },
+  {
+    "checklistId": "CHK-000321",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001281",
+    "fecha": "2026-04-10",
+    "mes": "2026-04",
+    "porcentaje": 71.1
+  },
+  {
+    "checklistId": "CHK-000322",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004462",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000323",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003461",
+    "fecha": "2025-09-19",
+    "mes": "2025-09",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000324",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-000718",
+    "fecha": "2026-07-15",
+    "mes": "2026-07",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000325",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-001736",
+    "fecha": "2026-03-31",
+    "mes": "2026-03",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000326",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000163",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "porcentaje": 85.8
+  },
+  {
+    "checklistId": "CHK-000327",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-002638",
+    "fecha": "2026-11-10",
+    "mes": "2026-11",
+    "porcentaje": 98.6
+  },
+  {
+    "checklistId": "CHK-000328",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-001044",
+    "fecha": "2026-10-02",
+    "mes": "2026-10",
+    "porcentaje": 95.8
+  },
+  {
+    "checklistId": "CHK-000329",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003472",
+    "fecha": "2025-08-24",
+    "mes": "2025-08",
+    "porcentaje": 87.1
+  },
+  {
+    "checklistId": "CHK-000330",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003562",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "porcentaje": 96.1
+  },
+  {
+    "checklistId": "CHK-000331",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001602",
+    "fecha": "2025-06-22",
+    "mes": "2025-06",
+    "porcentaje": 87.4
+  },
+  {
+    "checklistId": "CHK-000332",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-004480",
+    "fecha": "2026-06-14",
+    "mes": "2026-06",
+    "porcentaje": 98.4
+  },
+  {
+    "checklistId": "CHK-000333",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-004203",
+    "fecha": "2025-11-06",
+    "mes": "2025-11",
+    "porcentaje": 73.7
+  },
+  {
+    "checklistId": "CHK-000334",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-003894",
+    "fecha": "2025-02-11",
+    "mes": "2025-02",
+    "porcentaje": 90.1
+  },
+  {
+    "checklistId": "CHK-000335",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-004522",
+    "fecha": "2026-05-15",
+    "mes": "2026-05",
+    "porcentaje": 83.5
+  },
+  {
+    "checklistId": "CHK-000336",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003648",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000337",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-002811",
+    "fecha": "2026-10-03",
+    "mes": "2026-10",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000338",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-002998",
+    "fecha": "2026-08-15",
+    "mes": "2026-08",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000339",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003617",
+    "fecha": "2025-07-26",
+    "mes": "2025-07",
+    "porcentaje": 82.5
+  },
+  {
+    "checklistId": "CHK-000340",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003628",
+    "fecha": "2025-12-18",
+    "mes": "2025-12",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000341",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004625",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "porcentaje": 98.8
+  },
+  {
+    "checklistId": "CHK-000342",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-002193",
+    "fecha": "2025-05-05",
+    "mes": "2025-05",
+    "porcentaje": 74.3
+  },
+  {
+    "checklistId": "CHK-000343",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-004665",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000344",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-004383",
+    "fecha": "2025-02-12",
+    "mes": "2025-02",
+    "porcentaje": 71.2
+  },
+  {
+    "checklistId": "CHK-000345",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003803",
+    "fecha": "2026-09-20",
+    "mes": "2026-09",
+    "porcentaje": 93.8
+  },
+  {
+    "checklistId": "CHK-000346",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000156",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "porcentaje": 70.8
+  },
+  {
+    "checklistId": "CHK-000347",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-000096",
+    "fecha": "2025-12-22",
+    "mes": "2025-12",
+    "porcentaje": 72.0
+  },
+  {
+    "checklistId": "CHK-000348",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003459",
+    "fecha": "2025-06-13",
+    "mes": "2025-06",
+    "porcentaje": 71.0
+  },
+  {
+    "checklistId": "CHK-000349",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-001701",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "porcentaje": 75.3
+  },
+  {
+    "checklistId": "CHK-000350",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002237",
+    "fecha": "2026-02-05",
+    "mes": "2026-02",
+    "porcentaje": 99.2
+  },
+  {
+    "checklistId": "CHK-000351",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003289",
+    "fecha": "2026-09-04",
+    "mes": "2026-09",
+    "porcentaje": 93.5
+  },
+  {
+    "checklistId": "CHK-000352",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-001497",
+    "fecha": "2025-04-03",
+    "mes": "2025-04",
+    "porcentaje": 82.9
+  },
+  {
+    "checklistId": "CHK-000353",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000651",
+    "fecha": "2026-09-09",
+    "mes": "2026-09",
+    "porcentaje": 98.0
+  },
+  {
+    "checklistId": "CHK-000354",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003714",
+    "fecha": "2025-06-22",
+    "mes": "2025-06",
+    "porcentaje": 92.6
+  },
+  {
+    "checklistId": "CHK-000355",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-002869",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000356",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000678",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000357",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004515",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "porcentaje": 87.6
+  },
+  {
+    "checklistId": "CHK-000358",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003510",
+    "fecha": "2026-06-04",
+    "mes": "2026-06",
+    "porcentaje": 86.1
+  },
+  {
+    "checklistId": "CHK-000359",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003793",
+    "fecha": "2025-06-11",
+    "mes": "2025-06",
+    "porcentaje": 75.3
+  },
+  {
+    "checklistId": "CHK-000360",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004819",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "porcentaje": 73.2
+  },
+  {
+    "checklistId": "CHK-000361",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000257",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "porcentaje": 84.7
+  },
+  {
+    "checklistId": "CHK-000362",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-003765",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "porcentaje": 73.7
+  },
+  {
+    "checklistId": "CHK-000363",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-002849",
+    "fecha": "2026-06-19",
+    "mes": "2026-06",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000364",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001798",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "porcentaje": 79.7
+  },
+  {
+    "checklistId": "CHK-000365",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-003288",
+    "fecha": "2025-03-16",
+    "mes": "2025-03",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000366",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004665",
+    "fecha": "2025-08-13",
+    "mes": "2025-08",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000367",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000470",
+    "fecha": "2025-03-17",
+    "mes": "2025-03",
+    "porcentaje": 76.6
+  },
+  {
+    "checklistId": "CHK-000368",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001640",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "porcentaje": 92.4
+  },
+  {
+    "checklistId": "CHK-000369",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004006",
+    "fecha": "2026-07-13",
+    "mes": "2026-07",
+    "porcentaje": 80.1
+  },
+  {
+    "checklistId": "CHK-000370",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-002411",
+    "fecha": "2025-10-15",
+    "mes": "2025-10",
+    "porcentaje": 84.7
+  },
+  {
+    "checklistId": "CHK-000371",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004027",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000372",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003120",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "porcentaje": 88.4
+  },
+  {
+    "checklistId": "CHK-000373",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003170",
+    "fecha": "2025-05-08",
+    "mes": "2025-05",
+    "porcentaje": 93.3
+  },
+  {
+    "checklistId": "CHK-000374",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-004269",
+    "fecha": "2026-10-17",
+    "mes": "2026-10",
+    "porcentaje": 70.6
+  },
+  {
+    "checklistId": "CHK-000375",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004519",
+    "fecha": "2026-04-18",
+    "mes": "2026-04",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000376",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002287",
+    "fecha": "2025-10-29",
+    "mes": "2025-10",
+    "porcentaje": 91.1
+  },
+  {
+    "checklistId": "CHK-000377",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004820",
+    "fecha": "2026-11-16",
+    "mes": "2026-11",
+    "porcentaje": 96.7
+  },
+  {
+    "checklistId": "CHK-000378",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001313",
+    "fecha": "2026-02-01",
+    "mes": "2026-02",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000379",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003509",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "porcentaje": 76.2
+  },
+  {
+    "checklistId": "CHK-000380",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002740",
+    "fecha": "2026-05-12",
+    "mes": "2026-05",
+    "porcentaje": 85.1
+  },
+  {
+    "checklistId": "CHK-000381",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-002479",
+    "fecha": "2025-06-10",
+    "mes": "2025-06",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000382",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-002109",
+    "fecha": "2026-09-11",
+    "mes": "2026-09",
+    "porcentaje": 86.7
+  },
+  {
+    "checklistId": "CHK-000383",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-000804",
+    "fecha": "2026-01-24",
+    "mes": "2026-01",
+    "porcentaje": 70.8
+  },
+  {
+    "checklistId": "CHK-000384",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003203",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "porcentaje": 88.2
+  },
+  {
+    "checklistId": "CHK-000385",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003944",
+    "fecha": "2026-05-30",
+    "mes": "2026-05",
+    "porcentaje": 88.1
+  },
+  {
+    "checklistId": "CHK-000386",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003824",
+    "fecha": "2026-02-08",
+    "mes": "2026-02",
+    "porcentaje": 83.9
+  },
+  {
+    "checklistId": "CHK-000387",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000424",
+    "fecha": "2025-10-02",
+    "mes": "2025-10",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000388",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002426",
+    "fecha": "2025-12-12",
+    "mes": "2025-12",
+    "porcentaje": 72.3
+  },
+  {
+    "checklistId": "CHK-000389",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000282",
+    "fecha": "2025-07-23",
+    "mes": "2025-07",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000390",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000485",
+    "fecha": "2025-09-17",
+    "mes": "2025-09",
+    "porcentaje": 71.8
+  },
+  {
+    "checklistId": "CHK-000391",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004958",
+    "fecha": "2026-04-27",
+    "mes": "2026-04",
+    "porcentaje": 84.7
+  },
+  {
+    "checklistId": "CHK-000392",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001140",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000393",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002596",
+    "fecha": "2026-09-17",
+    "mes": "2026-09",
+    "porcentaje": 78.8
+  },
+  {
+    "checklistId": "CHK-000394",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-001386",
+    "fecha": "2024-12-01",
+    "mes": "2024-12",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000395",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-002631",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000396",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001206",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000397",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001601",
+    "fecha": "2025-06-26",
+    "mes": "2025-06",
+    "porcentaje": 99.0
+  },
+  {
+    "checklistId": "CHK-000398",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000465",
+    "fecha": "2025-02-01",
+    "mes": "2025-02",
+    "porcentaje": 71.2
+  },
+  {
+    "checklistId": "CHK-000399",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-003095",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "porcentaje": 77.9
+  },
+  {
+    "checklistId": "CHK-000400",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000232",
+    "fecha": "2025-12-03",
+    "mes": "2025-12",
+    "porcentaje": 96.3
+  },
+  {
+    "checklistId": "CHK-000401",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-000716",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "porcentaje": 82.1
+  },
+  {
+    "checklistId": "CHK-000402",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-004758",
+    "fecha": "2026-01-19",
+    "mes": "2026-01",
+    "porcentaje": 87.2
+  },
+  {
+    "checklistId": "CHK-000403",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-001544",
+    "fecha": "2025-09-14",
+    "mes": "2025-09",
+    "porcentaje": 79.0
+  },
+  {
+    "checklistId": "CHK-000404",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003782",
+    "fecha": "2025-03-22",
+    "mes": "2025-03",
+    "porcentaje": 79.3
+  },
+  {
+    "checklistId": "CHK-000405",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-002549",
+    "fecha": "2025-07-06",
+    "mes": "2025-07",
+    "porcentaje": 72.2
+  },
+  {
+    "checklistId": "CHK-000406",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003212",
+    "fecha": "2026-08-19",
+    "mes": "2026-08",
+    "porcentaje": 74.4
+  },
+  {
+    "checklistId": "CHK-000407",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004235",
+    "fecha": "2026-01-15",
+    "mes": "2026-01",
+    "porcentaje": 72.0
+  },
+  {
+    "checklistId": "CHK-000408",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-002468",
+    "fecha": "2026-06-08",
+    "mes": "2026-06",
+    "porcentaje": 78.9
+  },
+  {
+    "checklistId": "CHK-000409",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003572",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "porcentaje": 72.1
+  },
+  {
+    "checklistId": "CHK-000410",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003987",
+    "fecha": "2025-05-05",
+    "mes": "2025-05",
+    "porcentaje": 96.5
+  },
+  {
+    "checklistId": "CHK-000411",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003194",
+    "fecha": "2026-02-20",
+    "mes": "2026-02",
+    "porcentaje": 88.8
+  },
+  {
+    "checklistId": "CHK-000412",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004733",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "porcentaje": 82.2
+  },
+  {
+    "checklistId": "CHK-000413",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002762",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000414",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004722",
+    "fecha": "2026-10-20",
+    "mes": "2026-10",
+    "porcentaje": 90.0
+  },
+  {
+    "checklistId": "CHK-000415",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002025",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "porcentaje": 92.2
+  },
+  {
+    "checklistId": "CHK-000416",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001777",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "porcentaje": 77.9
+  },
+  {
+    "checklistId": "CHK-000417",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003025",
+    "fecha": "2025-10-27",
+    "mes": "2025-10",
+    "porcentaje": 84.2
+  },
+  {
+    "checklistId": "CHK-000418",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002736",
+    "fecha": "2026-08-17",
+    "mes": "2026-08",
+    "porcentaje": 91.6
+  },
+  {
+    "checklistId": "CHK-000419",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004256",
+    "fecha": "2026-03-17",
+    "mes": "2026-03",
+    "porcentaje": 94.7
+  },
+  {
+    "checklistId": "CHK-000420",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004457",
+    "fecha": "2026-09-12",
+    "mes": "2026-09",
+    "porcentaje": 96.3
+  },
+  {
+    "checklistId": "CHK-000421",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003908",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "porcentaje": 96.3
+  },
+  {
+    "checklistId": "CHK-000422",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004163",
+    "fecha": "2026-07-15",
+    "mes": "2026-07",
+    "porcentaje": 89.7
+  },
+  {
+    "checklistId": "CHK-000423",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-004990",
+    "fecha": "2026-05-24",
+    "mes": "2026-05",
+    "porcentaje": 92.0
+  },
+  {
+    "checklistId": "CHK-000424",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002999",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "porcentaje": 75.7
+  },
+  {
+    "checklistId": "CHK-000425",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001692",
+    "fecha": "2025-03-09",
+    "mes": "2025-03",
+    "porcentaje": 87.1
+  },
+  {
+    "checklistId": "CHK-000426",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-003747",
+    "fecha": "2025-09-02",
+    "mes": "2025-09",
+    "porcentaje": 96.6
+  },
+  {
+    "checklistId": "CHK-000427",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000123",
+    "fecha": "2025-01-22",
+    "mes": "2025-01",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000428",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004307",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000429",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001771",
+    "fecha": "2025-11-27",
+    "mes": "2025-11",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000430",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000452",
+    "fecha": "2025-11-29",
+    "mes": "2025-11",
+    "porcentaje": 95.2
+  },
+  {
+    "checklistId": "CHK-000431",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002259",
+    "fecha": "2026-04-14",
+    "mes": "2026-04",
+    "porcentaje": 72.4
+  },
+  {
+    "checklistId": "CHK-000432",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003268",
+    "fecha": "2026-06-17",
+    "mes": "2026-06",
+    "porcentaje": 78.6
+  },
+  {
+    "checklistId": "CHK-000433",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000848",
+    "fecha": "2026-05-08",
+    "mes": "2026-05",
+    "porcentaje": 81.0
+  },
+  {
+    "checklistId": "CHK-000434",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001405",
+    "fecha": "2025-09-06",
+    "mes": "2025-09",
+    "porcentaje": 74.1
+  },
+  {
+    "checklistId": "CHK-000435",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-001726",
+    "fecha": "2025-10-02",
+    "mes": "2025-10",
+    "porcentaje": 92.3
+  },
+  {
+    "checklistId": "CHK-000436",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003765",
+    "fecha": "2026-06-24",
+    "mes": "2026-06",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000437",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001371",
+    "fecha": "2025-05-20",
+    "mes": "2025-05",
+    "porcentaje": 90.3
+  },
+  {
+    "checklistId": "CHK-000438",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002517",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "porcentaje": 88.7
+  },
+  {
+    "checklistId": "CHK-000439",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004123",
+    "fecha": "2025-12-03",
+    "mes": "2025-12",
+    "porcentaje": 92.4
+  },
+  {
+    "checklistId": "CHK-000440",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-001813",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "porcentaje": 82.6
+  },
+  {
+    "checklistId": "CHK-000441",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-002589",
+    "fecha": "2026-07-21",
+    "mes": "2026-07",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000442",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-002829",
+    "fecha": "2025-11-18",
+    "mes": "2025-11",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000443",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-001129",
+    "fecha": "2026-09-07",
+    "mes": "2026-09",
+    "porcentaje": 90.7
+  },
+  {
+    "checklistId": "CHK-000444",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000960",
+    "fecha": "2026-07-10",
+    "mes": "2026-07",
+    "porcentaje": 97.8
+  },
+  {
+    "checklistId": "CHK-000445",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001833",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "porcentaje": 73.7
+  },
+  {
+    "checklistId": "CHK-000446",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002325",
+    "fecha": "2026-04-28",
+    "mes": "2026-04",
+    "porcentaje": 77.5
+  },
+  {
+    "checklistId": "CHK-000447",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001505",
+    "fecha": "2025-01-24",
+    "mes": "2025-01",
+    "porcentaje": 87.4
+  },
+  {
+    "checklistId": "CHK-000448",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003773",
+    "fecha": "2026-06-27",
+    "mes": "2026-06",
+    "porcentaje": 96.7
+  },
+  {
+    "checklistId": "CHK-000449",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001335",
+    "fecha": "2026-01-07",
+    "mes": "2026-01",
+    "porcentaje": 85.6
+  },
+  {
+    "checklistId": "CHK-000450",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004035",
+    "fecha": "2026-10-28",
+    "mes": "2026-10",
+    "porcentaje": 98.2
+  },
+  {
+    "checklistId": "CHK-000451",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000212",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "porcentaje": 96.9
+  },
+  {
+    "checklistId": "CHK-000452",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003146",
+    "fecha": "2026-10-12",
+    "mes": "2026-10",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000453",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-001163",
+    "fecha": "2026-09-26",
+    "mes": "2026-09",
+    "porcentaje": 84.6
+  },
+  {
+    "checklistId": "CHK-000454",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000899",
+    "fecha": "2025-03-17",
+    "mes": "2025-03",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000455",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-000787",
+    "fecha": "2025-09-05",
+    "mes": "2025-09",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000456",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-000297",
+    "fecha": "2025-03-01",
+    "mes": "2025-03",
+    "porcentaje": 79.6
+  },
+  {
+    "checklistId": "CHK-000457",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003212",
+    "fecha": "2026-09-10",
+    "mes": "2026-09",
+    "porcentaje": 79.4
+  },
+  {
+    "checklistId": "CHK-000458",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002483",
+    "fecha": "2026-07-21",
+    "mes": "2026-07",
+    "porcentaje": 71.8
+  },
+  {
+    "checklistId": "CHK-000459",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001381",
+    "fecha": "2025-09-23",
+    "mes": "2025-09",
+    "porcentaje": 82.8
+  },
+  {
+    "checklistId": "CHK-000460",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004588",
+    "fecha": "2025-12-09",
+    "mes": "2025-12",
+    "porcentaje": 91.8
+  },
+  {
+    "checklistId": "CHK-000461",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004598",
+    "fecha": "2025-07-06",
+    "mes": "2025-07",
+    "porcentaje": 96.7
+  },
+  {
+    "checklistId": "CHK-000462",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000736",
+    "fecha": "2025-12-02",
+    "mes": "2025-12",
+    "porcentaje": 89.5
+  },
+  {
+    "checklistId": "CHK-000463",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001613",
+    "fecha": "2025-01-16",
+    "mes": "2025-01",
+    "porcentaje": 80.9
+  },
+  {
+    "checklistId": "CHK-000464",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-001563",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000465",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-004478",
+    "fecha": "2026-05-04",
+    "mes": "2026-05",
+    "porcentaje": 98.0
+  },
+  {
+    "checklistId": "CHK-000466",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-001485",
+    "fecha": "2025-06-03",
+    "mes": "2025-06",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000467",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000865",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "porcentaje": 92.4
+  },
+  {
+    "checklistId": "CHK-000468",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002545",
+    "fecha": "2026-05-14",
+    "mes": "2026-05",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000469",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-002668",
+    "fecha": "2025-09-16",
+    "mes": "2025-09",
+    "porcentaje": 71.2
+  },
+  {
+    "checklistId": "CHK-000470",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-001532",
+    "fecha": "2026-10-15",
+    "mes": "2026-10",
+    "porcentaje": 72.0
+  },
+  {
+    "checklistId": "CHK-000471",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-003563",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "porcentaje": 74.0
+  },
+  {
+    "checklistId": "CHK-000472",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001627",
+    "fecha": "2026-06-13",
+    "mes": "2026-06",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000473",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000609",
+    "fecha": "2026-03-11",
+    "mes": "2026-03",
+    "porcentaje": 77.6
+  },
+  {
+    "checklistId": "CHK-000474",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-002697",
+    "fecha": "2025-04-07",
+    "mes": "2025-04",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000475",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004490",
+    "fecha": "2026-02-13",
+    "mes": "2026-02",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000476",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004590",
+    "fecha": "2026-09-24",
+    "mes": "2026-09",
+    "porcentaje": 99.7
+  },
+  {
+    "checklistId": "CHK-000477",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004578",
+    "fecha": "2024-12-07",
+    "mes": "2024-12",
+    "porcentaje": 75.7
+  },
+  {
+    "checklistId": "CHK-000478",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-001365",
+    "fecha": "2026-11-17",
+    "mes": "2026-11",
+    "porcentaje": 79.1
+  },
+  {
+    "checklistId": "CHK-000479",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001254",
+    "fecha": "2026-09-01",
+    "mes": "2026-09",
+    "porcentaje": 70.8
+  },
+  {
+    "checklistId": "CHK-000480",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002407",
+    "fecha": "2026-08-26",
+    "mes": "2026-08",
+    "porcentaje": 80.0
+  },
+  {
+    "checklistId": "CHK-000481",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000097",
+    "fecha": "2026-06-05",
+    "mes": "2026-06",
+    "porcentaje": 95.0
+  },
+  {
+    "checklistId": "CHK-000482",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000064",
+    "fecha": "2025-09-23",
+    "mes": "2025-09",
+    "porcentaje": 90.5
+  },
+  {
+    "checklistId": "CHK-000483",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-000484",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000484",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-001032",
+    "fecha": "2025-04-04",
+    "mes": "2025-04",
+    "porcentaje": 93.3
+  },
+  {
+    "checklistId": "CHK-000485",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004084",
+    "fecha": "2026-04-23",
+    "mes": "2026-04",
+    "porcentaje": 88.2
+  },
+  {
+    "checklistId": "CHK-000486",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-004328",
+    "fecha": "2026-01-13",
+    "mes": "2026-01",
+    "porcentaje": 99.0
+  },
+  {
+    "checklistId": "CHK-000487",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-001919",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "porcentaje": 88.7
+  },
+  {
+    "checklistId": "CHK-000488",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003188",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "porcentaje": 94.0
+  },
+  {
+    "checklistId": "CHK-000489",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000997",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000490",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004976",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000491",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-002780",
+    "fecha": "2025-05-26",
+    "mes": "2025-05",
+    "porcentaje": 98.2
+  },
+  {
+    "checklistId": "CHK-000492",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-003960",
+    "fecha": "2025-04-01",
+    "mes": "2025-04",
+    "porcentaje": 82.7
+  },
+  {
+    "checklistId": "CHK-000493",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003578",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "porcentaje": 99.5
+  },
+  {
+    "checklistId": "CHK-000494",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003511",
+    "fecha": "2026-01-27",
+    "mes": "2026-01",
+    "porcentaje": 73.2
+  },
+  {
+    "checklistId": "CHK-000495",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000089",
+    "fecha": "2026-03-21",
+    "mes": "2026-03",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000496",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-004587",
+    "fecha": "2026-07-26",
+    "mes": "2026-07",
+    "porcentaje": 87.2
+  },
+  {
+    "checklistId": "CHK-000497",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002746",
+    "fecha": "2026-03-26",
+    "mes": "2026-03",
+    "porcentaje": 87.2
+  },
+  {
+    "checklistId": "CHK-000498",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-001745",
+    "fecha": "2025-12-15",
+    "mes": "2025-12",
+    "porcentaje": 76.8
+  },
+  {
+    "checklistId": "CHK-000499",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000551",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "porcentaje": 86.1
+  },
+  {
+    "checklistId": "CHK-000500",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-000825",
+    "fecha": "2025-10-18",
+    "mes": "2025-10",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000501",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003375",
+    "fecha": "2026-09-23",
+    "mes": "2026-09",
+    "porcentaje": 98.0
+  },
+  {
+    "checklistId": "CHK-000502",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003701",
+    "fecha": "2025-10-16",
+    "mes": "2025-10",
+    "porcentaje": 78.4
+  },
+  {
+    "checklistId": "CHK-000503",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-004627",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "porcentaje": 86.8
+  },
+  {
+    "checklistId": "CHK-000504",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-002892",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "porcentaje": 73.9
+  },
+  {
+    "checklistId": "CHK-000505",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003075",
+    "fecha": "2025-04-04",
+    "mes": "2025-04",
+    "porcentaje": 97.8
+  },
+  {
+    "checklistId": "CHK-000506",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-001353",
+    "fecha": "2025-11-26",
+    "mes": "2025-11",
+    "porcentaje": 79.6
+  },
+  {
+    "checklistId": "CHK-000507",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002594",
+    "fecha": "2026-08-20",
+    "mes": "2026-08",
+    "porcentaje": 96.6
+  },
+  {
+    "checklistId": "CHK-000508",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-003966",
+    "fecha": "2026-04-25",
+    "mes": "2026-04",
+    "porcentaje": 70.9
+  },
+  {
+    "checklistId": "CHK-000509",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001969",
+    "fecha": "2026-10-30",
+    "mes": "2026-10",
+    "porcentaje": 94.9
+  },
+  {
+    "checklistId": "CHK-000510",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004005",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "porcentaje": 92.7
+  },
+  {
+    "checklistId": "CHK-000511",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002026",
+    "fecha": "2025-12-02",
+    "mes": "2025-12",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000512",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001097",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "porcentaje": 73.8
+  },
+  {
+    "checklistId": "CHK-000513",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000244",
+    "fecha": "2026-11-04",
+    "mes": "2026-11",
+    "porcentaje": 82.2
+  },
+  {
+    "checklistId": "CHK-000514",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-003560",
+    "fecha": "2025-03-10",
+    "mes": "2025-03",
+    "porcentaje": 75.3
+  },
+  {
+    "checklistId": "CHK-000515",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-002663",
+    "fecha": "2024-12-14",
+    "mes": "2024-12",
+    "porcentaje": 99.5
+  },
+  {
+    "checklistId": "CHK-000516",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001971",
+    "fecha": "2024-12-02",
+    "mes": "2024-12",
+    "porcentaje": 73.3
+  },
+  {
+    "checklistId": "CHK-000517",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-002620",
+    "fecha": "2025-05-03",
+    "mes": "2025-05",
+    "porcentaje": 79.2
+  },
+  {
+    "checklistId": "CHK-000518",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003113",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "porcentaje": 82.2
+  },
+  {
+    "checklistId": "CHK-000519",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003910",
+    "fecha": "2026-11-17",
+    "mes": "2026-11",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000520",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002432",
+    "fecha": "2025-08-04",
+    "mes": "2025-08",
+    "porcentaje": 77.6
+  },
+  {
+    "checklistId": "CHK-000521",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-001744",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "porcentaje": 96.0
+  },
+  {
+    "checklistId": "CHK-000522",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-001203",
+    "fecha": "2026-07-07",
+    "mes": "2026-07",
+    "porcentaje": 88.8
+  },
+  {
+    "checklistId": "CHK-000523",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004412",
+    "fecha": "2026-02-02",
+    "mes": "2026-02",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000524",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-000166",
+    "fecha": "2026-11-16",
+    "mes": "2026-11",
+    "porcentaje": 87.6
+  },
+  {
+    "checklistId": "CHK-000525",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001299",
+    "fecha": "2025-11-10",
+    "mes": "2025-11",
+    "porcentaje": 83.1
+  },
+  {
+    "checklistId": "CHK-000526",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002141",
+    "fecha": "2025-11-04",
+    "mes": "2025-11",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000527",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003997",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "porcentaje": 97.3
+  },
+  {
+    "checklistId": "CHK-000528",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000757",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "porcentaje": 84.3
+  },
+  {
+    "checklistId": "CHK-000529",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001320",
+    "fecha": "2025-01-13",
+    "mes": "2025-01",
+    "porcentaje": 83.7
+  },
+  {
+    "checklistId": "CHK-000530",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-004490",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "porcentaje": 83.4
+  },
+  {
+    "checklistId": "CHK-000531",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004161",
+    "fecha": "2026-07-21",
+    "mes": "2026-07",
+    "porcentaje": 72.5
+  },
+  {
+    "checklistId": "CHK-000532",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004734",
+    "fecha": "2026-06-02",
+    "mes": "2026-06",
+    "porcentaje": 97.7
+  },
+  {
+    "checklistId": "CHK-000533",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-002672",
+    "fecha": "2025-05-03",
+    "mes": "2025-05",
+    "porcentaje": 93.6
+  },
+  {
+    "checklistId": "CHK-000534",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-001974",
+    "fecha": "2025-09-16",
+    "mes": "2025-09",
+    "porcentaje": 77.2
+  },
+  {
+    "checklistId": "CHK-000535",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000256",
+    "fecha": "2025-08-03",
+    "mes": "2025-08",
+    "porcentaje": 74.4
+  },
+  {
+    "checklistId": "CHK-000536",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002541",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "porcentaje": 93.6
+  },
+  {
+    "checklistId": "CHK-000537",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003419",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000538",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001456",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "porcentaje": 97.9
+  },
+  {
+    "checklistId": "CHK-000539",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004121",
+    "fecha": "2026-01-24",
+    "mes": "2026-01",
+    "porcentaje": 88.8
+  },
+  {
+    "checklistId": "CHK-000540",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003004",
+    "fecha": "2025-03-22",
+    "mes": "2025-03",
+    "porcentaje": 93.2
+  },
+  {
+    "checklistId": "CHK-000541",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-000387",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "porcentaje": 75.6
+  },
+  {
+    "checklistId": "CHK-000542",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-000442",
+    "fecha": "2026-10-21",
+    "mes": "2026-10",
+    "porcentaje": 93.7
+  },
+  {
+    "checklistId": "CHK-000543",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001375",
+    "fecha": "2026-10-01",
+    "mes": "2026-10",
+    "porcentaje": 88.0
+  },
+  {
+    "checklistId": "CHK-000544",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001169",
+    "fecha": "2026-09-20",
+    "mes": "2026-09",
+    "porcentaje": 70.8
+  },
+  {
+    "checklistId": "CHK-000545",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-001416",
+    "fecha": "2026-02-22",
+    "mes": "2026-02",
+    "porcentaje": 92.9
+  },
+  {
+    "checklistId": "CHK-000546",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000987",
+    "fecha": "2025-03-05",
+    "mes": "2025-03",
+    "porcentaje": 92.5
+  },
+  {
+    "checklistId": "CHK-000547",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002557",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "porcentaje": 99.4
+  },
+  {
+    "checklistId": "CHK-000548",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-002373",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "porcentaje": 81.5
+  },
+  {
+    "checklistId": "CHK-000549",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-000043",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "porcentaje": 83.7
+  },
+  {
+    "checklistId": "CHK-000550",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-002735",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "porcentaje": 80.6
+  },
+  {
+    "checklistId": "CHK-000551",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-002269",
+    "fecha": "2025-01-03",
+    "mes": "2025-01",
+    "porcentaje": 84.3
+  },
+  {
+    "checklistId": "CHK-000552",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003494",
+    "fecha": "2025-08-20",
+    "mes": "2025-08",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000553",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000754",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "porcentaje": 85.4
+  },
+  {
+    "checklistId": "CHK-000554",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-002306",
+    "fecha": "2025-07-07",
+    "mes": "2025-07",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000555",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-004891",
+    "fecha": "2025-01-11",
+    "mes": "2025-01",
+    "porcentaje": 86.7
+  },
+  {
+    "checklistId": "CHK-000556",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001989",
+    "fecha": "2025-01-09",
+    "mes": "2025-01",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000557",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-003366",
+    "fecha": "2026-06-15",
+    "mes": "2026-06",
+    "porcentaje": 95.2
+  },
+  {
+    "checklistId": "CHK-000558",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000208",
+    "fecha": "2026-01-04",
+    "mes": "2026-01",
+    "porcentaje": 93.1
+  },
+  {
+    "checklistId": "CHK-000559",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-004022",
+    "fecha": "2025-10-10",
+    "mes": "2025-10",
+    "porcentaje": 84.6
+  },
+  {
+    "checklistId": "CHK-000560",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-002897",
+    "fecha": "2026-09-29",
+    "mes": "2026-09",
+    "porcentaje": 78.3
+  },
+  {
+    "checklistId": "CHK-000561",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004499",
+    "fecha": "2026-07-16",
+    "mes": "2026-07",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000562",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-003310",
+    "fecha": "2026-03-12",
+    "mes": "2026-03",
+    "porcentaje": 97.5
+  },
+  {
+    "checklistId": "CHK-000563",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-004480",
+    "fecha": "2025-01-14",
+    "mes": "2025-01",
+    "porcentaje": 73.3
+  },
+  {
+    "checklistId": "CHK-000564",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000360",
+    "fecha": "2026-10-31",
+    "mes": "2026-10",
+    "porcentaje": 93.4
+  },
+  {
+    "checklistId": "CHK-000565",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001060",
+    "fecha": "2025-07-18",
+    "mes": "2025-07",
+    "porcentaje": 79.9
+  },
+  {
+    "checklistId": "CHK-000566",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-004764",
+    "fecha": "2025-05-29",
+    "mes": "2025-05",
+    "porcentaje": 80.4
+  },
+  {
+    "checklistId": "CHK-000567",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002450",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "porcentaje": 78.0
+  },
+  {
+    "checklistId": "CHK-000568",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004621",
+    "fecha": "2025-10-07",
+    "mes": "2025-10",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000569",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-001147",
+    "fecha": "2026-08-31",
+    "mes": "2026-08",
+    "porcentaje": 85.0
+  },
+  {
+    "checklistId": "CHK-000570",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004815",
+    "fecha": "2026-09-14",
+    "mes": "2026-09",
+    "porcentaje": 95.3
+  },
+  {
+    "checklistId": "CHK-000571",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-002184",
+    "fecha": "2026-10-29",
+    "mes": "2026-10",
+    "porcentaje": 79.0
+  },
+  {
+    "checklistId": "CHK-000572",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-002275",
+    "fecha": "2026-09-03",
+    "mes": "2026-09",
+    "porcentaje": 84.8
+  },
+  {
+    "checklistId": "CHK-000573",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003417",
+    "fecha": "2025-04-13",
+    "mes": "2025-04",
+    "porcentaje": 97.1
+  },
+  {
+    "checklistId": "CHK-000574",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-002243",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "porcentaje": 71.1
+  },
+  {
+    "checklistId": "CHK-000575",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-003905",
+    "fecha": "2026-03-25",
+    "mes": "2026-03",
+    "porcentaje": 81.6
+  },
+  {
+    "checklistId": "CHK-000576",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000280",
+    "fecha": "2025-10-31",
+    "mes": "2025-10",
+    "porcentaje": 73.3
+  },
+  {
+    "checklistId": "CHK-000577",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000615",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "porcentaje": 71.8
+  },
+  {
+    "checklistId": "CHK-000578",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001901",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000579",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-001627",
+    "fecha": "2026-06-23",
+    "mes": "2026-06",
+    "porcentaje": 70.6
+  },
+  {
+    "checklistId": "CHK-000580",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002965",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "porcentaje": 93.6
+  },
+  {
+    "checklistId": "CHK-000581",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-000333",
+    "fecha": "2025-01-15",
+    "mes": "2025-01",
+    "porcentaje": 82.9
+  },
+  {
+    "checklistId": "CHK-000582",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001037",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "porcentaje": 83.9
+  },
+  {
+    "checklistId": "CHK-000583",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-004173",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "porcentaje": 81.2
+  },
+  {
+    "checklistId": "CHK-000584",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004552",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "porcentaje": 70.3
+  },
+  {
+    "checklistId": "CHK-000585",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004662",
+    "fecha": "2026-06-15",
+    "mes": "2026-06",
+    "porcentaje": 74.2
+  },
+  {
+    "checklistId": "CHK-000586",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003787",
+    "fecha": "2025-03-30",
+    "mes": "2025-03",
+    "porcentaje": 85.2
+  },
+  {
+    "checklistId": "CHK-000587",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002434",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "porcentaje": 98.9
+  },
+  {
+    "checklistId": "CHK-000588",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-004531",
+    "fecha": "2025-08-25",
+    "mes": "2025-08",
+    "porcentaje": 94.8
+  },
+  {
+    "checklistId": "CHK-000589",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003244",
+    "fecha": "2026-11-16",
+    "mes": "2026-11",
+    "porcentaje": 86.6
+  },
+  {
+    "checklistId": "CHK-000590",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004050",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "porcentaje": 98.4
+  },
+  {
+    "checklistId": "CHK-000591",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003661",
+    "fecha": "2026-05-09",
+    "mes": "2026-05",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000592",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000087",
+    "fecha": "2024-12-13",
+    "mes": "2024-12",
+    "porcentaje": 86.4
+  },
+  {
+    "checklistId": "CHK-000593",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-002567",
+    "fecha": "2025-07-06",
+    "mes": "2025-07",
+    "porcentaje": 81.1
+  },
+  {
+    "checklistId": "CHK-000594",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002217",
+    "fecha": "2025-05-09",
+    "mes": "2025-05",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000595",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004587",
+    "fecha": "2026-11-13",
+    "mes": "2026-11",
+    "porcentaje": 72.5
+  },
+  {
+    "checklistId": "CHK-000596",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-002740",
+    "fecha": "2025-04-19",
+    "mes": "2025-04",
+    "porcentaje": 78.8
+  },
+  {
+    "checklistId": "CHK-000597",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-002892",
+    "fecha": "2025-05-13",
+    "mes": "2025-05",
+    "porcentaje": 79.3
+  },
+  {
+    "checklistId": "CHK-000598",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000831",
+    "fecha": "2025-05-05",
+    "mes": "2025-05",
+    "porcentaje": 87.3
+  },
+  {
+    "checklistId": "CHK-000599",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001745",
+    "fecha": "2025-11-27",
+    "mes": "2025-11",
+    "porcentaje": 72.3
+  },
+  {
+    "checklistId": "CHK-000600",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-001583",
+    "fecha": "2025-11-25",
+    "mes": "2025-11",
+    "porcentaje": 76.8
+  },
+  {
+    "checklistId": "CHK-000601",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001491",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "porcentaje": 92.4
+  },
+  {
+    "checklistId": "CHK-000602",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001467",
+    "fecha": "2025-02-08",
+    "mes": "2025-02",
+    "porcentaje": 95.3
+  },
+  {
+    "checklistId": "CHK-000603",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002269",
+    "fecha": "2025-01-23",
+    "mes": "2025-01",
+    "porcentaje": 73.9
+  },
+  {
+    "checklistId": "CHK-000604",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004810",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "porcentaje": 86.9
+  },
+  {
+    "checklistId": "CHK-000605",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004995",
+    "fecha": "2025-07-04",
+    "mes": "2025-07",
+    "porcentaje": 95.6
+  },
+  {
+    "checklistId": "CHK-000606",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003139",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "porcentaje": 89.0
+  },
+  {
+    "checklistId": "CHK-000607",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004846",
+    "fecha": "2025-07-05",
+    "mes": "2025-07",
+    "porcentaje": 90.7
+  },
+  {
+    "checklistId": "CHK-000608",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000747",
+    "fecha": "2024-12-30",
+    "mes": "2024-12",
+    "porcentaje": 72.6
+  },
+  {
+    "checklistId": "CHK-000609",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003148",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "porcentaje": 76.7
+  },
+  {
+    "checklistId": "CHK-000610",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-001771",
+    "fecha": "2025-03-18",
+    "mes": "2025-03",
+    "porcentaje": 89.2
+  },
+  {
+    "checklistId": "CHK-000611",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000331",
+    "fecha": "2025-12-29",
+    "mes": "2025-12",
+    "porcentaje": 94.8
+  },
+  {
+    "checklistId": "CHK-000612",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003182",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "porcentaje": 79.9
+  },
+  {
+    "checklistId": "CHK-000613",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004938",
+    "fecha": "2024-12-07",
+    "mes": "2024-12",
+    "porcentaje": 84.6
+  },
+  {
+    "checklistId": "CHK-000614",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001824",
+    "fecha": "2025-08-30",
+    "mes": "2025-08",
+    "porcentaje": 80.2
+  },
+  {
+    "checklistId": "CHK-000615",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-000151",
+    "fecha": "2025-01-13",
+    "mes": "2025-01",
+    "porcentaje": 96.3
+  },
+  {
+    "checklistId": "CHK-000616",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-003463",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000617",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-000113",
+    "fecha": "2025-10-24",
+    "mes": "2025-10",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000618",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001199",
+    "fecha": "2026-05-13",
+    "mes": "2026-05",
+    "porcentaje": 81.7
+  },
+  {
+    "checklistId": "CHK-000619",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000453",
+    "fecha": "2025-05-28",
+    "mes": "2025-05",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000620",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-004375",
+    "fecha": "2025-03-03",
+    "mes": "2025-03",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000621",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-003299",
+    "fecha": "2024-12-20",
+    "mes": "2024-12",
+    "porcentaje": 80.3
+  },
+  {
+    "checklistId": "CHK-000622",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003291",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000623",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-002982",
+    "fecha": "2025-05-24",
+    "mes": "2025-05",
+    "porcentaje": 71.9
+  },
+  {
+    "checklistId": "CHK-000624",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004480",
+    "fecha": "2025-06-22",
+    "mes": "2025-06",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000625",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003547",
+    "fecha": "2026-10-28",
+    "mes": "2026-10",
+    "porcentaje": 82.2
+  },
+  {
+    "checklistId": "CHK-000626",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004365",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "porcentaje": 79.9
+  },
+  {
+    "checklistId": "CHK-000627",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-000239",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "porcentaje": 81.9
+  },
+  {
+    "checklistId": "CHK-000628",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003516",
+    "fecha": "2025-06-27",
+    "mes": "2025-06",
+    "porcentaje": 82.2
+  },
+  {
+    "checklistId": "CHK-000629",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-000560",
+    "fecha": "2026-11-15",
+    "mes": "2026-11",
+    "porcentaje": 88.3
+  },
+  {
+    "checklistId": "CHK-000630",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004070",
+    "fecha": "2025-05-21",
+    "mes": "2025-05",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000631",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-002947",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000632",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004745",
+    "fecha": "2026-01-17",
+    "mes": "2026-01",
+    "porcentaje": 73.9
+  },
+  {
+    "checklistId": "CHK-000633",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-001653",
+    "fecha": "2026-04-02",
+    "mes": "2026-04",
+    "porcentaje": 85.4
+  },
+  {
+    "checklistId": "CHK-000634",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000020",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "porcentaje": 82.5
+  },
+  {
+    "checklistId": "CHK-000635",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001942",
+    "fecha": "2026-08-03",
+    "mes": "2026-08",
+    "porcentaje": 81.8
+  },
+  {
+    "checklistId": "CHK-000636",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-002768",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "porcentaje": 94.0
+  },
+  {
+    "checklistId": "CHK-000637",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000475",
+    "fecha": "2025-02-28",
+    "mes": "2025-02",
+    "porcentaje": 84.8
+  },
+  {
+    "checklistId": "CHK-000638",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000180",
+    "fecha": "2025-03-20",
+    "mes": "2025-03",
+    "porcentaje": 83.4
+  },
+  {
+    "checklistId": "CHK-000639",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-004654",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "porcentaje": 95.3
+  },
+  {
+    "checklistId": "CHK-000640",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-000252",
+    "fecha": "2026-05-06",
+    "mes": "2026-05",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000641",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-002239",
+    "fecha": "2025-10-12",
+    "mes": "2025-10",
+    "porcentaje": 87.8
+  },
+  {
+    "checklistId": "CHK-000642",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-003180",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "porcentaje": 78.7
+  },
+  {
+    "checklistId": "CHK-000643",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000593",
+    "fecha": "2025-12-29",
+    "mes": "2025-12",
+    "porcentaje": 85.3
+  },
+  {
+    "checklistId": "CHK-000644",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-003480",
+    "fecha": "2025-06-02",
+    "mes": "2025-06",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000645",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000111",
+    "fecha": "2025-08-31",
+    "mes": "2025-08",
+    "porcentaje": 98.3
+  },
+  {
+    "checklistId": "CHK-000646",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001689",
+    "fecha": "2025-04-15",
+    "mes": "2025-04",
+    "porcentaje": 97.0
+  },
+  {
+    "checklistId": "CHK-000647",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000151",
+    "fecha": "2026-03-09",
+    "mes": "2026-03",
+    "porcentaje": 83.6
+  },
+  {
+    "checklistId": "CHK-000648",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000271",
+    "fecha": "2026-02-11",
+    "mes": "2026-02",
+    "porcentaje": 80.7
+  },
+  {
+    "checklistId": "CHK-000649",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-000649",
+    "fecha": "2026-09-23",
+    "mes": "2026-09",
+    "porcentaje": 91.9
+  },
+  {
+    "checklistId": "CHK-000650",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004681",
+    "fecha": "2025-12-15",
+    "mes": "2025-12",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000651",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002369",
+    "fecha": "2026-05-04",
+    "mes": "2026-05",
+    "porcentaje": 85.8
+  },
+  {
+    "checklistId": "CHK-000652",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003847",
+    "fecha": "2026-08-17",
+    "mes": "2026-08",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000653",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000257",
+    "fecha": "2025-12-07",
+    "mes": "2025-12",
+    "porcentaje": 81.3
+  },
+  {
+    "checklistId": "CHK-000654",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003262",
+    "fecha": "2026-06-27",
+    "mes": "2026-06",
+    "porcentaje": 96.9
+  },
+  {
+    "checklistId": "CHK-000655",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-004349",
+    "fecha": "2026-01-14",
+    "mes": "2026-01",
+    "porcentaje": 89.5
+  },
+  {
+    "checklistId": "CHK-000656",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-002403",
+    "fecha": "2025-05-15",
+    "mes": "2025-05",
+    "porcentaje": 83.7
+  },
+  {
+    "checklistId": "CHK-000657",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-001552",
+    "fecha": "2026-09-29",
+    "mes": "2026-09",
+    "porcentaje": 99.1
+  },
+  {
+    "checklistId": "CHK-000658",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000837",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "porcentaje": 80.3
+  },
+  {
+    "checklistId": "CHK-000659",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003686",
+    "fecha": "2025-03-24",
+    "mes": "2025-03",
+    "porcentaje": 75.2
+  },
+  {
+    "checklistId": "CHK-000660",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004027",
+    "fecha": "2026-05-01",
+    "mes": "2026-05",
+    "porcentaje": 83.8
+  },
+  {
+    "checklistId": "CHK-000661",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-001376",
+    "fecha": "2026-06-20",
+    "mes": "2026-06",
+    "porcentaje": 80.3
+  },
+  {
+    "checklistId": "CHK-000662",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000356",
+    "fecha": "2025-02-25",
+    "mes": "2025-02",
+    "porcentaje": 77.9
+  },
+  {
+    "checklistId": "CHK-000663",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003568",
+    "fecha": "2025-02-08",
+    "mes": "2025-02",
+    "porcentaje": 75.7
+  },
+  {
+    "checklistId": "CHK-000664",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001349",
+    "fecha": "2026-09-22",
+    "mes": "2026-09",
+    "porcentaje": 99.2
+  },
+  {
+    "checklistId": "CHK-000665",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004929",
+    "fecha": "2026-11-06",
+    "mes": "2026-11",
+    "porcentaje": 77.4
+  },
+  {
+    "checklistId": "CHK-000666",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002301",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000667",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-003255",
+    "fecha": "2025-05-22",
+    "mes": "2025-05",
+    "porcentaje": 78.7
+  },
+  {
+    "checklistId": "CHK-000668",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-004358",
+    "fecha": "2025-10-30",
+    "mes": "2025-10",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000669",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002608",
+    "fecha": "2025-01-01",
+    "mes": "2025-01",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000670",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003588",
+    "fecha": "2025-06-26",
+    "mes": "2025-06",
+    "porcentaje": 97.1
+  },
+  {
+    "checklistId": "CHK-000671",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002274",
+    "fecha": "2026-09-15",
+    "mes": "2026-09",
+    "porcentaje": 72.3
+  },
+  {
+    "checklistId": "CHK-000672",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001719",
+    "fecha": "2026-11-18",
+    "mes": "2026-11",
+    "porcentaje": 70.5
+  },
+  {
+    "checklistId": "CHK-000673",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-001653",
+    "fecha": "2025-12-11",
+    "mes": "2025-12",
+    "porcentaje": 82.6
+  },
+  {
+    "checklistId": "CHK-000674",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000020",
+    "fecha": "2026-04-18",
+    "mes": "2026-04",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000675",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-002358",
+    "fecha": "2025-09-07",
+    "mes": "2025-09",
+    "porcentaje": 84.9
+  },
+  {
+    "checklistId": "CHK-000676",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004780",
+    "fecha": "2026-02-15",
+    "mes": "2026-02",
+    "porcentaje": 86.2
+  },
+  {
+    "checklistId": "CHK-000677",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-001164",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "porcentaje": 97.8
+  },
+  {
+    "checklistId": "CHK-000678",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004202",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "porcentaje": 79.6
+  },
+  {
+    "checklistId": "CHK-000679",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-004359",
+    "fecha": "2025-04-17",
+    "mes": "2025-04",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000680",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003605",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "porcentaje": 85.8
+  },
+  {
+    "checklistId": "CHK-000681",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-004054",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "porcentaje": 90.4
+  },
+  {
+    "checklistId": "CHK-000682",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000869",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "porcentaje": 97.7
+  },
+  {
+    "checklistId": "CHK-000683",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002500",
+    "fecha": "2025-10-21",
+    "mes": "2025-10",
+    "porcentaje": 90.3
+  },
+  {
+    "checklistId": "CHK-000684",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004228",
+    "fecha": "2026-08-30",
+    "mes": "2026-08",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000685",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001782",
+    "fecha": "2026-11-09",
+    "mes": "2026-11",
+    "porcentaje": 92.7
+  },
+  {
+    "checklistId": "CHK-000686",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003195",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "porcentaje": 86.4
+  },
+  {
+    "checklistId": "CHK-000687",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004942",
+    "fecha": "2026-06-21",
+    "mes": "2026-06",
+    "porcentaje": 93.1
+  },
+  {
+    "checklistId": "CHK-000688",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001338",
+    "fecha": "2026-01-04",
+    "mes": "2026-01",
+    "porcentaje": 89.1
+  },
+  {
+    "checklistId": "CHK-000689",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-001782",
+    "fecha": "2026-03-24",
+    "mes": "2026-03",
+    "porcentaje": 76.2
+  },
+  {
+    "checklistId": "CHK-000690",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000986",
+    "fecha": "2025-02-13",
+    "mes": "2025-02",
+    "porcentaje": 76.1
+  },
+  {
+    "checklistId": "CHK-000691",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003912",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "porcentaje": 75.0
+  },
+  {
+    "checklistId": "CHK-000692",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000768",
+    "fecha": "2026-01-19",
+    "mes": "2026-01",
+    "porcentaje": 93.5
+  },
+  {
+    "checklistId": "CHK-000693",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001980",
+    "fecha": "2026-03-27",
+    "mes": "2026-03",
+    "porcentaje": 75.4
+  },
+  {
+    "checklistId": "CHK-000694",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003721",
+    "fecha": "2025-07-07",
+    "mes": "2025-07",
+    "porcentaje": 85.1
+  },
+  {
+    "checklistId": "CHK-000695",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003032",
+    "fecha": "2026-10-03",
+    "mes": "2026-10",
+    "porcentaje": 77.0
+  },
+  {
+    "checklistId": "CHK-000696",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000553",
+    "fecha": "2025-09-12",
+    "mes": "2025-09",
+    "porcentaje": 93.9
+  },
+  {
+    "checklistId": "CHK-000697",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-002731",
+    "fecha": "2025-08-05",
+    "mes": "2025-08",
+    "porcentaje": 76.2
+  },
+  {
+    "checklistId": "CHK-000698",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000494",
+    "fecha": "2025-01-08",
+    "mes": "2025-01",
+    "porcentaje": 88.5
+  },
+  {
+    "checklistId": "CHK-000699",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000867",
+    "fecha": "2025-05-04",
+    "mes": "2025-05",
+    "porcentaje": 98.7
+  },
+  {
+    "checklistId": "CHK-000700",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-001875",
+    "fecha": "2026-04-11",
+    "mes": "2026-04",
+    "porcentaje": 80.9
+  },
+  {
+    "checklistId": "CHK-000701",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000866",
+    "fecha": "2024-12-11",
+    "mes": "2024-12",
+    "porcentaje": 79.3
+  },
+  {
+    "checklistId": "CHK-000702",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001564",
+    "fecha": "2026-06-02",
+    "mes": "2026-06",
+    "porcentaje": 99.4
+  },
+  {
+    "checklistId": "CHK-000703",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-004131",
+    "fecha": "2025-03-06",
+    "mes": "2025-03",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000704",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-002856",
+    "fecha": "2025-01-09",
+    "mes": "2025-01",
+    "porcentaje": 86.4
+  },
+  {
+    "checklistId": "CHK-000705",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002972",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "porcentaje": 91.8
+  },
+  {
+    "checklistId": "CHK-000706",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-000144",
+    "fecha": "2025-11-03",
+    "mes": "2025-11",
+    "porcentaje": 78.5
+  },
+  {
+    "checklistId": "CHK-000707",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002909",
+    "fecha": "2024-12-29",
+    "mes": "2024-12",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000708",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-001756",
+    "fecha": "2025-12-14",
+    "mes": "2025-12",
+    "porcentaje": 78.1
+  },
+  {
+    "checklistId": "CHK-000709",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-001875",
+    "fecha": "2025-12-24",
+    "mes": "2025-12",
+    "porcentaje": 89.4
+  },
+  {
+    "checklistId": "CHK-000710",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000610",
+    "fecha": "2025-02-15",
+    "mes": "2025-02",
+    "porcentaje": 100.0
+  },
+  {
+    "checklistId": "CHK-000711",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003344",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "porcentaje": 79.4
+  },
+  {
+    "checklistId": "CHK-000712",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000589",
+    "fecha": "2026-01-30",
+    "mes": "2026-01",
+    "porcentaje": 96.1
+  },
+  {
+    "checklistId": "CHK-000713",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-001305",
+    "fecha": "2026-07-23",
+    "mes": "2026-07",
+    "porcentaje": 87.9
+  },
+  {
+    "checklistId": "CHK-000714",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000641",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000715",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004292",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "porcentaje": 79.9
+  },
+  {
+    "checklistId": "CHK-000716",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001571",
+    "fecha": "2026-02-24",
+    "mes": "2026-02",
+    "porcentaje": 71.6
+  },
+  {
+    "checklistId": "CHK-000717",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000582",
+    "fecha": "2026-06-08",
+    "mes": "2026-06",
+    "porcentaje": 83.2
+  },
+  {
+    "checklistId": "CHK-000718",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-003841",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "porcentaje": 71.8
+  },
+  {
+    "checklistId": "CHK-000719",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004069",
+    "fecha": "2025-02-08",
+    "mes": "2025-02",
+    "porcentaje": 92.1
+  },
+  {
+    "checklistId": "CHK-000720",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003151",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "porcentaje": 76.3
+  },
+  {
+    "checklistId": "CHK-000721",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-003370",
+    "fecha": "2026-08-07",
+    "mes": "2026-08",
+    "porcentaje": 75.6
+  },
+  {
+    "checklistId": "CHK-000722",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000189",
+    "fecha": "2025-01-05",
+    "mes": "2025-01",
+    "porcentaje": 88.9
+  },
+  {
+    "checklistId": "CHK-000723",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003030",
+    "fecha": "2026-11-10",
+    "mes": "2026-11",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000724",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004377",
+    "fecha": "2026-10-21",
+    "mes": "2026-10",
+    "porcentaje": 81.0
+  },
+  {
+    "checklistId": "CHK-000725",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-003341",
+    "fecha": "2026-10-07",
+    "mes": "2026-10",
+    "porcentaje": 72.6
+  },
+  {
+    "checklistId": "CHK-000726",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-002788",
+    "fecha": "2026-08-13",
+    "mes": "2026-08",
+    "porcentaje": 71.7
+  },
+  {
+    "checklistId": "CHK-000727",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-001240",
+    "fecha": "2026-10-19",
+    "mes": "2026-10",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000728",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002940",
+    "fecha": "2026-11-05",
+    "mes": "2026-11",
+    "porcentaje": 81.6
+  },
+  {
+    "checklistId": "CHK-000729",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000574",
+    "fecha": "2024-12-18",
+    "mes": "2024-12",
+    "porcentaje": 97.9
+  },
+  {
+    "checklistId": "CHK-000730",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001240",
+    "fecha": "2025-06-24",
+    "mes": "2025-06",
+    "porcentaje": 81.2
+  },
+  {
+    "checklistId": "CHK-000731",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-002286",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "porcentaje": 70.1
+  },
+  {
+    "checklistId": "CHK-000732",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000603",
+    "fecha": "2026-06-18",
+    "mes": "2026-06",
+    "porcentaje": 75.5
+  },
+  {
+    "checklistId": "CHK-000733",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-000165",
+    "fecha": "2025-04-26",
+    "mes": "2025-04",
+    "porcentaje": 92.6
+  },
+  {
+    "checklistId": "CHK-000734",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003562",
+    "fecha": "2026-01-15",
+    "mes": "2026-01",
+    "porcentaje": 78.7
+  },
+  {
+    "checklistId": "CHK-000735",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-001411",
+    "fecha": "2025-10-01",
+    "mes": "2025-10",
+    "porcentaje": 97.5
+  },
+  {
+    "checklistId": "CHK-000736",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002632",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "porcentaje": 88.7
+  },
+  {
+    "checklistId": "CHK-000737",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003882",
+    "fecha": "2026-10-04",
+    "mes": "2026-10",
+    "porcentaje": 82.6
+  },
+  {
+    "checklistId": "CHK-000738",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001014",
+    "fecha": "2025-04-15",
+    "mes": "2025-04",
+    "porcentaje": 79.7
+  },
+  {
+    "checklistId": "CHK-000739",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000450",
+    "fecha": "2026-03-30",
+    "mes": "2026-03",
+    "porcentaje": 86.8
+  },
+  {
+    "checklistId": "CHK-000740",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-004591",
+    "fecha": "2026-01-06",
+    "mes": "2026-01",
+    "porcentaje": 84.7
+  },
+  {
+    "checklistId": "CHK-000741",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-003852",
+    "fecha": "2026-08-15",
+    "mes": "2026-08",
+    "porcentaje": 96.8
+  },
+  {
+    "checklistId": "CHK-000742",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000880",
+    "fecha": "2025-05-18",
+    "mes": "2025-05",
+    "porcentaje": 96.5
+  },
+  {
+    "checklistId": "CHK-000743",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-000318",
+    "fecha": "2026-09-30",
+    "mes": "2026-09",
+    "porcentaje": 91.5
+  },
+  {
+    "checklistId": "CHK-000744",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003510",
+    "fecha": "2026-08-11",
+    "mes": "2026-08",
+    "porcentaje": 95.8
+  },
+  {
+    "checklistId": "CHK-000745",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000030",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000746",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-000508",
+    "fecha": "2025-10-29",
+    "mes": "2025-10",
+    "porcentaje": 81.6
+  },
+  {
+    "checklistId": "CHK-000747",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-004748",
+    "fecha": "2024-12-28",
+    "mes": "2024-12",
+    "porcentaje": 76.2
+  },
+  {
+    "checklistId": "CHK-000748",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002718",
+    "fecha": "2025-09-23",
+    "mes": "2025-09",
+    "porcentaje": 82.9
+  },
+  {
+    "checklistId": "CHK-000749",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001261",
+    "fecha": "2026-04-25",
+    "mes": "2026-04",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000750",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001345",
+    "fecha": "2024-12-21",
+    "mes": "2024-12",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000751",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001794",
+    "fecha": "2026-10-12",
+    "mes": "2026-10",
+    "porcentaje": 98.0
+  },
+  {
+    "checklistId": "CHK-000752",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001182",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000753",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-004552",
+    "fecha": "2025-11-20",
+    "mes": "2025-11",
+    "porcentaje": 84.8
+  },
+  {
+    "checklistId": "CHK-000754",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004684",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "porcentaje": 82.1
+  },
+  {
+    "checklistId": "CHK-000755",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-001891",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "porcentaje": 95.4
+  },
+  {
+    "checklistId": "CHK-000756",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-003955",
+    "fecha": "2026-04-16",
+    "mes": "2026-04",
+    "porcentaje": 84.3
+  },
+  {
+    "checklistId": "CHK-000757",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-000473",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000758",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000640",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "porcentaje": 75.0
+  },
+  {
+    "checklistId": "CHK-000759",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002023",
+    "fecha": "2025-06-12",
+    "mes": "2025-06",
+    "porcentaje": 88.5
+  },
+  {
+    "checklistId": "CHK-000760",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-002670",
+    "fecha": "2025-09-21",
+    "mes": "2025-09",
+    "porcentaje": 81.7
+  },
+  {
+    "checklistId": "CHK-000761",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-001056",
+    "fecha": "2025-10-22",
+    "mes": "2025-10",
+    "porcentaje": 71.9
+  },
+  {
+    "checklistId": "CHK-000762",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-002249",
+    "fecha": "2025-01-19",
+    "mes": "2025-01",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000763",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003627",
+    "fecha": "2025-08-11",
+    "mes": "2025-08",
+    "porcentaje": 81.7
+  },
+  {
+    "checklistId": "CHK-000764",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002892",
+    "fecha": "2025-04-12",
+    "mes": "2025-04",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000765",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-000831",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "porcentaje": 96.4
+  },
+  {
+    "checklistId": "CHK-000766",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-002664",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000767",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-003582",
+    "fecha": "2026-10-14",
+    "mes": "2026-10",
+    "porcentaje": 81.2
+  },
+  {
+    "checklistId": "CHK-000768",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-001968",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "porcentaje": 75.0
+  },
+  {
+    "checklistId": "CHK-000769",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003663",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000770",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-001021",
+    "fecha": "2025-12-17",
+    "mes": "2025-12",
+    "porcentaje": 78.8
+  },
+  {
+    "checklistId": "CHK-000771",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-000753",
+    "fecha": "2025-04-24",
+    "mes": "2025-04",
+    "porcentaje": 84.3
+  },
+  {
+    "checklistId": "CHK-000772",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003119",
+    "fecha": "2026-11-17",
+    "mes": "2026-11",
+    "porcentaje": 75.6
+  },
+  {
+    "checklistId": "CHK-000773",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004289",
+    "fecha": "2026-05-29",
+    "mes": "2026-05",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000774",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002966",
+    "fecha": "2025-11-11",
+    "mes": "2025-11",
+    "porcentaje": 89.2
+  },
+  {
+    "checklistId": "CHK-000775",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000988",
+    "fecha": "2025-10-18",
+    "mes": "2025-10",
+    "porcentaje": 95.2
+  },
+  {
+    "checklistId": "CHK-000776",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001206",
+    "fecha": "2025-03-05",
+    "mes": "2025-03",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000777",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-004011",
+    "fecha": "2025-09-24",
+    "mes": "2025-09",
+    "porcentaje": 80.0
+  },
+  {
+    "checklistId": "CHK-000778",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-002993",
+    "fecha": "2025-10-31",
+    "mes": "2025-10",
+    "porcentaje": 73.1
+  },
+  {
+    "checklistId": "CHK-000779",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-003993",
+    "fecha": "2026-01-25",
+    "mes": "2026-01",
+    "porcentaje": 80.8
+  },
+  {
+    "checklistId": "CHK-000780",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002054",
+    "fecha": "2025-08-02",
+    "mes": "2025-08",
+    "porcentaje": 95.0
+  },
+  {
+    "checklistId": "CHK-000781",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-001835",
+    "fecha": "2026-06-04",
+    "mes": "2026-06",
+    "porcentaje": 74.0
+  },
+  {
+    "checklistId": "CHK-000782",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-003292",
+    "fecha": "2025-07-15",
+    "mes": "2025-07",
+    "porcentaje": 98.7
+  },
+  {
+    "checklistId": "CHK-000783",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004160",
+    "fecha": "2026-06-25",
+    "mes": "2026-06",
+    "porcentaje": 86.7
+  },
+  {
+    "checklistId": "CHK-000784",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003185",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "porcentaje": 70.2
+  },
+  {
+    "checklistId": "CHK-000785",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001122",
+    "fecha": "2025-12-14",
+    "mes": "2025-12",
+    "porcentaje": 90.9
+  },
+  {
+    "checklistId": "CHK-000786",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000103",
+    "fecha": "2026-06-17",
+    "mes": "2026-06",
+    "porcentaje": 85.6
+  },
+  {
+    "checklistId": "CHK-000787",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000676",
+    "fecha": "2026-05-05",
+    "mes": "2026-05",
+    "porcentaje": 97.8
+  },
+  {
+    "checklistId": "CHK-000788",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002920",
+    "fecha": "2025-08-04",
+    "mes": "2025-08",
+    "porcentaje": 94.4
+  },
+  {
+    "checklistId": "CHK-000789",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002154",
+    "fecha": "2026-10-09",
+    "mes": "2026-10",
+    "porcentaje": 82.6
+  },
+  {
+    "checklistId": "CHK-000790",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-001972",
+    "fecha": "2025-02-01",
+    "mes": "2025-02",
+    "porcentaje": 90.6
+  },
+  {
+    "checklistId": "CHK-000791",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-002198",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "porcentaje": 81.1
+  },
+  {
+    "checklistId": "CHK-000792",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000437",
+    "fecha": "2026-06-23",
+    "mes": "2026-06",
+    "porcentaje": 86.1
+  },
+  {
+    "checklistId": "CHK-000793",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000251",
+    "fecha": "2026-08-01",
+    "mes": "2026-08",
+    "porcentaje": 71.1
+  },
+  {
+    "checklistId": "CHK-000794",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-002415",
+    "fecha": "2026-04-07",
+    "mes": "2026-04",
+    "porcentaje": 99.7
+  },
+  {
+    "checklistId": "CHK-000795",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-002371",
+    "fecha": "2025-01-21",
+    "mes": "2025-01",
+    "porcentaje": 95.0
+  },
+  {
+    "checklistId": "CHK-000796",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000365",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "porcentaje": 99.2
+  },
+  {
+    "checklistId": "CHK-000797",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-002878",
+    "fecha": "2025-02-27",
+    "mes": "2025-02",
+    "porcentaje": 80.4
+  },
+  {
+    "checklistId": "CHK-000798",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-004524",
+    "fecha": "2025-02-07",
+    "mes": "2025-02",
+    "porcentaje": 71.8
+  },
+  {
+    "checklistId": "CHK-000799",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003621",
+    "fecha": "2025-07-08",
+    "mes": "2025-07",
+    "porcentaje": 78.3
+  },
+  {
+    "checklistId": "CHK-000800",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-002294",
+    "fecha": "2026-09-04",
+    "mes": "2026-09",
+    "porcentaje": 86.7
+  },
+  {
+    "checklistId": "CHK-000801",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000882",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "porcentaje": 73.3
+  },
+  {
+    "checklistId": "CHK-000802",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003239",
+    "fecha": "2025-06-10",
+    "mes": "2025-06",
+    "porcentaje": 88.6
+  },
+  {
+    "checklistId": "CHK-000803",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-000801",
+    "fecha": "2025-08-28",
+    "mes": "2025-08",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000804",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-004304",
+    "fecha": "2026-08-24",
+    "mes": "2026-08",
+    "porcentaje": 85.1
+  },
+  {
+    "checklistId": "CHK-000805",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001223",
+    "fecha": "2026-05-09",
+    "mes": "2026-05",
+    "porcentaje": 74.7
+  },
+  {
+    "checklistId": "CHK-000806",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-003929",
+    "fecha": "2026-02-03",
+    "mes": "2026-02",
+    "porcentaje": 99.0
+  },
+  {
+    "checklistId": "CHK-000807",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003661",
+    "fecha": "2025-03-05",
+    "mes": "2025-03",
+    "porcentaje": 97.1
+  },
+  {
+    "checklistId": "CHK-000808",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-004594",
+    "fecha": "2025-10-14",
+    "mes": "2025-10",
+    "porcentaje": 90.9
+  },
+  {
+    "checklistId": "CHK-000809",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-003324",
+    "fecha": "2026-07-23",
+    "mes": "2026-07",
+    "porcentaje": 72.8
+  },
+  {
+    "checklistId": "CHK-000810",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002526",
+    "fecha": "2025-05-07",
+    "mes": "2025-05",
+    "porcentaje": 82.5
+  },
+  {
+    "checklistId": "CHK-000811",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-004294",
+    "fecha": "2025-12-08",
+    "mes": "2025-12",
+    "porcentaje": 76.5
+  },
+  {
+    "checklistId": "CHK-000812",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000296",
+    "fecha": "2026-09-10",
+    "mes": "2026-09",
+    "porcentaje": 83.4
+  },
+  {
+    "checklistId": "CHK-000813",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-001304",
+    "fecha": "2025-04-22",
+    "mes": "2025-04",
+    "porcentaje": 70.4
+  },
+  {
+    "checklistId": "CHK-000814",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000580",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "porcentaje": 84.7
+  },
+  {
+    "checklistId": "CHK-000815",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-000104",
+    "fecha": "2025-08-06",
+    "mes": "2025-08",
+    "porcentaje": 96.6
+  },
+  {
+    "checklistId": "CHK-000816",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-004388",
+    "fecha": "2024-12-13",
+    "mes": "2024-12",
+    "porcentaje": 79.3
+  },
+  {
+    "checklistId": "CHK-000817",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-002856",
+    "fecha": "2025-12-22",
+    "mes": "2025-12",
+    "porcentaje": 86.5
+  },
+  {
+    "checklistId": "CHK-000818",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000402",
+    "fecha": "2026-09-04",
+    "mes": "2026-09",
+    "porcentaje": 88.6
+  },
+  {
+    "checklistId": "CHK-000819",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003515",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "porcentaje": 95.4
+  },
+  {
+    "checklistId": "CHK-000820",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003871",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "porcentaje": 90.8
+  },
+  {
+    "checklistId": "CHK-000821",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000092",
+    "fecha": "2025-03-18",
+    "mes": "2025-03",
+    "porcentaje": 88.2
+  },
+  {
+    "checklistId": "CHK-000822",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-003284",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "porcentaje": 94.1
+  },
+  {
+    "checklistId": "CHK-000823",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-001772",
+    "fecha": "2026-02-04",
+    "mes": "2026-02",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000824",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-002316",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "porcentaje": 73.4
+  },
+  {
+    "checklistId": "CHK-000825",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-004914",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "porcentaje": 77.1
+  },
+  {
+    "checklistId": "CHK-000826",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-000254",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "porcentaje": 80.9
+  },
+  {
+    "checklistId": "CHK-000827",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-004857",
+    "fecha": "2025-08-13",
+    "mes": "2025-08",
+    "porcentaje": 77.3
+  },
+  {
+    "checklistId": "CHK-000828",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000402",
+    "fecha": "2026-11-14",
+    "mes": "2026-11",
+    "porcentaje": 96.9
+  },
+  {
+    "checklistId": "CHK-000829",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-002129",
+    "fecha": "2025-11-14",
+    "mes": "2025-11",
+    "porcentaje": 76.4
+  },
+  {
+    "checklistId": "CHK-000830",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002437",
+    "fecha": "2026-04-27",
+    "mes": "2026-04",
+    "porcentaje": 96.8
+  },
+  {
+    "checklistId": "CHK-000831",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-003584",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "porcentaje": 81.4
+  },
+  {
+    "checklistId": "CHK-000832",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003644",
+    "fecha": "2025-07-20",
+    "mes": "2025-07",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000833",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000997",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "porcentaje": 95.9
+  },
+  {
+    "checklistId": "CHK-000834",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-003268",
+    "fecha": "2026-07-02",
+    "mes": "2026-07",
+    "porcentaje": 92.9
+  },
+  {
+    "checklistId": "CHK-000835",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-004779",
+    "fecha": "2026-07-09",
+    "mes": "2026-07",
+    "porcentaje": 76.3
+  },
+  {
+    "checklistId": "CHK-000836",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003683",
+    "fecha": "2025-03-27",
+    "mes": "2025-03",
+    "porcentaje": 74.9
+  },
+  {
+    "checklistId": "CHK-000837",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002746",
+    "fecha": "2026-09-29",
+    "mes": "2026-09",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000838",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002106",
+    "fecha": "2026-05-28",
+    "mes": "2026-05",
+    "porcentaje": 84.0
+  },
+  {
+    "checklistId": "CHK-000839",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004332",
+    "fecha": "2026-06-01",
+    "mes": "2026-06",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000840",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-002022",
+    "fecha": "2026-08-31",
+    "mes": "2026-08",
+    "porcentaje": 79.4
+  },
+  {
+    "checklistId": "CHK-000841",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001663",
+    "fecha": "2025-08-22",
+    "mes": "2025-08",
+    "porcentaje": 94.7
+  },
+  {
+    "checklistId": "CHK-000842",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000696",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "porcentaje": 81.3
+  },
+  {
+    "checklistId": "CHK-000843",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002384",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "porcentaje": 78.0
+  },
+  {
+    "checklistId": "CHK-000844",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-003937",
+    "fecha": "2026-04-20",
+    "mes": "2026-04",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000845",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-004772",
+    "fecha": "2026-08-28",
+    "mes": "2026-08",
+    "porcentaje": 95.4
+  },
+  {
+    "checklistId": "CHK-000846",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-001389",
+    "fecha": "2025-02-09",
+    "mes": "2025-02",
+    "porcentaje": 82.6
+  },
+  {
+    "checklistId": "CHK-000847",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-001332",
+    "fecha": "2026-11-14",
+    "mes": "2026-11",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000848",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-000579",
+    "fecha": "2025-11-22",
+    "mes": "2025-11",
+    "porcentaje": 75.1
+  },
+  {
+    "checklistId": "CHK-000849",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000166",
+    "fecha": "2026-10-25",
+    "mes": "2026-10",
+    "porcentaje": 95.2
+  },
+  {
+    "checklistId": "CHK-000850",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-002884",
+    "fecha": "2025-04-13",
+    "mes": "2025-04",
+    "porcentaje": 82.4
+  },
+  {
+    "checklistId": "CHK-000851",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004939",
+    "fecha": "2026-10-18",
+    "mes": "2026-10",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000852",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-003796",
+    "fecha": "2026-07-09",
+    "mes": "2026-07",
+    "porcentaje": 89.1
+  },
+  {
+    "checklistId": "CHK-000853",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000396",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "porcentaje": 81.3
+  },
+  {
+    "checklistId": "CHK-000854",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-003460",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000855",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004409",
+    "fecha": "2026-06-06",
+    "mes": "2026-06",
+    "porcentaje": 82.0
+  },
+  {
+    "checklistId": "CHK-000856",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-003376",
+    "fecha": "2025-12-06",
+    "mes": "2025-12",
+    "porcentaje": 83.8
+  },
+  {
+    "checklistId": "CHK-000857",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-000953",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000858",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003888",
+    "fecha": "2024-12-15",
+    "mes": "2024-12",
+    "porcentaje": 83.7
+  },
+  {
+    "checklistId": "CHK-000859",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-001585",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "porcentaje": 95.6
+  },
+  {
+    "checklistId": "CHK-000860",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-003173",
+    "fecha": "2025-12-17",
+    "mes": "2025-12",
+    "porcentaje": 93.0
+  },
+  {
+    "checklistId": "CHK-000861",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-004245",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "porcentaje": 73.3
+  },
+  {
+    "checklistId": "CHK-000862",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000890",
+    "fecha": "2026-03-02",
+    "mes": "2026-03",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000863",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002852",
+    "fecha": "2026-05-14",
+    "mes": "2026-05",
+    "porcentaje": 96.2
+  },
+  {
+    "checklistId": "CHK-000864",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000797",
+    "fecha": "2025-04-14",
+    "mes": "2025-04",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000865",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002510",
+    "fecha": "2026-09-26",
+    "mes": "2026-09",
+    "porcentaje": 71.9
+  },
+  {
+    "checklistId": "CHK-000866",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000659",
+    "fecha": "2026-07-09",
+    "mes": "2026-07",
+    "porcentaje": 76.1
+  },
+  {
+    "checklistId": "CHK-000867",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-002029",
+    "fecha": "2024-12-30",
+    "mes": "2024-12",
+    "porcentaje": 72.1
+  },
+  {
+    "checklistId": "CHK-000868",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004583",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "porcentaje": 87.1
+  },
+  {
+    "checklistId": "CHK-000869",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000592",
+    "fecha": "2026-05-31",
+    "mes": "2026-05",
+    "porcentaje": 70.0
+  },
+  {
+    "checklistId": "CHK-000870",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003449",
+    "fecha": "2025-04-20",
+    "mes": "2025-04",
+    "porcentaje": 79.9
+  },
+  {
+    "checklistId": "CHK-000871",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004702",
+    "fecha": "2025-10-28",
+    "mes": "2025-10",
+    "porcentaje": 89.4
+  },
+  {
+    "checklistId": "CHK-000872",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-001471",
+    "fecha": "2025-04-15",
+    "mes": "2025-04",
+    "porcentaje": 98.9
+  },
+  {
+    "checklistId": "CHK-000873",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-001819",
+    "fecha": "2025-07-19",
+    "mes": "2025-07",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000874",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003341",
+    "fecha": "2026-08-08",
+    "mes": "2026-08",
+    "porcentaje": 83.3
+  },
+  {
+    "checklistId": "CHK-000875",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-000255",
+    "fecha": "2025-01-20",
+    "mes": "2025-01",
+    "porcentaje": 89.3
+  },
+  {
+    "checklistId": "CHK-000876",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-002887",
+    "fecha": "2025-03-05",
+    "mes": "2025-03",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000877",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004573",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "porcentaje": 95.3
+  },
+  {
+    "checklistId": "CHK-000878",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001567",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "porcentaje": 88.8
+  },
+  {
+    "checklistId": "CHK-000879",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000949",
+    "fecha": "2026-01-05",
+    "mes": "2026-01",
+    "porcentaje": 88.8
+  },
+  {
+    "checklistId": "CHK-000880",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-003120",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "porcentaje": 77.5
+  },
+  {
+    "checklistId": "CHK-000881",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-002299",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "porcentaje": 91.0
+  },
+  {
+    "checklistId": "CHK-000882",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-003314",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "porcentaje": 98.5
+  },
+  {
+    "checklistId": "CHK-000883",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-001803",
+    "fecha": "2025-01-10",
+    "mes": "2025-01",
+    "porcentaje": 97.7
+  },
+  {
+    "checklistId": "CHK-000884",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-004732",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000885",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-002685",
+    "fecha": "2025-10-04",
+    "mes": "2025-10",
+    "porcentaje": 94.3
+  },
+  {
+    "checklistId": "CHK-000886",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-002812",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "porcentaje": 78.2
+  },
+  {
+    "checklistId": "CHK-000887",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001535",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "porcentaje": 80.5
+  },
+  {
+    "checklistId": "CHK-000888",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-003062",
+    "fecha": "2026-10-29",
+    "mes": "2026-10",
+    "porcentaje": 79.0
+  },
+  {
+    "checklistId": "CHK-000889",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-000747",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000890",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002612",
+    "fecha": "2026-02-14",
+    "mes": "2026-02",
+    "porcentaje": 83.7
+  },
+  {
+    "checklistId": "CHK-000891",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003281",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "porcentaje": 89.0
+  },
+  {
+    "checklistId": "CHK-000892",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-003256",
+    "fecha": "2025-06-10",
+    "mes": "2025-06",
+    "porcentaje": 84.5
+  },
+  {
+    "checklistId": "CHK-000893",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001419",
+    "fecha": "2025-06-15",
+    "mes": "2025-06",
+    "porcentaje": 98.4
+  },
+  {
+    "checklistId": "CHK-000894",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001606",
+    "fecha": "2025-06-23",
+    "mes": "2025-06",
+    "porcentaje": 77.2
+  },
+  {
+    "checklistId": "CHK-000895",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000061",
+    "fecha": "2025-08-23",
+    "mes": "2025-08",
+    "porcentaje": 88.4
+  },
+  {
+    "checklistId": "CHK-000896",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-000606",
+    "fecha": "2025-03-06",
+    "mes": "2025-03",
+    "porcentaje": 72.5
+  },
+  {
+    "checklistId": "CHK-000897",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004460",
+    "fecha": "2026-11-21",
+    "mes": "2026-11",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000898",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-004130",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "porcentaje": 72.6
+  },
+  {
+    "checklistId": "CHK-000899",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-002969",
+    "fecha": "2026-04-01",
+    "mes": "2026-04",
+    "porcentaje": 78.0
+  },
+  {
+    "checklistId": "CHK-000900",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-000405",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "porcentaje": 75.1
+  },
+  {
+    "checklistId": "CHK-000901",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-003317",
+    "fecha": "2025-06-05",
+    "mes": "2025-06",
+    "porcentaje": 78.7
+  },
+  {
+    "checklistId": "CHK-000902",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-000948",
+    "fecha": "2025-07-13",
+    "mes": "2025-07",
+    "porcentaje": 85.4
+  },
+  {
+    "checklistId": "CHK-000903",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-000933",
+    "fecha": "2025-11-24",
+    "mes": "2025-11",
+    "porcentaje": 82.9
+  },
+  {
+    "checklistId": "CHK-000904",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000444",
+    "fecha": "2025-01-14",
+    "mes": "2025-01",
+    "porcentaje": 77.7
+  },
+  {
+    "checklistId": "CHK-000905",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-003771",
+    "fecha": "2026-10-04",
+    "mes": "2026-10",
+    "porcentaje": 88.0
+  },
+  {
+    "checklistId": "CHK-000906",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-001091",
+    "fecha": "2025-02-16",
+    "mes": "2025-02",
+    "porcentaje": 94.2
+  },
+  {
+    "checklistId": "CHK-000907",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004613",
+    "fecha": "2026-03-07",
+    "mes": "2026-03",
+    "porcentaje": 87.8
+  },
+  {
+    "checklistId": "CHK-000908",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000387",
+    "fecha": "2025-03-15",
+    "mes": "2025-03",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000909",
+    "personaId": "ELEM-004",
+    "servicioId": "SRV-000898",
+    "fecha": "2025-07-02",
+    "mes": "2025-07",
+    "porcentaje": 95.5
+  },
+  {
+    "checklistId": "CHK-000910",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-001720",
+    "fecha": "2026-05-04",
+    "mes": "2026-05",
+    "porcentaje": 87.7
+  },
+  {
+    "checklistId": "CHK-000911",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-001602",
+    "fecha": "2026-06-30",
+    "mes": "2026-06",
+    "porcentaje": 91.6
+  },
+  {
+    "checklistId": "CHK-000912",
+    "personaId": "SUP-005",
+    "servicioId": "SRV-004393",
+    "fecha": "2026-02-25",
+    "mes": "2026-02",
+    "porcentaje": 96.9
+  },
+  {
+    "checklistId": "CHK-000913",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-004783",
+    "fecha": "2025-09-21",
+    "mes": "2025-09",
+    "porcentaje": 82.8
+  },
+  {
+    "checklistId": "CHK-000914",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-000543",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "porcentaje": 83.0
+  },
+  {
+    "checklistId": "CHK-000915",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-003115",
+    "fecha": "2026-05-17",
+    "mes": "2026-05",
+    "porcentaje": 79.4
+  },
+  {
+    "checklistId": "CHK-000916",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-003388",
+    "fecha": "2026-05-30",
+    "mes": "2026-05",
+    "porcentaje": 79.0
+  },
+  {
+    "checklistId": "CHK-000917",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-002906",
+    "fecha": "2026-11-06",
+    "mes": "2026-11",
+    "porcentaje": 82.7
+  },
+  {
+    "checklistId": "CHK-000918",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-003816",
+    "fecha": "2025-08-18",
+    "mes": "2025-08",
+    "porcentaje": 83.8
+  },
+  {
+    "checklistId": "CHK-000919",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-003226",
+    "fecha": "2025-05-02",
+    "mes": "2025-05",
+    "porcentaje": 96.8
+  },
+  {
+    "checklistId": "CHK-000920",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-001143",
+    "fecha": "2026-07-06",
+    "mes": "2026-07",
+    "porcentaje": 85.8
+  },
+  {
+    "checklistId": "CHK-000921",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-002493",
+    "fecha": "2025-10-30",
+    "mes": "2025-10",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000922",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004798",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "porcentaje": 78.8
+  },
+  {
+    "checklistId": "CHK-000923",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000683",
+    "fecha": "2026-03-01",
+    "mes": "2026-03",
+    "porcentaje": 89.9
+  },
+  {
+    "checklistId": "CHK-000924",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003276",
+    "fecha": "2026-09-13",
+    "mes": "2026-09",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000925",
+    "personaId": "CHOFER-DEMO-001",
+    "servicioId": "SRV-000158",
+    "fecha": "2026-10-19",
+    "mes": "2026-10",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000926",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-000049",
+    "fecha": "2025-06-16",
+    "mes": "2025-06",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000927",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-000522",
+    "fecha": "2025-06-10",
+    "mes": "2025-06",
+    "porcentaje": 75.3
+  },
+  {
+    "checklistId": "CHK-000928",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-002690",
+    "fecha": "2025-08-05",
+    "mes": "2025-08",
+    "porcentaje": 99.8
+  },
+  {
+    "checklistId": "CHK-000929",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003748",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "porcentaje": 75.2
+  },
+  {
+    "checklistId": "CHK-000930",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-001865",
+    "fecha": "2025-01-17",
+    "mes": "2025-01",
+    "porcentaje": 71.6
+  },
+  {
+    "checklistId": "CHK-000931",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000489",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "porcentaje": 75.3
+  },
+  {
+    "checklistId": "CHK-000932",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000360",
+    "fecha": "2025-02-06",
+    "mes": "2025-02",
+    "porcentaje": 95.1
+  },
+  {
+    "checklistId": "CHK-000933",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-000460",
+    "fecha": "2025-07-11",
+    "mes": "2025-07",
+    "porcentaje": 72.4
+  },
+  {
+    "checklistId": "CHK-000934",
+    "personaId": "CHOFER-DEMO-009",
+    "servicioId": "SRV-002334",
+    "fecha": "2025-09-02",
+    "mes": "2025-09",
+    "porcentaje": 74.2
+  },
+  {
+    "checklistId": "CHK-000935",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001082",
+    "fecha": "2024-12-25",
+    "mes": "2024-12",
+    "porcentaje": 82.7
+  },
+  {
+    "checklistId": "CHK-000936",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003886",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "porcentaje": 90.4
+  },
+  {
+    "checklistId": "CHK-000937",
+    "personaId": "ELEM-002",
+    "servicioId": "SRV-004572",
+    "fecha": "2025-11-13",
+    "mes": "2025-11",
+    "porcentaje": 85.5
+  },
+  {
+    "checklistId": "CHK-000938",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-002118",
+    "fecha": "2026-03-08",
+    "mes": "2026-03",
+    "porcentaje": 73.5
+  },
+  {
+    "checklistId": "CHK-000939",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-000667",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "porcentaje": 86.9
+  },
+  {
+    "checklistId": "CHK-000940",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-003961",
+    "fecha": "2026-06-08",
+    "mes": "2026-06",
+    "porcentaje": 72.8
+  },
+  {
+    "checklistId": "CHK-000941",
+    "personaId": "ELEM-015",
+    "servicioId": "SRV-001775",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "porcentaje": 74.3
+  },
+  {
+    "checklistId": "CHK-000942",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-004019",
+    "fecha": "2026-07-08",
+    "mes": "2026-07",
+    "porcentaje": 76.9
+  },
+  {
+    "checklistId": "CHK-000943",
+    "personaId": "CHOFER-DEMO-008",
+    "servicioId": "SRV-004429",
+    "fecha": "2025-02-12",
+    "mes": "2025-02",
+    "porcentaje": 73.9
+  },
+  {
+    "checklistId": "CHK-000944",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-004237",
+    "fecha": "2025-11-27",
+    "mes": "2025-11",
+    "porcentaje": 97.4
+  },
+  {
+    "checklistId": "CHK-000945",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-000009",
+    "fecha": "2026-02-26",
+    "mes": "2026-02",
+    "porcentaje": 76.7
+  },
+  {
+    "checklistId": "CHK-000946",
+    "personaId": "CHOFER-DEMO-006",
+    "servicioId": "SRV-004110",
+    "fecha": "2025-12-24",
+    "mes": "2025-12",
+    "porcentaje": 94.6
+  },
+  {
+    "checklistId": "CHK-000947",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-004772",
+    "fecha": "2025-09-14",
+    "mes": "2025-09",
+    "porcentaje": 90.7
+  },
+  {
+    "checklistId": "CHK-000948",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000709",
+    "fecha": "2025-06-11",
+    "mes": "2025-06",
+    "porcentaje": 86.0
+  },
+  {
+    "checklistId": "CHK-000949",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-001150",
+    "fecha": "2025-05-20",
+    "mes": "2025-05",
+    "porcentaje": 79.1
+  },
+  {
+    "checklistId": "CHK-000950",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-003705",
+    "fecha": "2025-08-03",
+    "mes": "2025-08",
+    "porcentaje": 80.4
+  },
+  {
+    "checklistId": "CHK-000951",
+    "personaId": "SUP-001",
+    "servicioId": "SRV-000349",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "porcentaje": 84.5
+  },
+  {
+    "checklistId": "CHK-000952",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003237",
+    "fecha": "2025-06-01",
+    "mes": "2025-06",
+    "porcentaje": 97.6
+  },
+  {
+    "checklistId": "CHK-000953",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001791",
+    "fecha": "2024-12-29",
+    "mes": "2024-12",
+    "porcentaje": 73.0
+  },
+  {
+    "checklistId": "CHK-000954",
+    "personaId": "SUP-003",
+    "servicioId": "SRV-004761",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "porcentaje": 77.2
+  },
+  {
+    "checklistId": "CHK-000955",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-001860",
+    "fecha": "2026-09-25",
+    "mes": "2026-09",
+    "porcentaje": 92.2
+  },
+  {
+    "checklistId": "CHK-000956",
+    "personaId": "SUP-004",
+    "servicioId": "SRV-000641",
+    "fecha": "2026-03-18",
+    "mes": "2026-03",
+    "porcentaje": 97.2
+  },
+  {
+    "checklistId": "CHK-000957",
+    "personaId": "ELEM-001",
+    "servicioId": "SRV-001404",
+    "fecha": "2025-09-04",
+    "mes": "2025-09",
+    "porcentaje": 80.9
+  },
+  {
+    "checklistId": "CHK-000958",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-004266",
+    "fecha": "2026-01-28",
+    "mes": "2026-01",
+    "porcentaje": 75.8
+  },
+  {
+    "checklistId": "CHK-000959",
+    "personaId": "ELEM-013",
+    "servicioId": "SRV-000744",
+    "fecha": "2026-04-24",
+    "mes": "2026-04",
+    "porcentaje": 71.4
+  },
+  {
+    "checklistId": "CHK-000960",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-001546",
+    "fecha": "2025-07-07",
+    "mes": "2025-07",
+    "porcentaje": 83.8
+  },
+  {
+    "checklistId": "CHK-000961",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000056",
+    "fecha": "2026-06-09",
+    "mes": "2026-06",
+    "porcentaje": 79.7
+  },
+  {
+    "checklistId": "CHK-000962",
+    "personaId": "ELEM-019",
+    "servicioId": "SRV-000413",
+    "fecha": "2025-03-23",
+    "mes": "2025-03",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000963",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-004862",
+    "fecha": "2025-12-01",
+    "mes": "2025-12",
+    "porcentaje": 91.3
+  },
+  {
+    "checklistId": "CHK-000964",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-000341",
+    "fecha": "2026-01-23",
+    "mes": "2026-01",
+    "porcentaje": 82.5
+  },
+  {
+    "checklistId": "CHK-000965",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-004969",
+    "fecha": "2025-03-25",
+    "mes": "2025-03",
+    "porcentaje": 87.2
+  },
+  {
+    "checklistId": "CHK-000966",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-001963",
+    "fecha": "2025-04-10",
+    "mes": "2025-04",
+    "porcentaje": 76.3
+  },
+  {
+    "checklistId": "CHK-000967",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-000438",
+    "fecha": "2026-03-08",
+    "mes": "2026-03",
+    "porcentaje": 92.8
+  },
+  {
+    "checklistId": "CHK-000968",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003699",
+    "fecha": "2026-09-25",
+    "mes": "2026-09",
+    "porcentaje": 75.4
+  },
+  {
+    "checklistId": "CHK-000969",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004369",
+    "fecha": "2026-03-30",
+    "mes": "2026-03",
+    "porcentaje": 90.6
+  },
+  {
+    "checklistId": "CHK-000970",
+    "personaId": "CHOFER-DEMO-007",
+    "servicioId": "SRV-000844",
+    "fecha": "2025-06-21",
+    "mes": "2025-06",
+    "porcentaje": 75.1
+  },
+  {
+    "checklistId": "CHK-000971",
+    "personaId": "ELEM-014",
+    "servicioId": "SRV-002392",
+    "fecha": "2025-06-01",
+    "mes": "2025-06",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000972",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-002928",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "porcentaje": 97.8
+  },
+  {
+    "checklistId": "CHK-000973",
+    "personaId": "ELEM-020",
+    "servicioId": "SRV-003779",
+    "fecha": "2026-03-15",
+    "mes": "2026-03",
+    "porcentaje": 98.6
+  },
+  {
+    "checklistId": "CHK-000974",
+    "personaId": "ELEM-008",
+    "servicioId": "SRV-002800",
+    "fecha": "2024-12-22",
+    "mes": "2024-12",
+    "porcentaje": 93.7
+  },
+  {
+    "checklistId": "CHK-000975",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-003883",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "porcentaje": 78.0
+  },
+  {
+    "checklistId": "CHK-000976",
+    "personaId": "ELEM-010",
+    "servicioId": "SRV-003238",
+    "fecha": "2025-09-13",
+    "mes": "2025-09",
+    "porcentaje": 92.3
+  },
+  {
+    "checklistId": "CHK-000977",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002101",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "porcentaje": 75.7
+  },
+  {
+    "checklistId": "CHK-000978",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-003450",
+    "fecha": "2026-09-03",
+    "mes": "2026-09",
+    "porcentaje": 99.8
+  },
+  {
+    "checklistId": "CHK-000979",
+    "personaId": "ELEM-006",
+    "servicioId": "SRV-000112",
+    "fecha": "2026-08-17",
+    "mes": "2026-08",
+    "porcentaje": 72.9
+  },
+  {
+    "checklistId": "CHK-000980",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-004736",
+    "fecha": "2025-03-29",
+    "mes": "2025-03",
+    "porcentaje": 95.9
+  },
+  {
+    "checklistId": "CHK-000981",
+    "personaId": "ELEM-011",
+    "servicioId": "SRV-000878",
+    "fecha": "2024-12-13",
+    "mes": "2024-12",
+    "porcentaje": 70.5
+  },
+  {
+    "checklistId": "CHK-000982",
+    "personaId": "SUP-002",
+    "servicioId": "SRV-000790",
+    "fecha": "2026-10-11",
+    "mes": "2026-10",
+    "porcentaje": 79.0
+  },
+  {
+    "checklistId": "CHK-000983",
+    "personaId": "ELEM-009",
+    "servicioId": "SRV-004516",
+    "fecha": "2025-08-16",
+    "mes": "2025-08",
+    "porcentaje": 71.1
+  },
+  {
+    "checklistId": "CHK-000984",
+    "personaId": "CHOFER-DEMO-002",
+    "servicioId": "SRV-004967",
+    "fecha": "2025-05-24",
+    "mes": "2025-05",
+    "porcentaje": 89.0
+  },
+  {
+    "checklistId": "CHK-000985",
+    "personaId": "ELEM-005",
+    "servicioId": "SRV-001026",
+    "fecha": "2026-10-16",
+    "mes": "2026-10",
+    "porcentaje": 75.5
+  },
+  {
+    "checklistId": "CHK-000986",
+    "personaId": "CHOFER-DEMO-005",
+    "servicioId": "SRV-004489",
+    "fecha": "2026-10-24",
+    "mes": "2026-10",
+    "porcentaje": 74.5
+  },
+  {
+    "checklistId": "CHK-000987",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-002287",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "porcentaje": 89.1
+  },
+  {
+    "checklistId": "CHK-000988",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-000921",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "porcentaje": 87.1
+  },
+  {
+    "checklistId": "CHK-000989",
+    "personaId": "CHOFER-DEMO-003",
+    "servicioId": "SRV-004031",
+    "fecha": "2026-03-22",
+    "mes": "2026-03",
+    "porcentaje": 74.8
+  },
+  {
+    "checklistId": "CHK-000990",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-004436",
+    "fecha": "2025-12-27",
+    "mes": "2025-12",
+    "porcentaje": 99.9
+  },
+  {
+    "checklistId": "CHK-000991",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001543",
+    "fecha": "2026-01-01",
+    "mes": "2026-01",
+    "porcentaje": 87.0
+  },
+  {
+    "checklistId": "CHK-000992",
+    "personaId": "ELEM-003",
+    "servicioId": "SRV-001850",
+    "fecha": "2025-12-19",
+    "mes": "2025-12",
+    "porcentaje": 94.0
+  },
+  {
+    "checklistId": "CHK-000993",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-002199",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "porcentaje": 88.3
+  },
+  {
+    "checklistId": "CHK-000994",
+    "personaId": "CHOFER-DEMO-004",
+    "servicioId": "SRV-001510",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "porcentaje": 74.4
+  },
+  {
+    "checklistId": "CHK-000995",
+    "personaId": "ELEM-018",
+    "servicioId": "SRV-000801",
+    "fecha": "2026-03-08",
+    "mes": "2026-03",
+    "porcentaje": 72.1
+  },
+  {
+    "checklistId": "CHK-000996",
+    "personaId": "ELEM-012",
+    "servicioId": "SRV-001093",
+    "fecha": "2026-11-19",
+    "mes": "2026-11",
+    "porcentaje": 85.0
+  },
+  {
+    "checklistId": "CHK-000997",
+    "personaId": "ELEM-017",
+    "servicioId": "SRV-004888",
+    "fecha": "2026-08-20",
+    "mes": "2026-08",
+    "porcentaje": 91.6
+  },
+  {
+    "checklistId": "CHK-000998",
+    "personaId": "ELEM-007",
+    "servicioId": "SRV-004525",
+    "fecha": "2026-03-24",
+    "mes": "2026-03",
+    "porcentaje": 85.0
+  },
+  {
+    "checklistId": "CHK-000999",
+    "personaId": "CHOFER-DEMO-010",
+    "servicioId": "SRV-002907",
+    "fecha": "2026-05-25",
+    "mes": "2026-05",
+    "porcentaje": 91.7
+  },
+  {
+    "checklistId": "CHK-001000",
+    "personaId": "ELEM-016",
+    "servicioId": "SRV-001430",
+    "fecha": "2026-03-06",
+    "mes": "2026-03",
+    "porcentaje": 88.3
+  }
+]

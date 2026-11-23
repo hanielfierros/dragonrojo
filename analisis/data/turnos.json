@@ -1,0 +1,2882 @@
+[
+  {
+    "personaId": "ELEM-001",
+    "mes": "2024-12",
+    "horas": 205.0,
+    "horasExtra": 13.1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-01",
+    "horas": 359.4,
+    "horasExtra": 23.2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-02",
+    "horas": 322.5,
+    "horasExtra": 24.8
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-03",
+    "horas": 272.7,
+    "horasExtra": 21.5
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-04",
+    "horas": 270.8,
+    "horasExtra": 14.2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-05",
+    "horas": 222.8,
+    "horasExtra": 11.0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-06",
+    "horas": 340.5,
+    "horasExtra": 20.6
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-07",
+    "horas": 281.6,
+    "horasExtra": 18.1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-08",
+    "horas": 241.3,
+    "horasExtra": 11.2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-09",
+    "horas": 282.9,
+    "horasExtra": 24.5
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-10",
+    "horas": 311.7,
+    "horasExtra": 36.8
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-11",
+    "horas": 317.9,
+    "horasExtra": 20.6
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2025-12",
+    "horas": 270.4,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-01",
+    "horas": 277.5,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-02",
+    "horas": 183.9,
+    "horasExtra": 7.2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-03",
+    "horas": 248.8,
+    "horasExtra": 14.5
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-04",
+    "horas": 274.6,
+    "horasExtra": 16.1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-05",
+    "horas": 308.6,
+    "horasExtra": 15.6
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-06",
+    "horas": 249.6,
+    "horasExtra": 11.1
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-07",
+    "horas": 273.5,
+    "horasExtra": 6.3
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-08",
+    "horas": 213.9,
+    "horasExtra": 25.4
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-09",
+    "horas": 283.8,
+    "horasExtra": 27.2
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-10",
+    "horas": 289.8,
+    "horasExtra": 15.6
+  },
+  {
+    "personaId": "ELEM-001",
+    "mes": "2026-11",
+    "horas": 245.1,
+    "horasExtra": 18.6
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2024-12",
+    "horas": 288.1,
+    "horasExtra": 18.2
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-01",
+    "horas": 265.9,
+    "horasExtra": 15.9
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-02",
+    "horas": 289.9,
+    "horasExtra": 20.7
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-03",
+    "horas": 304.7,
+    "horasExtra": 9.1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-04",
+    "horas": 203.3,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-05",
+    "horas": 368.1,
+    "horasExtra": 19.3
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-06",
+    "horas": 207.1,
+    "horasExtra": 12.9
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-07",
+    "horas": 239.2,
+    "horasExtra": 10.1
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-08",
+    "horas": 274.4,
+    "horasExtra": 16.0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-09",
+    "horas": 299.7,
+    "horasExtra": 24.5
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-10",
+    "horas": 247.9,
+    "horasExtra": 28.0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-11",
+    "horas": 291.2,
+    "horasExtra": 26.6
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2025-12",
+    "horas": 305.4,
+    "horasExtra": 19.6
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-01",
+    "horas": 346.4,
+    "horasExtra": 20.8
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-02",
+    "horas": 251.4,
+    "horasExtra": 13.5
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-03",
+    "horas": 257.5,
+    "horasExtra": 19.9
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-04",
+    "horas": 302.3,
+    "horasExtra": 9.3
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-05",
+    "horas": 255.9,
+    "horasExtra": 16.3
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-06",
+    "horas": 245.6,
+    "horasExtra": 15.4
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-07",
+    "horas": 247.4,
+    "horasExtra": 6.8
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-08",
+    "horas": 222.2,
+    "horasExtra": 9.0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-09",
+    "horas": 295.3,
+    "horasExtra": 22.7
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-10",
+    "horas": 302.6,
+    "horasExtra": 26.0
+  },
+  {
+    "personaId": "ELEM-002",
+    "mes": "2026-11",
+    "horas": 138.0,
+    "horasExtra": 9.3
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2024-12",
+    "horas": 217.3,
+    "horasExtra": 11.9
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-01",
+    "horas": 307.8,
+    "horasExtra": 29.1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-02",
+    "horas": 284.3,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-03",
+    "horas": 172.8,
+    "horasExtra": 22.0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-04",
+    "horas": 256.9,
+    "horasExtra": 18.4
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-05",
+    "horas": 300.6,
+    "horasExtra": 13.5
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-06",
+    "horas": 239.6,
+    "horasExtra": 11.8
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-07",
+    "horas": 361.1,
+    "horasExtra": 27.6
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-08",
+    "horas": 217.2,
+    "horasExtra": 16.6
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-09",
+    "horas": 260.0,
+    "horasExtra": 7.9
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-10",
+    "horas": 315.8,
+    "horasExtra": 23.4
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-11",
+    "horas": 236.7,
+    "horasExtra": 13.5
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2025-12",
+    "horas": 225.6,
+    "horasExtra": 7.5
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-01",
+    "horas": 309.6,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-02",
+    "horas": 250.2,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-03",
+    "horas": 265.7,
+    "horasExtra": 19.7
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-04",
+    "horas": 291.1,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-05",
+    "horas": 300.5,
+    "horasExtra": 18.3
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-06",
+    "horas": 231.1,
+    "horasExtra": 9.1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-07",
+    "horas": 299.0,
+    "horasExtra": 29.2
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-08",
+    "horas": 327.3,
+    "horasExtra": 16.0
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-09",
+    "horas": 347.4,
+    "horasExtra": 20.9
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-10",
+    "horas": 298.6,
+    "horasExtra": 28.1
+  },
+  {
+    "personaId": "ELEM-003",
+    "mes": "2026-11",
+    "horas": 255.0,
+    "horasExtra": 7.5
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2024-12",
+    "horas": 223.3,
+    "horasExtra": 9.1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-01",
+    "horas": 282.4,
+    "horasExtra": 37.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-02",
+    "horas": 201.9,
+    "horasExtra": 15.5
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-03",
+    "horas": 239.1,
+    "horasExtra": 7.1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-04",
+    "horas": 343.4,
+    "horasExtra": 17.4
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-05",
+    "horas": 209.4,
+    "horasExtra": 18.8
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-06",
+    "horas": 217.6,
+    "horasExtra": 6.3
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-07",
+    "horas": 264.5,
+    "horasExtra": 22.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-08",
+    "horas": 328.9,
+    "horasExtra": 20.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-09",
+    "horas": 308.3,
+    "horasExtra": 41.3
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-10",
+    "horas": 254.5,
+    "horasExtra": 23.1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-11",
+    "horas": 286.7,
+    "horasExtra": 22.6
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2025-12",
+    "horas": 276.3,
+    "horasExtra": 21.3
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-01",
+    "horas": 309.9,
+    "horasExtra": 19.9
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-02",
+    "horas": 257.8,
+    "horasExtra": 24.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-03",
+    "horas": 227.4,
+    "horasExtra": 13.2
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-04",
+    "horas": 274.6,
+    "horasExtra": 15.1
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-05",
+    "horas": 316.7,
+    "horasExtra": 12.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-06",
+    "horas": 322.8,
+    "horasExtra": 27.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-07",
+    "horas": 338.5,
+    "horasExtra": 18.5
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-08",
+    "horas": 256.1,
+    "horasExtra": 18.0
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-09",
+    "horas": 342.7,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-10",
+    "horas": 304.4,
+    "horasExtra": 16.3
+  },
+  {
+    "personaId": "ELEM-004",
+    "mes": "2026-11",
+    "horas": 206.9,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2024-12",
+    "horas": 280.1,
+    "horasExtra": 16.9
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-01",
+    "horas": 339.3,
+    "horasExtra": 19.8
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-02",
+    "horas": 226.0,
+    "horasExtra": 14.5
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-03",
+    "horas": 231.4,
+    "horasExtra": 21.6
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-04",
+    "horas": 286.9,
+    "horasExtra": 18.4
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-05",
+    "horas": 264.1,
+    "horasExtra": 9.4
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-06",
+    "horas": 276.8,
+    "horasExtra": 22.5
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-07",
+    "horas": 290.9,
+    "horasExtra": 8.1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-08",
+    "horas": 380.1,
+    "horasExtra": 26.0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-09",
+    "horas": 319.3,
+    "horasExtra": 18.8
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-10",
+    "horas": 303.4,
+    "horasExtra": 28.0
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-11",
+    "horas": 232.3,
+    "horasExtra": 19.1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2025-12",
+    "horas": 279.8,
+    "horasExtra": 30.4
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-01",
+    "horas": 199.2,
+    "horasExtra": 8.7
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-02",
+    "horas": 183.5,
+    "horasExtra": 14.1
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-03",
+    "horas": 354.2,
+    "horasExtra": 20.9
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-04",
+    "horas": 252.3,
+    "horasExtra": 17.8
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-05",
+    "horas": 235.1,
+    "horasExtra": 13.3
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-06",
+    "horas": 289.7,
+    "horasExtra": 28.2
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-07",
+    "horas": 295.2,
+    "horasExtra": 21.8
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-08",
+    "horas": 368.5,
+    "horasExtra": 38.5
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-09",
+    "horas": 232.1,
+    "horasExtra": 9.5
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-10",
+    "horas": 319.1,
+    "horasExtra": 16.9
+  },
+  {
+    "personaId": "ELEM-005",
+    "mes": "2026-11",
+    "horas": 158.4,
+    "horasExtra": 8.0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2024-12",
+    "horas": 288.5,
+    "horasExtra": 30.2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-01",
+    "horas": 245.3,
+    "horasExtra": 6.1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-02",
+    "horas": 295.9,
+    "horasExtra": 21.3
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-03",
+    "horas": 253.3,
+    "horasExtra": 20.5
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-04",
+    "horas": 282.8,
+    "horasExtra": 25.0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-05",
+    "horas": 325.8,
+    "horasExtra": 8.6
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-06",
+    "horas": 283.9,
+    "horasExtra": 17.8
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-07",
+    "horas": 277.9,
+    "horasExtra": 14.7
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-08",
+    "horas": 344.1,
+    "horasExtra": 24.6
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-09",
+    "horas": 176.3,
+    "horasExtra": 3.2
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-10",
+    "horas": 278.8,
+    "horasExtra": 22.6
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-11",
+    "horas": 269.7,
+    "horasExtra": 14.1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2025-12",
+    "horas": 350.2,
+    "horasExtra": 25.5
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-01",
+    "horas": 238.7,
+    "horasExtra": 15.1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-02",
+    "horas": 260.2,
+    "horasExtra": 11.5
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-03",
+    "horas": 210.6,
+    "horasExtra": 7.8
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-04",
+    "horas": 217.8,
+    "horasExtra": 15.6
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-05",
+    "horas": 209.3,
+    "horasExtra": 16.1
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-06",
+    "horas": 265.4,
+    "horasExtra": 19.0
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-07",
+    "horas": 252.4,
+    "horasExtra": 18.4
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-08",
+    "horas": 246.9,
+    "horasExtra": 16.9
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-09",
+    "horas": 241.8,
+    "horasExtra": 16.5
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-10",
+    "horas": 345.7,
+    "horasExtra": 31.9
+  },
+  {
+    "personaId": "ELEM-006",
+    "mes": "2026-11",
+    "horas": 225.2,
+    "horasExtra": 11.0
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2024-12",
+    "horas": 288.8,
+    "horasExtra": 11.2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-01",
+    "horas": 238.7,
+    "horasExtra": 16.1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-02",
+    "horas": 219.3,
+    "horasExtra": 5.9
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-03",
+    "horas": 171.4,
+    "horasExtra": 11.7
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-04",
+    "horas": 236.0,
+    "horasExtra": 17.6
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-05",
+    "horas": 361.8,
+    "horasExtra": 26.8
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-06",
+    "horas": 286.5,
+    "horasExtra": 25.8
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-07",
+    "horas": 275.9,
+    "horasExtra": 16.5
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-08",
+    "horas": 241.5,
+    "horasExtra": 14.1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-09",
+    "horas": 371.4,
+    "horasExtra": 18.9
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-10",
+    "horas": 291.0,
+    "horasExtra": 28.5
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-11",
+    "horas": 219.7,
+    "horasExtra": 17.2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2025-12",
+    "horas": 180.6,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-01",
+    "horas": 323.4,
+    "horasExtra": 22.1
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-02",
+    "horas": 271.9,
+    "horasExtra": 21.7
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-03",
+    "horas": 248.5,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-04",
+    "horas": 309.5,
+    "horasExtra": 30.5
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-05",
+    "horas": 281.1,
+    "horasExtra": 27.2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-06",
+    "horas": 228.4,
+    "horasExtra": 22.6
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-07",
+    "horas": 147.7,
+    "horasExtra": 4.6
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-08",
+    "horas": 240.1,
+    "horasExtra": 9.3
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-09",
+    "horas": 264.2,
+    "horasExtra": 14.4
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-10",
+    "horas": 277.6,
+    "horasExtra": 24.2
+  },
+  {
+    "personaId": "ELEM-007",
+    "mes": "2026-11",
+    "horas": 192.4,
+    "horasExtra": 6.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2024-12",
+    "horas": 259.4,
+    "horasExtra": 16.1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-01",
+    "horas": 224.4,
+    "horasExtra": 14.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-02",
+    "horas": 240.9,
+    "horasExtra": 23.1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-03",
+    "horas": 325.6,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-04",
+    "horas": 280.6,
+    "horasExtra": 13.1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-05",
+    "horas": 287.5,
+    "horasExtra": 18.0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-06",
+    "horas": 248.7,
+    "horasExtra": 9.1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-07",
+    "horas": 274.3,
+    "horasExtra": 10.8
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-08",
+    "horas": 303.5,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-09",
+    "horas": 232.3,
+    "horasExtra": 12.0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-10",
+    "horas": 205.2,
+    "horasExtra": 25.0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-11",
+    "horas": 331.6,
+    "horasExtra": 22.3
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2025-12",
+    "horas": 344.9,
+    "horasExtra": 26.5
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-01",
+    "horas": 215.9,
+    "horasExtra": 28.1
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-02",
+    "horas": 342.4,
+    "horasExtra": 19.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-03",
+    "horas": 276.7,
+    "horasExtra": 15.6
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-04",
+    "horas": 292.3,
+    "horasExtra": 22.7
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-05",
+    "horas": 318.9,
+    "horasExtra": 16.4
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-06",
+    "horas": 272.9,
+    "horasExtra": 13.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-07",
+    "horas": 335.6,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-08",
+    "horas": 286.1,
+    "horasExtra": 17.9
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-09",
+    "horas": 210.7,
+    "horasExtra": 14.6
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-10",
+    "horas": 276.0,
+    "horasExtra": 25.0
+  },
+  {
+    "personaId": "ELEM-008",
+    "mes": "2026-11",
+    "horas": 231.8,
+    "horasExtra": 19.3
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2024-12",
+    "horas": 231.8,
+    "horasExtra": 14.1
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-01",
+    "horas": 266.3,
+    "horasExtra": 12.5
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-02",
+    "horas": 216.0,
+    "horasExtra": 9.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-03",
+    "horas": 378.9,
+    "horasExtra": 26.6
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-04",
+    "horas": 316.3,
+    "horasExtra": 15.3
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-05",
+    "horas": 340.6,
+    "horasExtra": 28.0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-06",
+    "horas": 223.2,
+    "horasExtra": 14.9
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-07",
+    "horas": 218.7,
+    "horasExtra": 19.0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-08",
+    "horas": 325.9,
+    "horasExtra": 24.2
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-09",
+    "horas": 340.2,
+    "horasExtra": 16.0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-10",
+    "horas": 404.0,
+    "horasExtra": 23.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-11",
+    "horas": 232.3,
+    "horasExtra": 12.8
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2025-12",
+    "horas": 205.1,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-01",
+    "horas": 257.1,
+    "horasExtra": 6.9
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-02",
+    "horas": 305.6,
+    "horasExtra": 15.0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-03",
+    "horas": 269.3,
+    "horasExtra": 19.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-04",
+    "horas": 198.2,
+    "horasExtra": 7.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-05",
+    "horas": 248.8,
+    "horasExtra": 8.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-06",
+    "horas": 305.5,
+    "horasExtra": 15.7
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-07",
+    "horas": 282.4,
+    "horasExtra": 19.4
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-08",
+    "horas": 243.3,
+    "horasExtra": 15.0
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-09",
+    "horas": 244.1,
+    "horasExtra": 24.8
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-10",
+    "horas": 190.2,
+    "horasExtra": 25.3
+  },
+  {
+    "personaId": "ELEM-009",
+    "mes": "2026-11",
+    "horas": 171.4,
+    "horasExtra": 10.9
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2024-12",
+    "horas": 254.1,
+    "horasExtra": 13.3
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-01",
+    "horas": 247.7,
+    "horasExtra": 8.0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-02",
+    "horas": 203.9,
+    "horasExtra": 10.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-03",
+    "horas": 223.1,
+    "horasExtra": 18.0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-04",
+    "horas": 240.5,
+    "horasExtra": 6.5
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-05",
+    "horas": 260.5,
+    "horasExtra": 11.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-06",
+    "horas": 237.2,
+    "horasExtra": 12.2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-07",
+    "horas": 259.7,
+    "horasExtra": 6.2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-08",
+    "horas": 214.5,
+    "horasExtra": 16.0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-09",
+    "horas": 243.1,
+    "horasExtra": 12.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-10",
+    "horas": 281.4,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-11",
+    "horas": 300.3,
+    "horasExtra": 17.8
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2025-12",
+    "horas": 338.8,
+    "horasExtra": 27.7
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-01",
+    "horas": 352.1,
+    "horasExtra": 12.1
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-02",
+    "horas": 224.3,
+    "horasExtra": 13.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-03",
+    "horas": 373.2,
+    "horasExtra": 21.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-04",
+    "horas": 183.5,
+    "horasExtra": 6.3
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-05",
+    "horas": 343.4,
+    "horasExtra": 19.8
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-06",
+    "horas": 266.9,
+    "horasExtra": 22.7
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-07",
+    "horas": 284.4,
+    "horasExtra": 19.7
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-08",
+    "horas": 326.5,
+    "horasExtra": 11.7
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-09",
+    "horas": 311.0,
+    "horasExtra": 5.0
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-10",
+    "horas": 372.1,
+    "horasExtra": 20.6
+  },
+  {
+    "personaId": "ELEM-010",
+    "mes": "2026-11",
+    "horas": 201.9,
+    "horasExtra": 9.4
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2024-12",
+    "horas": 231.4,
+    "horasExtra": 12.2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-01",
+    "horas": 276.8,
+    "horasExtra": 19.6
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-02",
+    "horas": 183.8,
+    "horasExtra": 9.5
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-03",
+    "horas": 188.2,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-04",
+    "horas": 322.9,
+    "horasExtra": 20.7
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-05",
+    "horas": 288.1,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-06",
+    "horas": 274.4,
+    "horasExtra": 23.3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-07",
+    "horas": 239.3,
+    "horasExtra": 6.3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-08",
+    "horas": 239.6,
+    "horasExtra": 12.5
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-09",
+    "horas": 223.2,
+    "horasExtra": 15.5
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-10",
+    "horas": 405.9,
+    "horasExtra": 34.7
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-11",
+    "horas": 236.0,
+    "horasExtra": 7.1
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2025-12",
+    "horas": 243.4,
+    "horasExtra": 16.1
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-01",
+    "horas": 365.1,
+    "horasExtra": 20.2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-02",
+    "horas": 237.7,
+    "horasExtra": 10.8
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-03",
+    "horas": 342.6,
+    "horasExtra": 7.9
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-04",
+    "horas": 291.7,
+    "horasExtra": 17.1
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-05",
+    "horas": 242.2,
+    "horasExtra": 29.0
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-06",
+    "horas": 231.6,
+    "horasExtra": 12.2
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-07",
+    "horas": 285.7,
+    "horasExtra": 17.3
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-08",
+    "horas": 259.1,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-09",
+    "horas": 231.9,
+    "horasExtra": 14.6
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-10",
+    "horas": 192.3,
+    "horasExtra": 11.5
+  },
+  {
+    "personaId": "ELEM-011",
+    "mes": "2026-11",
+    "horas": 238.1,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2024-12",
+    "horas": 358.0,
+    "horasExtra": 27.1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-01",
+    "horas": 191.0,
+    "horasExtra": 5.8
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-02",
+    "horas": 367.7,
+    "horasExtra": 12.9
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-03",
+    "horas": 262.6,
+    "horasExtra": 14.9
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-04",
+    "horas": 173.7,
+    "horasExtra": 4.9
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-05",
+    "horas": 171.4,
+    "horasExtra": 7.4
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-06",
+    "horas": 257.8,
+    "horasExtra": 17.1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-07",
+    "horas": 266.9,
+    "horasExtra": 13.3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-08",
+    "horas": 286.2,
+    "horasExtra": 18.4
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-09",
+    "horas": 252.2,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-10",
+    "horas": 215.1,
+    "horasExtra": 20.1
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-11",
+    "horas": 256.5,
+    "horasExtra": 24.6
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2025-12",
+    "horas": 255.7,
+    "horasExtra": 31.6
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-01",
+    "horas": 196.1,
+    "horasExtra": 5.3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-02",
+    "horas": 262.7,
+    "horasExtra": 16.3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-03",
+    "horas": 212.4,
+    "horasExtra": 27.2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-04",
+    "horas": 286.1,
+    "horasExtra": 19.2
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-05",
+    "horas": 207.9,
+    "horasExtra": 16.7
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-06",
+    "horas": 358.4,
+    "horasExtra": 33.7
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-07",
+    "horas": 311.4,
+    "horasExtra": 20.0
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-08",
+    "horas": 346.7,
+    "horasExtra": 28.4
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-09",
+    "horas": 249.9,
+    "horasExtra": 27.7
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-10",
+    "horas": 342.7,
+    "horasExtra": 38.3
+  },
+  {
+    "personaId": "ELEM-012",
+    "mes": "2026-11",
+    "horas": 230.5,
+    "horasExtra": 19.8
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2024-12",
+    "horas": 273.4,
+    "horasExtra": 13.3
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-01",
+    "horas": 217.9,
+    "horasExtra": 6.6
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-02",
+    "horas": 174.4,
+    "horasExtra": 7.8
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-03",
+    "horas": 355.1,
+    "horasExtra": 14.5
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-04",
+    "horas": 276.3,
+    "horasExtra": 18.8
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-05",
+    "horas": 225.9,
+    "horasExtra": 19.4
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-06",
+    "horas": 367.0,
+    "horasExtra": 31.3
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-07",
+    "horas": 272.4,
+    "horasExtra": 30.0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-08",
+    "horas": 353.3,
+    "horasExtra": 41.4
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-09",
+    "horas": 273.1,
+    "horasExtra": 15.5
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-10",
+    "horas": 264.1,
+    "horasExtra": 10.3
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-11",
+    "horas": 266.2,
+    "horasExtra": 12.0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2025-12",
+    "horas": 291.2,
+    "horasExtra": 23.0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-01",
+    "horas": 314.0,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-02",
+    "horas": 339.3,
+    "horasExtra": 23.1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-03",
+    "horas": 254.3,
+    "horasExtra": 23.2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-04",
+    "horas": 184.4,
+    "horasExtra": 7.1
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-05",
+    "horas": 368.5,
+    "horasExtra": 20.7
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-06",
+    "horas": 247.6,
+    "horasExtra": 17.2
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-07",
+    "horas": 265.6,
+    "horasExtra": 11.0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-08",
+    "horas": 228.4,
+    "horasExtra": 11.5
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-09",
+    "horas": 312.9,
+    "horasExtra": 29.0
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-10",
+    "horas": 234.0,
+    "horasExtra": 12.7
+  },
+  {
+    "personaId": "ELEM-013",
+    "mes": "2026-11",
+    "horas": 249.8,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2024-12",
+    "horas": 225.0,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-01",
+    "horas": 324.9,
+    "horasExtra": 28.2
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-02",
+    "horas": 274.9,
+    "horasExtra": 10.4
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-03",
+    "horas": 362.5,
+    "horasExtra": 33.4
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-04",
+    "horas": 201.1,
+    "horasExtra": 21.7
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-05",
+    "horas": 219.0,
+    "horasExtra": 18.6
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-06",
+    "horas": 322.8,
+    "horasExtra": 18.9
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-07",
+    "horas": 260.3,
+    "horasExtra": 17.8
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-08",
+    "horas": 324.8,
+    "horasExtra": 26.0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-09",
+    "horas": 285.7,
+    "horasExtra": 19.5
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-10",
+    "horas": 214.6,
+    "horasExtra": 28.5
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-11",
+    "horas": 303.9,
+    "horasExtra": 27.2
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2025-12",
+    "horas": 383.7,
+    "horasExtra": 20.7
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-01",
+    "horas": 300.2,
+    "horasExtra": 8.6
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-02",
+    "horas": 247.5,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-03",
+    "horas": 330.9,
+    "horasExtra": 18.3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-04",
+    "horas": 289.1,
+    "horasExtra": 20.4
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-05",
+    "horas": 281.1,
+    "horasExtra": 21.6
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-06",
+    "horas": 247.2,
+    "horasExtra": 11.2
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-07",
+    "horas": 218.7,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-08",
+    "horas": 299.2,
+    "horasExtra": 17.4
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-09",
+    "horas": 296.5,
+    "horasExtra": 14.6
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-10",
+    "horas": 343.7,
+    "horasExtra": 31.3
+  },
+  {
+    "personaId": "ELEM-014",
+    "mes": "2026-11",
+    "horas": 224.2,
+    "horasExtra": 10.2
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2024-12",
+    "horas": 245.1,
+    "horasExtra": 19.1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-01",
+    "horas": 226.4,
+    "horasExtra": 16.0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-02",
+    "horas": 255.0,
+    "horasExtra": 15.5
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-03",
+    "horas": 360.6,
+    "horasExtra": 31.9
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-04",
+    "horas": 297.9,
+    "horasExtra": 19.5
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-05",
+    "horas": 361.5,
+    "horasExtra": 17.8
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-06",
+    "horas": 331.3,
+    "horasExtra": 28.7
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-07",
+    "horas": 292.8,
+    "horasExtra": 28.7
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-08",
+    "horas": 254.8,
+    "horasExtra": 6.9
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-09",
+    "horas": 282.8,
+    "horasExtra": 29.4
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-10",
+    "horas": 266.0,
+    "horasExtra": 9.0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-11",
+    "horas": 241.0,
+    "horasExtra": 19.1
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2025-12",
+    "horas": 283.8,
+    "horasExtra": 26.7
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-01",
+    "horas": 263.0,
+    "horasExtra": 28.4
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-02",
+    "horas": 304.7,
+    "horasExtra": 19.6
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-03",
+    "horas": 253.5,
+    "horasExtra": 22.0
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-04",
+    "horas": 271.6,
+    "horasExtra": 27.3
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-05",
+    "horas": 263.9,
+    "horasExtra": 30.8
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-06",
+    "horas": 218.3,
+    "horasExtra": 13.2
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-07",
+    "horas": 247.7,
+    "horasExtra": 18.4
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-08",
+    "horas": 265.3,
+    "horasExtra": 17.4
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-09",
+    "horas": 279.6,
+    "horasExtra": 34.8
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-10",
+    "horas": 357.6,
+    "horasExtra": 29.5
+  },
+  {
+    "personaId": "ELEM-015",
+    "mes": "2026-11",
+    "horas": 197.0,
+    "horasExtra": 6.2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2024-12",
+    "horas": 262.8,
+    "horasExtra": 22.1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-01",
+    "horas": 379.9,
+    "horasExtra": 5.8
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-02",
+    "horas": 269.5,
+    "horasExtra": 11.2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-03",
+    "horas": 312.5,
+    "horasExtra": 27.5
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-04",
+    "horas": 199.3,
+    "horasExtra": 16.8
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-05",
+    "horas": 318.4,
+    "horasExtra": 27.1
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-06",
+    "horas": 227.2,
+    "horasExtra": 7.9
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-07",
+    "horas": 292.4,
+    "horasExtra": 7.3
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-08",
+    "horas": 305.2,
+    "horasExtra": 17.0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-09",
+    "horas": 256.7,
+    "horasExtra": 16.5
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-10",
+    "horas": 213.9,
+    "horasExtra": 6.4
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-11",
+    "horas": 256.8,
+    "horasExtra": 18.7
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2025-12",
+    "horas": 269.3,
+    "horasExtra": 9.2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-01",
+    "horas": 266.1,
+    "horasExtra": 20.8
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-02",
+    "horas": 270.2,
+    "horasExtra": 8.3
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-03",
+    "horas": 252.6,
+    "horasExtra": 13.9
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-04",
+    "horas": 275.3,
+    "horasExtra": 23.0
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-05",
+    "horas": 219.9,
+    "horasExtra": 23.5
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-06",
+    "horas": 394.0,
+    "horasExtra": 36.8
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-07",
+    "horas": 330.6,
+    "horasExtra": 14.9
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-08",
+    "horas": 268.0,
+    "horasExtra": 29.6
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-09",
+    "horas": 276.6,
+    "horasExtra": 15.2
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-10",
+    "horas": 275.2,
+    "horasExtra": 21.4
+  },
+  {
+    "personaId": "ELEM-016",
+    "mes": "2026-11",
+    "horas": 184.9,
+    "horasExtra": 10.8
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2024-12",
+    "horas": 303.8,
+    "horasExtra": 6.8
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-01",
+    "horas": 255.3,
+    "horasExtra": 37.6
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-02",
+    "horas": 350.7,
+    "horasExtra": 29.6
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-03",
+    "horas": 219.4,
+    "horasExtra": 16.8
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-04",
+    "horas": 393.0,
+    "horasExtra": 31.5
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-05",
+    "horas": 255.1,
+    "horasExtra": 18.7
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-06",
+    "horas": 246.1,
+    "horasExtra": 17.7
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-07",
+    "horas": 285.6,
+    "horasExtra": 16.9
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-08",
+    "horas": 334.4,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-09",
+    "horas": 286.5,
+    "horasExtra": 31.6
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-10",
+    "horas": 311.1,
+    "horasExtra": 21.5
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-11",
+    "horas": 355.9,
+    "horasExtra": 15.8
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2025-12",
+    "horas": 385.2,
+    "horasExtra": 17.4
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-01",
+    "horas": 288.5,
+    "horasExtra": 21.8
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-02",
+    "horas": 210.8,
+    "horasExtra": 17.9
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-03",
+    "horas": 310.8,
+    "horasExtra": 33.3
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-04",
+    "horas": 324.8,
+    "horasExtra": 24.5
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-05",
+    "horas": 285.7,
+    "horasExtra": 19.5
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-06",
+    "horas": 289.2,
+    "horasExtra": 17.5
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-07",
+    "horas": 313.6,
+    "horasExtra": 23.0
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-08",
+    "horas": 344.5,
+    "horasExtra": 27.1
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-09",
+    "horas": 275.7,
+    "horasExtra": 14.9
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-10",
+    "horas": 220.4,
+    "horasExtra": 8.4
+  },
+  {
+    "personaId": "ELEM-017",
+    "mes": "2026-11",
+    "horas": 148.6,
+    "horasExtra": 19.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2024-12",
+    "horas": 365.0,
+    "horasExtra": 21.0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-01",
+    "horas": 301.1,
+    "horasExtra": 20.3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-02",
+    "horas": 257.7,
+    "horasExtra": 23.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-03",
+    "horas": 388.7,
+    "horasExtra": 26.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-04",
+    "horas": 263.1,
+    "horasExtra": 12.6
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-05",
+    "horas": 244.7,
+    "horasExtra": 17.7
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-06",
+    "horas": 365.1,
+    "horasExtra": 25.9
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-07",
+    "horas": 293.3,
+    "horasExtra": 25.8
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-08",
+    "horas": 214.1,
+    "horasExtra": 19.1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-09",
+    "horas": 228.6,
+    "horasExtra": 14.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-10",
+    "horas": 253.0,
+    "horasExtra": 13.6
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-11",
+    "horas": 218.8,
+    "horasExtra": 10.3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2025-12",
+    "horas": 320.1,
+    "horasExtra": 24.2
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-01",
+    "horas": 222.0,
+    "horasExtra": 19.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-02",
+    "horas": 222.8,
+    "horasExtra": 9.8
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-03",
+    "horas": 268.2,
+    "horasExtra": 17.7
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-04",
+    "horas": 274.7,
+    "horasExtra": 11.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-05",
+    "horas": 329.8,
+    "horasExtra": 22.0
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-06",
+    "horas": 185.0,
+    "horasExtra": 2.5
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-07",
+    "horas": 255.8,
+    "horasExtra": 23.1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-08",
+    "horas": 334.2,
+    "horasExtra": 24.4
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-09",
+    "horas": 174.4,
+    "horasExtra": 13.3
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-10",
+    "horas": 200.9,
+    "horasExtra": 11.1
+  },
+  {
+    "personaId": "ELEM-018",
+    "mes": "2026-11",
+    "horas": 82.8,
+    "horasExtra": 2.9
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2024-12",
+    "horas": 264.3,
+    "horasExtra": 23.5
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-01",
+    "horas": 317.7,
+    "horasExtra": 8.2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-02",
+    "horas": 265.3,
+    "horasExtra": 22.7
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-03",
+    "horas": 205.1,
+    "horasExtra": 14.2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-04",
+    "horas": 332.2,
+    "horasExtra": 29.4
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-05",
+    "horas": 270.1,
+    "horasExtra": 7.1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-06",
+    "horas": 284.5,
+    "horasExtra": 19.2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-07",
+    "horas": 329.2,
+    "horasExtra": 16.9
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-08",
+    "horas": 226.7,
+    "horasExtra": 14.0
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-09",
+    "horas": 220.9,
+    "horasExtra": 21.4
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-10",
+    "horas": 287.2,
+    "horasExtra": 9.4
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-11",
+    "horas": 233.9,
+    "horasExtra": 17.5
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2025-12",
+    "horas": 180.1,
+    "horasExtra": 8.6
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-01",
+    "horas": 296.4,
+    "horasExtra": 14.5
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-02",
+    "horas": 235.7,
+    "horasExtra": 24.6
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-03",
+    "horas": 278.8,
+    "horasExtra": 25.7
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-04",
+    "horas": 341.8,
+    "horasExtra": 27.1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-05",
+    "horas": 238.0,
+    "horasExtra": 12.4
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-06",
+    "horas": 273.4,
+    "horasExtra": 23.2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-07",
+    "horas": 314.5,
+    "horasExtra": 11.2
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-08",
+    "horas": 159.3,
+    "horasExtra": 12.4
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-09",
+    "horas": 284.9,
+    "horasExtra": 18.1
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-10",
+    "horas": 211.5,
+    "horasExtra": 12.9
+  },
+  {
+    "personaId": "ELEM-019",
+    "mes": "2026-11",
+    "horas": 146.3,
+    "horasExtra": 7.3
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2024-12",
+    "horas": 424.5,
+    "horasExtra": 31.5
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-01",
+    "horas": 295.6,
+    "horasExtra": 13.1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-02",
+    "horas": 210.0,
+    "horasExtra": 14.3
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-03",
+    "horas": 335.3,
+    "horasExtra": 21.9
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-04",
+    "horas": 203.9,
+    "horasExtra": 19.3
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-05",
+    "horas": 229.1,
+    "horasExtra": 10.7
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-06",
+    "horas": 175.3,
+    "horasExtra": 15.4
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-07",
+    "horas": 328.1,
+    "horasExtra": 24.9
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-08",
+    "horas": 228.3,
+    "horasExtra": 8.5
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-09",
+    "horas": 291.4,
+    "horasExtra": 16.4
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-10",
+    "horas": 268.6,
+    "horasExtra": 25.6
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-11",
+    "horas": 329.9,
+    "horasExtra": 28.7
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2025-12",
+    "horas": 244.4,
+    "horasExtra": 14.8
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-01",
+    "horas": 248.2,
+    "horasExtra": 27.8
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-02",
+    "horas": 227.4,
+    "horasExtra": 14.8
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-03",
+    "horas": 447.4,
+    "horasExtra": 42.8
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-04",
+    "horas": 320.2,
+    "horasExtra": 23.1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-05",
+    "horas": 253.3,
+    "horasExtra": 11.1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-06",
+    "horas": 246.0,
+    "horasExtra": 17.1
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-07",
+    "horas": 299.8,
+    "horasExtra": 23.9
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-08",
+    "horas": 314.4,
+    "horasExtra": 24.3
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-09",
+    "horas": 265.7,
+    "horasExtra": 19.4
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-10",
+    "horas": 219.3,
+    "horasExtra": 8.8
+  },
+  {
+    "personaId": "ELEM-020",
+    "mes": "2026-11",
+    "horas": 199.2,
+    "horasExtra": 21.8
+  }
+]

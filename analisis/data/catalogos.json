@@ -1,0 +1,703 @@
+{
+  "clientes": [
+    {
+      "clienteId": "CLI-001",
+      "nombre": "Cliente Ficticio 1",
+      "tipoCliente": "Comercial",
+      "ciudad": "Toluca",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-002",
+      "nombre": "Cliente Ficticio 2",
+      "tipoCliente": "Corporativo",
+      "ciudad": "Monterrey",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-003",
+      "nombre": "Cliente Ficticio 3",
+      "tipoCliente": "Industrial",
+      "ciudad": "Querétaro",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-004",
+      "nombre": "Cliente Ficticio 4",
+      "tipoCliente": "Industrial",
+      "ciudad": "Guadalajara",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-005",
+      "nombre": "Cliente Ficticio 5",
+      "tipoCliente": "Comercial",
+      "ciudad": "Querétaro",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-006",
+      "nombre": "Cliente Ficticio 6",
+      "tipoCliente": "Corporativo",
+      "ciudad": "Querétaro",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-007",
+      "nombre": "Cliente Ficticio 7",
+      "tipoCliente": "Residencial",
+      "ciudad": "Monterrey",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-008",
+      "nombre": "Cliente Ficticio 8",
+      "tipoCliente": "Comercial",
+      "ciudad": "Toluca",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-009",
+      "nombre": "Cliente Ficticio 9",
+      "tipoCliente": "Residencial",
+      "ciudad": "Monterrey",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-010",
+      "nombre": "Cliente Ficticio 10",
+      "tipoCliente": "Comercial",
+      "ciudad": "Monterrey",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-011",
+      "nombre": "Cliente Ficticio 11",
+      "tipoCliente": "Residencial",
+      "ciudad": "Monterrey",
+      "activo": 1
+    },
+    {
+      "clienteId": "CLI-012",
+      "nombre": "Cliente Ficticio 12",
+      "tipoCliente": "Corporativo",
+      "ciudad": "Toluca",
+      "activo": 1
+    }
+  ],
+  "instalaciones": [
+    {
+      "instalacionId": "INS-001",
+      "clienteId": "CLI-002",
+      "nombre": "Instalación Ficticia 1",
+      "ciudad": "Monterrey",
+      "latitud": 25.63167,
+      "longitud": -100.28818
+    },
+    {
+      "instalacionId": "INS-002",
+      "clienteId": "CLI-005",
+      "nombre": "Instalación Ficticia 2",
+      "ciudad": "Querétaro",
+      "latitud": 20.54774,
+      "longitud": -100.41112
+    },
+    {
+      "instalacionId": "INS-003",
+      "clienteId": "CLI-002",
+      "nombre": "Instalación Ficticia 3",
+      "ciudad": "Monterrey",
+      "latitud": 25.6589,
+      "longitud": -100.32846
+    },
+    {
+      "instalacionId": "INS-004",
+      "clienteId": "CLI-010",
+      "nombre": "Instalación Ficticia 4",
+      "ciudad": "Monterrey",
+      "latitud": 25.6662,
+      "longitud": -100.25594
+    },
+    {
+      "instalacionId": "INS-005",
+      "clienteId": "CLI-006",
+      "nombre": "Instalación Ficticia 5",
+      "ciudad": "Querétaro",
+      "latitud": 20.60528,
+      "longitud": -100.34274
+    },
+    {
+      "instalacionId": "INS-006",
+      "clienteId": "CLI-003",
+      "nombre": "Instalación Ficticia 6",
+      "ciudad": "Querétaro",
+      "latitud": 20.60409,
+      "longitud": -100.37169
+    },
+    {
+      "instalacionId": "INS-007",
+      "clienteId": "CLI-007",
+      "nombre": "Instalación Ficticia 7",
+      "ciudad": "Monterrey",
+      "latitud": 25.71287,
+      "longitud": -100.28544
+    },
+    {
+      "instalacionId": "INS-008",
+      "clienteId": "CLI-004",
+      "nombre": "Instalación Ficticia 8",
+      "ciudad": "Guadalajara",
+      "latitud": 20.66828,
+      "longitud": -103.35865
+    },
+    {
+      "instalacionId": "INS-009",
+      "clienteId": "CLI-011",
+      "nombre": "Instalación Ficticia 9",
+      "ciudad": "Monterrey",
+      "latitud": 25.62689,
+      "longitud": -100.28819
+    },
+    {
+      "instalacionId": "INS-010",
+      "clienteId": "CLI-011",
+      "nombre": "Instalación Ficticia 10",
+      "ciudad": "Monterrey",
+      "latitud": 25.66269,
+      "longitud": -100.32243
+    },
+    {
+      "instalacionId": "INS-011",
+      "clienteId": "CLI-008",
+      "nombre": "Instalación Ficticia 11",
+      "ciudad": "Toluca",
+      "latitud": 19.26447,
+      "longitud": -99.60229
+    },
+    {
+      "instalacionId": "INS-012",
+      "clienteId": "CLI-008",
+      "nombre": "Instalación Ficticia 12",
+      "ciudad": "Toluca",
+      "latitud": 19.24183,
+      "longitud": -99.64636
+    },
+    {
+      "instalacionId": "INS-013",
+      "clienteId": "CLI-007",
+      "nombre": "Instalación Ficticia 13",
+      "ciudad": "Monterrey",
+      "latitud": 25.64366,
+      "longitud": -100.26849
+    },
+    {
+      "instalacionId": "INS-014",
+      "clienteId": "CLI-010",
+      "nombre": "Instalación Ficticia 14",
+      "ciudad": "Monterrey",
+      "latitud": 25.679,
+      "longitud": -100.34623
+    },
+    {
+      "instalacionId": "INS-015",
+      "clienteId": "CLI-010",
+      "nombre": "Instalación Ficticia 15",
+      "ciudad": "Monterrey",
+      "latitud": 25.67225,
+      "longitud": -100.3361
+    },
+    {
+      "instalacionId": "INS-016",
+      "clienteId": "CLI-010",
+      "nombre": "Instalación Ficticia 16",
+      "ciudad": "Monterrey",
+      "latitud": 25.70193,
+      "longitud": -100.28409
+    },
+    {
+      "instalacionId": "INS-017",
+      "clienteId": "CLI-001",
+      "nombre": "Instalación Ficticia 17",
+      "ciudad": "Toluca",
+      "latitud": 19.3097,
+      "longitud": -99.69483
+    },
+    {
+      "instalacionId": "INS-018",
+      "clienteId": "CLI-001",
+      "nombre": "Instalación Ficticia 18",
+      "ciudad": "Toluca",
+      "latitud": 19.33494,
+      "longitud": -99.69048
+    }
+  ],
+  "contratos": [
+    {
+      "contratoId": "CON-001",
+      "clienteId": "CLI-004",
+      "tipoServicio": "Monitoreo",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 212573.57
+    },
+    {
+      "contratoId": "CON-002",
+      "clienteId": "CLI-001",
+      "tipoServicio": "Monitoreo",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 134970.93
+    },
+    {
+      "contratoId": "CON-003",
+      "clienteId": "CLI-008",
+      "tipoServicio": "Custodia",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 162183.86
+    },
+    {
+      "contratoId": "CON-004",
+      "clienteId": "CLI-001",
+      "tipoServicio": "Custodia",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 208212.56
+    },
+    {
+      "contratoId": "CON-005",
+      "clienteId": "CLI-009",
+      "tipoServicio": "Monitoreo",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 157535.09
+    },
+    {
+      "contratoId": "CON-006",
+      "clienteId": "CLI-011",
+      "tipoServicio": "Traslado",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 80899.87
+    },
+    {
+      "contratoId": "CON-007",
+      "clienteId": "CLI-007",
+      "tipoServicio": "Patrullaje",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 146069.99
+    },
+    {
+      "contratoId": "CON-008",
+      "clienteId": "CLI-006",
+      "tipoServicio": "Monitoreo",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 209236.04
+    },
+    {
+      "contratoId": "CON-009",
+      "clienteId": "CLI-012",
+      "tipoServicio": "Traslado",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 238273.78
+    },
+    {
+      "contratoId": "CON-010",
+      "clienteId": "CLI-003",
+      "tipoServicio": "Custodia",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 87647.46
+    },
+    {
+      "contratoId": "CON-011",
+      "clienteId": "CLI-008",
+      "tipoServicio": "Custodia",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 175597.41
+    },
+    {
+      "contratoId": "CON-012",
+      "clienteId": "CLI-007",
+      "tipoServicio": "Traslado",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 183383.94
+    },
+    {
+      "contratoId": "CON-013",
+      "clienteId": "CLI-006",
+      "tipoServicio": "Patrullaje",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 230001.78
+    },
+    {
+      "contratoId": "CON-014",
+      "clienteId": "CLI-001",
+      "tipoServicio": "Patrullaje",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 207149.98
+    },
+    {
+      "contratoId": "CON-015",
+      "clienteId": "CLI-005",
+      "tipoServicio": "Monitoreo",
+      "fechaInicio": "2024-12-01",
+      "fechaFin": "2026-11-22",
+      "montoMensual": 194222.64
+    }
+  ],
+  "zonas": [
+    {
+      "zonaId": "ZONA-001",
+      "nombre": "Zona CDMX",
+      "ciudad": "CDMX"
+    },
+    {
+      "zonaId": "ZONA-002",
+      "nombre": "Zona Monterrey",
+      "ciudad": "Monterrey"
+    },
+    {
+      "zonaId": "ZONA-003",
+      "nombre": "Zona Guadalajara",
+      "ciudad": "Guadalajara"
+    },
+    {
+      "zonaId": "ZONA-004",
+      "nombre": "Zona Querétaro",
+      "ciudad": "Querétaro"
+    },
+    {
+      "zonaId": "ZONA-005",
+      "nombre": "Zona Puebla",
+      "ciudad": "Puebla"
+    },
+    {
+      "zonaId": "ZONA-006",
+      "nombre": "Zona Toluca",
+      "ciudad": "Toluca"
+    }
+  ],
+  "rutas": [
+    {
+      "rutaId": "RUTA-DEMO-001",
+      "nombre": "Ruta 1",
+      "distanciaKm": 15.0,
+      "paradas": 3,
+      "esLibre": 0
+    },
+    {
+      "rutaId": "RUTA-DEMO-002",
+      "nombre": "Ruta 2",
+      "distanciaKm": 30.0,
+      "paradas": 5,
+      "esLibre": 0
+    },
+    {
+      "rutaId": "RUTA-DEMO-003",
+      "nombre": "Ruta 3",
+      "distanciaKm": 45.0,
+      "paradas": 7,
+      "esLibre": 0
+    },
+    {
+      "rutaId": "RUTA-DEMO-LIBRE",
+      "nombre": "Libre",
+      "distanciaKm": 0.0,
+      "paradas": 0,
+      "esLibre": 1
+    }
+  ],
+  "vehiculos": [
+    {
+      "vehiculoId": "PATRULLA-DEMO-001",
+      "placa": "PAT-DEMO-01",
+      "modelo": "Nissan Versa",
+      "anio": 2022,
+      "capacidadL": 41.0,
+      "consumoL100km": 8.0,
+      "activo": 1
+    },
+    {
+      "vehiculoId": "PATRULLA-DEMO-002",
+      "placa": "PAT-DEMO-02",
+      "modelo": "Chevrolet Aveo",
+      "anio": 2021,
+      "capacidadL": 45.0,
+      "consumoL100km": 7.5,
+      "activo": 1
+    },
+    {
+      "vehiculoId": "PATRULLA-DEMO-003",
+      "placa": "PAT-DEMO-03",
+      "modelo": "Nissan Frontier",
+      "anio": 2022,
+      "capacidadL": 80.0,
+      "consumoL100km": 12.0,
+      "activo": 1
+    },
+    {
+      "vehiculoId": "PATRULLA-DEMO-004",
+      "placa": "PAT-DEMO-04",
+      "modelo": "Ford Ranger",
+      "anio": 2023,
+      "capacidadL": 80.0,
+      "consumoL100km": 11.5,
+      "activo": 1
+    }
+  ],
+  "personas": [
+    {
+      "personaId": "CHOFER-DEMO-001",
+      "nombre": "Juan Hernández López",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-002",
+      "nombre": "Carlos García Martínez",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-003",
+      "nombre": "Luis Martínez Sánchez",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-004",
+      "nombre": "Miguel Rodríguez Gómez",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-005",
+      "nombre": "José López Díaz",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-006",
+      "nombre": "Francisco Pérez Ramírez",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-007",
+      "nombre": "Alejandro Torres Flores",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-008",
+      "nombre": "Jorge Sánchez Cruz",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-009",
+      "nombre": "David Ramírez Morales",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "CHOFER-DEMO-010",
+      "nombre": "Fernando Flores Reyes",
+      "rol": "CHOFER",
+      "salarioHora": 45.0,
+      "origen": "EXCEL"
+    },
+    {
+      "personaId": "ELEM-001",
+      "nombre": "Iván Ramírez López",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-002",
+      "nombre": "Andrés Torres Hernández",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-003",
+      "nombre": "Carlos Rodríguez Hernández",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-004",
+      "nombre": "Francisco Rodríguez Sánchez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-005",
+      "nombre": "Eduardo López Pérez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-006",
+      "nombre": "Fernando Rodríguez Ramírez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-007",
+      "nombre": "David Ramírez Sánchez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-008",
+      "nombre": "Fernando Pérez Martínez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-009",
+      "nombre": "Andrés Ramírez Pérez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-010",
+      "nombre": "Víctor Rodríguez Torres",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-011",
+      "nombre": "Jorge Ramírez González",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-012",
+      "nombre": "Iván López Sánchez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-013",
+      "nombre": "Alejandro Torres Rodríguez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-014",
+      "nombre": "David Hernández García",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-015",
+      "nombre": "Sergio Pérez Sánchez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-016",
+      "nombre": "Francisco Martínez Ramírez",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-017",
+      "nombre": "Fernando Rodríguez González",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-018",
+      "nombre": "Francisco Ramírez Torres",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-019",
+      "nombre": "José Rodríguez Torres",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "ELEM-020",
+      "nombre": "Alejandro Sánchez García",
+      "rol": "GUARDIA",
+      "salarioHora": 45.0,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "SUP-001",
+      "nombre": "Iván Pérez Pérez",
+      "rol": "SUPERVISOR",
+      "salarioHora": 67.5,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "SUP-002",
+      "nombre": "Ricardo Martínez Sánchez",
+      "rol": "SUPERVISOR",
+      "salarioHora": 67.5,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "SUP-003",
+      "nombre": "Víctor Torres Pérez",
+      "rol": "SUPERVISOR",
+      "salarioHora": 67.5,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "SUP-004",
+      "nombre": "Marco Rodríguez Hernández",
+      "rol": "SUPERVISOR",
+      "salarioHora": 67.5,
+      "origen": "SIMULADO"
+    },
+    {
+      "personaId": "SUP-005",
+      "nombre": "Andrés López Rodríguez",
+      "rol": "SUPERVISOR",
+      "salarioHora": 67.5,
+      "origen": "SIMULADO"
+    }
+  ]
+}

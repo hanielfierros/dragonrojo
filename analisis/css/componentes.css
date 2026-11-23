@@ -1,0 +1,91 @@
+/* ============================================================
+   SESPATE — ANÁLISIS DE INFORMACIÓN — Componentes reutilizables
+   ============================================================ */
+
+/* --- Filtros --- */
+.filter-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-end; }
+.filter-bar label { display: flex; flex-direction: column; font-size: 0.72rem; color: var(--color-text-secondary); gap: 4px; }
+.filter-bar select, .filter-bar input {
+  font: inherit; color: var(--color-text); background: var(--color-surface);
+  border: 1px solid var(--color-border); border-radius: 6px; padding: 6px 8px; min-width: 150px;
+}
+.filter-bar select:disabled, .filter-bar input:disabled { opacity: 0.5; cursor: not-allowed; }
+.filter-actions { display: flex; gap: 8px; margin-top: 10px; }
+.filter-summary { font-size: 0.78rem; color: var(--color-text-secondary); margin-top: 10px; }
+
+.btn {
+  font: inherit; font-size: 13px; padding: 7px 14px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--color-border); background: var(--color-surface); color: var(--color-text);
+}
+.btn:hover { background: var(--color-surface-alt); }
+.btn.primary { background: var(--color-primary); color: var(--color-primary-contrast); border-color: var(--color-primary); }
+.btn.primary:hover { filter: brightness(0.96); }
+.btn:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+.btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+/* --- Estado de datos --- */
+.status-chip {
+  display: inline-block; font-size: 0.68rem; font-weight: 600; letter-spacing: 0.03em;
+  padding: 2px 8px; border-radius: 4px; border: 1px solid var(--color-border);
+}
+.status-chip.simulado { color: var(--color-simulado); border-color: var(--color-simulado); }
+.status-chip.pendiente { color: var(--color-pendiente); border-color: var(--color-pendiente); }
+.status-chip.calculado { color: var(--color-info); border-color: var(--color-info); }
+.status-chip.alerta { color: var(--color-danger); border-color: var(--color-danger); }
+
+/* --- Cards KPI --- */
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; }
+.kpi { padding: 14px 16px; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-surface); }
+.kpi .kpi-label { font-size: 0.72rem; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.04em; }
+.kpi .kpi-value { font-size: 1.5rem; font-weight: 700; margin: 4px 0 0; }
+.kpi .kpi-unit { font-size: 0.78rem; color: var(--color-text-secondary); }
+.kpi .kpi-note { font-size: 0.7rem; color: var(--color-text-secondary); margin-top: 4px; }
+
+/* --- Gráficas --- */
+.chart { width: 100%; height: 320px; }
+.chart-sm { width: 100%; height: 220px; }
+.charts-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 16px; }
+
+/* --- Tablas --- */
+.table-wrap { overflow-x: auto; }
+table.ir { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+table.ir th, table.ir td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--color-border); white-space: nowrap; }
+table.ir th { font-weight: 700; color: var(--color-text-secondary); background: var(--color-surface-alt); }
+table.ir tbody tr:hover { background: var(--color-surface-alt); }
+table.ir .num { text-align: right; }
+.ir-meta { font-size: 0.75rem; color: var(--color-text-secondary); margin: 8px 0; }
+
+/* --- Comparativos --- */
+.cmp-group { display: flex; flex-wrap: wrap; gap: 8px; }
+.cmp-result { margin-top: 12px; }
+.cmp-rank { display: flex; align-items: center; gap: 8px; padding: 5px 0; border-bottom: 1px dashed var(--color-border); }
+.cmp-rank .rank-pos { flex: 0 0 24px; font-weight: 700; color: var(--color-primary); text-align: right; }
+.cmp-rank .rank-name { flex: 1; }
+.cmp-rank .rank-val { font-weight: 600; white-space: nowrap; }
+.cmp-meta { font-size: 0.75rem; color: var(--color-text-secondary); margin-top: 8px; }
+
+/* --- Mapa --- */
+.map-container { height: 400px; border-radius: 6px; border: 1px solid var(--color-border); }
+.map-legend { font-size: 0.75rem; color: var(--color-text-secondary); margin-top: 8px; }
+.legend-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin: 0 4px 0 12px; vertical-align: middle; }
+.legend-dot.instalacion { background: #24476A; }
+.legend-dot.incidente { background: #B91C1C; }
+.legend-dot.ruta { background: #176B65; }
+
+/* --- Mensajes de estado --- */
+.state-msg { padding: 20px; color: var(--color-text-secondary); font-size: 0.9rem; text-align: center; }
+.state-msg.error { color: var(--color-danger); }
+.state-msg .retry { margin-top: 10px; }
+
+/* --- Nota de preparación --- */
+.preparacion { text-align: center; padding: 48px 20px; color: var(--color-text-secondary); }
+.preparacion .prep-icon { font-size: 2.4rem; }
+.preparacion h2 { color: var(--color-text); font-size: 1.1rem; margin: 12px 0 4px; }
+
+/* --- Encabezados de sección --- */
+.section-title { font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-text-secondary); margin: 20px 0 10px; }
+.muted { color: var(--color-text-secondary); font-size: 0.8rem; }
+.note-estimacion {
+  display: inline-block; font-size: 0.72rem; color: var(--color-warning);
+  border: 1px solid var(--color-warning); border-radius: 4px; padding: 1px 6px; margin-left: 6px;
+}

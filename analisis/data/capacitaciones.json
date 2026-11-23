@@ -1,0 +1,2402 @@
+[
+  {
+    "capacitacionId": "CAP-000001",
+    "personaId": "ELEM-004",
+    "fecha": "2026-05-27",
+    "mes": "2026-05",
+    "horas": 19.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000002",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "horas": 6.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000003",
+    "personaId": "ELEM-008",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "horas": 12.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000004",
+    "personaId": "ELEM-017",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "horas": 19.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000005",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "horas": 9.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000006",
+    "personaId": "ELEM-011",
+    "fecha": "2025-11-12",
+    "mes": "2025-11",
+    "horas": 5.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000007",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2024-12-06",
+    "mes": "2024-12",
+    "horas": 14.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000008",
+    "personaId": "ELEM-005",
+    "fecha": "2025-05-25",
+    "mes": "2025-05",
+    "horas": 11.5,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000009",
+    "personaId": "ELEM-012",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "horas": 23.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000010",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-05-30",
+    "mes": "2025-05",
+    "horas": 21.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000011",
+    "personaId": "ELEM-009",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "horas": 11.4,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000012",
+    "personaId": "SUP-001",
+    "fecha": "2026-07-30",
+    "mes": "2026-07",
+    "horas": 18.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000013",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-05-09",
+    "mes": "2025-05",
+    "horas": 5.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000014",
+    "personaId": "ELEM-006",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "horas": 16.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000015",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-08-15",
+    "mes": "2026-08",
+    "horas": 6.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000016",
+    "personaId": "ELEM-015",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "horas": 7.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000017",
+    "personaId": "ELEM-010",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "horas": 18.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000018",
+    "personaId": "ELEM-015",
+    "fecha": "2026-07-11",
+    "mes": "2026-07",
+    "horas": 5.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000019",
+    "personaId": "ELEM-011",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "horas": 7.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000020",
+    "personaId": "ELEM-018",
+    "fecha": "2025-04-07",
+    "mes": "2025-04",
+    "horas": 17.6,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000021",
+    "personaId": "ELEM-008",
+    "fecha": "2026-08-04",
+    "mes": "2026-08",
+    "horas": 7.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000022",
+    "personaId": "SUP-005",
+    "fecha": "2025-06-24",
+    "mes": "2025-06",
+    "horas": 10.6,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000023",
+    "personaId": "ELEM-002",
+    "fecha": "2026-03-19",
+    "mes": "2026-03",
+    "horas": 10.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000024",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-04-03",
+    "mes": "2026-04",
+    "horas": 4.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000025",
+    "personaId": "ELEM-006",
+    "fecha": "2025-12-16",
+    "mes": "2025-12",
+    "horas": 4.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000026",
+    "personaId": "ELEM-008",
+    "fecha": "2025-05-17",
+    "mes": "2025-05",
+    "horas": 7.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000027",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-04-12",
+    "mes": "2026-04",
+    "horas": 19.8,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000028",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-01-26",
+    "mes": "2026-01",
+    "horas": 13.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000029",
+    "personaId": "ELEM-002",
+    "fecha": "2025-09-11",
+    "mes": "2025-09",
+    "horas": 13.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000030",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-05-23",
+    "mes": "2025-05",
+    "horas": 21.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000031",
+    "personaId": "SUP-005",
+    "fecha": "2025-10-23",
+    "mes": "2025-10",
+    "horas": 13.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000032",
+    "personaId": "ELEM-019",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "horas": 15.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000033",
+    "personaId": "ELEM-009",
+    "fecha": "2025-08-15",
+    "mes": "2025-08",
+    "horas": 15.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000034",
+    "personaId": "ELEM-012",
+    "fecha": "2025-05-16",
+    "mes": "2025-05",
+    "horas": 21.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000035",
+    "personaId": "ELEM-010",
+    "fecha": "2025-04-10",
+    "mes": "2025-04",
+    "horas": 10.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000036",
+    "personaId": "ELEM-012",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "horas": 5.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000037",
+    "personaId": "ELEM-011",
+    "fecha": "2025-10-09",
+    "mes": "2025-10",
+    "horas": 23.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000038",
+    "personaId": "ELEM-018",
+    "fecha": "2026-11-13",
+    "mes": "2026-11",
+    "horas": 22.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000039",
+    "personaId": "ELEM-017",
+    "fecha": "2026-04-15",
+    "mes": "2026-04",
+    "horas": 20.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000040",
+    "personaId": "ELEM-019",
+    "fecha": "2026-02-09",
+    "mes": "2026-02",
+    "horas": 5.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000041",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-10-27",
+    "mes": "2026-10",
+    "horas": 10.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000042",
+    "personaId": "ELEM-001",
+    "fecha": "2025-12-02",
+    "mes": "2025-12",
+    "horas": 12.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000043",
+    "personaId": "SUP-003",
+    "fecha": "2024-12-27",
+    "mes": "2024-12",
+    "horas": 12.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000044",
+    "personaId": "SUP-001",
+    "fecha": "2025-04-21",
+    "mes": "2025-04",
+    "horas": 12.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000045",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "horas": 5.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000046",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-02-07",
+    "mes": "2026-02",
+    "horas": 5.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000047",
+    "personaId": "ELEM-017",
+    "fecha": "2025-03-23",
+    "mes": "2025-03",
+    "horas": 23.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000048",
+    "personaId": "ELEM-014",
+    "fecha": "2025-02-16",
+    "mes": "2025-02",
+    "horas": 8.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000049",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-07-09",
+    "mes": "2026-07",
+    "horas": 13.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000050",
+    "personaId": "ELEM-014",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "horas": 6.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000051",
+    "personaId": "ELEM-009",
+    "fecha": "2025-01-02",
+    "mes": "2025-01",
+    "horas": 23.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000052",
+    "personaId": "SUP-004",
+    "fecha": "2024-12-24",
+    "mes": "2024-12",
+    "horas": 7.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000053",
+    "personaId": "ELEM-003",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "horas": 8.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000054",
+    "personaId": "SUP-001",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "horas": 23.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000055",
+    "personaId": "ELEM-007",
+    "fecha": "2025-12-20",
+    "mes": "2025-12",
+    "horas": 14.7,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000056",
+    "personaId": "ELEM-006",
+    "fecha": "2025-10-25",
+    "mes": "2025-10",
+    "horas": 7.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000057",
+    "personaId": "ELEM-012",
+    "fecha": "2026-04-13",
+    "mes": "2026-04",
+    "horas": 13.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000058",
+    "personaId": "ELEM-013",
+    "fecha": "2025-11-06",
+    "mes": "2025-11",
+    "horas": 10.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000059",
+    "personaId": "ELEM-006",
+    "fecha": "2025-08-12",
+    "mes": "2025-08",
+    "horas": 18.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000060",
+    "personaId": "ELEM-015",
+    "fecha": "2025-03-11",
+    "mes": "2025-03",
+    "horas": 5.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000061",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-02-13",
+    "mes": "2025-02",
+    "horas": 15.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000062",
+    "personaId": "SUP-004",
+    "fecha": "2026-06-29",
+    "mes": "2026-06",
+    "horas": 10.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000063",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-04-11",
+    "mes": "2026-04",
+    "horas": 16.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000064",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-06-14",
+    "mes": "2025-06",
+    "horas": 7.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000065",
+    "personaId": "ELEM-002",
+    "fecha": "2024-12-19",
+    "mes": "2024-12",
+    "horas": 4.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000066",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "horas": 18.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000067",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "horas": 10.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000068",
+    "personaId": "ELEM-009",
+    "fecha": "2024-12-22",
+    "mes": "2024-12",
+    "horas": 15.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000069",
+    "personaId": "ELEM-002",
+    "fecha": "2026-09-16",
+    "mes": "2026-09",
+    "horas": 18.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000070",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "horas": 19.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000071",
+    "personaId": "ELEM-011",
+    "fecha": "2025-06-06",
+    "mes": "2025-06",
+    "horas": 15.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000072",
+    "personaId": "ELEM-005",
+    "fecha": "2026-08-22",
+    "mes": "2026-08",
+    "horas": 20.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000073",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-06-11",
+    "mes": "2025-06",
+    "horas": 19.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000074",
+    "personaId": "ELEM-011",
+    "fecha": "2026-11-10",
+    "mes": "2026-11",
+    "horas": 16.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000075",
+    "personaId": "SUP-002",
+    "fecha": "2025-02-21",
+    "mes": "2025-02",
+    "horas": 9.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000076",
+    "personaId": "ELEM-003",
+    "fecha": "2025-06-30",
+    "mes": "2025-06",
+    "horas": 22.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000077",
+    "personaId": "ELEM-015",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "horas": 6.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000078",
+    "personaId": "ELEM-006",
+    "fecha": "2026-07-27",
+    "mes": "2026-07",
+    "horas": 5.6,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000079",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-07-09",
+    "mes": "2025-07",
+    "horas": 21.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000080",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-06-19",
+    "mes": "2025-06",
+    "horas": 20.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000081",
+    "personaId": "ELEM-007",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "horas": 19.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000082",
+    "personaId": "ELEM-009",
+    "fecha": "2025-03-21",
+    "mes": "2025-03",
+    "horas": 23.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000083",
+    "personaId": "ELEM-008",
+    "fecha": "2025-09-02",
+    "mes": "2025-09",
+    "horas": 14.4,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000084",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-10-21",
+    "mes": "2026-10",
+    "horas": 18.7,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000085",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-08-27",
+    "mes": "2025-08",
+    "horas": 18.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000086",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-10-31",
+    "mes": "2025-10",
+    "horas": 9.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000087",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-02-01",
+    "mes": "2026-02",
+    "horas": 8.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000088",
+    "personaId": "ELEM-015",
+    "fecha": "2026-03-20",
+    "mes": "2026-03",
+    "horas": 12.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000089",
+    "personaId": "ELEM-006",
+    "fecha": "2025-01-02",
+    "mes": "2025-01",
+    "horas": 23.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000090",
+    "personaId": "ELEM-016",
+    "fecha": "2025-10-03",
+    "mes": "2025-10",
+    "horas": 16.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000091",
+    "personaId": "ELEM-019",
+    "fecha": "2026-11-03",
+    "mes": "2026-11",
+    "horas": 20.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000092",
+    "personaId": "SUP-005",
+    "fecha": "2026-09-23",
+    "mes": "2026-09",
+    "horas": 12.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000093",
+    "personaId": "ELEM-005",
+    "fecha": "2026-07-28",
+    "mes": "2026-07",
+    "horas": 8.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000094",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-11-05",
+    "mes": "2025-11",
+    "horas": 20.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000095",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-11-28",
+    "mes": "2025-11",
+    "horas": 15.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000096",
+    "personaId": "ELEM-006",
+    "fecha": "2026-03-23",
+    "mes": "2026-03",
+    "horas": 7.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000097",
+    "personaId": "ELEM-003",
+    "fecha": "2024-12-15",
+    "mes": "2024-12",
+    "horas": 11.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000098",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-02-18",
+    "mes": "2026-02",
+    "horas": 6.1,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000099",
+    "personaId": "SUP-002",
+    "fecha": "2025-05-13",
+    "mes": "2025-05",
+    "horas": 18.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000100",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-08-09",
+    "mes": "2025-08",
+    "horas": 14.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000101",
+    "personaId": "ELEM-011",
+    "fecha": "2026-04-11",
+    "mes": "2026-04",
+    "horas": 16.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000102",
+    "personaId": "ELEM-002",
+    "fecha": "2026-08-07",
+    "mes": "2026-08",
+    "horas": 14.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000103",
+    "personaId": "ELEM-005",
+    "fecha": "2025-06-28",
+    "mes": "2025-06",
+    "horas": 5.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000104",
+    "personaId": "ELEM-006",
+    "fecha": "2026-05-18",
+    "mes": "2026-05",
+    "horas": 17.0,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000105",
+    "personaId": "ELEM-013",
+    "fecha": "2025-06-18",
+    "mes": "2025-06",
+    "horas": 4.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000106",
+    "personaId": "SUP-003",
+    "fecha": "2025-07-09",
+    "mes": "2025-07",
+    "horas": 23.1,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000107",
+    "personaId": "ELEM-008",
+    "fecha": "2025-06-07",
+    "mes": "2025-06",
+    "horas": 6.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000108",
+    "personaId": "ELEM-005",
+    "fecha": "2026-07-03",
+    "mes": "2026-07",
+    "horas": 7.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000109",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "horas": 18.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000110",
+    "personaId": "SUP-002",
+    "fecha": "2026-10-29",
+    "mes": "2026-10",
+    "horas": 16.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000111",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-03-10",
+    "mes": "2026-03",
+    "horas": 17.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000112",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "horas": 20.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000113",
+    "personaId": "SUP-003",
+    "fecha": "2025-12-26",
+    "mes": "2025-12",
+    "horas": 13.1,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000114",
+    "personaId": "SUP-001",
+    "fecha": "2026-01-01",
+    "mes": "2026-01",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000115",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-09-30",
+    "mes": "2025-09",
+    "horas": 9.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000116",
+    "personaId": "ELEM-017",
+    "fecha": "2025-12-25",
+    "mes": "2025-12",
+    "horas": 8.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000117",
+    "personaId": "ELEM-012",
+    "fecha": "2026-03-13",
+    "mes": "2026-03",
+    "horas": 5.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000118",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-05-12",
+    "mes": "2025-05",
+    "horas": 16.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000119",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2024-12-31",
+    "mes": "2024-12",
+    "horas": 17.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000120",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "horas": 5.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000121",
+    "personaId": "ELEM-007",
+    "fecha": "2026-10-30",
+    "mes": "2026-10",
+    "horas": 22.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000122",
+    "personaId": "ELEM-002",
+    "fecha": "2026-01-17",
+    "mes": "2026-01",
+    "horas": 14.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000123",
+    "personaId": "SUP-001",
+    "fecha": "2025-11-10",
+    "mes": "2025-11",
+    "horas": 12.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000124",
+    "personaId": "ELEM-015",
+    "fecha": "2025-03-31",
+    "mes": "2025-03",
+    "horas": 17.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000125",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-10-01",
+    "mes": "2026-10",
+    "horas": 14.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000126",
+    "personaId": "SUP-004",
+    "fecha": "2026-10-25",
+    "mes": "2026-10",
+    "horas": 14.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000127",
+    "personaId": "SUP-004",
+    "fecha": "2025-12-19",
+    "mes": "2025-12",
+    "horas": 21.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000128",
+    "personaId": "ELEM-005",
+    "fecha": "2024-12-19",
+    "mes": "2024-12",
+    "horas": 12.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000129",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-05-02",
+    "mes": "2026-05",
+    "horas": 22.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000130",
+    "personaId": "ELEM-013",
+    "fecha": "2026-07-29",
+    "mes": "2026-07",
+    "horas": 14.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000131",
+    "personaId": "SUP-002",
+    "fecha": "2026-01-13",
+    "mes": "2026-01",
+    "horas": 6.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000132",
+    "personaId": "ELEM-004",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "horas": 13.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000133",
+    "personaId": "ELEM-004",
+    "fecha": "2025-08-03",
+    "mes": "2025-08",
+    "horas": 21.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000134",
+    "personaId": "ELEM-010",
+    "fecha": "2026-10-25",
+    "mes": "2026-10",
+    "horas": 11.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000135",
+    "personaId": "ELEM-011",
+    "fecha": "2025-07-10",
+    "mes": "2025-07",
+    "horas": 19.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000136",
+    "personaId": "ELEM-009",
+    "fecha": "2026-05-05",
+    "mes": "2026-05",
+    "horas": 21.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000137",
+    "personaId": "ELEM-013",
+    "fecha": "2025-12-31",
+    "mes": "2025-12",
+    "horas": 21.4,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000138",
+    "personaId": "ELEM-004",
+    "fecha": "2026-03-16",
+    "mes": "2026-03",
+    "horas": 18.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000139",
+    "personaId": "ELEM-002",
+    "fecha": "2026-10-08",
+    "mes": "2026-10",
+    "horas": 7.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000140",
+    "personaId": "ELEM-003",
+    "fecha": "2025-05-23",
+    "mes": "2025-05",
+    "horas": 15.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000141",
+    "personaId": "ELEM-019",
+    "fecha": "2026-06-16",
+    "mes": "2026-06",
+    "horas": 11.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000142",
+    "personaId": "ELEM-016",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "horas": 8.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000143",
+    "personaId": "ELEM-012",
+    "fecha": "2025-08-14",
+    "mes": "2025-08",
+    "horas": 5.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000144",
+    "personaId": "ELEM-010",
+    "fecha": "2026-06-12",
+    "mes": "2026-06",
+    "horas": 5.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000145",
+    "personaId": "ELEM-018",
+    "fecha": "2025-03-16",
+    "mes": "2025-03",
+    "horas": 5.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000146",
+    "personaId": "ELEM-010",
+    "fecha": "2025-08-01",
+    "mes": "2025-08",
+    "horas": 16.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000147",
+    "personaId": "ELEM-002",
+    "fecha": "2026-02-10",
+    "mes": "2026-02",
+    "horas": 14.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000148",
+    "personaId": "SUP-004",
+    "fecha": "2026-08-19",
+    "mes": "2026-08",
+    "horas": 16.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000149",
+    "personaId": "ELEM-004",
+    "fecha": "2024-12-12",
+    "mes": "2024-12",
+    "horas": 14.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000150",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-11-07",
+    "mes": "2026-11",
+    "horas": 11.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000151",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-09-01",
+    "mes": "2025-09",
+    "horas": 20.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000152",
+    "personaId": "ELEM-011",
+    "fecha": "2026-09-08",
+    "mes": "2026-09",
+    "horas": 19.3,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000153",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2026-02-27",
+    "mes": "2026-02",
+    "horas": 23.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000154",
+    "personaId": "ELEM-005",
+    "fecha": "2026-03-28",
+    "mes": "2026-03",
+    "horas": 6.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000155",
+    "personaId": "ELEM-019",
+    "fecha": "2025-01-11",
+    "mes": "2025-01",
+    "horas": 9.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000156",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-04-18",
+    "mes": "2025-04",
+    "horas": 18.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000157",
+    "personaId": "ELEM-011",
+    "fecha": "2025-11-01",
+    "mes": "2025-11",
+    "horas": 17.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000158",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-19",
+    "mes": "2026-07",
+    "horas": 11.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000159",
+    "personaId": "SUP-001",
+    "fecha": "2026-06-08",
+    "mes": "2026-06",
+    "horas": 5.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000160",
+    "personaId": "ELEM-002",
+    "fecha": "2026-05-04",
+    "mes": "2026-05",
+    "horas": 16.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000161",
+    "personaId": "SUP-003",
+    "fecha": "2026-08-26",
+    "mes": "2026-08",
+    "horas": 14.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000162",
+    "personaId": "SUP-004",
+    "fecha": "2024-12-09",
+    "mes": "2024-12",
+    "horas": 7.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000163",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2025-02-03",
+    "mes": "2025-02",
+    "horas": 8.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000164",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2026-05-19",
+    "mes": "2026-05",
+    "horas": 12.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000165",
+    "personaId": "SUP-003",
+    "fecha": "2025-04-11",
+    "mes": "2025-04",
+    "horas": 9.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000166",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-05-26",
+    "mes": "2025-05",
+    "horas": 21.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000167",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-10-04",
+    "mes": "2026-10",
+    "horas": 10.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000168",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "horas": 7.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000169",
+    "personaId": "ELEM-011",
+    "fecha": "2026-10-06",
+    "mes": "2026-10",
+    "horas": 13.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000170",
+    "personaId": "ELEM-011",
+    "fecha": "2026-07-04",
+    "mes": "2026-07",
+    "horas": 15.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000171",
+    "personaId": "ELEM-012",
+    "fecha": "2025-04-16",
+    "mes": "2025-04",
+    "horas": 10.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000172",
+    "personaId": "ELEM-004",
+    "fecha": "2025-10-14",
+    "mes": "2025-10",
+    "horas": 6.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000173",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "horas": 20.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000174",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2026-05-15",
+    "mes": "2026-05",
+    "horas": 10.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000175",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-11-09",
+    "mes": "2025-11",
+    "horas": 16.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000176",
+    "personaId": "ELEM-009",
+    "fecha": "2025-09-18",
+    "mes": "2025-09",
+    "horas": 15.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000177",
+    "personaId": "ELEM-020",
+    "fecha": "2025-12-05",
+    "mes": "2025-12",
+    "horas": 16.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000178",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-13",
+    "mes": "2025-04",
+    "horas": 16.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000179",
+    "personaId": "ELEM-001",
+    "fecha": "2026-07-18",
+    "mes": "2026-07",
+    "horas": 22.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000180",
+    "personaId": "SUP-004",
+    "fecha": "2026-08-04",
+    "mes": "2026-08",
+    "horas": 4.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000181",
+    "personaId": "ELEM-017",
+    "fecha": "2025-02-25",
+    "mes": "2025-02",
+    "horas": 18.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000182",
+    "personaId": "ELEM-002",
+    "fecha": "2026-09-04",
+    "mes": "2026-09",
+    "horas": 21.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000183",
+    "personaId": "ELEM-006",
+    "fecha": "2026-10-07",
+    "mes": "2026-10",
+    "horas": 22.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000184",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-06-09",
+    "mes": "2025-06",
+    "horas": 10.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000185",
+    "personaId": "ELEM-015",
+    "fecha": "2026-09-29",
+    "mes": "2026-09",
+    "horas": 17.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000186",
+    "personaId": "ELEM-011",
+    "fecha": "2025-11-22",
+    "mes": "2025-11",
+    "horas": 13.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000187",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-02-11",
+    "mes": "2025-02",
+    "horas": 10.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000188",
+    "personaId": "ELEM-009",
+    "fecha": "2026-08-13",
+    "mes": "2026-08",
+    "horas": 15.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000189",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-04-29",
+    "mes": "2025-04",
+    "horas": 22.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000190",
+    "personaId": "SUP-005",
+    "fecha": "2026-11-20",
+    "mes": "2026-11",
+    "horas": 19.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000191",
+    "personaId": "ELEM-007",
+    "fecha": "2025-05-21",
+    "mes": "2025-05",
+    "horas": 16.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000192",
+    "personaId": "ELEM-008",
+    "fecha": "2025-02-24",
+    "mes": "2025-02",
+    "horas": 11.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000193",
+    "personaId": "ELEM-003",
+    "fecha": "2026-04-21",
+    "mes": "2026-04",
+    "horas": 14.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000194",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2026-02-19",
+    "mes": "2026-02",
+    "horas": 17.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000195",
+    "personaId": "ELEM-010",
+    "fecha": "2026-05-22",
+    "mes": "2026-05",
+    "horas": 13.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000196",
+    "personaId": "SUP-002",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000197",
+    "personaId": "ELEM-016",
+    "fecha": "2026-06-12",
+    "mes": "2026-06",
+    "horas": 21.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000198",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-06-01",
+    "mes": "2026-06",
+    "horas": 22.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000199",
+    "personaId": "ELEM-019",
+    "fecha": "2025-06-16",
+    "mes": "2025-06",
+    "horas": 8.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000200",
+    "personaId": "SUP-002",
+    "fecha": "2026-06-11",
+    "mes": "2026-06",
+    "horas": 8.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000201",
+    "personaId": "SUP-004",
+    "fecha": "2026-07-25",
+    "mes": "2026-07",
+    "horas": 18.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000202",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-10-12",
+    "mes": "2025-10",
+    "horas": 10.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000203",
+    "personaId": "SUP-005",
+    "fecha": "2026-01-09",
+    "mes": "2026-01",
+    "horas": 12.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000204",
+    "personaId": "ELEM-019",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "horas": 14.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000205",
+    "personaId": "ELEM-002",
+    "fecha": "2025-04-19",
+    "mes": "2025-04",
+    "horas": 17.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000206",
+    "personaId": "SUP-001",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "horas": 7.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000207",
+    "personaId": "ELEM-008",
+    "fecha": "2025-05-08",
+    "mes": "2025-05",
+    "horas": 15.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000208",
+    "personaId": "ELEM-004",
+    "fecha": "2024-12-20",
+    "mes": "2024-12",
+    "horas": 19.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000209",
+    "personaId": "CHOFER-DEMO-001",
+    "fecha": "2025-11-29",
+    "mes": "2025-11",
+    "horas": 8.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000210",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-09-27",
+    "mes": "2025-09",
+    "horas": 14.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000211",
+    "personaId": "ELEM-009",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "horas": 9.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000212",
+    "personaId": "ELEM-015",
+    "fecha": "2025-04-02",
+    "mes": "2025-04",
+    "horas": 4.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000213",
+    "personaId": "ELEM-017",
+    "fecha": "2026-03-09",
+    "mes": "2026-03",
+    "horas": 21.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000214",
+    "personaId": "ELEM-001",
+    "fecha": "2025-09-26",
+    "mes": "2025-09",
+    "horas": 21.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000215",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-11-05",
+    "mes": "2026-11",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000216",
+    "personaId": "ELEM-015",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "horas": 4.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000217",
+    "personaId": "ELEM-013",
+    "fecha": "2026-10-13",
+    "mes": "2026-10",
+    "horas": 18.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000218",
+    "personaId": "ELEM-003",
+    "fecha": "2025-08-14",
+    "mes": "2025-08",
+    "horas": 9.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000219",
+    "personaId": "SUP-002",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "horas": 22.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000220",
+    "personaId": "ELEM-011",
+    "fecha": "2025-05-01",
+    "mes": "2025-05",
+    "horas": 7.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000221",
+    "personaId": "SUP-005",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "horas": 20.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000222",
+    "personaId": "SUP-001",
+    "fecha": "2025-11-06",
+    "mes": "2025-11",
+    "horas": 17.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000223",
+    "personaId": "CHOFER-DEMO-003",
+    "fecha": "2025-02-24",
+    "mes": "2025-02",
+    "horas": 21.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000224",
+    "personaId": "ELEM-020",
+    "fecha": "2025-08-24",
+    "mes": "2025-08",
+    "horas": 11.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000225",
+    "personaId": "ELEM-017",
+    "fecha": "2025-08-19",
+    "mes": "2025-08",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000226",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "horas": 19.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000227",
+    "personaId": "ELEM-003",
+    "fecha": "2025-02-10",
+    "mes": "2025-02",
+    "horas": 23.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000228",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-01-31",
+    "mes": "2025-01",
+    "horas": 21.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000229",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-09-02",
+    "mes": "2026-09",
+    "horas": 16.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000230",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-09-11",
+    "mes": "2025-09",
+    "horas": 8.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000231",
+    "personaId": "ELEM-009",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "horas": 11.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000232",
+    "personaId": "ELEM-009",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "horas": 10.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000233",
+    "personaId": "ELEM-017",
+    "fecha": "2026-01-16",
+    "mes": "2026-01",
+    "horas": 21.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000234",
+    "personaId": "SUP-004",
+    "fecha": "2025-05-19",
+    "mes": "2025-05",
+    "horas": 15.2,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000235",
+    "personaId": "ELEM-004",
+    "fecha": "2025-03-27",
+    "mes": "2025-03",
+    "horas": 19.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000236",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-06-01",
+    "mes": "2026-06",
+    "horas": 19.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000237",
+    "personaId": "ELEM-009",
+    "fecha": "2025-06-28",
+    "mes": "2025-06",
+    "horas": 19.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000238",
+    "personaId": "SUP-004",
+    "fecha": "2026-05-24",
+    "mes": "2026-05",
+    "horas": 23.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000239",
+    "personaId": "ELEM-005",
+    "fecha": "2025-01-17",
+    "mes": "2025-01",
+    "horas": 8.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000240",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2024-12-23",
+    "mes": "2024-12",
+    "horas": 21.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000241",
+    "personaId": "ELEM-020",
+    "fecha": "2025-03-28",
+    "mes": "2025-03",
+    "horas": 22.2,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000242",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "horas": 11.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000243",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-01-18",
+    "mes": "2025-01",
+    "horas": 4.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000244",
+    "personaId": "SUP-002",
+    "fecha": "2025-05-27",
+    "mes": "2025-05",
+    "horas": 20.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000245",
+    "personaId": "ELEM-003",
+    "fecha": "2025-10-07",
+    "mes": "2025-10",
+    "horas": 12.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000246",
+    "personaId": "ELEM-020",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "horas": 16.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000247",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2026-10-30",
+    "mes": "2026-10",
+    "horas": 16.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000248",
+    "personaId": "SUP-001",
+    "fecha": "2026-01-21",
+    "mes": "2026-01",
+    "horas": 23.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000249",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-02-19",
+    "mes": "2026-02",
+    "horas": 5.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000250",
+    "personaId": "ELEM-008",
+    "fecha": "2025-09-23",
+    "mes": "2025-09",
+    "horas": 9.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000251",
+    "personaId": "ELEM-011",
+    "fecha": "2026-08-08",
+    "mes": "2026-08",
+    "horas": 23.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000252",
+    "personaId": "SUP-005",
+    "fecha": "2026-08-18",
+    "mes": "2026-08",
+    "horas": 23.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000253",
+    "personaId": "ELEM-018",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "horas": 12.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000254",
+    "personaId": "ELEM-011",
+    "fecha": "2025-06-06",
+    "mes": "2025-06",
+    "horas": 8.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000255",
+    "personaId": "ELEM-018",
+    "fecha": "2026-02-07",
+    "mes": "2026-02",
+    "horas": 19.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000256",
+    "personaId": "ELEM-003",
+    "fecha": "2025-01-26",
+    "mes": "2025-01",
+    "horas": 22.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000257",
+    "personaId": "SUP-003",
+    "fecha": "2026-03-31",
+    "mes": "2026-03",
+    "horas": 7.5,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000258",
+    "personaId": "ELEM-001",
+    "fecha": "2025-10-08",
+    "mes": "2025-10",
+    "horas": 9.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000259",
+    "personaId": "ELEM-008",
+    "fecha": "2026-08-06",
+    "mes": "2026-08",
+    "horas": 6.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000260",
+    "personaId": "ELEM-015",
+    "fecha": "2026-02-12",
+    "mes": "2026-02",
+    "horas": 16.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000261",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2026-04-22",
+    "mes": "2026-04",
+    "horas": 7.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000262",
+    "personaId": "SUP-005",
+    "fecha": "2025-05-18",
+    "mes": "2025-05",
+    "horas": 10.9,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000263",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2026-07-25",
+    "mes": "2026-07",
+    "horas": 19.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000264",
+    "personaId": "CHOFER-DEMO-007",
+    "fecha": "2025-07-29",
+    "mes": "2025-07",
+    "horas": 19.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000265",
+    "personaId": "ELEM-018",
+    "fecha": "2026-04-02",
+    "mes": "2026-04",
+    "horas": 19.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000266",
+    "personaId": "CHOFER-DEMO-008",
+    "fecha": "2025-11-07",
+    "mes": "2025-11",
+    "horas": 8.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000267",
+    "personaId": "SUP-004",
+    "fecha": "2026-08-05",
+    "mes": "2026-08",
+    "horas": 7.2,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000268",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-25",
+    "mes": "2025-04",
+    "horas": 9.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000269",
+    "personaId": "SUP-002",
+    "fecha": "2026-01-01",
+    "mes": "2026-01",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000270",
+    "personaId": "ELEM-007",
+    "fecha": "2025-01-06",
+    "mes": "2025-01",
+    "horas": 10.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000271",
+    "personaId": "ELEM-010",
+    "fecha": "2024-12-16",
+    "mes": "2024-12",
+    "horas": 23.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000272",
+    "personaId": "ELEM-018",
+    "fecha": "2025-05-14",
+    "mes": "2025-05",
+    "horas": 19.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000273",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-11-18",
+    "mes": "2026-11",
+    "horas": 10.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000274",
+    "personaId": "CHOFER-DEMO-004",
+    "fecha": "2025-07-22",
+    "mes": "2025-07",
+    "horas": 10.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000275",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-03-01",
+    "mes": "2025-03",
+    "horas": 5.3,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000276",
+    "personaId": "ELEM-006",
+    "fecha": "2025-10-06",
+    "mes": "2025-10",
+    "horas": 23.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000277",
+    "personaId": "ELEM-006",
+    "fecha": "2025-03-20",
+    "mes": "2025-03",
+    "horas": 20.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000278",
+    "personaId": "ELEM-017",
+    "fecha": "2026-01-15",
+    "mes": "2026-01",
+    "horas": 9.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000279",
+    "personaId": "ELEM-002",
+    "fecha": "2026-03-05",
+    "mes": "2026-03",
+    "horas": 16.7,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000280",
+    "personaId": "ELEM-016",
+    "fecha": "2025-06-12",
+    "mes": "2025-06",
+    "horas": 17.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000281",
+    "personaId": "ELEM-007",
+    "fecha": "2025-12-07",
+    "mes": "2025-12",
+    "horas": 20.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000282",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "horas": 9.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000283",
+    "personaId": "CHOFER-DEMO-010",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000284",
+    "personaId": "ELEM-020",
+    "fecha": "2025-09-12",
+    "mes": "2025-09",
+    "horas": 17.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000285",
+    "personaId": "SUP-001",
+    "fecha": "2025-08-05",
+    "mes": "2025-08",
+    "horas": 13.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000286",
+    "personaId": "ELEM-016",
+    "fecha": "2026-09-13",
+    "mes": "2026-09",
+    "horas": 9.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000287",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-06-26",
+    "mes": "2026-06",
+    "horas": 9.6,
+    "aprobado": 0
+  },
+  {
+    "capacitacionId": "CAP-000288",
+    "personaId": "SUP-001",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "horas": 22.2,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000289",
+    "personaId": "CHOFER-DEMO-006",
+    "fecha": "2025-09-15",
+    "mes": "2025-09",
+    "horas": 18.1,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000290",
+    "personaId": "CHOFER-DEMO-005",
+    "fecha": "2025-04-23",
+    "mes": "2025-04",
+    "horas": 16.8,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000291",
+    "personaId": "SUP-004",
+    "fecha": "2025-01-28",
+    "mes": "2025-01",
+    "horas": 4.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000292",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2026-10-25",
+    "mes": "2026-10",
+    "horas": 4.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000293",
+    "personaId": "ELEM-016",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "horas": 4.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000294",
+    "personaId": "ELEM-006",
+    "fecha": "2026-04-01",
+    "mes": "2026-04",
+    "horas": 12.5,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000295",
+    "personaId": "CHOFER-DEMO-009",
+    "fecha": "2026-05-19",
+    "mes": "2026-05",
+    "horas": 7.4,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000296",
+    "personaId": "SUP-001",
+    "fecha": "2025-03-12",
+    "mes": "2025-03",
+    "horas": 14.0,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000297",
+    "personaId": "ELEM-007",
+    "fecha": "2025-12-04",
+    "mes": "2025-12",
+    "horas": 4.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000298",
+    "personaId": "ELEM-001",
+    "fecha": "2026-06-03",
+    "mes": "2026-06",
+    "horas": 20.6,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000299",
+    "personaId": "CHOFER-DEMO-002",
+    "fecha": "2025-08-25",
+    "mes": "2025-08",
+    "horas": 16.9,
+    "aprobado": 1
+  },
+  {
+    "capacitacionId": "CAP-000300",
+    "personaId": "ELEM-001",
+    "fecha": "2025-11-15",
+    "mes": "2025-11",
+    "horas": 4.4,
+    "aprobado": 1
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "mantenimientoId": "MAN-000001",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "tipo": "Correctivo",
+    "costo": 5562.13
+  },
+  {
+    "mantenimientoId": "MAN-000002",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-08",
+    "mes": "2024-12",
+    "tipo": "Llantas",
+    "costo": 4289.47
+  },
+  {
+    "mantenimientoId": "MAN-000003",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-22",
+    "mes": "2024-12",
+    "tipo": "Preventivo",
+    "costo": 5058.1
+  },
+  {
+    "mantenimientoId": "MAN-000004",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2024-12-29",
+    "mes": "2024-12",
+    "tipo": "Reparación",
+    "costo": 2698.17
+  },
+  {
+    "mantenimientoId": "MAN-000005",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-01-19",
+    "mes": "2025-01",
+    "tipo": "Reparación",
+    "costo": 3675.11
+  },
+  {
+    "mantenimientoId": "MAN-000006",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "tipo": "Llantas",
+    "costo": 4053.93
+  },
+  {
+    "mantenimientoId": "MAN-000007",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-02-02",
+    "mes": "2025-02",
+    "tipo": "Llantas",
+    "costo": 2678.69
+  },
+  {
+    "mantenimientoId": "MAN-000008",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-02-09",
+    "mes": "2025-02",
+    "tipo": "Correctivo",
+    "costo": 1586.32
+  },
+  {
+    "mantenimientoId": "MAN-000009",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-02",
+    "mes": "2025-03",
+    "tipo": "Llantas",
+    "costo": 1343.84
+  },
+  {
+    "mantenimientoId": "MAN-000010",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-03-16",
+    "mes": "2025-03",
+    "tipo": "Preventivo",
+    "costo": 4561.22
+  },
+  {
+    "mantenimientoId": "MAN-000011",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-03-23",
+    "mes": "2025-03",
+    "tipo": "Preventivo",
+    "costo": 4212.59
+  },
+  {
+    "mantenimientoId": "MAN-000012",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-04-06",
+    "mes": "2025-04",
+    "tipo": "Preventivo",
+    "costo": 2694.28
+  },
+  {
+    "mantenimientoId": "MAN-000013",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-13",
+    "mes": "2025-04",
+    "tipo": "Llantas",
+    "costo": 5348.85
+  },
+  {
+    "mantenimientoId": "MAN-000014",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-04-27",
+    "mes": "2025-04",
+    "tipo": "Correctivo",
+    "costo": 1858.1
+  },
+  {
+    "mantenimientoId": "MAN-000015",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-06-08",
+    "mes": "2025-06",
+    "tipo": "Llantas",
+    "costo": 4089.51
+  },
+  {
+    "mantenimientoId": "MAN-000016",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-06-08",
+    "mes": "2025-06",
+    "tipo": "Reparación",
+    "costo": 4437.45
+  },
+  {
+    "mantenimientoId": "MAN-000017",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-07-13",
+    "mes": "2025-07",
+    "tipo": "Correctivo",
+    "costo": 3450.96
+  },
+  {
+    "mantenimientoId": "MAN-000018",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-07-27",
+    "mes": "2025-07",
+    "tipo": "Reparación",
+    "costo": 4378.85
+  },
+  {
+    "mantenimientoId": "MAN-000019",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "tipo": "Correctivo",
+    "costo": 1100.94
+  },
+  {
+    "mantenimientoId": "MAN-000020",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-08-10",
+    "mes": "2025-08",
+    "tipo": "Llantas",
+    "costo": 5113.45
+  },
+  {
+    "mantenimientoId": "MAN-000021",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-08-17",
+    "mes": "2025-08",
+    "tipo": "Preventivo",
+    "costo": 3915.45
+  },
+  {
+    "mantenimientoId": "MAN-000022",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-09-21",
+    "mes": "2025-09",
+    "tipo": "Llantas",
+    "costo": 3131.62
+  },
+  {
+    "mantenimientoId": "MAN-000023",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "tipo": "Preventivo",
+    "costo": 3862.63
+  },
+  {
+    "mantenimientoId": "MAN-000024",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-09-28",
+    "mes": "2025-09",
+    "tipo": "Preventivo",
+    "costo": 856.68
+  },
+  {
+    "mantenimientoId": "MAN-000025",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2025-10-19",
+    "mes": "2025-10",
+    "tipo": "Llantas",
+    "costo": 4840.67
+  },
+  {
+    "mantenimientoId": "MAN-000026",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-02",
+    "mes": "2025-11",
+    "tipo": "Preventivo",
+    "costo": 3825.07
+  },
+  {
+    "mantenimientoId": "MAN-000027",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "tipo": "Preventivo",
+    "costo": 943.1
+  },
+  {
+    "mantenimientoId": "MAN-000028",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-23",
+    "mes": "2025-11",
+    "tipo": "Reparación",
+    "costo": 1771.16
+  },
+  {
+    "mantenimientoId": "MAN-000029",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-11-30",
+    "mes": "2025-11",
+    "tipo": "Correctivo",
+    "costo": 1738.17
+  },
+  {
+    "mantenimientoId": "MAN-000030",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2025-12-14",
+    "mes": "2025-12",
+    "tipo": "Reparación",
+    "costo": 1213.15
+  },
+  {
+    "mantenimientoId": "MAN-000031",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2025-12-21",
+    "mes": "2025-12",
+    "tipo": "Llantas",
+    "costo": 2874.7
+  },
+  {
+    "mantenimientoId": "MAN-000032",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-04",
+    "mes": "2026-01",
+    "tipo": "Reparación",
+    "costo": 5663.75
+  },
+  {
+    "mantenimientoId": "MAN-000033",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-01-11",
+    "mes": "2026-01",
+    "tipo": "Reparación",
+    "costo": 1158.7
+  },
+  {
+    "mantenimientoId": "MAN-000034",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-02-15",
+    "mes": "2026-02",
+    "tipo": "Preventivo",
+    "costo": 1996.38
+  },
+  {
+    "mantenimientoId": "MAN-000035",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-15",
+    "mes": "2026-02",
+    "tipo": "Reparación",
+    "costo": 5959.46
+  },
+  {
+    "mantenimientoId": "MAN-000036",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-02-22",
+    "mes": "2026-02",
+    "tipo": "Preventivo",
+    "costo": 4447.45
+  },
+  {
+    "mantenimientoId": "MAN-000037",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-03-15",
+    "mes": "2026-03",
+    "tipo": "Llantas",
+    "costo": 4577.69
+  },
+  {
+    "mantenimientoId": "MAN-000038",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-03-29",
+    "mes": "2026-03",
+    "tipo": "Llantas",
+    "costo": 2979.23
+  },
+  {
+    "mantenimientoId": "MAN-000039",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-04-05",
+    "mes": "2026-04",
+    "tipo": "Preventivo",
+    "costo": 5750.99
+  },
+  {
+    "mantenimientoId": "MAN-000040",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-04-12",
+    "mes": "2026-04",
+    "tipo": "Correctivo",
+    "costo": 1474.84
+  },
+  {
+    "mantenimientoId": "MAN-000041",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-12",
+    "mes": "2026-04",
+    "tipo": "Preventivo",
+    "costo": 2594.71
+  },
+  {
+    "mantenimientoId": "MAN-000042",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-04-19",
+    "mes": "2026-04",
+    "tipo": "Preventivo",
+    "costo": 1541.87
+  },
+  {
+    "mantenimientoId": "MAN-000043",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-19",
+    "mes": "2026-04",
+    "tipo": "Reparación",
+    "costo": 3440.45
+  },
+  {
+    "mantenimientoId": "MAN-000044",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-04-26",
+    "mes": "2026-04",
+    "tipo": "Llantas",
+    "costo": 2421.67
+  },
+  {
+    "mantenimientoId": "MAN-000045",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-05-03",
+    "mes": "2026-05",
+    "tipo": "Correctivo",
+    "costo": 2374.07
+  },
+  {
+    "mantenimientoId": "MAN-000046",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-05-17",
+    "mes": "2026-05",
+    "tipo": "Correctivo",
+    "costo": 1804.84
+  },
+  {
+    "mantenimientoId": "MAN-000047",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-07-05",
+    "mes": "2026-07",
+    "tipo": "Preventivo",
+    "costo": 1847.54
+  },
+  {
+    "mantenimientoId": "MAN-000048",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-07-05",
+    "mes": "2026-07",
+    "tipo": "Reparación",
+    "costo": 1782.06
+  },
+  {
+    "mantenimientoId": "MAN-000049",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-07-19",
+    "mes": "2026-07",
+    "tipo": "Reparación",
+    "costo": 4202.82
+  },
+  {
+    "mantenimientoId": "MAN-000050",
+    "vehiculoId": "PATRULLA-DEMO-004",
+    "fecha": "2026-08-02",
+    "mes": "2026-08",
+    "tipo": "Preventivo",
+    "costo": 2873.35
+  },
+  {
+    "mantenimientoId": "MAN-000051",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "tipo": "Reparación",
+    "costo": 1341.77
+  },
+  {
+    "mantenimientoId": "MAN-000052",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-09-27",
+    "mes": "2026-09",
+    "tipo": "Preventivo",
+    "costo": 2965.73
+  },
+  {
+    "mantenimientoId": "MAN-000053",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-10-18",
+    "mes": "2026-10",
+    "tipo": "Preventivo",
+    "costo": 1995.93
+  },
+  {
+    "mantenimientoId": "MAN-000054",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "tipo": "Llantas",
+    "costo": 1850.86
+  },
+  {
+    "mantenimientoId": "MAN-000055",
+    "vehiculoId": "PATRULLA-DEMO-002",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "tipo": "Reparación",
+    "costo": 5548.91
+  },
+  {
+    "mantenimientoId": "MAN-000056",
+    "vehiculoId": "PATRULLA-DEMO-003",
+    "fecha": "2026-11-01",
+    "mes": "2026-11",
+    "tipo": "Reparación",
+    "costo": 5669.56
+  },
+  {
+    "mantenimientoId": "MAN-000057",
+    "vehiculoId": "PATRULLA-DEMO-001",
+    "fecha": "2026-11-08",
+    "mes": "2026-11",
+    "tipo": "Reparación",
+    "costo": 2914.61
+  }
+]

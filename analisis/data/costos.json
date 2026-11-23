@@ -1,0 +1,15 @@
+{
+  "modelo": "Estimación DEMO",
+  "parametros": {
+    "salario_hora": 45.0,
+    "factor_horas_extra": 2.0,
+    "factor_prestaciones": 1.35,
+    "factor_patronal": 1.25,
+    "factor_indirecto": 0.15
+  },
+  "costo_estimado_fijo": 5710000,
+  "horas_ord_total": 130133.9,
+  "horas_extra_total": 8648.8,
+  "periodo_inicio": "2024-12-01",
+  "periodo_fin": "2026-11-22"
+}
