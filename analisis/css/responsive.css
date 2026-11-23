@@ -23,6 +23,7 @@
   .chart { height: 240px; }
   .filter-bar select, .filter-bar input { min-width: 120px; }
   .map-container { height: 300px; }
+  .brand-bar .status-chip { display: none; }
 
   table.ir { display: block; }
   table.ir thead { display: none; }
