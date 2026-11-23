@@ -1764,11 +1764,31 @@ function ind(label, valor) {
   return d;
 }
 
+// Identidad compartida del perfil cronológico: usar los campos reales del mensaje.
+// No clasificar como evento del sistema por ausencia del campo `area`.
+function identidadCronologica(m) {
+  const tipo = String(m.tipo || m.recordType || m.tipoRegistro || "MENSAJE").toUpperCase();
+  const esSistema = Object.prototype.hasOwnProperty.call(TIPOS_SISTEMA, tipo);
+  if (esSistema) return { esSistema: true, area: "SISTEMA", departamento: "Sistema", autor: "Sistema", color: "#64748B" };
+
+  const candidatos = [m.area, m.departamento, m.Area, m.autorDepartamento, m.areaOrigen];
+  let area = "";
+  for (const valor of candidatos) {
+    const codigo = areaCanon(textoDe(valor).trim());
+    if (AREAS[codigo]) { area = codigo; break; }
+  }
+  const departamento = area ? areaInfo(area).nombre : "Departamento no identificado";
+  // Solo mostrar un nombre personal si el backend lo proporciona; nunca atribuir
+  // mensajes históricos al usuario que actualmente está conectado.
+  const autor = textoDe(m.autorVisible || m.usuario || m.remitente || m.user || m.nombreUsuario || "").trim();
+  return { esSistema: false, area, departamento, autor, color: area ? areaInfo(area).color : "#64748B" };
+}
+
 function renderCronologico() {
   const cont = $id("CRONOLOGICO"); if (!cont) return;
   cont.innerHTML = "";
   if (!folioActual) { cont.appendChild(el("div", "fm-empty", "Selecciona un servicio para consultar su perfil cronológico.")); return; }
-  const eventos = [...mensajesActuales].sort((a, b) => String(a.fechaEnvio || a.fecha || "").localeCompare(String(b.fechaEnvio || b.fecha || "")));
+  const eventos = [...mensajesActuales].sort((a, b) => String(a.fechaEnvio || a.fecha || a.fechaServidor || "").localeCompare(String(b.fechaEnvio || b.fecha || b.fechaServidor || "")));
   if (!eventos.length) { cont.appendChild(el("div", "fm-empty", "Sin eventos registrados.")); return; }
 
   const nFotos = eventos.filter(m => m.tieneArchivo && m.tipoArchivo && String(m.tipoArchivo).startsWith("image/")).length;
@@ -1783,13 +1803,16 @@ function renderCronologico() {
 
   const linea = el("div", "fm-crono");
   eventos.forEach(m => {
+    const identidad = identidadCronologica(m);
     const ev = el("div", "fm-crono-evento");
     ev.appendChild(el("span", "hora", fechaHora(m.fechaEnvio || m.fecha || m.fechaServidor)));
-    const punto = el("span", "punto"); punto.style.background = areaInfo(m.area).color;
+    const punto = el("span", "punto"); punto.style.background = identidad.color;
     ev.appendChild(punto);
     const info = el("div", "info");
-    info.appendChild(el("div", "titulo", m.categoria || (m.tieneArchivo ? "Adjunto" : "Mensaje")));
-    info.appendChild(el("div", "meta", (textoDe(m.usuario || m.user || "")) + " · " + areaInfo(m.area).nombre));
+    const titulo = identidad.esSistema ? (TIPOS_SISTEMA[String(m.tipo || m.recordType || m.tipoRegistro).toUpperCase()] || "Evento del sistema") : (textoDe(m.categoria) || (m.tieneArchivo ? "Adjunto" : "Mensaje"));
+    info.appendChild(el("div", "titulo", titulo));
+    const metadatos = identidad.esSistema ? "Sistema" : [identidad.autor, identidad.departamento].filter(Boolean).join(" · ");
+    info.appendChild(el("div", "meta", metadatos));
     ev.appendChild(info);
     linea.appendChild(ev);
   });
